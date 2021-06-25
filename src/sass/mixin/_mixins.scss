@@ -1,0 +1,13 @@
+// mixin 帶值  // 預設值 // null值
+@mixin rect($w, $h:$w, $bgc:null) {
+    width: $w;
+    height: $h;
+    background-color: $bgc;
+  }
+
+
+@mixin margin-auto() {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}

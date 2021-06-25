@@ -1,0 +1,37 @@
+$container-max-widths: (
+  sm: 540px,
+  md: 720px,
+  lg: 960px,
+  xl: 1140px,
+  xxl: 1320px
+);
+
+
+// color
+
+$navbg : #000 ;
+$navColor: #fff; 
+
+// font style
+
+$basic   :  'Open Sans', sans-serif ;
+$lato    :  'Lato', sans-serif;
+$shansan :  'source-han-sans-traditional', sans-serif;
+
+$fontfamilys    : $lato;
+$font_vender    : cwTeXHei; //family : cwTeXHei / cwTeXMing /Noto_Sans_TC / cwTeXFangSong / cwTeXYen / notosansscsliced /notosanssc /muli
+$font_base_size : 16px ;
+$font_weight    : 400 ; 
+$line_height    : 1.5 ;
+$base_color     : #212121 ;
+$letter-spacing : 0.01rem;
+$word-spacing   : 2px; 
+
+
+
+
+
+// ＊＊ 中文
+
+
+

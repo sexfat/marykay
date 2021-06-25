@@ -1,0 +1,35 @@
+.header-area {
+    height: 86px;
+    background-color: $navbg;
+    color: $navColor;
+    a {
+       text-decoration: none;
+       color: $navColor;
+       transition: .2s all ease;
+       &:hover {
+        color: darken($navColor , 20);
+       }
+       
+    }
+    .header-wrapper {
+        .header-left {
+            padding-top: 15px;
+            .logo {
+                @include rect(288px, 50px);
+                background-color: #e3e3e3;
+            }
+        }
+    }
+
+    .mainmenu {
+        display: flex;
+        justify-content: flex-end;
+        flex-wrap: wrap;
+        height: 86px;
+        align-items: center; //  水平置中
+        li {
+            margin: 0 17px;
+        }
+    }
+
+}

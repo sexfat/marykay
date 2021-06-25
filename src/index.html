@@ -4,9 +4,18 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>首頁</title>
+    @@include('layout/meta.html')
+    <title>Document</title>
 </head>
 <body>
-    
+    <div id="app" class="wrapper">
+        @@include('layout/header.html')
+        @@include('section/banner.html')
+        @@include('section/s1.html') 
+        @@include('section/s2.html') 
+        @@include('section/s3.html') 
+        @@include('section/s4.html') 
+        @@include('layout/footer.html')
+    </div>
 </body>
 </html>

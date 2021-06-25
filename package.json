@@ -32,6 +32,7 @@
     "gulp-imagemin": "^7.1.0",
     "gulp-rename": "^2.0.0",
     "gulp-sass": "^4.1.0",
+    "gulp-sourcemaps": "^3.0.0",
     "gulp-uglify": "^3.0.2",
     "gulp-zip": "^5.0.2",
     "node-sass": "^5.0.0",
@@ -40,8 +41,10 @@
     "webpack-dev-server": "^3.1.14"
   },
   "dependencies": {
-    "bootstrap": "^4.5.3",
+    "bootstrap": "^5.0.0",
+    "bootstrap-sass": "^3.4.1",
     "jquery": "^3.5.1",
+    "normalize.css": "^8.0.1",
     "vue": "^2.6.12"
   }
 }
