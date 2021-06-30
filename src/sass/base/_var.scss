@@ -12,6 +12,18 @@ $container-max-widths: (
 $navbg : #000 ;
 $navColor: #fff; 
 
+$primary:#070707;
+$secondary:#FF6B86;
+
+$font-color:#252525;
+$font-color-light:#acaaaa;
+$font-color-white:#FBFBFB;
+
+$active-color:darken($secondary,20%);
+
+$line-color:#252525;
+$line-color-light:#C3C1C1;
+
 // font style
 
 $basic   :  'Open Sans', sans-serif ;

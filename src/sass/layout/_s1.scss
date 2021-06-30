@@ -1,6 +1,39 @@
 //index S1 一支口紅的力量也能為世界帶來改變
+@import'../base/var';
 
-.ind-s1{
-    background-image: url('/src/images/bg_ind_s1@1x.jpg');
-    background-image: image-set( url('../../images/bg_ind_s1@1x.jpg') 1x, url('../../images/bg_ind_s1@2x.jpg') 2x );
+$nav-height:65;
+
+.container-fluid.ind-section{
+    background-repeat: no-repeat;
+    background-size:cover;
+    height: 100vh;
+    &.ind-s1{
+        background-image: url('../images/bg_ind_s1@1x.jpg');
+        background-image: image-set( url('../images/bg_ind_s1@1x.jpg') 1x, url('../images/bg_ind_s1@2x.jpg') 2x);
+        color: $font-color-white;
+        
+        .heading-block >h3::after{
+            border-top: 2px solid $font-color-white !important;
+        }
+    }
+    &.ind-s2{
+        background-color: $primary;
+        color: $font-color-white;
+        
+        .heading-block >h3::after{
+            border-top: 2px solid $font-color-white !important;
+        }
+    }
+    &.ind-s3{
+        background-color: $primary;
+        color: $font-color-white;
+       
+        .heading-block >h3::after{
+            border-top: 2px solid $font-color-white !important;
+        }
+        .footer{background-color: $primary;
+        }
+            
+    }
+
 }
