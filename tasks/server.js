@@ -13,12 +13,17 @@ const config = require('../gulp.config')
 const htmlTemplate = require('./html_template');
 const styleSass = require('./sassStyle');
 const js = require('./jsBabel');
+const img = require('./img');
 const php = require('./phpconnect');
 
 
 
 //  baseDir: config.pathsDev.dist,
 // index: config.pathsConfig.index
+
+
+
+
 
 module.exports = function browser() {
     browserSync.init({
@@ -31,5 +36,6 @@ module.exports = function browser() {
     watch(config.pathsWatch.scss, series(styleSass)).on('change', reload);
     watch(config.pathsWatch.html, series(htmlTemplate)).on('change', reload);
     watch(config.pathsWatch.js, series(js)).on('change', reload);
+    watch(config.paths.images, series(img)).on('change', reload);
     // watch([config.pathsWatch.php], series(php));
 }

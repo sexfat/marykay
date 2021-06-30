@@ -14,3 +14,5 @@ module.exports =  function img() {
         .pipe(imagemin())
         .pipe(dest(config.pathsDev.images))
 }
+
+
