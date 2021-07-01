@@ -23,8 +23,8 @@ const img = require('./tasks/img');
 const php = require('./tasks/phpconnect');
 
 
-exports.default =  series(clean ,img ,parallel(server));
-exports.package =  series(images , concats , parallel(zipfile));
+exports.default =  series(img ,parallel(server));
+exports.package =  series(clean, images , concats , parallel(zipfile));
 
 // exports.default = server ;
 
