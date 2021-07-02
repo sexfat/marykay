@@ -2,18 +2,23 @@
     height: 86px;
     background-color: $navbg;
     color: $navColor;
+
     a {
-       text-decoration: none;
-       color: $navColor;
-       transition: .2s all ease;
-       &:hover {
-        color: darken($navColor , 20);
-       }
-       
+        text-decoration: none;
+        color: $navColor;
+
+        transition: .2s all ease;
+
+        &:hover {
+            color: darken($navColor, 20);
+        }
+
     }
+
     .header-wrapper {
         .header-left {
             padding-top: 15px;
+
             .logo {
                 @include rect(288px, 50px);
                 background-color: #e3e3e3;
@@ -25,10 +30,58 @@
         display: flex;
         justify-content: flex-end;
         flex-wrap: wrap;
+        position: relative;
+        font-size: 14px;
         height: 86px;
         align-items: center; //  水平置中
+
         li {
             margin: 0 17px;
+        }
+
+        .submenu {
+            width: 500px;
+            height: 400px;
+            background-color: #fff;
+            position: absolute;
+            top: 86px;
+            display: none;
+        }
+    }
+
+}
+
+
+.slider {
+    width: 100vw;
+    height: calc(100vh - 86px);
+    background-color: rgb(244, 244, 244);
+    position: relative;
+
+    // .slider_caption {
+    //     position: relative;
+    //     z-index: 2;
+    // }
+
+    .video_wrap {
+        width: 100%;
+        height: 100%;
+        position: absolute;
+        z-index: 1;
+
+        video {
+            position: absolute;
+            z-index: 1;
+            height: 100%;
+        }
+
+        .video_overlay {
+            position: absolute;
+            width: 100vw;
+            height: 100vh;
+            top: 0;
+            left: 0;
+            z-index: 5;
         }
     }
 
