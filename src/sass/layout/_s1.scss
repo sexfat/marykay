@@ -35,5 +35,8 @@ $nav-height:65;
         }
             
     }
-
+    &.ind-s5{
+        background-image: url('../images/bg_ind_s5@1x.jpg');
+        background-image: image-set( url('../images/bg_ind_s5@1x.jpg') 1x, url('../images/bg_ind_s5@2x.jpg') 2x);
+    }
 }
