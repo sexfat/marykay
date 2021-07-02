@@ -1,13 +1,17 @@
 //marykay style
 @import url('https://fonts.googleapis.com/css2?family=Italiana&family=Playfair+Display:wght@700&display=swap');
 
-.heading-block > h3::after{
-    content: '';
-    display: block;
-    margin-top: 30px;
-    width: 40px;
-    border-top: 2px solid #444;
+
+.section.nomargin{
+    margin-top:0px !important ;
 }
+// .heading-block > h3::after{
+//     content: '';
+//     display: block;
+//     margin-top: 30px;
+//     width: 40px;
+//     border-top: 2px solid #444;
+// }
 
 h1.showcase{
     b{
