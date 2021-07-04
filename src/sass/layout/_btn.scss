@@ -1,0 +1,59 @@
+// @mixin button($bgc, $width, $height, $radius, $brc:$bgc, $color:#fff) {
+//     cursor: pointer;
+//     background-color: $bgc;
+//     border: 1px solid $brc;
+//     border-radius: $radius;
+//     display: inline-block;
+//     text-align: center;
+//     color: $color;
+//     white-space: nowrap;
+//     vertical-align: middle;
+//     user-select: none;
+//     padding: $height $width;
+//     font-size: 1rem;
+//     line-height: 1.5;
+//     transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+
+//     &:hover {
+//         background-color: darken($bgc, 8);
+//         color: lighten($color, 5);
+//     }
+
+//     @content;
+
+// }
+
+
+
+
+
+
+.btn-outline { 
+    padding: 10px 30px;
+    display: block;
+    cursor: pointer;
+    border: 1px solid #fff;
+    text-align: center;  
+    color: #fff;
+    white-space: nowrap;
+    user-select: none;
+    text-decoration: none;
+    transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+    &:hover {
+       background-color: #fff;
+       color: #000 
+      
+    }
+
+}
+
+
+.btn-large {
+   width: 180px; 
+}
+
+.btn-default{
+   width: 140px;
+   padding: 4px 20px;
+   font-size: 14px;
+}

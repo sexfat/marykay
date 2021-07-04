@@ -1,0 +1,45 @@
+//常用參數
+
+
+.section_full {
+   width: 100vw;
+   height: 100vh; 
+} 
+
+.dark{
+   background-color: rgb(0, 0, 0)
+}
+
+
+.marginauto {
+    margin: 0 auto;
+}
+
+.text_center {
+    text-align: center;
+}
+
+.flex {
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+}
+
+.flex-block {
+    @extend .flex;
+    flex-direction: column;
+}
+
+
+
+.block {
+    display: block
+}
+
+.hide {
+    overflow: hidden;
+}
+
+
+
+@include push (top , 600 , margin);

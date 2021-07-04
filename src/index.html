@@ -8,9 +8,14 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@300;400&display=swap" rel="stylesheet">
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/2.1.3/TweenMax.min.js"
-        integrity="sha512-DkPsH9LzNzZaZjCszwKrooKwgjArJDiEjA5tTgr3YX4E6TYv93ICS8T41yFHJnnSmGpnf0Mvb5NhScYbwvhn2w=="
-        crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Raleway:wght@200;900&display=swap" rel="stylesheet">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.7.0/gsap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.7.0/ScrollTrigger.min.js"></script>
+    <!-- slider -->
+    <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css" />
+    <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+
     @@include('layout/meta.html')
     <title>Document</title>
 </head>
@@ -19,26 +24,26 @@
     <div id="app" class="wrapper">
         @@include('layout/header.html')
         @@include('section/banner.html')
-        @@include('section/s1.html') 
-        @@include('section/s2.html') 
-        @@include('section/s3.html') 
-        @@include('section/s4.html') 
-        @@include('section/s5.html') 
+        @@include('section/s1.html')
+        @@include('section/s2.html')
+        @@include('section/s3.html')
+        @@include('section/s4.html')
+        @@include('section/s5.html')
         @@include('layout/footer.html')
     </div>
 
     <!-- Go To Top
 	============================================= -->
-	<div id="gotoTop" class="icon-angle-up"></div>
+    <div id="gotoTop" class="icon-angle-up"></div>
 
-	<!-- External JavaScripts
+    <!-- External JavaScripts
 	============================================= -->
-	<script src="js/jquery.js"></script>
-	<script src="js/plugins.js"></script>
+    <!-- <script src="js/jquery.js"></script>
+	<script src="js/plugins.js"></script> -->
 
-	<!-- Footer Scripts
+    <!-- Footer Scripts
 	============================================= -->
-	<script src="js/functions.js"></script>
+    <script src="js/animation.js"></script>
 </body>
 
 </html>

@@ -1,13 +1,39 @@
 // mixin 帶值  // 預設值 // null值
 @mixin rect($w, $h:$w, $bgc:null) {
-    width: $w;
-    height: $h;
-    background-color: $bgc;
-  }
+  width: $w;
+  height: $h;
+  background-color: $bgc;
+}
 
 
 @mixin margin-auto() {
-    margin-left: auto;
-    margin-right: auto;
-    text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  position: relative;
+}
+
+
+// @mixin pushs($class, $dir, $num) {
+
+//  }
+
+
+
+@mixin push($dir, $num ,$class: margin) {
+  @for $i from 1 through $num {
+
+    @if $class==margin {
+      .#{$class}-#{$dir}_#{$i} {
+        #{$class}-#{$dir}: $i * 1px ;
+      }
+    }
+
+    @else if $class==position {
+      #{$class}-#{$dir}_#{$i} {
+        position: relative;
+        #{$dir}: $i * 1px
+      }
+    }
+  }
 }

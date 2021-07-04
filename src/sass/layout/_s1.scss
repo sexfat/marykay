@@ -1,122 +1,15 @@
 //index S1 一支口紅的力量也能為世界帶來改變
-@import'../base/var';
 
-$nav-height:65;
-
-.container-fluid.ind-section{
-    background-repeat: no-repeat;
-    background-size:cover;
-    // height: 100vh;
-    &.ind-s1{
-        background-image: url('../images/bg_ind_s1@1x.jpg');
-        background-image: image-set( url('../images/bg_ind_s1@1x.jpg') 1x, url('../images/bg_ind_s1@2x.jpg') 2x);
-        color: $font-color-white;
-        
-        .heading-block >h3::after{
-            border-top: 2px solid $font-color-white !important;
-        }
-    }
-    &.ind-s2{
-        background-color: $primary;
-        color: $font-color-white;
-        
-        .heading-block >h3::after{
-            border-top: 2px solid $font-color-white !important;
-        }
-    }
-    &.ind-s3{
-        background-color: $primary;
-        color: $font-color-white;
-       
-        .heading-block >h3::after{
-            border-top: 2px solid $font-color-white !important;
-        }
-        .footer{background-color: $primary;
-        }
-            
-    }
-    // &.ind-s5{
-    //     background-image: url('../images/bg_ind_s5@1x.jpg');
-    //     background-image: image-set( url('../images/bg_ind_s5@1x.jpg') 1x, url('../images/bg_ind_s5@2x.jpg') 2x);
-    // }
+.s1 {
+  background-image: url('../images/bg_ind_s1@1x.jpg');
+  background-size: cover;
+  padding: 100px 0;
+  .slider-caption {
+     position: relative;
+     left: 60%;
+     width: 500px;
+  }
+  .slider-caption-center {
+    text-align: center;
+  }
 }
-
-
-
-
-//===video//
-* {
-    padding: 0;
-    margin: 0;
-    box-sizing: border-box;
-    font-family: "Saira Semi Condensed", sans-serif;
-  }
-  
-
-  
-  .video-box .video-box-text {
-    z-index: 999;
-    max-width: 750px;
-    text-align: center;
-    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.3);
-  }
-  
-  
-  
-  p {
-    font-size: 1.2em;
-    line-height: 1.8em;
-  }
-  
-  .video-box .btn {
-    font-size: 1.2em;
-    line-height: 1.8em;
-    text-shadow: 0;
-    color: #fff;
-    background-color: #ff8533;
-    text-decoration: none;
-    padding: 10px 35px;
-    border-radius: 6px;
-    display: block;
-    margin: 0 auto;
-    width: 160px;
-    text-align: center;
-    -webkit-box-shadow: 1px 1px 3px 0px rgba(0, 0, 0, 0.1);
-    -moz-box-shadow: 1px 1px 3px 0px rgba(0, 0, 0, 0.1);
-    box-shadow: 1px 1px 3px 0px rgba(0, 0, 0, 0.1);
-  }
-  
-  .video-box .btn:hover {
-    background-color: #ff6600;
-  }
-  
-  .video-box {
-    position: relative;
-    width: 100%;
-    min-height: 100vh;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    overflow: hidden;
-  }
-  
-  .video-box video {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-  }
-  
-  .main {
-    background-color: #000f1a;
-    padding: 30px 15px 30px 15px;
-    height: 2000px;
-  }
-  
-  .main-inner {
-    max-width: 1200px;
-    margin: 0 auto;
-  }
-  
