@@ -37,3 +37,9 @@
     }
   }
 }
+
+@mixin m() {
+   @media all and (max-width: $respond-m) {
+      @content;
+   }
+}

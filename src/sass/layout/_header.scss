@@ -1,9 +1,54 @@
-$header_h : 66px;
+$header_h : 66px; // 桌機
+$m-header_h : 52px;
 
+.p-0 {
+
+    padding: 0;
+
+}
+
+
+// 選單位置
 .header-area {
     height: $header_h;
     background-color: $navbg;
     color: $navColor;
+
+    @include m() {
+        .m-nav_bar {
+            width: 30px;
+            height: 30px;
+            position: absolute;
+            top: 15px;
+            cursor: pointer;
+
+            span {
+                height: 1px;
+                background-color: #fff;
+                margin-top: 6px;
+                display: block;
+            }
+
+            span:first-child {
+                width: 20px;
+                transition: .3s all ease;
+            }
+            &:hover {
+                span:first-child {
+                    width: 30px;
+                  
+                }
+            }
+        }
+
+
+    }
+
+    @include m() {
+        height: $m-header_h;
+
+    }
+
 
     a {
         text-decoration: none;
@@ -18,12 +63,25 @@ $header_h : 66px;
     }
 
     .header-wrapper {
+        .nav {
+            display: flex;
+            justify-content: space-between;
+        }
+        @include m(){
+            .nav {
+                justify-content: center; 
+             }  
+        }
         .header-left {
             padding-top: 15px;
 
             .logo {
                 @include rect(234px, 50px);
+
                 //background-color: #e3e3e3;
+                @include m() {
+                    @include rect(160px, null);
+                }
             }
         }
     }
@@ -50,10 +108,16 @@ $header_h : 66px;
             display: none;
         }
     }
+    @include m(){
+        .mainmenu  {
+           display: none; 
+        }
+    }
+
 
 }
 
-
+//  slider 位置
 .slider {
     width: 100%;
     // height: 100vh;
@@ -62,10 +126,19 @@ $header_h : 66px;
     position: relative;
     overflow: hidden;
 
-    // .slider_caption {
-    //     position: relative;
-    //     z-index: 2;
-    // }
+    .slider_caption {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        z-index: 100;
+
+        b {
+            font-size: 5.3rem;
+            line-height: 1;
+        }
+    }
+
 
     .video_wrap {
 
@@ -87,5 +160,6 @@ $header_h : 66px;
             z-index: 5;
         }
     }
+
 
 }

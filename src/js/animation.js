@@ -3,18 +3,23 @@ gsap.to(".box", {
     x: 500
   });
 
+  // document.querySelectorAll(".arrow").forEach((btn) => {
+  //   btn.addEventListener("click", () => {
+  //     gsap.to(window, { duration: 1.4,  scrollTo: ".s1"   , ease: "none"});
+  //   });
+  // });
 
 
   // slider
 
-  const swiper = new Swiper('.silder_1', {
-    loop: true,
-    // Navigation arrows
-    navigation: {
-      nextEl: '.swiper-button-next',
-      prevEl: '.swiper-button-prev',
-    }
-  });
+  // const swiper = new Swiper('.silder_1', {
+  //   loop: true,
+  //   // Navigation arrows
+  //   navigation: {
+  //     nextEl: '.swiper-button-next',
+  //     prevEl: '.swiper-button-prev',
+  //   }
+  // });
 
 
   const swipers = new Swiper('.silder_2', {

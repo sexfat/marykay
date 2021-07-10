@@ -1,14 +1,15 @@
 //常用參數
 
 
-.section_full {
-   width: 100vw;
-   height: 100vh; 
-} 
 
-.dark{
-   background-color: rgb(0, 0, 0);
-   color: #fff;
+.section_full {
+    width: 100vw;
+    height: 100vh;
+}
+
+.dark {
+    background-color: rgb(0, 0, 0);
+    color: #fff;
 }
 
 
@@ -23,13 +24,15 @@
 .flex {
     display: flex;
     justify-content: center;
-    align-items: center; 
+    align-items: center;
 }
 
 .flex-block {
     @extend .flex;
     flex-direction: column;
 }
+
+
 
 
 
@@ -47,7 +50,7 @@
 }
 
 .white {
-    color:rgb(0, 0, 0);
+    color: rgb(0, 0, 0);
 }
 
 .subtitle {
@@ -56,8 +59,58 @@
 }
 
 .p-10 {
-   position: relative;
-   top: 15px 
+    position: relative;
+    top: 15px
 }
 
-@include push (top , 600 , margin);
+
+.action {
+    position: absolute;
+
+    bottom: 50px;
+    // transform: translate(-50%, -50%);
+    z-index: 200;
+    text-align: center;
+    width: 100%;
+
+    .arrow {
+        width: 24px;
+        height: 24px;
+        color: #fff;
+        margin: 0 auto;
+        position: relative;
+        cursor: pointer;
+    }
+}
+
+h3 {
+    font-size: 1.2rem;
+    font-weight: 800;
+}
+
+.small_title {
+    font-size: .6rem;
+}
+
+
+
+
+
+.diver {
+    width: 42px;
+    height: 2px;
+    background-color: #fff;
+    display: inline-block;
+    margin: 40px auto 40px;
+
+    &.black {
+        background-color: #000;
+        margin: 13px auto 18px;
+
+    }
+}
+
+
+
+
+@include push (top, 600, margin);

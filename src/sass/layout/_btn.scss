@@ -29,9 +29,10 @@
 
 
 .btn-outline { 
-    padding: 10px 30px;
+    padding: 10px 0;
     display: block;
     cursor: pointer;
+    font-size: .9rem;
     border: 1px solid #fff;
     text-align: center;  
     color: #fff;
@@ -49,7 +50,7 @@
 
 
 .btn-large {
-   width: 180px; 
+   width: 150px; 
 }
 
 .btn-default{
