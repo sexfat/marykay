@@ -1,15 +1,28 @@
 //index S1 一支口紅的力量也能為世界帶來改變
-
 .s1 {
-  background-image: url('../images/bg_ind_s1@1x.jpg');
-  background-size: cover;
-  padding: 100px 0;
-  .slider-caption {
-     position: relative;
-     left: 60%;
-     width: 500px;
-  }
-  .slider-caption-center {
-    text-align: center;
-  }
+    background-image: url('../images/bg_ind_s1@1x.jpg');
+    background-size: cover;
+    padding: 100px 0;
+    background-repeat: no-repeat;
+    @include m() {
+        background-position: center;
+    }
+    .slider-caption {
+        position: relative;
+        left: 60%;
+        width: 500px;
+        @include t() {
+            left: initial;
+            width: 400px;
+            margin: 0 auto;
+        }
+        @include m() {
+            left: initial;
+            width: 350px;
+            margin: 0 auto;
+        }
+    }
+    .slider-caption-center {
+        text-align: center;
+    }
 }

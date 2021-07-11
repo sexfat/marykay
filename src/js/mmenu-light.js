@@ -73,7 +73,7 @@
                 var e = this;
                 if (!this.navigator) {
                     var n = (t = t || {}).title,
-                        i = void 0 === n ? "Menu" : n,
+                        i = void 0 === n ? "Mary Kay" : n,
                         o = t.selectedClass,
                         s = void 0 === o ? "Selected" : o,
                         r = t.slidingSubmenus,

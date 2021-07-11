@@ -111,6 +111,37 @@ h3 {
 }
 
 
+@include t() {
+    .marginauto_m {
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+
 
 
 @include push (top, 600, margin);
+
+//讓flex-blick 歸零
+@include t(){
+    .flex-block {
+        display: block;
+        width: 100%;
+        padding-left: 10px;
+        padding-right: 10px;
+    } 
+}
+
+
+//  箭頭
+
+.swiper-button-prev:after {
+   color: #fff; 
+   font-size: 28px;
+}
+
+.swiper-button-next:after {
+    color: #fff; 
+    font-size: 28px;
+}
+

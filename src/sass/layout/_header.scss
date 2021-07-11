@@ -1,19 +1,14 @@
-$header_h : 66px; // 桌機
-$m-header_h : 52px;
-
+$header_h: 66px; // 桌機
+$m-header_h: 52px;
 .p-0 {
-
     padding: 0;
-
 }
-
 
 // 選單位置
 .header-area {
     height: $header_h;
     background-color: $navbg;
     color: $navColor;
-
     @include m() {
         .m-nav_bar {
             width: 30px;
@@ -21,14 +16,12 @@ $m-header_h : 52px;
             position: absolute;
             top: 15px;
             cursor: pointer;
-
             span {
                 height: 1px;
                 background-color: #fff;
                 margin-top: 6px;
                 display: block;
             }
-
             span:first-child {
                 width: 20px;
                 transition: .3s all ease;
@@ -36,48 +29,35 @@ $m-header_h : 52px;
             &:hover {
                 span:first-child {
                     width: 30px;
-                  
                 }
             }
         }
-
-
     }
-
     @include m() {
         height: $m-header_h;
-
     }
-
-
     a {
         text-decoration: none;
         color: $navColor;
-
         transition: .2s all ease;
-
         &:hover {
             color: darken($navColor, 20);
         }
-
     }
-
     .header-wrapper {
         .nav {
             display: flex;
             justify-content: space-between;
         }
-        @include m(){
+        @include m() {
             .nav {
-                justify-content: center; 
-             }  
+                justify-content: center;
+            }
         }
         .header-left {
             padding-top: 15px;
-
             .logo {
                 @include rect(234px, 50px);
-
                 //background-color: #e3e3e3;
                 @include m() {
                     @include rect(160px, null);
@@ -85,7 +65,6 @@ $m-header_h : 52px;
             }
         }
     }
-
     .mainmenu {
         display: flex;
         justify-content: flex-end;
@@ -94,11 +73,59 @@ $m-header_h : 52px;
         font-size: 14px;
         height: $header_h;
         align-items: center; //  水平置中
-
-        li {
-            margin: 0 17px;
+        >li {
+            padding: 22px 17px;
+            position: relative;
+            display: block;
+            cursor: pointer;
+            ul {
+                display: none;
+                position: absolute;
+                top: 65px;
+                left: -20px;
+                z-index: 300;
+                width: 200px;
+                text-align: left;
+                background-color: #000;
+                li {
+                    padding: 0px 17px;
+                    border-bottom: 1px solid rgb(53, 53, 53);
+                    position: relative;
+                    &:first-child {
+                        border-top: 1px solid #FF6B86;
+                    }
+                    &:hover {
+                        background-color: rgb(36, 36, 36);
+                        width: 100%;
+                    }
+                    a,
+                    span {
+                        padding-top: 10px;
+                        padding-bottom: 10px;
+                        display: block;
+                        cursor: pointer;
+                    }
+                    &:hover {
+                        .last_menu {
+                            display: block;
+                            transition: .3s all ease;
+                        }
+                    }
+                }
+                .last_menu {
+                    display: none;
+                    position: absolute;
+                    top: 0;
+                    left: 200px;
+                    border-left: 1px solid #333;
+                }
+            }
+            &:hover {
+                >ul {
+                    display: block;
+                }
+            }
         }
-
         .submenu {
             width: 500px;
             height: 400px;
@@ -108,13 +135,11 @@ $m-header_h : 52px;
             display: none;
         }
     }
-    @include m(){
-        .mainmenu  {
-           display: none; 
+    @include m() {
+        .mainmenu {
+            display: none;
         }
     }
-
-
 }
 
 //  slider 位置
@@ -125,23 +150,27 @@ $m-header_h : 52px;
     background-color: rgb(244, 244, 244);
     position: relative;
     overflow: hidden;
-
     .slider_caption {
         position: absolute;
         top: 50%;
         left: 50%;
         transform: translate(-50%, -50%);
         z-index: 100;
-
-        b {
-            font-size: 5.3rem;
-            line-height: 1;
+        .showcase {
+            text-align: center;
+            @include m() {
+                width: 451px;
+            }
+            b {
+                font-size: 5.3rem;
+                line-height: 1;
+                @include m() {
+                    font-size: 3rem;
+                }
+            }
         }
     }
-
-
     .video_wrap {
-
         video {
             object-fit: cover;
             width: 100vw;
@@ -150,7 +179,6 @@ $m-header_h : 52px;
             top: 0;
             left: 0;
         }
-
         .video_overlay {
             position: absolute;
             width: 100vw;
@@ -160,6 +188,4 @@ $m-header_h : 52px;
             z-index: 5;
         }
     }
-
-
 }

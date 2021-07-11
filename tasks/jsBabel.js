@@ -10,11 +10,11 @@ const uglify = require('gulp-uglify');
 const config = require('../gulp.config')
 
 
-module.exports =  function babeles5() {
+module.exports = function babeles5() {
     return src(config.paths.js)
-        .pipe(babel({
-            presets: ['@babel/env']
-        }))
+        // .pipe(babel({
+        //     presets: ['@babel/env']
+        // }))
         .pipe(uglify())
         .pipe(dest(config.pathsDev.js))
 }

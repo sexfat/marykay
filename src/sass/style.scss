@@ -1,18 +1,11 @@
-
 // @import 'template/temp_style';
 @import 'bootstrap';
 //樣板style
-
-
 @import 'mixin/mixins';
-
 @import'base/var';
 @import'base/reset';
 @import 'base/font';
 @import 'layout/btn';
-
-
-
 @import 'base/common_part';
 @import 'base/bodystyle';
 @import 'layout/header';
@@ -24,9 +17,7 @@
 @import 'layout/s4';
 @import 'layout/s5';
 @import 'layout/s6';
-
+@import 'menu';
 .plr--120 {
-   padding: 0 120px; 
+    padding: 0 120px;
 }
-
-

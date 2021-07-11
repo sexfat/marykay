@@ -1,48 +1,31 @@
-$container-max-widths: (
-  sm: 540px,
-  md: 720px,
-  lg: 960px,
-  xl: 1140px,
-  xxl: 1320px
-);
-
-
+$container-max-widths: ( sm: 540px, md: 720px, lg: 960px, xl: 1140px, xxl: 1320px);
 // color
-
-$navbg : #000 ;
-$navColor: #fff; 
-
+$navbg: #000;
+$navColor: #fff;
 $primary:#070707;
 $secondary:#FF6B86;
-
 $font-color:#252525;
 $font-color-light:#acaaaa;
 $font-color-white:#FBFBFB;
-
-$active-color:darken($secondary,20%);
-
+$active-color:darken($secondary, 20%);
 $line-color:#252525;
 $line-color-light:#C3C1C1;
-
 // font style
-
-$basic   :  'Open Sans', sans-serif ;
-$lato    :  'Lato', sans-serif;
-$shansan :  'source-han-sans-traditional', sans-serif;
-
-$fontfamilys    : $lato;
-$font_vender    : cwTeXHei; //family : cwTeXHei / cwTeXMing /Noto_Sans_TC / cwTeXFangSong / cwTeXYen / notosansscsliced /notosanssc /muli
-$font_base_size : 16px ;
-$font_weight    : 400 ; 
-$line_height    : 1.5 ;
-$base_color     : #ffffff ;
-$letter-spacing : 0.01rem;
-$word-spacing   : 2px; 
-
-
-
+$basic: 'Open Sans',
+sans-serif;
+$lato: 'Lato',
+sans-serif;
+$shansan: 'source-han-sans-traditional',
+sans-serif;
+$fontfamilys: $lato;
+$font_vender: cwTeXHei; //family : cwTeXHei / cwTeXMing /Noto_Sans_TC / cwTeXFangSong / cwTeXYen / notosansscsliced /notosanssc /muli
+$font_base_size: 16px;
+$font_weight: 400;
+$line_height: 1.5;
+$base_color: #ffffff;
+$letter-spacing: 0.01rem;
+$word-spacing: 2px;
 // ===== bootstrap 斷點
-
 // $container-max-widths: (
 //   sm: 540px,
 //   md: 720px,
@@ -50,15 +33,7 @@ $word-spacing   : 2px;
 //   xl: 1140px,
 //   xxl: 1320px
 // );
-
-
 // 自己做的斷點
-$respond-m : 767px;
-
-
-
-
+$respond-m: 567px;
+$respond-t: 996px;
 // ＊＊ 中文
-
-
-

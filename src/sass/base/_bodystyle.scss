@@ -19,3 +19,9 @@ body {
 .wrapper {
   width: 100vw;   
 }
+
+@include m(){
+  body {
+    overflow-x: hidden;
+  }
+}
