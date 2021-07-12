@@ -84,7 +84,7 @@ $m-header_h: 52px;
                 top: 65px;
                 left: -20px;
                 z-index: 300;
-                width: 200px;
+                width: 220px;
                 text-align: left;
                 background-color: #000;
                 li {
@@ -115,8 +115,8 @@ $m-header_h: 52px;
                 .last_menu {
                     display: none;
                     position: absolute;
-                    top: 0;
-                    left: 200px;
+                    top: -1px;
+                    left: 220px;
                     border-left: 1px solid #333;
                 }
             }

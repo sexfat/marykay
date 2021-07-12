@@ -12,6 +12,15 @@
     position: relative;
 }
 
+@mixin positionauto($top:50%){
+    position: absolute;
+    z-index: 100;
+    top: $top;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+
 // @mixin pushs($class, $dir, $num) {
 //  }
 @mixin push($dir, $num, $class: margin) {

@@ -1,0 +1,18 @@
+.product {
+    .product_banner {
+        height: 245px;
+        width: 100%;
+        overflow: hidden;
+        position: relative;
+        .title {
+            @include positionauto(30%);
+            color: #333;
+            font-size: .8rem;
+            font-weight: 800;
+
+        }  
+    }
+    .product_content {
+
+    }
+}

@@ -80,6 +80,23 @@
         margin: 0 auto;
         position: relative;
         cursor: pointer;
+        animation-name: arrow;
+        animation-duration: 1.4s;
+        animation-iteration-count: infinite;
+    }
+
+    @keyframes arrow {
+        0% {
+            top: 0
+        }
+
+        50% {
+            top: 9px
+        }
+
+        100% {
+            top: 0px
+        }
     }
 }
 
@@ -89,7 +106,8 @@ h3 {
 }
 
 .small_title {
-    font-size: .6rem;
+    font-size: .5rem;
+    letter-spacing: .3rem;
 }
 
 
@@ -123,25 +141,74 @@ h3 {
 @include push (top, 600, margin);
 
 //讓flex-blick 歸零
-@include t(){
+@include t() {
     .flex-block {
         display: block;
         width: 100%;
         padding-left: 10px;
         padding-right: 10px;
-    } 
+    }
 }
 
 
 //  箭頭
 
 .swiper-button-prev:after {
-   color: #fff; 
-   font-size: 28px;
-}
-
-.swiper-button-next:after {
-    color: #fff; 
+    color: #fff;
     font-size: 28px;
 }
 
+.swiper-button-next:after {
+    color: #fff;
+    font-size: 28px;
+}
+
+//h1動畫
+
+.showcase {
+    b {
+        p {
+            overflow: hidden;
+
+            span {
+                line-height: 1;
+                display: block;
+                animation: reveal 1.5s cubic-bezier(0.77, 0, 0.175, 1) 0.5s;
+            }
+        }
+
+        // p:last-child {
+        //     span {
+        //         animation-delay: 1.2s;
+               
+                
+        //     }
+        // }
+    }
+}
+
+@keyframes reveal {
+    0% {
+        transform: translate(0, 100%);
+        
+    }
+
+    100% {
+        transform: translate(0, 0);
+        opacity: 1;
+    }
+}
+
+@keyframes reveal-d {
+    0% {
+        transform: translate(0, 100%);
+        opacity: 0;
+        
+        
+    }
+
+    100% {
+        transform: translate(0, 0);
+        opacity: 1;
+    }
+}

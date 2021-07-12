@@ -2,7 +2,9 @@ footer {
     padding-top: 50px;
     min-height: 370px;
     padding-bottom: 50px;
-    font-size: 1.4rem;
+    @include m(){
+      font-size: 1.3rem;
+    }
 
     .social {
         display: flex;
