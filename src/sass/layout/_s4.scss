@@ -24,7 +24,7 @@
         width: 100%;
         height: 500px;
         // height: 100%;
-        background-color: rgb(255, 175, 175);
+        background-color: #f6ccd0;
         overflow: hidden;
        
         
@@ -83,11 +83,11 @@
         @extend %position;
     }
     .bg2 {
-        background-image: url('../images/bg_ind_s8-1.jpg');
+        background-image: url('../images/bg_ind_s8-2.png');
         @extend %position;
     }
     .bg3 {
-        background-image: url('../images/bg_ind_s8-1.jpg');
+        background-image: url('../images/bg_ind_s8-3.jpg');
         @extend %position;
     }
     .inner {

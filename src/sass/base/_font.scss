@@ -64,9 +64,25 @@ body {
 
 h3 {
     font-size: 24px;
+   
 }
 
 .bold {
     font-weight: 500;
 }
+
+dd  {
+  font-size: 1.15rem;
+  font-family: 'Noto Sans JP', sans-serif;
+}
+
+dt  {
+  font-size: .8rem;
+  color: rgb(189, 189, 189);
+  font-family: 'Noto Sans JP', sans-serif;
+}
+
+// 日本字型
+// font-family: 'Noto Sans JP', sans-serif;
+//https://fonts.google.com/specimen/Noto+Sans+JP?preview.text=%E8%87%AA%E7%94%B1%E6%8E%A5%E6%A1%88&preview.text_type=custom
 

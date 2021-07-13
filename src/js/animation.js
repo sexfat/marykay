@@ -3,6 +3,20 @@
 //     x: 500
 // });
 
+
+gsap.registerPlugin(ScrollTrigger);
+
+let tl = gsap.timeline();
+tl.to('.pinkpark', {
+  xPercent:-10,
+  scrollTrigger:{
+    trigger:".pinkpark",
+    scrub:1.2
+  }
+})
+
+
+
 // // document.querySelectorAll(".arrow").forEach((btn) => {
 // //   btn.addEventListener("click", () => {
 // //     gsap.to(window, { duration: 1.4,  scrollTo: ".s1"   , ease: "none"});
@@ -115,6 +129,11 @@ const swiper_ig = new Swiper('.silder_ig', {
 
     // Navigation arrows
 });
+
+
+
+//  圖片變換
+
 
 
 

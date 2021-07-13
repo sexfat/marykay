@@ -108,6 +108,9 @@ h3 {
 .small_title {
     font-size: .5rem;
     letter-spacing: .3rem;
+    &.init {
+        letter-spacing: initial;
+    }
 }
 
 
@@ -173,7 +176,7 @@ h3 {
             span {
                 line-height: 1;
                 display: block;
-                animation: reveal 1.5s cubic-bezier(0.77, 0, 0.175, 1) 0.5s;
+                animation: reveal 1.5s cubic-bezier(0.77, 0, 0.175, 1) 0.5s alternate;
             }
         }
 
@@ -202,13 +205,15 @@ h3 {
 @keyframes reveal-d {
     0% {
         transform: translate(0, 100%);
-        opacity: 0;
+        display: none;
+        // opacity: 0;
         
         
     }
 
     100% {
         transform: translate(0, 0);
-        opacity: 1;
+        display: block;
+        // opacity: 1;
     }
 }

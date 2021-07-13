@@ -1,0 +1,19 @@
+.product_item {
+   .product_inner {
+       max-width: 996px;
+       width: 100%;
+       min-height: 700px;
+       margin: 0 auto;
+       .breadcrumbs {
+           margin-bottom: 60px;
+           font-size: .91rem;
+       }
+       .product_img {
+           height: 470px;
+           width: 100%;
+           background-color: rgb(211, 211, 211);
+           
+       }
+
+   }
+}
