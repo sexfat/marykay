@@ -41,10 +41,8 @@
                 }
                 img {
                     display: block;
-                   &.change {
-                    display: none;
-                    position: relative;
-                   } 
+                    max-width: 290px;
+                    margin: 0 auto 20px;
                 }
             }
         }
