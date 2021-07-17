@@ -82,7 +82,7 @@
       "series": {
         "ps01": {
           "name": "臻時粹顏系列",
-          "products": ["ps01_01", "ps01_02", "ps01_03"]
+          "products": ["ps01_01", "ps01_02"]
         },
         "ps02": {
           "name": "時光精靈Repair系列",
