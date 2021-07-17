@@ -81,47 +81,47 @@
       "name": "產品系列",
       "series": {
         "ps01": {
-          "name": "series 1 test",
+          "name": "臻時粹顏系列",
           "products": ["ps01_01", "ps01_02", "ps01_03"]
         },
         "ps02": {
-          "name": "series 2 test",
+          "name": "時光精靈Repair系列",
           "products": []
         },
         "ps03": {
-          "name": "series 3 test",
+          "name": "時光精靈/ 時光精靈3D系列",
           "products": []
         },
         "ps04": {
-          "name": "series 4 test",
+          "name": "天然淨活系列",
           "products": []
         },
         "ps05": {
-          "name": "series 5 test",
+          "name": "植物肌密系列",
           "products": []
         },
         "ps06": {
-          "name": "series 6 test",
+          "name": "補充性保養系列",
           "products": []
         },
         "ps07": {
-          "name": "series 7 test",
+          "name": "亮采系列",
           "products": []
         },
         "ps08": {
-          "name": "series 8 test",
+          "name": "舒顏系列",
           "products": []
         },
         "ps09": {
-          "name": "series 9 test",
+          "name": "淨顏系列",
           "products": []
         },
         "ps10": {
-          "name": "series 10 test",
+          "name": "男士系列",
           "products": []
         },
         "ps11": {
-          "name": "series 11 test",
+          "name": "美體系列",
           "products": []
         }
       }
@@ -233,19 +233,38 @@
   },
   "products": {
     "ps01_01": {
-      "name": "臻時粹顏™精華乳",
+      "name": "Youthfinity® The Serum",
       "series": "ps01",
       "capacity": "30ml",
       "price": "HK$2,450",
-      "description": "能將活膚再生能量極致昇華的全效精華。塗上瞬間即融入肌膚，傾注臻時粹顏™玫瑰複合物的超凡生命能量，同步抵禦、煥活及延緩衰老。層層煥活，肌膚更顯緊實細緻，膚觸如絲般柔軟嫩滑，享受臻極美麗蛻變。",
-      "skin_suitable":"全膚質適用",
-      "usage":"• 每天早晚，在潔面、爽膚後使用。<br>• 配合以下按摩技巧，可達致最佳感官享受及產品煥活肌膚效能：<br>用指尖均勻塗抹於面部及頸部，避開眼周。從面部中央開始，利用手指輕輕地將精華乳向上向外均勻地塗抹開。",
-      "function":null,
-      "principal_components":null,
+      "description": "A full-effect essence that can maximize the regenerating energy of the skin. It melts into the skin as soon as it is applied, and instills the extraordinary life energy of the Youthfinity™ Alpen Rose complex into the skin, which simultaneously defends, rejuvenates and delays aging. It rejuenates the skin layer by layer, making it  become firmer and more delicate. The skin feels silky soft and smooth, and you can enjoy the most beautiful transformation.",
+      "skin_suitable":" Suitable for all skin types ",
+      "usage":"• Use every morning and evening after cleansing and toning.<br>• With the following massage techniques, you can achieve the best sensory enjoyment and the product's skin rejuvenating effect:<br><br>Apply the products evenly on face and neck with your fingertips, avoiding eye area.<br>Starting from the center of the face, use your fingers to gently spread the essence upwards and outwards evenly.",
+      "function":"• Smoothes fine lines and wrinkles.<br>• Significantly improve skin firmness and elasticity.<br>•Extremely improve the overall texture and condition of the skin.<br>•Formulation features:<br>Passed Asian skin quality test, suitable for Asian skin<br>Fight against fatigue<br>Has a light and elegant floral fragrance<br>Not easy to cause acne<br>First use*:<br>• Skin texture becomes fine and smooth<br>• The skin regains its vitality<br>• The skin feels that the aging stressor is gradually relieved<br>• The skin is more radiant and brighter, feeling firmer and fuller<br>Three weeks of continuous usage*:<br>• The skin texture is significantly improved and becomes silky smooth<br>• Regain youthful vitality and energy<br>• Significantly improve the overall quality and condition of the skin<br>• Extremely enhance skin firmness and elasticity<br>• Use daily to significantly improve fine lines and wrinkles<br>• Skin glows with youthful radiance<br>*Independent consumer research results of women who continue to use the product in the morning and evening",
+      "principal_components":"The unique Youthfinity Infinite Complex™ rose complex, which combines three top anti-aging ingredients, activates the 3R Infinite Complex™ system, which provides three functions of defending, rejuvenating and delaying anti-aging:<br><br>RESIST protects against external environmental aggressions<br>-Alpen Rose : awakens the skin's natural protective barrier and resists various external environmental pressures.<br><br>REJUNVENATE revitalizes skin's full elasticity<br>-Evening Primrose: The essence extracted from the evening primrose seeds promotes the regeneration of skin proteins and revitalizes the skin's fullness, firmness and elasticity.<br><br>REDUCE delays internal aging of the skin<<br>•<br>Specially added active ingredient-nightweed leaf extract to help the skin's important protein proliferation, regain vitality from the inside, and show youthful vitality.",
       "video_source":null,
       "normal_image": "臻時粹顏™精華乳01.png",
       "small_images":{
         "img_01":"臻時粹顏™精華乳02.png"
+      },
+      "description_image":null
+    },
+    "ps01_02": {
+      "name": "Youthfinity® The Facial Oil",
+      "series": "ps02",
+      "capacity": "30ml",
+      "price": "HK$2,450",
+      "description": "The first facial essence oil by Mary Kay, which specially added rare 24K liquid gold peptides, injects powerful anti-aging peptides into the skin, promotes collagen production, and blends the endless beauty brought by the eternal rose with the endless luxury brought by the 24K liquid gold peptides. It replenishes the source of moisture, makes the skin firmer, and significantly reduces fine lines and wrinkles. The skin glows with youthful luster from the inside out and shines with unprecedented radiance.",
+      "skin_suitable":" Suitable for all skin types ",
+      "usage":" • Use every morning and evening, after cleansing, toning and essence, and before using the cream. The facial essence oil can be used alone, or be mixed with face cream.<br>• Use the following massage techniques to bring endless luxury to your skin:<br><br>Take a few drops of the essential oil and rub it gently on the palm to warm it, gently press it on the skin to help absorption, then push it from the center of the face to the temples, and then from the center of the forehead to the temples.<br>Push the palm of your hand up to the earlobe along the bottom of the neck, and lift the skin of the face and neck from bottom to top.<br>To<br>Finally, gently make a circular motion to the temples and press gently, avoiding the eye area.",
+      "function":"Add rare 24K liquid gold peptides to promote collagen production1 and enhance skin firmness.<br><br>The precious ingredients Alpine Rose and Evening Primrose focus on resisting skin aging and anti-oxidanttion1, perfecting and firming the skin.<br><br>Visibly improves fine lines and wrinkles, and helps the skin regains softness and moisture.<br><br>Eau De Lune water moonlight exudes an elegant and quiet floral fragrance, which makes you indulge in the enjoyment of the senses, and also brings you the delicate, supple and  beautiful skin.<br><br>Significantly improve skin density, enhance elasticity and toughness.<br><br><br>The ultimate testimony of clinical test results 2:<br><br>• 96% witnessed that the complexion is more radiant and radiant<br>• 92% witnessed that the skin's firmness and elasticity were significantly improved, and the skin texture was improved<br>• 91% witnessed healthier skin<br>• 88% witnessed significant improvement in fine lines and wrinkles<br>• 87% witnessed the skin becoming firmer and younger, glowing with youthful radiance",
+      "principal_components":"24K Liquid Gold Polypeptide: Improve the skin's internal structure and strength, promote collagen production1, and enhance skin firmness. It also contains moisturizing ceramides and plant-derived phytosterols, which help enhance the skin's barrier function and skin care effect3. With continuous use, the skin will be plumped, more elastic and younger.<br><br>Aspen Rose extract: awakens the skin's natural protective barrier, helps protect the skin against various environmental stresses, and solves the problem of skin aging.<br><br>Evening primrose: The essence extracted from evening primrose seeds helps revitalize the self-proliferation of skin matrix protein, intensively repairs the skin, revitalizes the skin's fullness, elasticity and firmness, and tightens the skin.<br><br>Squalane: Replenish the required lipids for the skin and form a breathable protective film on the surface of the skin, which can slow down the evaporation of moisture, play a moisturizing and emollient effect, and keep the skin healthy.<br><br>配方特點：<br>通過亞洲膚質測試，適合亞洲人肌膚<br>適合各種肌膚類型<br>不易堵塞毛孔<br>*女性持續早晚使用產品的獨立消費者研究結果<br>1 關鍵成分的體外測試結果<br>2 結果來自個別的獨立消費者研究，測試中252名亞洲女性使用產品21天，每天2次後給予評價<br>3 關鍵成分的體內測試結果Formula characteristics:<br>Passed Asian skin quality test, suitable for Asian skin<br>Suitable for all skin types types<br>Not easy to clog pores<br>*Independent consumer research results of women who continue to use the product in the morning and evening<br>1 In vitro test results of key ingredients<br>2 The results come from individual independent consumer research. In the test, 252 Asian women used the product for 21 days and evaluated after 2 times a day3 In vivo test results of key ingredients",
+      "video_source":"Youthfinity 臻時粹顏™精華油.mp4",
+      "normal_image": "臻時粹顏™精華油.png",
+      "small_images":{
+        "img_01":"臻時粹顏™精華油.png",
+        "img_02":"臻時粹顏™精華油01.png",
+        "img_03":"臻時粹顏™精華油02.png"
       },
       "description_image":null
     }
