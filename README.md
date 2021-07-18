@@ -12,7 +12,7 @@ $ npm install
 $ npm run dev
 
 # 產生靜態頁面 路徑: ./dist/
-$ npm run generate
+$ npm run generate 
 
 ```
 
