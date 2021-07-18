@@ -1,0 +1,55 @@
+footer {
+    padding-top: 50px;
+    min-height: 370px;
+    padding-bottom: 50px;
+    @include m(){
+      font-size: 1.3rem;
+    }
+
+    .social {
+        display: flex;
+
+        li {
+            margin-right: 20px;
+
+            img {
+                width: 24px;
+            }
+        }
+    }
+    h4 {
+        font-weight: 800;
+        color : rgb(104, 104, 104);
+        @include t(){
+            margin-top: 30px;
+        }
+       
+    }
+    ul {
+        margin-top: 10px;
+        @include t(){
+            .contact {
+                    li {
+                       display: inline-block; 
+                    }
+            }
+        }
+
+        li {
+            font-size: .8rem;
+            @include t(){
+                margin: 5px 0;
+                font-size: 1.2rem;
+            }
+        }
+    }
+
+    a {
+        color: #fff;
+        text-decoration: none;
+        @include t(){
+            font-size: 1.2rem;
+        }
+        
+    }
+}

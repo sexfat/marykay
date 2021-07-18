@@ -1,0 +1,61 @@
+// mixin 帶值  // 預設值 // null值
+@mixin rect($w, $h:$w, $bgc:null) {
+    width: $w;
+    height: $h;
+    background-color: $bgc;
+}
+
+@mixin margin-auto() {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    position: relative;
+}
+
+@mixin positionauto($top:50%){
+    position: absolute;
+    z-index: 100;
+    top: $top;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+
+// @mixin pushs($class, $dir, $num) {
+//  }
+@mixin push($dir, $num, $class: margin) {
+    @for $i from 1 through $num {
+        @if $class==margin {
+            .#{$class}-#{$dir}_#{$i} {
+                #{$class}-#{$dir}: $i * 1px;
+            }
+        }
+        @else if $class==position {
+            #{$class}-#{$dir}_#{$i} {
+                position: relative;
+                #{$dir}: $i * 1px
+            }
+        }
+    }
+}
+
+@mixin m() {
+    @media all and (max-width: $respond-m) {
+        @content;
+    }
+}
+
+@mixin t() {
+    @media all and (max-width: $respond-t) {
+        @content;
+    }
+}
+
+
+@mixin r($breakpoint) {
+    @media all and (max-width: $breakpoint) {
+        @content;
+    }
+}
+
+

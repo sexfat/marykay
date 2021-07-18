@@ -1,0 +1,30 @@
+// @import 'template/temp_style';
+@import 'bootstrap';
+//樣板style
+@import 'mixin/mixins';
+@import'base/var';
+@import'base/reset';
+@import 'base/font';
+@import 'layout/btn';
+@import 'base/common_part';
+@import 'base/bodystyle';
+@import 'layout/header';
+@import 'layout/footer';
+@import 'layout/marykay';
+@import 'layout/s1';
+@import 'layout/s2';
+@import 'layout/s3';
+@import 'layout/s4';
+@import 'layout/s5';
+@import 'layout/s6';
+@import 'menu';
+
+
+//product
+@import 'page/product';
+@import 'page/product_item';
+
+
+.plr--120 {
+    padding: 0 120px;
+}

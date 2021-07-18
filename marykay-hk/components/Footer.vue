@@ -1,0 +1,52 @@
+<template>
+  <footer class="dark">
+    <div class="container-xxl">
+      <div class="row">
+        <div class="col-lg-3 col-md-6">
+          <h4>關注我們</h4>
+          <ul class="social">
+            <li>
+              <a href="#"><img src="~assets/images/instagram.png" alt="" srcset="" /></a>
+            </li>
+            <li>
+              <a href="#"><img src="~assets/images/facebook-circular-logo.png" alt="" srcset="" /></a>
+            </li>
+            <li>
+              <a href="#"><img src="~assets/images/youtube.png" alt="" srcset="" /></a>
+            </li>
+          </ul>
+        </div>
+        <div class="col-lg-3 col-md-6">
+          <h4>相關連結</h4>
+          <ul>
+            <li><a href="#">美容顧問登入</a></li>
+            <li><a href="#"> 全球分公司</a></li>
+            <li><a href="#">商德約法</a></li>
+          </ul>
+        </div>
+        <div class="col-lg-3 col-md-6">
+          <h4>購物說明</h4>
+          <ul>
+            <li><a href="#">產品滿意保證</a></li>
+            <li><a href="#"> 全球隱私權聲明</a></li>
+            <li><a href="#">消費者隱私群方針</a></li>
+            <li><a href="#">使用者規範及協議</a></li>
+          </ul>
+        </div>
+        <div class="col-lg-3 col-md-6">
+          <h4>與我們聯繫</h4>
+          <ul>
+            <div class="contact">
+              <li>玫琳凱服務專線</li>
+              <li>(02) 2735-8088</li>
+            </div>
+            <div class="contact">
+              <li>免付費服務專線</li>
+              <li>0800-033690</li>
+            </div>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </footer>
+</template>

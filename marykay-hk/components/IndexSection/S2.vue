@@ -1,0 +1,32 @@
+<template>
+  <section class="container-fluid dark section_full flex s2">
+    <div class="container-xxl container">
+      <div class="row">
+        <div class="text_center">
+          <div class="heading-block flex-block" data-aos="fade-down" data-aos-duration="1000">
+            <h1 class="showcase"><b>AS A BRAND</b><i>WE PROMISE</i></h1>
+            <h3>品牌承諾</h3>
+            <div class="diver"></div>
+          </div>
+          <div class="body flex" data-aos="fade-up" data-aos-delay="50" data-aos-duration="1000">
+            MARY KAY 承諾將每一位顧客做為出發點，<br />
+            在產品質量和安全方面我們從不妥協， <br />
+            不斷突破創新和技術的界限， <br />
+            並致力與打造創造獨一無二且能夠帶來真正的效果的產品 <br />
+            不僅創造令顧客滿意的體驗， <br />
+            更讓女性從內到外都散發美麗。
+            <br />
+          </div>
+          <!-- <p>SCIENCE<br>
+                    BEHIND PRODUCT</p>
+                <button type="button" class="btn btn-lg btn-outline-primary">V</button> -->
+        </div>
+      </div>
+    </div>
+    <div class="action small_title">
+      SCIENCE<br />
+      BEHIND PRODUCT
+      <div id="a1" class="arrow"><img src="~assets/images/down-arrow-white.svg" alt="" srcset="" /></div>
+    </div>
+  </section>
+</template>

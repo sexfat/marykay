@@ -1,0 +1,96 @@
+<template>
+  <section class="s4">
+    <div class="flex-block">
+      <div class="heading-block">
+        <h3 class="h3">
+          <p>WE WANT TO MAKE</p>
+          <p>THE WORLD A BETTER PLACE</p>
+          <p>And we know the future relies on</p>
+          <p>taking action today</p>
+        </h3>
+      </div>
+    </div>
+    <!-- banner end-->
+    <div class="banner">
+      <img class="pinkpark" src="~assets/images/bg_ind_s7@2x.jpg" alt="" srcset="" />
+    </div>
+    <div class="container-xxl">
+      <div class="row">
+        <div class="col text_center">
+          <h2 class="titles margin-top_50">粉紅讓世界更美好</h2>
+          <div class="diver black"></div>
+          <div class="body margin-top_20">
+            除了提倡女性平權<br />
+            MARY KAY也同時致力於環境保護、社會關懷、慈善公益等議題
+          </div>
+        </div>
+      </div>
+      <div class="row margin-top_50 silder_pink swiper-container">
+        <div class="swiper-wrapper">
+          <!-- swiper-slide col-lg-4 col-md-6 col-sm-6 col-12 -->
+          <div class="swiper-slide">
+            <div class="bg bg1">
+              <div class="inner">
+                <div class="content_heading flex">
+                  <h3>
+                    PINK DOING GREEN
+                    <p>環境永續與保護</p>
+                  </h3>
+                </div>
+                <div class="content_footer">
+                  <p>
+                    包括改良社區水資源包括灌溉系統、基質研究和作物生產多樣性。並減輕海洋污染、保護生物多樣性和海洋資源
+                  </p>
+                  <a class="btn-default btn-outline marginauto margin-top_20" href="#">更多報導</a>
+                </div>
+              </div>
+              <div class="hoverbox"></div>
+            </div>
+          </div>
+          <div class="swiper-slide">
+            <div class="bg bg2">
+              <div class="inner">
+                <div class="content_heading flex">
+                  <h3>
+                    PINK ACHIEVEMENT
+
+                    <p>品牌成就與獲獎</p>
+                  </h3>
+                </div>
+                <div class="content_footer">
+                  <p>玫琳凱與聯合國六大機構 合作推出女性創業加速器計畫 (Women's Entrepreneurship Accelerator)</p>
+                  <a class="btn-default btn-outline marginauto margin-top_20" href="#">更多報導</a>
+                </div>
+              </div>
+              <div class="hoverbox"></div>
+            </div>
+          </div>
+          <div class="swiper-slide">
+            <div class="bg bg3">
+              <div class="inner">
+                <div class="content_heading flex">
+                  <h3>
+                    PINK CHANGING LIVES
+
+                    <p>社會公益與慈善</p>
+                  </h3>
+                </div>
+                <div class="content_footer">
+                  <p>首位Pink Changing Lives Honoree得主 Monique Coleman</p>
+                  <a class="btn-default btn-outline marginauto margin-top_20" href="#">更多報導</a>
+                </div>
+              </div>
+              <div class="hoverbox"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="dark bottom-caption margin-top_150">
+      <div class="action small_title">
+        OUR PRODUCT
+        <div id="" class="arrow"><img src="~assets/images/down-arrow-white.svg" alt="" srcset="" /></div>
+      </div>
+    </div>
+  </section>
+</template>
