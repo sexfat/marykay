@@ -27,6 +27,8 @@ exports.default =  series(img ,parallel(server));
 exports.package =  series(clean, images , concats , parallel(zipfile));
 exports.imgs = img
 
+
+
 // exports.default = server ;
 
 
