@@ -88,7 +88,7 @@ export default {
   ],
 }
 ```
-[參考](https://nuxtjs.org/docs/2.x/directory-structure/plugins).
+[參考](https://nuxtjs.org/docs/2.x/directory-structure/plugins)
 
 ### `static`
 不需要壓縮的靜態資源資料夾<br>
