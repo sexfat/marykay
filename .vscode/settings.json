@@ -1,0 +1,9 @@
+{
+  "vetur.validation.template": false,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "prettier.tabWidth": 2,
+  "eslint.validate": ["javascript", "vue"]
+}
