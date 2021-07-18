@@ -21,6 +21,9 @@ export default {
   plugins: [
     { src: '~/plugins/mmenu-light.js', mode: 'client' },
     { src: '~/plugins/accordion.js', mode: 'client' },
+    { src: '~/plugins/aos.js', mode: 'client' },
+    { src: '~/plugins/swiper.js' },
+    { src: '~/plugins/gsap.js', mode: 'client' },
   ],
 
   // Auto import components: https://go.nuxtjs.dev/config-components
@@ -37,10 +40,18 @@ export default {
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {
+    transpile: ['gsap'],
     extractCSS: true,
+    loaders: {
+      vue: {
+        transformAssetUrls: {
+          video: ['src', 'poster'],
+        },
+      },
+    },
   },
   router: {
-    // base: "/marykay/dist/",
+    // base: '/dist/',
   },
   generate: {
     fallback: true,

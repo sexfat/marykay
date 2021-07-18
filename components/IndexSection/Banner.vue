@@ -17,7 +17,7 @@
       </h2>
     </div>
     <div class="video_wrap">
-      <video autoplay="autoplay" poster="~assets/images/videos/video_ind03.jpg" preload="auto" loop playsinline muted>
+      <video autoplay="autoplay" poster="" preload="auto" loop playsinline muted>
         <source src="~assets/images/video_ind03.mp4" type="video/mp4" />
       </video>
       <div class="video_overlay" style="background-color: rgba(0, 0, 0, 0.45)"></div>

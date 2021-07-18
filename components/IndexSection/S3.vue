@@ -2,7 +2,7 @@
   <div>
     <div class="s3">
       <div class="video_wrap hide">
-        <video poster="images/videos/brand.jpg" playsinline loop autoplay muted>
+        <video poster="" playsinline loop autoplay muted>
           <source src="~assets/images/video_ind03.mp4" type="video/mp4" />
         </video>
         <div class="slider_caption silder_1 swiper-container">

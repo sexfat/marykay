@@ -16,7 +16,7 @@
           </div>
         </div>
         <div class="col-lg-7 col-md-12 nomargin">
-          <video class="video" poster="~assets/images/videos/brand.jpg" playsinline loop autoplay muted>
+          <video class="video" poster="~assets/images/youtube.png" playsinline loop autoplay muted>
             <source src="~assets/images/video_ind03.mp4" type="video/mp4" />
           </video>
         </div>
@@ -33,8 +33,8 @@
       <div class="row margin-top_50">
         <div class="wrapper_slider">
           <div class="silder_2 swiper-container">
-            <div class="swiper-wrapper">
-              <div class="swiper-slide">
+            <Swiper ref="s5Swiper" :options="swiperOptions">
+              <Swiper-slide>
                 <img src="~assets/images/b_01.png" alt="" srcset="" />
                 <div class="spc">
                   <h4 class="titles">親水專區</h4>
@@ -44,16 +44,16 @@
                   </div>
                   <a href="#" class="btn-outline btn-large dark marginauto margin-top_30">了解更多</a>
                 </div>
-              </div>
-              <div class="swiper-slide">
+              </Swiper-slide>
+              <Swiper-slide>
                 <img src="~assets/images/b_01.png" alt="" srcset="" />
                 <div class="spc">
                   <h4 class="titles">養膚專區</h4>
                   <div class="desc">內外兼顧，用天然精華成分，高效養出健康童顏肌</div>
                   <a href="#" class="btn-outline btn-large dark marginauto margin-top_30">了解更多</a>
                 </div>
-              </div>
-              <div class="swiper-slide">
+              </Swiper-slide>
+              <Swiper-slide>
                 <img src="~assets/images/b_01.png" alt="" srcset="" />
                 <div class="spc">
                   <h4 class="titles">掃油專區</h4>
@@ -62,8 +62,8 @@
                   </div>
                   <a href="#" class="btn-outline btn-large dark marginauto margin-top_30">了解更多</a>
                 </div>
-              </div>
-              <div class="swiper-slide">
+              </Swiper-slide>
+              <Swiper-slide>
                 <img src="~assets/images/b_01.png" alt="" srcset="" />
                 <div class="spc">
                   <h4 class="titles">紓壓專區</h4>
@@ -72,8 +72,8 @@
                   </div>
                   <a href="#" class="btn-outline btn-large dark marginauto margin-top_30">了解更多</a>
                 </div>
-              </div>
-              <div class="swiper-slide">
+              </Swiper-slide>
+              <Swiper-slide>
                 <img src="~assets/images/b_01.png" alt="" srcset="" />
                 <div class="spc">
                   <h4 class="titles">懶人專區</h4>
@@ -83,8 +83,8 @@
                   </div>
                   <a href="#" class="btn-outline btn-large dark marginauto margin-top_30">了解更多</a>
                 </div>
-              </div>
-              <div class="swiper-slide">
+              </Swiper-slide>
+              <Swiper-slide>
                 <img src="~assets/images/b_01.png" alt="" srcset="" />
                 <div class="spc">
                   <h4 class="titles">懶人專區</h4>
@@ -94,8 +94,8 @@
                   </div>
                   <a href="#" class="btn-outline btn-large dark marginauto margin-top_30">了解更多</a>
                 </div>
-              </div>
-              <div class="swiper-slide">
+              </Swiper-slide>
+              <Swiper-slide>
                 <img src="~assets/images/b_01.png" alt="" srcset="" />
                 <div class="spc">
                   <h4 class="titles">肌膚檢測</h4>
@@ -104,13 +104,41 @@
                   </div>
                   <a href="#" class="btn-outline btn-large dark marginauto margin-top_30">了解更多</a>
                 </div>
-              </div>
-            </div>
-            <div class="swiper-button-prev"></div>
-            <div class="swiper-button-next"></div>
+              </Swiper-slide>
+              <div slot="button-prev" class="swiper-button-prev"></div>
+              <div slot="button-next" class="swiper-button-next"></div>
+            </Swiper>
           </div>
         </div>
       </div>
     </div>
   </div>
 </template>
+
+<script>
+export default {
+  data() {
+    return {
+      swiperOptions: {
+        loop: true,
+        slidesPerView: 3,
+        spaceBetween: 50,
+        breakpoints: {
+          320: {
+            slidesPerView: 1,
+            spaceBetween: 20,
+          },
+          769: {
+            slidesPerView: 3,
+            spaceBetween: 50,
+          },
+        },
+        navigation: {
+          nextEl: '.swiper-button-next',
+          prevEl: '.swiper-button-prev',
+        },
+      },
+    }
+  },
+}
+</script>

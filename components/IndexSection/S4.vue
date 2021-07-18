@@ -12,7 +12,7 @@
     </div>
     <!-- banner end-->
     <div class="banner">
-      <img class="pinkpark" src="~assets/images/bg_ind_s7@2x.jpg" alt="" srcset="" />
+      <img ref="pinkpark" class="pinkpark" src="~assets/images/bg_ind_s7@2x.jpg" alt="" srcset="" />
     </div>
     <div class="container-xxl">
       <div class="row">
@@ -26,9 +26,9 @@
         </div>
       </div>
       <div class="row margin-top_50 silder_pink swiper-container">
-        <div class="swiper-wrapper">
+        <Swiper ref="s4Swiper" :options="swiperOptions">
           <!-- swiper-slide col-lg-4 col-md-6 col-sm-6 col-12 -->
-          <div class="swiper-slide">
+          <Swiper-slide>
             <div class="bg bg1">
               <div class="inner">
                 <div class="content_heading flex">
@@ -46,8 +46,8 @@
               </div>
               <div class="hoverbox"></div>
             </div>
-          </div>
-          <div class="swiper-slide">
+          </Swiper-slide>
+          <Swiper-slide>
             <div class="bg bg2">
               <div class="inner">
                 <div class="content_heading flex">
@@ -64,8 +64,8 @@
               </div>
               <div class="hoverbox"></div>
             </div>
-          </div>
-          <div class="swiper-slide">
+          </Swiper-slide>
+          <Swiper-slide>
             <div class="bg bg3">
               <div class="inner">
                 <div class="content_heading flex">
@@ -82,8 +82,8 @@
               </div>
               <div class="hoverbox"></div>
             </div>
-          </div>
-        </div>
+          </Swiper-slide>
+        </Swiper>
       </div>
     </div>
     <div class="dark bottom-caption margin-top_150">
@@ -94,3 +94,40 @@
     </div>
   </section>
 </template>
+
+<script>
+export default {
+  name: 'S4',
+  data() {
+    return {
+      swiperOptions: {
+        loop: true,
+        slidesPerView: 3,
+        spaceBetween: 50,
+        breakpoints: {
+          320: {
+            spaceBetween: 50,
+            slidesPerView: 'auto',
+            centeredSlides: true,
+          },
+          769: {
+            slidesPerView: 3,
+            spaceBetween: 50,
+          },
+        },
+      },
+    }
+  },
+  mounted() {
+    const tl = this.$gsap.timeline()
+    tl.to(this.$refs.pinkpark, {
+      xPercent: -10,
+      scrollTrigger: {
+        trigger: '.pinkpark',
+        scrub: 1.2,
+      },
+    })
+    console.log('gsap', this.$gsap)
+  },
+}
+</script>

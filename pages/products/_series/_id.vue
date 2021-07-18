@@ -51,7 +51,7 @@
       <div class="row product_all-desc">
         <h3>影片</h3>
         <div class="video">
-          <video autoplay="autoplay" poster="~assets/images/videos/brand.jpg" preload="auto" loop playsinline muted>
+          <video autoplay="autoplay" poster="~assets/images/youtube.png" preload="auto" loop playsinline muted>
             <source src="~assets/images/video_ind03.mp4" type="video/mp4" />
           </video>
         </div>
