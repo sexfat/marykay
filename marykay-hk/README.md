@@ -1,5 +1,25 @@
 <h1 align="center"> marykay-hk </h1>
 
+### 專案安裝
+```bash
+# 安裝
+$ npm install
+```
+
+### nuxt 指令
+```bash
+# 執行開發環境
+$ npm run dev
+
+# 產生靜態頁面 路徑: ./dist/
+$ npm run generate
+
+```
+
+### vscode 格式化套件安裝
+
+* [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+* [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 ### 使用方式&資料夾說明
 
 ### `載入資源路徑範例`
