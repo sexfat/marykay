@@ -35,10 +35,12 @@
             <div class="detail">
               <section v-if="productData ? productData.skin_suitable : false">
                 <a href="#content-1" class="accordion-toggle">適用膚質</a>
+                <!--eslint-disable-next-line vue/no-v-html-->
                 <div id="content-1" class="accordion-content" v-html="$t(`${path}.skin_suitable`)"></div>
               </section>
               <section v-if="productData ? productData.usage : false">
                 <a href="#content-2" class="accordion-toggle">使用方法</a>
+                <!--eslint-disable-next-line vue/no-v-html-->
                 <div id="content-2" class="accordion-content" v-html="$t(`${path}.usage`)"></div>
               </section>
             </div>
