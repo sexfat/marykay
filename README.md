@@ -6,6 +6,6 @@
 
 分為兩種版本開發，以不同分支作為管理:
 
-* 香港版專案開發位置 : https://github.com/sexfat/marykay/tree/hk-dev
+* 香港版專案開發位置 :  [hk-dev 分支](https://github.com/sexfat/marykay/tree/hk-dev)
 
-* 台灣版專案開發位置 : 尚未建立
+* 台灣版專案開發位置 : tw-dev 分支 (尚未建立)
