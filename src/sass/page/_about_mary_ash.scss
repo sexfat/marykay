@@ -1,0 +1,155 @@
+.about_marykay_ash {
+    .breadcrumbs {
+        margin-bottom: 20px;
+    }
+
+    .banner {
+        height: 560px;
+        width: 100%;
+        overflow: hidden;
+        position: relative;
+
+        img {
+            object-fit: cover;
+            height: 560px;
+        }
+    }
+
+    .about_marykay_inner {
+        position: relative;
+        height: 0;
+
+        .text_head {
+            position: absolute;
+            left: 50%;
+            top: -460px;
+
+        }
+
+        .text_body {
+            margin-top: 50px;
+            width: 690px;
+
+            ul li {
+                list-style: disc;
+                line-height: 1.9rem;
+
+            }
+        }
+
+    }
+
+    .spec {
+        color: #000;
+
+        .num {
+            font-size: 32px;
+            font-weight: 900;
+        }
+
+        .desc {
+            font-size: 1rem;
+        }
+
+        .logo {
+            position: relative;
+            object-fit: cover;
+
+        }
+    }
+
+    .onebox {
+        padding: 100px 10px;
+
+        .inner {
+            width: 100%;
+            margin: 0 auto;
+            max-width: 950px ;
+        }
+    }
+
+    .about_marykay_content {
+        height: 617px;
+        background-image: url('../images/HK_layoutA/aboutMary-Kay-Ash_HK04.jpg');
+        background-repeat: no-repeat;
+        background-size: cover;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+        .bg {
+            background-color: rgba(255, 255, 255, 0.482);
+            width: 75%;
+            max-width: 996px;
+            padding: 60px 160px;
+           
+            .box {
+             box-shadow: 1px 3px 10px rgb(206, 206, 206);
+             padding: 30px;
+             background-color: #fff;
+             margin-top: 0;
+             .solgan {
+               margin-top: 0;
+               margin-bottom: 14px;
+             }
+
+            }
+
+            .text-body {
+                margin-top: 50px;
+                line-height: 1.8rem;
+            }
+
+            .solgan {
+                color: #FF395D;
+                font-weight: 500;
+                margin-top: 50px;
+
+            }
+
+        }
+
+    }
+
+    .bottom_content {
+        max-width: 1380px;
+        margin: 0 auto;
+        margin-top: 80px;
+        text-align: center;
+
+        .titles {
+            width: 60%;
+            max-width: 570px;
+            margin: 0 auto;
+
+            h1 {
+                font-size: 1.1rem;
+            }
+        }
+
+        .subtitles {
+            font-size: initial;
+            margin-top: 40px;
+            line-height: 1.5rem;
+        }
+
+        .inner>img {
+            height: 340px;
+            margin-bottom: 30px;
+
+        }
+
+        .inner>.specs {
+            object-fit: cover;
+            height: 340px;
+            object-position: top;
+        }
+
+        .inner>div {
+            padding: 22px;
+            min-height: 150px;
+        }
+
+        .inner {}
+    }
+}

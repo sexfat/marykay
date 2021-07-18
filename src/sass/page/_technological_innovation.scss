@@ -1,0 +1,67 @@
+.tech {
+    .breadcrumbs {
+        margin-bottom: 20px;
+    }
+
+    .banner {
+        height: 560px;
+        width: 100%;
+        overflow: hidden;
+        position: relative;
+
+        img {
+            object-fit: cover;
+            height: 560px;
+        }
+    }
+
+    .tech_inner {
+        position: relative;
+        height: 0;
+
+        .text_head {
+            position: absolute;
+            left: 50%;
+            top: -460px;
+
+        }
+
+        .text_body {
+            margin-top: 50px;
+            width: 690px;
+            ul li {
+                list-style: disc;
+                line-height: 1.9rem;
+                
+            }
+        }
+       
+    }
+    .spec {
+        padding: 50px 0;
+        background-color: rgb(0, 0, 0);
+        text-align: center;
+        .num {
+            font-size: 32px;
+            font-weight: 900;
+        }
+        .desc {
+            font-size: 1rem; 
+        }
+    }
+    .tech_content {
+        padding: 100px 0 0;
+        text-align: center;
+        .best {
+            width: 480px;
+            margin: 0 auto;
+            
+            .desc {
+                text-align: left;
+                width: 300px;
+                margin: 0 auto;
+            }
+
+        }
+    }
+}
