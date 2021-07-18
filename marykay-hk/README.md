@@ -1,69 +1,76 @@
-# marykay-hk
+<h1 align="center"> marykay-hk </h1>
 
-## Build Setup
+### 使用方式&資料夾說明
 
-```bash
-# install dependencies
-$ npm install
-
-# serve with hot reload at localhost:3000
-$ npm run dev
-
-# build for production and launch server
-$ npm run build
-$ npm run start
-
-# generate static project
-$ npm run generate
+### `載入資源路徑範例`
+以 "~" 為開頭當作跟目錄位置。
+```html
+ // ex path: assets/image/image.jpg
+ <img src="~assets/image/image.jpg">
 ```
-
-For detailed explanation on how things work, check out the [documentation](https://nuxtjs.org).
-
-## Special Directories
-
-You can create the following extra directories, some of which have special behaviors. Only `pages` is required; you can delete them if you don't want to use their functionality.
 
 ### `assets`
 
-The assets directory contains your uncompiled assets such as Stylus or Sass files, images, or fonts.
+上線會進行壓縮的的資源資料夾
+目前為:
+* image 圖檔位置
+* sass  scss位置 <br/>
 
-More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/assets).
+[參考](https://nuxtjs.org/docs/2.x/directory-structure/assets)
 
 ### `components`
+組件資料夾 
+```javascript
+//命名方式為 大寫開頭
+//ex: Header.vue
 
-The components directory contains your Vue.js components. Components make up the different parts of your page and can be reused and imported into your pages, layouts and even other components.
+//引用方式也為大寫
+<Header/>
 
-More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/components).
+//如過有多層資料夾  使用時須照路路徑 採大駝峰式命名法（upper camel case）
+//ex path: components/section/s1.vue
+<SectionS1/>
+
+```
+ [參考](https://nuxtjs.org/docs/2.x/directory-structure/components)
 
 ### `layouts`
-
-Layouts are a great help when you want to change the look and feel of your Nuxt app, whether you want to include a sidebar or have distinct layouts for mobile and desktop.
-
-More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/layouts).
+版面配置資料夾，預設值為default
+```javascript
+//非預設值時 依照檔名引用
+//ex layouts/about.vue
+// index.vue 引用時
+export default {
+  layout: 'about',
+}
+```
+[參考](https://nuxtjs.org/docs/2.x/directory-structure/layouts)
 
 
 ### `pages`
-
-This directory contains your application views and routes. Nuxt will read all the `*.vue` files inside this directory and setup Vue Router automatically.
-
-More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/get-started/routing).
+頁面資料夾，以資料夾當作頁面，資寮夾下圍index.vue。
+以 "_" 為開頭命為動態頁面，由參數決定頁面名 
+```javascript
+// ex: 新增about 頁面
+// path: pages/about/index.vue
+```
+ [參考](https://nuxtjs.org/docs/2.x/get-started/routing)
 
 ### `plugins`
+引用第三方js套件資料夾，檔案放入後，需到設定檔新增路徑
+```javascript
+// ex: path: plugins/plugin.js
 
-The plugins directory contains JavaScript plugins that you want to run before instantiating the root Vue.js Application. This is the place to add Vue plugins and to inject functions or constants. Every time you need to use `Vue.use()`, you should create a file in `plugins/` and add its path to plugins in `nuxt.config.js`.
-
-More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/plugins).
+//nuxt.config.js
+export default {
+    plugins: [
+    { src: '~/plugins/plugin.js', mode: 'client' },
+  ],
+}
+```
+[參考](https://nuxtjs.org/docs/2.x/directory-structure/plugins).
 
 ### `static`
+不需要壓縮的靜態資源資料夾<br>
 
-This directory contains your static files. Each file inside this directory is mapped to `/`.
-
-Example: `/static/robots.txt` is mapped as `/robots.txt`.
-
-More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/static).
-
-### `store`
-
-This directory contains your Vuex store files. Creating a file in this directory automatically activates Vuex.
-
-More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/store).
+[參考](https://nuxtjs.org/docs/2.x/directory-structure/static)
