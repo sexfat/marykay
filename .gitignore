@@ -3,3 +3,6 @@ dist
 package-lock.json
 .vscode
 package/*
+*.mp4
+.nuxt
+.eslintcache
