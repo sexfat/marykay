@@ -43,208 +43,208 @@
       }
     },
     "series_page": {
-      "series":{
-        "Youthfinity":{
-          "name":"臻時粹顏系列",
-          "cn":"臻時粹顏系列",
-          "header_links":"product_series",
-          "header_img":"series.jpg"
+      "series": {
+        "Youthfinity": {
+          "name": "臻時粹顏系列",
+          "cn": "臻時粹顏系列",
+          "header_links": "product_series",
+          "header_img": "series.jpg"
         },
-        "TimeWise_Repair":{
-          "name":"時光精靈Repair系列",
-          "cn":"時光精靈Repair系列",
-          "header_links":"product_series",
-          "header_img":"series.jpg"
+        "TimeWise_Repair": {
+          "name": "時光精靈Repair系列",
+          "cn": "時光精靈Repair系列",
+          "header_links": "product_series",
+          "header_img": "series.jpg"
         },
-        "TimeWise":{
-          "name":"時光精靈/ 時光精靈3D系列",
-          "cn":"時光精靈/ 時光精靈3D系列",
-          "header_links":"product_series",
-          "header_img":"series.jpg"
+        "TimeWise": {
+          "name": "時光精靈/ 時光精靈3D系列",
+          "cn": "時光精靈/ 時光精靈3D系列",
+          "header_links": "product_series",
+          "header_img": "series.jpg"
         },
-        "Naturally":{
-          "name":"天然淨活系列",
-          "cn":"天然淨活系列",
-          "header_links":"product_series",
-          "header_img":"series.jpg"
+        "Naturally": {
+          "name": "天然淨活系列",
+          "cn": "天然淨活系列",
+          "header_links": "product_series",
+          "header_img": "series.jpg"
         },
-        "Botanical_Effects":{
-          "name":"植物肌密系列",
-          "cn":"植物肌密系列",
-          "header_links":"product_series",
-          "header_img":"series.jpg"
+        "Botanical_Effects": {
+          "name": "植物肌密系列",
+          "cn": "植物肌密系列",
+          "header_links": "product_series",
+          "header_img": "series.jpg"
         },
-        "Supplementary":{
-          "name":"補充性保養系列",
-          "cn":"補充性保養系列",
-          "header_links":"product_series",
-          "header_img":"series.jpg"
+        "Supplementary": {
+          "name": "補充性保養系列",
+          "cn": "補充性保養系列",
+          "header_links": "product_series",
+          "header_img": "series.jpg"
         },
-        "LumiVie":{
-          "name":"亮采系列",
-          "cn":"亮采系列",
-          "header_links":"product_series",
-          "header_img":"series.jpg"
+        "LumiVie": {
+          "name": "亮采系列",
+          "cn": "亮采系列",
+          "header_links": "product_series",
+          "header_img": "series.jpg"
         },
-        "Calming_Influence":{
-          "name":"舒顏系列",
-          "cn":"舒顏系列",
-          "header_links":"product_series",
-          "header_img":"series.jpg"
+        "Calming_Influence": {
+          "name": "舒顏系列",
+          "cn": "舒顏系列",
+          "header_links": "product_series",
+          "header_img": "series.jpg"
         },
-        "Clear_Proof":{
-          "name":"淨顏系列",
-          "cn":"淨顏系列",
-          "header_links":"product_series",
-          "header_img":"series.jpg"
+        "Clear_Proof": {
+          "name": "淨顏系列",
+          "cn": "淨顏系列",
+          "header_links": "product_series",
+          "header_img": "series.jpg"
         },
-        "Male":{
-          "name":"男士系列",
-          "cn":"男士系列",
-          "header_links":"product_series",
-          "header_img":"series.jpg"
+        "Male": {
+          "name": "男士系列",
+          "cn": "男士系列",
+          "header_links": "product_series",
+          "header_img": "series.jpg"
         },
-        "Satin_Body":{
-          "name":"美體系列",
-          "cn":"美體系列",
-          "header_links":"product_series",
-          "header_img":"series.jpg"
+        "Satin_Body": {
+          "name": "美體系列",
+          "cn": "美體系列",
+          "header_links": "product_series",
+          "header_img": "series.jpg"
         },
-        "Remover":{
-          "name":"卸妝",
-          "cn":"卸妝",
-          "header_links":"product_features",
-          "header_img":"series.jpg"
+        "Remover": {
+          "name": "卸妝",
+          "cn": "卸妝",
+          "header_links": "product_features",
+          "header_img": "series.jpg"
         },
-        "Cleansing":{
-          "name":"潔顏",
-          "cn":"潔顏",
-          "header_links":"product_features",
-          "header_img":"series.jpg"
+        "Cleansing": {
+          "name": "潔顏",
+          "cn": "潔顏",
+          "header_links": "product_features",
+          "header_img": "series.jpg"
         },
-        "Toner":{
-          "name":"化妝水",
-          "cn":"化妝水",
-          "header_links":"product_features",
-          "header_img":"series.jpg"
+        "Toner": {
+          "name": "化妝水",
+          "cn": "化妝水",
+          "header_links": "product_features",
+          "header_img": "series.jpg"
         },
-        "Lotion":{
-          "name":"乳液/乳霜",
-          "cn":"乳液/乳霜",
-          "header_links":"product_features",
-          "header_img":"series.jpg"
+        "Lotion": {
+          "name": "乳液/乳霜",
+          "cn": "乳液/乳霜",
+          "header_links": "product_features",
+          "header_img": "series.jpg"
         },
-        "Facial_Mask":{
-          "name":"面膜",
-          "cn":"面膜",
-          "header_links":"product_features",
-          "header_img":"series.jpg"
+        "Facial_Mask": {
+          "name": "面膜",
+          "cn": "面膜",
+          "header_links": "product_features",
+          "header_img": "series.jpg"
         },
-        "Essence":{
-          "name":"精華液/油",
-          "cn":"精華液/油",
-          "header_links":"product_features",
-          "header_img":"series.jpg"
+        "Essence": {
+          "name": "精華液/油",
+          "cn": "精華液/油",
+          "header_links": "product_features",
+          "header_img": "series.jpg"
         },
-        "Body_Care":{
-          "name":"身體防曬/保養",
-          "cn":"身體防曬/保養",
-          "header_links":"product_features",
-          "header_img":"series.jpg"
+        "Body_Care": {
+          "name": "身體防曬/保養",
+          "cn": "身體防曬/保養",
+          "header_links": "product_features",
+          "header_img": "series.jpg"
         },
-        "Eye_Lip_Care":{
-          "name":"眼唇保養",
-          "cn":"眼唇保養",
-          "header_links":"product_features",
-          "header_img":"series.jpg"
+        "Eye_Lip_Care": {
+          "name": "眼唇保養",
+          "cn": "眼唇保養",
+          "header_links": "product_features",
+          "header_img": "series.jpg"
         },
-        "Special_Care":{
-          "name":"特殊護理",
-          "cn":"特殊護理",
-          "header_links":"product_features",
-          "header_img":"series.jpg"
+        "Special_Care": {
+          "name": "特殊護理",
+          "cn": "特殊護理",
+          "header_links": "product_features",
+          "header_img": "series.jpg"
         },
-        "Beauty_Apparatus":{
-          "name":"美容儀器",
-          "cn":"美容儀器",
-          "header_links":"product_features",
-          "header_img":"series.jpg"
+        "Beauty_Apparatus": {
+          "name": "美容儀器",
+          "cn": "美容儀器",
+          "header_links": "product_features",
+          "header_img": "series.jpg"
         },
-        "Lips":{
-          "name":"唇部系列",
-          "cn":"唇部系列",
-          "header_links":"makeup",
-          "header_img":"series.jpg"
+        "Lips": {
+          "name": "唇部系列",
+          "cn": "唇部系列",
+          "header_links": "makeup",
+          "header_img": "series.jpg"
         },
-        "Facial":{
-          "name":"臉部系列",
-          "cn":"臉部系列",
-          "header_links":"makeup",
-          "header_img":"series.jpg"
+        "Facial": {
+          "name": "臉部系列",
+          "cn": "臉部系列",
+          "header_links": "makeup",
+          "header_img": "series.jpg"
         },
-        "Eye":{
-          "name":"眼部系列",
-          "cn":"眼部系列",
-          "header_links":"makeup",
-          "header_img":"series.jpg"
+        "Eye": {
+          "name": "眼部系列",
+          "cn": "眼部系列",
+          "header_links": "makeup",
+          "header_img": "series.jpg"
         },
-        "Makeup_Tools":{
-          "name":"彩妝工具",
-          "cn":"彩妝工具",
-          "header_links":"makeup",
-          "header_img":"series.jpg"
+        "Makeup_Tools": {
+          "name": "彩妝工具",
+          "cn": "彩妝工具",
+          "header_links": "makeup",
+          "header_img": "series.jpg"
         },
-        "Fragrance":{
-          "name":"香氛系列",
-          "cn":"香氛系列",
-          "header_links":"makeup",
-          "header_img":"series.jpg"
+        "Fragrance": {
+          "name": "香氛系列",
+          "cn": "香氛系列",
+          "header_links": "makeup",
+          "header_img": "series.jpg"
         },
-        "Tonic":{
-          "name":"食物補充品",
-          "cn":"食物補充品",
-          "header_links":"tonic",
-          "header_img":"series.jpg"
+        "Tonic": {
+          "name": "食物補充品",
+          "cn": "食物補充品",
+          "header_links": "tonic",
+          "header_img": "series.jpg"
         },
-        "Hydrophilic":{
-          "name":"親水專區",
-          "cn":"親水專區",
-          "header_links":"skincare",
-          "header_img":"series.jpg"
+        "Hydrophilic": {
+          "name": "親水專區",
+          "cn": "親水專區",
+          "header_links": "skincare",
+          "header_img": "series.jpg"
         },
-        "Reverse_Age":{
-          "name":"逆齡專區",
-          "cn":"逆齡專區",
-          "header_links":"skincare",
-          "header_img":"series.jpg"
+        "Reverse_Age": {
+          "name": "逆齡專區",
+          "cn": "逆齡專區",
+          "header_links": "skincare",
+          "header_img": "series.jpg"
         },
-        "Oil_Control":{
-          "name":"控油專區",
-          "cn":"控油專區",
-          "header_links":"skincare",
-          "header_img":"series.jpg"
+        "Oil_Control": {
+          "name": "控油專區",
+          "cn": "控油專區",
+          "header_links": "skincare",
+          "header_img": "series.jpg"
         },
-        "Relief":{
-          "name":"舒壓專區",
-          "cn":"舒壓專區",
-          "header_links":"skincare",
-          "header_img":"series.jpg"
+        "Relief": {
+          "name": "舒壓專區",
+          "cn": "舒壓專區",
+          "header_links": "skincare",
+          "header_img": "series.jpg"
         },
-        "Slug":{
-          "name":"懶人專區",
-          "cn":"懶人專區",
-          "header_links":"skincare",
-          "header_img":"series.jpg"
+        "Slug": {
+          "name": "懶人專區",
+          "cn": "懶人專區",
+          "header_links": "skincare",
+          "header_img": "series.jpg"
         }
       }
     },
     "product_page": {
-      "title": "產品",
-      "description": "這是產品介紹",
-      "section_1": {
-        "title": "區塊1",
-        "description": "區塊1內容"
-      }
+      "home": "首頁",
+      "skin_suitable": "適用膚質",
+      "usage": "使用方法",
+      "video": "影片",
+      "function": "功能",
+      "principal_components": "主要成分"
     },
     "others_page": {
       "title": "其他",
@@ -258,6 +258,9 @@
   "header_links": {
     "maintenance": {
       "name": "保養"
+    },
+    "dm": {
+      "name": "線上DM"
     },
     "about": {
       "name": "關於玫琳凱",
@@ -273,7 +276,7 @@
       "series": {
         "Youthfinity": {
           "name": "臻時粹顏系列",
-          "products": ["pd01", "pd02","test"]
+          "products": ["pd01", "pd02", "test"]
         },
         "TimeWise_Repair": {
           "name": "時光精靈Repair系列",

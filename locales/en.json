@@ -239,12 +239,12 @@
       }
     },
     "product_page": {
-      "title": "產品",
-      "description": "這是產品介紹",
-      "section_1": {
-        "title": "區塊1",
-        "description": "區塊1內容"
-      }
+      "home": "Home",
+      "skin_suitable": "Skin Suitable",
+      "usage": "Usage",
+      "video": "Video",
+      "function": "Function",
+      "principal_components": "Principal Components"
     },
     "others_page": {
       "title": "其他",
@@ -258,6 +258,9 @@
   "header_links": {
     "maintenance": {
       "name": "Maintenance"
+    },
+    "dm": {
+      "name": "DM"
     },
     "about": {
       "name": "About Marykay",

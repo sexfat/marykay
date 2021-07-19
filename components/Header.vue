@@ -109,7 +109,9 @@
                     </li>
                   </ul>
                 </li>
-                <li><a href=""> 線上DM</a></li>
+                <li>
+                  <nuxt-link to="/">{{ $t('header_links.dm.name') }}</nuxt-link>
+                </li>
                 <li>
                   <a href="" @click="changeLang"> {{ lang }}</a>
                 </li>
