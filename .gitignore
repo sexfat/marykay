@@ -90,3 +90,6 @@ sw.*
 *.swp
 
 package/*
+
+*.mp4
+*.avi
