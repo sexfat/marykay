@@ -4,3 +4,8 @@ package-lock.json
 *.mp4
 package
 dist.zip
+.vscode
+package/*
+*.mp4
+.nuxt
+.eslintcache
