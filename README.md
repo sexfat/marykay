@@ -20,10 +20,11 @@ $ npm run generate
 
 * [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 * [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+* [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur) vue檔格式解析
 ### 使用方式&資料夾說明
 
 ### `載入資源路徑範例`
-以 "~" 為開頭當作跟目錄位置。
+以 "~" 為開頭作為根目錄起始位置。
 ```html
  // ex path: assets/image/image.jpg
  <img src="~assets/image/image.jpg">
@@ -88,7 +89,7 @@ export default {
   ],
 }
 ```
-[參考](https://nuxtjs.org/docs/2.x/directory-structure/plugins).
+[參考](https://nuxtjs.org/docs/2.x/directory-structure/plugins)
 
 ### `static`
 不需要壓縮的靜態資源資料夾<br>
