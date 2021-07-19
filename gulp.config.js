@@ -8,7 +8,8 @@ let baseConfig = {
         php:  basePaths + '/*.php',
         css:  basePaths + '/sass/*.scss',
         js: basePaths + '/js/*.js' ,
-        images: [basePaths + '/images/*.*' , basePaths + '/images/**/*.*']
+        images: [basePaths + '/images/*.*' , basePaths + '/images/**/*.*'],
+        fonts: basePaths + '/fonts/*.*'
     },
     //目的地
     pathsDev : {
@@ -17,7 +18,8 @@ let baseConfig = {
         php:   savePaths  + '/*.php' ,
         css:   savePaths + '/css/',
         js:   savePaths  + '/js/' ,
-        images:   'dist/images/',
+        images: savePaths + '/images/',
+        fonts: savePaths + '/fonts'
     },
     //監看檔案
     pathsWatch : {

@@ -83,6 +83,7 @@ $h_caption : 250px;
     height: $h_caption;
     @include t(){
         height: 100px;
+        margin-top: 100px;
     }
     // @include m(){
     //     height: 0px;

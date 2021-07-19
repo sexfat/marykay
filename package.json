@@ -7,7 +7,7 @@
     "安裝套件": "npm install",
     "開發": "gulp",
     "打包": "gulp package",
-    "圖片打包": "gulp imgs",
+    "圖片字體打包": "gulp imgs",
     "gulp結構": "gulp --tasks"
   },
   "repository": {

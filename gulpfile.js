@@ -21,11 +21,12 @@ const server = require('./tasks/server');
 const zipfile = require('./tasks/zip');
 const img = require('./tasks/img');
 const php = require('./tasks/phpconnect');
+const fonts = require('./tasks/font');
 
 
 exports.default =  series(img ,parallel(server));
 exports.package =  series(clean, images , concats , parallel(zipfile));
-exports.imgs = img
+exports.imgs =  series(img , fonts);
 
 
 
