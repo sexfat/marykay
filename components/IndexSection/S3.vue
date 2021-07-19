@@ -3,7 +3,7 @@
     <div class="s3">
       <div class="video_wrap hide">
         <video poster="" playsinline loop autoplay muted>
-          <source src="~assets/images/video_ind03.mp4" type="video/mp4" />
+          <source src="~assets/images/video/index_02.mp4" type="video/mp4" />
         </video>
         <div class="slider_caption silder_1 swiper-container">
           <div class="swiper-wrapper">
