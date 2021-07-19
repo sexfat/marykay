@@ -20,6 +20,7 @@ $ npm run generate
 
 * [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 * [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+* [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur) vue檔格式解析
 ### 使用方式&資料夾說明
 
 ### `載入資源路徑範例`
