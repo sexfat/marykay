@@ -1,0 +1,113 @@
+ .about_social {
+     .breadcrumbs {
+         margin-bottom: 20px;
+     }
+
+     .banner {
+         height: 560px;
+         width: 100%;
+         overflow: hidden;
+         position: relative;
+
+         img {
+             object-fit: cover;
+             height: 560px;
+         }
+     }
+
+     .about_social_inner {
+         position: relative;
+         height: 0;
+
+         .text_head {
+             position: absolute;
+             left: 50%;
+             top: -460px;
+
+         }
+
+         .text_body {
+             margin-top: 50px;
+             width: 690px;
+
+             ul li {
+                 list-style: disc;
+                 line-height: 1.9rem;
+
+             }
+         }
+
+     }
+
+     .spec {
+         padding: 100px 0;
+
+         ul {
+
+             li {
+                 line-height: 1.8rem;
+             }
+
+         }
+
+
+     }
+
+     .bottom_content {
+         max-width: 1380px;
+         margin: 0 auto;
+         margin-top: 80px;
+
+
+         .titles {
+             margin: 0 auto;
+
+             h1 {
+                 font-size: 1.1rem;
+             }
+         }
+
+         .subtitles {
+             font-size: initial;
+             margin-top: 40px;
+             line-height: 1.5rem;
+         }
+
+         .heart {
+             width: 40px;
+             height: 37px;
+             margin: 45px 0 70px;
+         }
+
+         .inner {
+            display: flex;
+            justify-content:space-around;
+            margin-bottom: 50px;
+          
+             .left {  
+                 img {
+                     width: 120px;
+                 }
+             }
+             .right {
+               position: relative;
+               width: 70%;
+               &::after {
+               content: '';
+               width: 2px;
+               height: 60px;
+               display: block;
+               background-color: rgb(227, 227, 227);
+               position: absolute;
+               right: -30px;
+               top: 30px;;
+               }
+             }
+             .none {
+               &::after {
+                display: none;
+               }
+             }
+         }
+     }
+ }

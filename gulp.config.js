@@ -8,7 +8,7 @@ let baseConfig = {
         php:  basePaths + '/*.php',
         css:  basePaths + '/sass/*.scss',
         js: basePaths + '/js/*.js' ,
-        images: basePaths + '/images/*.*'
+        images: [basePaths + '/images/*.*' , basePaths + '/images/**/*.*']
     },
     //目的地
     pathsDev : {

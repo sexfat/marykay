@@ -1,0 +1,146 @@
+.about_marykay {
+    .breadcrumbs {
+        margin-bottom: 20px;
+    }
+
+    .banner {
+        height: 560px;
+        width: 100%;
+        overflow: hidden;
+        position: relative;
+
+        img {
+            object-fit: cover;
+            height: 560px;
+        }
+    }
+
+    .about_marykay_inner {
+        position: relative;
+        height: 0;
+
+        .text_head {
+            position: absolute;
+            left: 50%;
+            top: -460px;
+
+        }
+
+        .text_body {
+            margin-top: 50px;
+            width: 690px;
+
+            ul li {
+                list-style: disc;
+                line-height: 1.9rem;
+
+            }
+        }
+
+    }
+
+    .spec {
+        padding: 100px 0;
+        background-color: rgb(0, 0, 0);
+
+        .num {
+            font-size: 32px;
+            font-weight: 900;
+        }
+
+        .desc {
+            font-size: 1rem;
+        }
+
+        .logo {
+            position: relative;
+            top: 40%;
+            width: 280px;
+        }
+    }
+
+    .tech_content {
+        padding: 100px 0 0;
+        text-align: center;
+
+        .best {
+            width: 480px;
+            margin: 0 auto;
+
+            .desc {
+                text-align: left;
+                width: 300px;
+                margin: 0 auto;
+            }
+
+        }
+    }
+
+    .about_marykay_content {
+        height: 617px;
+        background-image: url('../images/HK_layoutA/aboutMaryKay-HK03.jpg');
+        background-repeat: no-repeat;
+        background-size: cover;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+        .bg {
+            background-color: #fff;
+            width: 75%;
+            max-width: 996px;
+            padding: 60px 100px;
+            box-shadow: 3px 3px 10px rgb(126, 126, 126);
+
+            .text-body {
+                margin-top: 50px;
+                line-height: 1.8rem;
+            }
+
+            .solgan {
+                color: #FF395D;
+                font-weight: 500;
+                margin-top: 50px;
+
+            }
+
+        }
+
+    }
+
+    .bottom_content {
+       max-width: 1380px;
+       margin: 0 auto;
+       margin-top: 80px;
+       text-align: center;
+        .titles {
+            width: 60%;
+            max-width: 570px;
+            margin: 0 auto;
+            h1 {
+            font-size: 1.1rem;
+            }
+        }
+        .subtitles  {
+          font-size: initial;
+          margin-top: 40px;
+          line-height: 1.5rem;
+        }
+        .inner > img {
+           height: 340px;
+           margin-bottom: 30px; 
+
+        }
+        .inner > .specs {
+          object-fit: cover;
+          height: 340px;
+          object-position:top;
+        }
+        .inner > div {
+          padding: 22px;
+          min-height: 150px;
+        }
+        .inner {
+        }
+    }
+}
