@@ -14,20 +14,23 @@ $h_caption : 250px;
     overflow: hidden;
     color: $base_color;
     background-color: rgb(0, 0, 0);
-    @include t(){
+
+    @include t() {
         height: 80vh;
     }
-    @include m(){
+
+    @include m() {
         height: 76vh;
     }
 
     .swiper-container {
         height: calc(100vh - #{$h_caption});
         width: 100%;
-        @include t(){
+
+        @include t() {
             height: initial;
             z-index: 100;
-         }
+        }
     }
 
 
@@ -42,7 +45,8 @@ $h_caption : 250px;
             top: 0;
             left: 0;
             z-index: 1;
-            @include t(){
+
+            @include t() {
                 width: 100%;
                 height: 100%;
             }
@@ -62,17 +66,19 @@ $h_caption : 250px;
         position: absolute;
         z-index: 100;
         top: 0;
-        @include t(){
-           position: relative;
-           text-align: center;
-           margin-top: 40px;
-           padding-left: 10px;
-           padding-right: 10px;
-           h2 {
-              font-size: 1.5rem; 
-               line-height: 1;
-           }
-           
+
+        @include t() {
+            position: relative;
+            text-align: center;
+            margin-top: 40px;
+            padding-left: 10px;
+            padding-right: 10px;
+
+            h2 {
+                font-size: 1.5rem;
+                line-height: 1;
+            }
+
         }
 
     }
@@ -81,12 +87,45 @@ $h_caption : 250px;
 .bottom-caption {
     position: relative;
     height: $h_caption;
-    @include t(){
+
+    @include t() {
         height: 100px;
-        margin-top: 100px;
+        //margin-top: 100px;
     }
+
     // @include m(){
     //     height: 0px;
     // }
+
+}
+
+
+#en {
+
+    .bottom-caption {
+        position: relative;
+        height: $h_caption;
+
+        @include t() {
+            height: 150px;
+
+        }
+    }
+
+
+    .s3 {
+
+        @include t() {
+            height: 90vh;
+        }
+
+        @include m() {
+            height: 80vh;
+        }
+
+
+    }
+
+
 
 }
