@@ -43,11 +43,199 @@
       }
     },
     "series_page": {
-      "title": "系列",
-      "description": "這是系列介紹",
-      "section_1": {
-        "title": "區塊1",
-        "description": "區塊1內容"
+      "series": {
+        "Youthfinity": {
+          "name": "Youthfinity",
+          "cn": "臻時粹顏系列",
+          "header_links": "product_series",
+          "header_img": "series.jpg"
+        },
+        "TimeWise_Repair": {
+          "name": "TimeWise Repair",
+          "cn": "時光精靈Repair系列",
+          "header_links": "product_series",
+          "header_img": "series.jpg"
+        },
+        "TimeWise": {
+          "name": "TimeWise",
+          "cn": "時光精靈/ 時光精靈3D系列",
+          "header_links": "product_series",
+          "header_img": "series.jpg"
+        },
+        "Naturally": {
+          "name": "Naturally",
+          "cn": "天然淨活系列",
+          "header_links": "product_series",
+          "header_img": "series.jpg"
+        },
+        "Botanical_Effects": {
+          "name": "Botanical Effects",
+          "cn": "植物肌密系列",
+          "header_links": "product_series",
+          "header_img": "series.jpg"
+        },
+        "Supplementary": {
+          "name": "Supplementary",
+          "cn": "補充性保養系列",
+          "header_links": "product_series",
+          "header_img": "series.jpg"
+        },
+        "LumiVie": {
+          "name": "LumiVie",
+          "cn": "亮采系列",
+          "header_links": "product_series",
+          "header_img": "series.jpg"
+        },
+        "Calming_Influence": {
+          "name": "Calming Influence",
+          "cn": "舒顏系列",
+          "header_links": "product_series",
+          "header_img": "series.jpg"
+        },
+        "Clear_Proof": {
+          "name": "Clear Proof",
+          "cn": "淨顏系列",
+          "header_links": "product_series",
+          "header_img": "series.jpg"
+        },
+        "Male": {
+          "name": "Male",
+          "cn": "男士系列",
+          "header_links": "product_series",
+          "header_img": "series.jpg"
+        },
+        "Satin_Body": {
+          "name": "Satin Body",
+          "cn": "美體系列",
+          "header_links": "product_series",
+          "header_img": "series.jpg"
+        },
+        "Remover": {
+          "name": "Remover",
+          "cn": "卸妝",
+          "header_links": "product_features",
+          "header_img": "series.jpg"
+        },
+        "Cleansing": {
+          "name": "Cleansing",
+          "cn": "潔顏",
+          "header_links": "product_features",
+          "header_img": "series.jpg"
+        },
+        "Toner": {
+          "name": "Toner",
+          "cn": "化妝水",
+          "header_links": "product_features",
+          "header_img": "series.jpg"
+        },
+        "Lotion": {
+          "name": "Lotion",
+          "cn": "乳液/乳霜",
+          "header_links": "product_features",
+          "header_img": "series.jpg"
+        },
+        "Facial_Mask": {
+          "name": "Facial Mask",
+          "cn": "面膜",
+          "header_links": "product_features",
+          "header_img": "series.jpg"
+        },
+        "Essence": {
+          "name": "Essence",
+          "cn": "精華液/油",
+          "header_links": "product_features",
+          "header_img": "series.jpg"
+        },
+        "Body_Care": {
+          "name": "Body Care",
+          "cn": "身體防曬/保養",
+          "header_links": "product_features",
+          "header_img": "series.jpg"
+        },
+        "Eye_Lip_Care": {
+          "name": "Eye & Lip Care",
+          "cn": "眼唇保養",
+          "header_links": "product_features",
+          "header_img": "series.jpg"
+        },
+        "Special_Care": {
+          "name": "Special Care",
+          "cn": "特殊護理",
+          "header_links": "product_features",
+          "header_img": "series.jpg"
+        },
+        "Beauty_Apparatus": {
+          "name": "Beauty Apparatus",
+          "cn": "美容儀器",
+          "header_links": "product_features",
+          "header_img": "series.jpg"
+        },
+        "Lips": {
+          "name": "Lips",
+          "cn": "唇部系列",
+          "header_links": "makeup",
+          "header_img": "series.jpg"
+        },
+        "Facial": {
+          "name": "Facial",
+          "cn": "臉部系列",
+          "header_links": "makeup",
+          "header_img": "series.jpg"
+        },
+        "Eye": {
+          "name": "Eye",
+          "cn": "眼部系列",
+          "header_links": "makeup",
+          "header_img": "series.jpg"
+        },
+        "Makeup_Tools": {
+          "name": "Makeup Tools",
+          "cn": "彩妝工具",
+          "header_links": "makeup",
+          "header_img": "series.jpg"
+        },
+        "Fragrance": {
+          "name": "Fragrance",
+          "cn": "香氛系列",
+          "header_links": "makeup",
+          "header_img": "series.jpg"
+        },
+        "Tonic": {
+          "name": "Tonic",
+          "cn": "食物補充品",
+          "header_links": "tonic",
+          "header_img": "series.jpg"
+        },
+        "Hydrophilic": {
+          "name": "Hydrophilic",
+          "cn": "親水專區",
+          "header_links": "skincare",
+          "header_img": "series.jpg"
+        },
+        "Reverse_Age": {
+          "name": "Reverse Age",
+          "cn": "逆齡專區",
+          "header_links": "skincare",
+          "header_img": "series.jpg"
+        },
+        "Oil_Control": {
+          "name": "Oil Control",
+          "cn": "控油專區",
+          "header_links": "skincare",
+          "header_img": "series.jpg"
+        },
+        "Relief": {
+          "name": "Relief",
+          "cn": "舒壓專區",
+          "header_links": "skincare",
+          "header_img": "series.jpg"
+        },
+        "Slug": {
+          "name": "Slug",
+          "cn": "懶人專區",
+          "header_links": "skincare",
+          "header_img": "series.jpg"
+        }
       }
     },
     "product_page": {
@@ -68,163 +256,166 @@
     }
   },
   "header_links": {
+    "maintenance": {
+      "name": "Maintenance"
+    },
     "about": {
-      "name": "關於",
+      "name": "About Marykay",
       "series": {
-        "concept": { "name": "品牌理念" },
-        "story": { "name": "創辦人故事" },
-        "charitable": { "name": "粉紅公益" },
-        "innovation": { "name": "科研創新" }
+        "concept": { "name": "Concept" },
+        "story": { "name": "Story" },
+        "charitable": { "name": "Charitable" },
+        "innovation": { "name": "Innovation" }
       }
     },
     "product_series": {
-      "name": "產品系列",
+      "name": "Product Series",
       "series": {
-        "Youthfinity&1": {
-          "name": "Youthfinity",
-          "products": ["pd01", "pd02","test"]
+        "Youthfinity": {
+          "name": "臻時粹顏系列",
+          "products": ["pd01", "pd02", "test"]
         },
-        "ps02": {
-          "name": "series 2 test",
+        "TimeWise_Repair": {
+          "name": "時光精靈Repair系列",
           "products": []
         },
-        "ps03": {
-          "name": "series 3 test",
+        "TimeWise": {
+          "name": "時光精靈/ 時光精靈3D系列",
           "products": []
         },
-        "ps04": {
-          "name": "series 4 test",
+        "Naturally": {
+          "name": "天然淨活系列",
           "products": []
         },
-        "ps05": {
-          "name": "series 5 test",
+        "Botanical_Effects": {
+          "name": "植物肌密系列",
           "products": []
         },
-        "ps06": {
-          "name": "series 6 test",
+        "Supplementary": {
+          "name": "補充性保養系列",
           "products": []
         },
-        "ps07": {
-          "name": "series 7 test",
+        "LumiVie": {
+          "name": "亮采系列",
           "products": []
         },
-        "ps08": {
-          "name": "series 8 test",
+        "Calming_Influence": {
+          "name": "舒顏系列",
           "products": []
         },
-        "ps09": {
-          "name": "series 9 test",
+        "Clear_Proof": {
+          "name": "淨顏系列",
           "products": []
         },
-        "ps10": {
-          "name": "series 10 test",
+        "Male": {
+          "name": "男士系列",
           "products": []
         },
-        "ps11": {
-          "name": "series 11 test",
+        "Satin_Body": {
+          "name": "美體系列",
           "products": []
         }
       }
     },
     "product_features": {
-      "name": "產品功能",
+      "name": "Product Features",
       "series": {
-        "pf01": {
+        "Remover": {
           "name": "卸妝",
-          "products": ["pf01_01"]
+          "products": []
         },
-        "pf02": {
+        "Cleansing": {
           "name": "潔顏",
           "products": []
         },
-        "pf03": {
+        "Toner": {
           "name": "化妝水",
           "products": []
         },
-        "pf04": {
+        "Lotion": {
           "name": "乳液/乳霜",
           "products": []
         },
-        "pf05": {
+        "Facial_Mask": {
           "name": "面膜",
           "products": []
         },
-        "pf06": {
+        "Essence": {
           "name": "精華液/油",
           "products": []
         },
-        "pf07": {
+        "Body_Care": {
           "name": "身體防曬/保養",
           "products": []
         },
-        "pf08": {
+        "Eye_Lip_Care": {
           "name": "眼唇保養",
           "products": []
         },
-        "pf09": {
+        "Special_Care": {
           "name": "特殊護理",
           "products": []
         },
-        "pf10": {
+        "Beauty_Apparatus": {
           "name": "美容儀器",
           "products": []
         }
       }
     },
     "makeup": {
-      "name": "底妝/彩妝",
+      "name": "Makeup",
       "series": {
-        "mu01": {
+        "Lips": {
           "name": "唇部系列",
-          "products": ["mu01_01"]
+          "products": []
         },
-        "mu02": {
+        "Facial": {
           "name": "臉部系列",
           "products": []
         },
-        "mu03": {
+        "Eye": {
           "name": "眼部系列",
           "products": []
         },
-        "mu04": {
+        "Makeup_Tools": {
           "name": "彩妝工具",
           "products": []
         },
-        "mu05": {
+        "Fragrance": {
           "name": "香氛系列",
           "products": []
         }
       }
     },
     "tonic": {
-      "name": "食物補充品",
+      "name": "Tonic",
       "series": {
-        "tn01": {
+        "Tonic": {
           "name": "食物補充品",
-          "products": ["tn01_01"]
+          "products": []
         }
       }
     },
     "skincare": {
-      "name": "護膚專區",
+      "name": "Skin Care",
       "series": {
-        "sc01": {
+        "Hydrophilic": {
           "name": "親水專區",
-          "products": ["sk01_01"]
+          "products": []
         },
-        "sc02": {
+        "Reverse_Age": {
           "name": "逆齡專區",
           "products": []
         },
-        "sc03": {
+        "Oil_Control": {
           "name": "控油專區",
           "products": []
         },
-        "sc04": {
+        "Relief": {
           "name": "舒壓專區",
           "products": []
         },
-        "sc05": {
+        "Slug": {
           "name": "懶人專區",
           "products": []
         }
@@ -239,16 +430,16 @@
       "capacity": "30ml",
       "price": "HK$2,450",
       "description": "A full-effect essence that can maximize the regenerating energy of the skin. It melts into the skin as soon as it is applied, and instills the extraordinary life energy of the Youthfinity™ Alpen Rose complex into the skin, which simultaneously defends, rejuvenates and delays aging. It rejuenates the skin layer by layer, making it  become firmer and more delicate. The skin feels silky soft and smooth, and you can enjoy the most beautiful transformation.",
-      "skin_suitable":" Suitable for all skin types ",
-      "usage":"• Use every morning and evening after cleansing and toning.<br>• With the following massage techniques, you can achieve the best sensory enjoyment and the product's skin rejuvenating effect:<br><br>Apply the products evenly on face and neck with your fingertips, avoiding eye area.<br>Starting from the center of the face, use your fingers to gently spread the essence upwards and outwards evenly.",
-      "function":"• Smoothes fine lines and wrinkles.<br>• Significantly improve skin firmness and elasticity.<br>•Extremely improve the overall texture and condition of the skin.<br>•Formulation features:<br>Passed Asian skin quality test, suitable for Asian skin<br>Fight against fatigue<br>Has a light and elegant floral fragrance<br>Not easy to cause acne<br>First use*:<br>• Skin texture becomes fine and smooth<br>• The skin regains its vitality<br>• The skin feels that the aging stressor is gradually relieved<br>• The skin is more radiant and brighter, feeling firmer and fuller<br>Three weeks of continuous usage*:<br>• The skin texture is significantly improved and becomes silky smooth<br>• Regain youthful vitality and energy<br>• Significantly improve the overall quality and condition of the skin<br>• Extremely enhance skin firmness and elasticity<br>• Use daily to significantly improve fine lines and wrinkles<br>• Skin glows with youthful radiance<br>*Independent consumer research results of women who continue to use the product in the morning and evening",
-      "principal_components":"The unique Youthfinity Infinite Complex™ rose complex, which combines three top anti-aging ingredients, activates the 3R Infinite Complex™ system, which provides three functions of defending, rejuvenating and delaying anti-aging:<br><br>RESIST protects against external environmental aggressions<br>-Alpen Rose : awakens the skin's natural protective barrier and resists various external environmental pressures.<br><br>REJUNVENATE revitalizes skin's full elasticity<br>-Evening Primrose: The essence extracted from the evening primrose seeds promotes the regeneration of skin proteins and revitalizes the skin's fullness, firmness and elasticity.<br><br>REDUCE delays internal aging of the skin<<br>•<br>Specially added active ingredient-nightweed leaf extract to help the skin's important protein proliferation, regain vitality from the inside, and show youthful vitality.",
-      "video_source":null,
+      "skin_suitable": " Suitable for all skin types ",
+      "usage": "• Use every morning and evening after cleansing and toning.<br>• With the following massage techniques, you can achieve the best sensory enjoyment and the product's skin rejuvenating effect:<br><br>Apply the products evenly on face and neck with your fingertips, avoiding eye area.<br>Starting from the center of the face, use your fingers to gently spread the essence upwards and outwards evenly.",
+      "function": "• Smoothes fine lines and wrinkles.<br>• Significantly improve skin firmness and elasticity.<br>•Extremely improve the overall texture and condition of the skin.<br>•Formulation features:<br>Passed Asian skin quality test, suitable for Asian skin<br>Fight against fatigue<br>Has a light and elegant floral fragrance<br>Not easy to cause acne<br>First use*:<br>• Skin texture becomes fine and smooth<br>• The skin regains its vitality<br>• The skin feels that the aging stressor is gradually relieved<br>• The skin is more radiant and brighter, feeling firmer and fuller<br>Three weeks of continuous usage*:<br>• The skin texture is significantly improved and becomes silky smooth<br>• Regain youthful vitality and energy<br>• Significantly improve the overall quality and condition of the skin<br>• Extremely enhance skin firmness and elasticity<br>• Use daily to significantly improve fine lines and wrinkles<br>• Skin glows with youthful radiance<br>*Independent consumer research results of women who continue to use the product in the morning and evening",
+      "principal_components": "The unique Youthfinity Infinite Complex™ rose complex, which combines three top anti-aging ingredients, activates the 3R Infinite Complex™ system, which provides three functions of defending, rejuvenating and delaying anti-aging:<br><br>RESIST protects against external environmental aggressions<br>-Alpen Rose : awakens the skin's natural protective barrier and resists various external environmental pressures.<br><br>REJUNVENATE revitalizes skin's full elasticity<br>-Evening Primrose: The essence extracted from the evening primrose seeds promotes the regeneration of skin proteins and revitalizes the skin's fullness, firmness and elasticity.<br><br>REDUCE delays internal aging of the skin<<br>•<br>Specially added active ingredient-nightweed leaf extract to help the skin's important protein proliferation, regain vitality from the inside, and show youthful vitality.",
+      "video_source": null,
       "normal_image": "臻時粹顏™精華乳01.png",
-      "small_images":{
-        "img_01":"臻時粹顏™精華乳02.png"
+      "small_images": {
+        "img_01": "臻時粹顏™精華乳02.png"
       },
-      "description_image":null
+      "description_image": null
     },
     "pd02": {
       "name": "Youthfinity® The Facial Oil",
@@ -257,18 +448,18 @@
       "capacity": "30ml",
       "price": "HK$2,450",
       "description": "The first facial essence oil by Mary Kay, which specially added rare 24K liquid gold peptides, injects powerful anti-aging peptides into the skin, promotes collagen production, and blends the endless beauty brought by the eternal rose with the endless luxury brought by the 24K liquid gold peptides. It replenishes the source of moisture, makes the skin firmer, and significantly reduces fine lines and wrinkles. The skin glows with youthful luster from the inside out and shines with unprecedented radiance.",
-      "skin_suitable":" Suitable for all skin types ",
-      "usage":" • Use every morning and evening, after cleansing, toning and essence, and before using the cream. The facial essence oil can be used alone, or be mixed with face cream.<br>• Use the following massage techniques to bring endless luxury to your skin:<br><br>Take a few drops of the essential oil and rub it gently on the palm to warm it, gently press it on the skin to help absorption, then push it from the center of the face to the temples, and then from the center of the forehead to the temples.<br>Push the palm of your hand up to the earlobe along the bottom of the neck, and lift the skin of the face and neck from bottom to top.<br>To<br>Finally, gently make a circular motion to the temples and press gently, avoiding the eye area.",
-      "function":"Add rare 24K liquid gold peptides to promote collagen production1 and enhance skin firmness.<br><br>The precious ingredients Alpine Rose and Evening Primrose focus on resisting skin aging and anti-oxidanttion1, perfecting and firming the skin.<br><br>Visibly improves fine lines and wrinkles, and helps the skin regains softness and moisture.<br><br>Eau De Lune water moonlight exudes an elegant and quiet floral fragrance, which makes you indulge in the enjoyment of the senses, and also brings you the delicate, supple and  beautiful skin.<br><br>Significantly improve skin density, enhance elasticity and toughness.<br><br><br>The ultimate testimony of clinical test results 2:<br><br>• 96% witnessed that the complexion is more radiant and radiant<br>• 92% witnessed that the skin's firmness and elasticity were significantly improved, and the skin texture was improved<br>• 91% witnessed healthier skin<br>• 88% witnessed significant improvement in fine lines and wrinkles<br>• 87% witnessed the skin becoming firmer and younger, glowing with youthful radiance",
-      "principal_components":"24K Liquid Gold Polypeptide: Improve the skin's internal structure and strength, promote collagen production1, and enhance skin firmness. It also contains moisturizing ceramides and plant-derived phytosterols, which help enhance the skin's barrier function and skin care effect3. With continuous use, the skin will be plumped, more elastic and younger.<br><br>Aspen Rose extract: awakens the skin's natural protective barrier, helps protect the skin against various environmental stresses, and solves the problem of skin aging.<br><br>Evening primrose: The essence extracted from evening primrose seeds helps revitalize the self-proliferation of skin matrix protein, intensively repairs the skin, revitalizes the skin's fullness, elasticity and firmness, and tightens the skin.<br><br>Squalane: Replenish the required lipids for the skin and form a breathable protective film on the surface of the skin, which can slow down the evaporation of moisture, play a moisturizing and emollient effect, and keep the skin healthy.<br><br>配方特點：<br>通過亞洲膚質測試，適合亞洲人肌膚<br>適合各種肌膚類型<br>不易堵塞毛孔<br>*女性持續早晚使用產品的獨立消費者研究結果<br>1 關鍵成分的體外測試結果<br>2 結果來自個別的獨立消費者研究，測試中252名亞洲女性使用產品21天，每天2次後給予評價<br>3 關鍵成分的體內測試結果Formula characteristics:<br>Passed Asian skin quality test, suitable for Asian skin<br>Suitable for all skin types types<br>Not easy to clog pores<br>*Independent consumer research results of women who continue to use the product in the morning and evening<br>1 In vitro test results of key ingredients<br>2 The results come from individual independent consumer research. In the test, 252 Asian women used the product for 21 days and evaluated after 2 times a day3 In vivo test results of key ingredients",
-      "video_source":"video_ind03.mp4",
+      "skin_suitable": " Suitable for all skin types ",
+      "usage": " • Use every morning and evening, after cleansing, toning and essence, and before using the cream. The facial essence oil can be used alone, or be mixed with face cream.<br>• Use the following massage techniques to bring endless luxury to your skin:<br><br>Take a few drops of the essential oil and rub it gently on the palm to warm it, gently press it on the skin to help absorption, then push it from the center of the face to the temples, and then from the center of the forehead to the temples.<br>Push the palm of your hand up to the earlobe along the bottom of the neck, and lift the skin of the face and neck from bottom to top.<br>To<br>Finally, gently make a circular motion to the temples and press gently, avoiding the eye area.",
+      "function": "Add rare 24K liquid gold peptides to promote collagen production1 and enhance skin firmness.<br><br>The precious ingredients Alpine Rose and Evening Primrose focus on resisting skin aging and anti-oxidanttion1, perfecting and firming the skin.<br><br>Visibly improves fine lines and wrinkles, and helps the skin regains softness and moisture.<br><br>Eau De Lune water moonlight exudes an elegant and quiet floral fragrance, which makes you indulge in the enjoyment of the senses, and also brings you the delicate, supple and  beautiful skin.<br><br>Significantly improve skin density, enhance elasticity and toughness.<br><br><br>The ultimate testimony of clinical test results 2:<br><br>• 96% witnessed that the complexion is more radiant and radiant<br>• 92% witnessed that the skin's firmness and elasticity were significantly improved, and the skin texture was improved<br>• 91% witnessed healthier skin<br>• 88% witnessed significant improvement in fine lines and wrinkles<br>• 87% witnessed the skin becoming firmer and younger, glowing with youthful radiance",
+      "principal_components": "24K Liquid Gold Polypeptide: Improve the skin's internal structure and strength, promote collagen production1, and enhance skin firmness. It also contains moisturizing ceramides and plant-derived phytosterols, which help enhance the skin's barrier function and skin care effect3. With continuous use, the skin will be plumped, more elastic and younger.<br><br>Aspen Rose extract: awakens the skin's natural protective barrier, helps protect the skin against various environmental stresses, and solves the problem of skin aging.<br><br>Evening primrose: The essence extracted from evening primrose seeds helps revitalize the self-proliferation of skin matrix protein, intensively repairs the skin, revitalizes the skin's fullness, elasticity and firmness, and tightens the skin.<br><br>Squalane: Replenish the required lipids for the skin and form a breathable protective film on the surface of the skin, which can slow down the evaporation of moisture, play a moisturizing and emollient effect, and keep the skin healthy.<br><br>配方特點：<br>通過亞洲膚質測試，適合亞洲人肌膚<br>適合各種肌膚類型<br>不易堵塞毛孔<br>*女性持續早晚使用產品的獨立消費者研究結果<br>1 關鍵成分的體外測試結果<br>2 結果來自個別的獨立消費者研究，測試中252名亞洲女性使用產品21天，每天2次後給予評價<br>3 關鍵成分的體內測試結果Formula characteristics:<br>Passed Asian skin quality test, suitable for Asian skin<br>Suitable for all skin types types<br>Not easy to clog pores<br>*Independent consumer research results of women who continue to use the product in the morning and evening<br>1 In vitro test results of key ingredients<br>2 The results come from individual independent consumer research. In the test, 252 Asian women used the product for 21 days and evaluated after 2 times a day3 In vivo test results of key ingredients",
+      "video_source": "video_ind03.mp4",
       "normal_image": "臻時粹顏™精華油.png",
-      "small_images":{
-        "img_01":"臻時粹顏™精華油.png",
-        "img_02":"臻時粹顏™精華油01.png",
-        "img_03":"臻時粹顏™精華油02.png"
+      "small_images": {
+        "img_01": "臻時粹顏™精華油.png",
+        "img_02": "臻時粹顏™精華油01.png",
+        "img_03": "臻時粹顏™精華油02.png"
       },
-      "description_image":null
+      "description_image": null
     },
     "test": {
       "name": "臻時粹顏™精華油",

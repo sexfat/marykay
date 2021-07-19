@@ -19,95 +19,94 @@
             <nav id="navigation" ref="navigation" class="mainnav">
               <ul class="mainmenu">
                 <li>
-                  <span>關於玫琳凱</span>
+                  <span>{{ $t('header_links.about.name') }}</span>
                   <ul>
-                    <li><a href="#">品牌理念</a></li>
-                    <li><a href="#">創辦人故事</a></li>
-                    <li><a href="#">粉紅公益</a></li>
-                    <li><a href="#">科研創新</a></li>
+                    <li v-for="(item, index) in Object.entries(linkData.about.series)" :key="index">
+                      <nuxt-link to="/">
+                        {{ $t(`header_links.about.series.${item[0]}.name`) }}
+                      </nuxt-link>
+                    </li>
                   </ul>
                 </li>
                 <li>
-                  <span>保養</span>
+                  <span>{{ $t('header_links.maintenance.name') }}</span>
                   <ul>
                     <li>
-                      <span>產品系列</span>
+                      <span>{{ $t('header_links.product_series.name') }}</span>
                       <ul class="last_menu">
                         <li v-for="(item, index) in Object.entries(linkData.product_series.series)" :key="index">
                           <nuxt-link
                             :to="{
                               name: `products-id___${$i18n.locale}`,
-                              params: { id: item[0], series: 'product_series' },
+                              params: { id: item[0] },
                             }"
-                            >{{ $t(`header_links.product_series.series.${item[0]}.name`) }}</nuxt-link
                           >
+                            {{ $t(`pages.series_page.series.${item[0]}.name`) }}
+                          </nuxt-link>
                         </li>
                       </ul>
                     </li>
                     <li>
-                      <span>產品功能</span>
+                      <span>{{ $t('header_links.product_features.name') }}</span>
                       <ul class="last_menu">
-                        <li>
-                          <a href="＃">卸妝</a>
-                        </li>
-                        <li>
-                          <a href="＃">潔顏</a>
-                        </li>
-                        <li>
-                          <a href="＃">化妝水</a>
-                        </li>
-                        <li>
-                          <a href="＃">乳液/乳霜</a>
-                        </li>
-                        <li>
-                          <a href="＃">面膜</a>
-                        </li>
-                        <li>
-                          <a href="＃">精華液/油</a>
-                        </li>
-                        <li>
-                          <a href="＃">身體防曬/保養</a>
-                        </li>
-                        <li>
-                          <a href="＃">眼唇保養</a>
-                        </li>
-                        <li>
-                          <a href="＃">特殊護理</a>
-                        </li>
-                        <li>
-                          <a href="＃">美容儀器</a>
+                        <li v-for="(item, index) in Object.entries(linkData.product_features.series)" :key="index">
+                          <nuxt-link
+                            :to="{
+                              name: `products-id___${$i18n.locale}`,
+                              params: { id: item[0] },
+                            }"
+                          >
+                            {{ $t(`pages.series_page.series.${item[0]}.name`) }}
+                          </nuxt-link>
                         </li>
                       </ul>
                     </li>
                   </ul>
                 </li>
                 <li>
-                  <span>彩妝</span>
+                  <span>{{ $t('header_links.makeup.name') }}</span>
                   <ul>
-                    <li><a href="">唇部系列</a></li>
-                    <li><a href="">臉部系列</a></li>
-                    <li><a href="">眼部系列</a></li>
-                    <li><a href="">彩妝工具</a></li>
-                    <li><a href="">香氛系列</a></li>
-                    <li><a href="">彩妝工具</a></li>
+                    <li v-for="(item, index) in Object.entries(linkData.makeup.series)" :key="index">
+                      <nuxt-link
+                        :to="{
+                          name: `products-id___${$i18n.locale}`,
+                          params: { id: item[0] },
+                        }"
+                      >
+                        {{ $t(`pages.series_page.series.${item[0]}.name`) }}
+                      </nuxt-link>
+                    </li>
                   </ul>
                 </li>
                 <li>
-                  <span>營養品</span>
+                  <span>{{ $t('header_links.tonic.name') }}</span>
                   <ul>
-                    <li><a href="">食物補充品</a></li>
+                    <li v-for="(item, index) in Object.entries(linkData.tonic.series)" :key="index">
+                      <nuxt-link
+                        :to="{
+                          name: `products-id___${$i18n.locale}`,
+                          params: { id: item[0] },
+                        }"
+                      >
+                        {{ $t(`pages.series_page.series.${item[0]}.name`) }}
+                      </nuxt-link>
+                    </li>
                   </ul>
                 </li>
 
                 <li>
-                  <span>護膚專區</span>
+                  <span>{{ $t('header_links.skincare.name') }}</span>
                   <ul>
-                    <li><a href="">親水專區</a></li>
-                    <li><a href="">養膚專區</a></li>
-                    <li><a href="">掃油專區</a></li>
-                    <li><a href="">舒壓專區</a></li>
-                    <li><a href="">懶人專區</a></li>
-                    <li><a href="">肌膚檢測</a></li>
+                    <li v-for="(item, index) in Object.entries(linkData.skincare.series)" :key="index">
+                      <nuxt-link
+                        :to="{
+                          name: `products-id___${$i18n.locale}`,
+                          params: { id: item[0] },
+                        }"
+                      >
+                        {{ $t(`pages.series_page.series.${item[0]}.name`) }}
+                      </nuxt-link>
+                    </li>
                   </ul>
                 </li>
                 <li><a href=""> 線上DM</a></li>
