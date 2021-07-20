@@ -82,7 +82,7 @@
       "series": {
         "ps01": {
           "name": "臻時粹顏系列",
-          "products": ["pd1", "pd2", "pd3"  ]
+          "products": ["pd1", "pd2", "pd3"]
         },
         "ps02": {
           "name": "時光精靈Repair系列",
@@ -462,7 +462,7 @@
       "video_source": "時光精靈 3D 系列.mp4",
       "normal_image": null,
       "small_images": {
-        "img_01":"p/b/pc11.png"
+        "img_01":"p/c/pc11.png"
       },
       "description_image": null
     },
@@ -474,14 +474,14 @@
       "Product Description": "A moisturizing mask that nourishes and repairs the skin during sleep.<br>• Gel texture, replenish skin moisture, increase elasticity, relieve skin pressure and refine pores<br><br>• Contains anti-aging formula to prevent the appearance of fine lines and wrinkles.",
       "capacity": "85g",
       "skin_suitable": "Tested by dermatologists<br>Suitable for sensitive skin<br>Free of oil and fragrance<br>Does not cause acne",
-      "function": "",
-      "principal_components": "",
-      "usage": "",
+      "function": null,
+      "principal_components": null,
+      "usage": null,
       "price": "HK$358",
       "video_source": "時光精靈 3D 系列.mp4",
       "normal_image": null,
       "small_images": {
-        "img_01":"p/b/pc21.png"
+        "img_01":"p/c/pc21.png"
       },
       "description_image": null
     },
@@ -493,14 +493,14 @@
       "Product Description": "•Contains sodium hyaluronate, a hydrating and nourishing ingredient, which can retain skin moisture like a sponge. At the same time, it helps reduce the loss of epidermal moisture.<br>•Super antioxidants, lentil extract, acai berry extract and myrtle leaf water, which can effectively resist the damage of the external environment to the skin, strengthen the pore walls, and avoid skin sagging.<br>•Vitamin B3 reduces UV damage to the skin.<br>•Provides a second thorough cleansing for the skin and enhances the absorption of subsequent skin care products.",
       "capacity": "147ml",
       "skin_suitable": "Suitable for all skin types",
-      "function": "",
-      "principal_components": "",
-      "usage": "",
+      "function": null,
+      "principal_components": null,
+      "usage": null,
       "price": "HK$298",
       "video_source": "時光精靈 3D 系列.mp4",
       "normal_image": null,
       "small_images": {
-        "img_01":"p/b/pc31.png"
+        "img_01":"p/c/pc31.png"
       },
       "description_image": null
     },
@@ -519,7 +519,7 @@
       "video_source": "時光精靈維 C E 精華露.mp4",
       "normal_image": null,
       "small_images": {
-        "img_01":"p/b/pc41.png"
+        "img_01":"p/c/pc41.png"
       },
       "description_image": null
     },
@@ -538,7 +538,7 @@
       "video_source": "時光精靈 3D 系列.mp4",
       "normal_image": null,
       "small_images": {
-        "img_01":"p/b/pc51.png"
+        "img_01":"p/c/pc51.png"
       },
       "description_image": null
     },
@@ -557,7 +557,7 @@
       "video_source": "時光精靈 3D 系列.mp4",
       "normal_image": null,
       "small_images": {
-        "img_01":"p/b/pc61.png"
+        "img_01":"p/c/pc61.png"
       },
       "description_image": null
     },
@@ -576,7 +576,7 @@
       "video_source": "時光精靈 3D 系列.mp4",
       "normal_image": null,
       "small_images": {
-        "img_01":"p/b/pc71.png"
+        "img_01":"p/c/pc71.png"
       },
       "description_image": null
     },
@@ -595,7 +595,7 @@
       "video_source": "時光精靈3D無瑕修顔粉底乳.mp4",
       "normal_image": null,
       "small_images": {
-        "img_01":"p/b/pc81.png"
+        "img_01":"p/c/pc81.png"
       },
       "description_image": null
     },
@@ -609,7 +609,7 @@
       "skin_suitable": "Clinical tests show it does not cause itchiness and allergy<br>Free of oil and fragrance<br>Does not cause acne",
       "function": "• Gentle massage during use can effectively remove aging keratin, promote skin renewal, smooth fine lines and shrink pores, so that your skin immediately presents a bright, healthy, vibrant radiance.",
       "principal_components": "Microcrystalline peeling particles: Effectively remove dead skin and provide instant peeling effect.<br>• Glycerin and other humectants: provide long-lasting moisture and hydration.<br>•Silicone and other conditioning ingredients: make the skin feel smoother",
-      "usage": "",
+      "usage": null,
       "price": "HK$400",
       "video_source": null,
       "normal_image": null,
@@ -624,14 +624,14 @@
       "Product Description": "Instantly absorbed refreshing nourishing essence can visibly refine pores and reduce skin redness and discomfort",
       "capacity": "29ml",
       "skin_suitable": "Passed skin sensitivity test Suitable for all skin types<br>Free of oil and fragrance<br>Does not cause acne",
-      "function": "",
+      "function": null,
       "principal_components": "• Contains Persian silk bark extract and hydrolyzed soy extract, which effectively promotes the synthesis of skin protein, instantly reduces pores, and the effect of continuous use will be more ideal and significant.<br><br>• Contains the exclusive anti-oxidant ingredient \"Triple Tea Extract\", combined with Gorgonian coral extract and Evodia fruit extract to instantly calm and soothe the skin.",
       "usage": "It is especially suitable for use after TimeWise Microdermabrasion Refine to reduce redness and discomfort. It can also be used day after day, the pores are visibly tightened, and the skin becomes smoother and more flawless.",
       "price": "HK$450",
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01":"p/b/pc101.png"
+        "img_01":"p/c/pc101.png"
       },
       "description_image": "時光精靈細緻毛孔精華01.jpg"
     },
@@ -643,14 +643,14 @@
       "Product Description": "Contains a variety of effective ingredients to help the skin lasting moisturizing, conditioning, and firming the skin. With just one simple step, your skin will be able to show natural firmness and youthful radiance.",
       "capacity": "236ml",
       "skin_suitable": "Clinical tests show it does not cause itchiness and allergy<br>Tested by dermatologists Free of oil and fragrance<br>Does not cause acne",
-      "function": "",
+      "function": null,
       "principal_components": "• Contains 3 kinds of anti-oxidant ingredients to resist sun damage to the skin. Long-lasting moisturizing effect for 24 hours.<br>•Caffeine accelerates the excretion of excess body fluids and makes the body contour lines firmer.",
-      "usage": "",
+      "usage": null,
       "price": "HK$340",
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01":"p/b/pc111.png"
+        "img_01":"p/c/pc111.png"
       },
       "description_image": null
     },
@@ -669,9 +669,9 @@
       "video_source": "天然淨活系列.mp4",
       "normal_image": null,
       "small_images": {
-        "img_01":"p/d/pc11.jpg",
-        "img_02":"p/d/pc12.jpg",
-        "img_03":"p/d/pc13.jpg"
+        "img_01":"p/d/pd11.jpg",
+        "img_02":"p/d/pd12.jpg",
+        "img_03":"p/d/pd13.jpg"
       },
       "description_image": null
     },
@@ -690,9 +690,9 @@
       "video_source": "天然淨活系列.mp4",
       "normal_image": null,
       "small_images": {
-        "img_01":"p/d/pc21.jpg",
-        "img_02":"p/d/pc22.jpg",
-        "img_03":"p/d/pc23.jpg"
+        "img_01":"p/d/pd21.jpg",
+        "img_02":"p/d/pd22.jpg",
+        "img_03":"p/d/pd23.jpg"
       },
       "description_image": "天然淨活去角質粉02.jpg<br>天然淨活.jpg<br>"
     },
@@ -711,10 +711,10 @@
       "video_source": "天然淨活系列.mp4",
       "normal_image": null,
       "small_images": {
-        "img_01":"p/d/pc31.jpg",
-        "img_02":"p/d/pc32.jpg",
-        "img_03":"p/d/pc33.jpg",
-        "img_04":"p/d/pc34.jpg"
+        "img_01":"p/d/pd31.jpg",
+        "img_02":"p/d/pd32.jpg",
+        "img_03":"p/d/pd33.jpg",
+        "img_04":"p/d/pd34.jpg"
       },
       "description_image": "天然淨活多效精華油03.jpg<br>天然淨活.jpg"
     },
@@ -733,7 +733,7 @@
       "video_source": "天然淨活系列.mp4",
       "normal_image": null,
       "small_images": {
-        "img_01":"p/d/pc41.jpg"
+        "img_01":"p/d/pd41.jpg"
       },
       "description_image": null
     },
@@ -752,8 +752,8 @@
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01":"植物肌密潔面乳1號.png",
-        "img_02":"植物肌密潔面乳2號.png"
+        "img_01":"p/e/pe11.jpg",
+        "img_02":"p/e/pe12.jpg"
       },
       "description_image": null
     },
@@ -765,15 +765,15 @@
       "Product Description": "The cream-like mask contains polymer particles, which can gently exfoliate, while injecting nourishing moisture into the skin, so that the skin is hydrated, healthy and refreshed.",
       "capacity": "113g",
       "skin_suitable": "Alcohol Free<br>Free of flavors<br>Free of Synthetic pigment<br>1.Suitable for sensitive skin, dry skin<br>2. Suitable for sensitive and neutral skin<br>Not easy to cause acne<br>Passed skin irritation and allergic clinical test<br>Free of flavors<br>Free of Synthetic pigment<br>Suitable for sensitive skin, dry skin<br>Not easy to cause acne<br>Passed skin irritation and allergic clinical test",
-      "function": "",
+      "function": null,
       "principal_components": "。Anti-oxidation Herbal Composite Essence - Composition of Silymarin and Momordica grosvenori, contains strong antioxidants, helps to fight against free radicals, improve skin defense, and fundamentally resists environmental damage to protect all types skin.<br><br>Formula No. 1 particularly added the following ingredients for dry skin:<br>• Flaxseed Extract: rich in Omega-3 fatty acids, can help moisturizing the skin and relieve dryness and tightness<br>• SEA Kelp Extract: Contains a variety of vitamins, minerals, and fatty acids to help skin maintain a water-moisture balance.",
       "usage": "After cleansing, take enough mask cream to apply on the face, avoid the area around the eyes and kips. After approximately 10 minutes, wash with warm water or warm wet beauty towel. One can use it 2-3 times a week. Avoid using on irritated skin.",
       "price": "HK$230",
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01":"植物肌密面膜霜1號.png",
-        "img_02":"植物肌密面膜霜2號.png"
+        "img_01":"p/e/pe21.jpg",
+        "img_02":"p/e/pe22.jpg"
       },
       "description_image": null
     },
@@ -785,15 +785,16 @@
       "Product Description": "The mild moisturizing toner can help remove residual dirt while helping the skin to restore the hydration balance, and alleviating the skin, so that the skin will regain healthy luster and become softer and smoother.",
       "capacity": "147ml",
       "skin_suitable": "Alcohol Free<br>Free of flavors<br>Free of Synthetic pigment<br>1.Suitable for sensitive skin, dry skin<br>2. Suitable for sensitive and neutral skin<br>Not easy to cause acne<br>Passed skin irritation and allergic clinical test<br>Free of flavors<br>Free of Synthetic pigment<br>Suitable for sensitive skin, dry skin<br>Not easy to cause acne<br>Passed skin irritation and allergic clinical test",
-      "function": "",
+      "function": null,
       "principal_components": "。Anti-oxidation Herbal Composite Essence - Composition of Silymarin and Momordica grosvenori, contains strong antioxidants, helps to fight against free radicals, improve skin defense, and fundamentally resists environmental damage to protect all types skin.<br><br>Formula No. 1 particularly added the following ingredients for dry skin:<br>• Flaxseed Extract: rich in Omega-3 fatty acids, can help moisturizing the skin and relieve dryness and tightness<br>• SEA Kelp Extract: Contains a variety of vitamins, minerals, and fatty acids to help skin maintain a water-moisture balance.",
       "usage": "After cleansing, take enough mask cream to apply on the face, avoid the area around the eyes and kips. After approximately 10 minutes, wash with warm water or warm wet beauty towel. One can use it 2-3 times a week. Avoid using on irritated skin.",
       "price": "HK$210",
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01":"植物肌密爽膚水.png",
-        "img_02":"植物肌密爽膚水.png"
+        "img_01":"p/e/pe31.jpg",
+        "img_02":"p/e/pe32.jpg",
+        "img_03":"p/e/pe32.jpg"
       },
       "description_image": null
     },
@@ -805,15 +806,15 @@
       "Product Description": "The silky moisturizing lotion can fill the skin with moisture and help the skin stay hydrated for a longer time. After using the product, the skin will be hydrated, comfortable and smooth.",
       "capacity": "88ml",
       "skin_suitable": "Alcohol Free<br>Free of flavors<br>Free of Synthetic pigment<br>1.Suitable for sensitive skin, dry skin<br>2. Suitable for sensitive and neutral skin<br>Not easy to cause acne<br>Passed skin irritation and allergic clinical test<br>Free of flavors<br>Free of Synthetic pigment<br>Suitable for sensitive skin, dry skin<br>Not easy to cause acne<br>Passed skin irritation and allergic clinical test",
-      "function": "",
+      "function": null,
       "principal_components": "。Anti-oxidation Herbal Composite Essence - Composition of Silymarin and Momordica grosvenori, contains strong antioxidants, helps to fight against free radicals, improve skin defense, and fundamentally resists environmental damage to protect all types skin.<br><br>Formula No. 1 particularly added the following ingredients for dry skin:<br>• Flaxseed Extract: rich in Omega-3 fatty acids, can help moisturizing the skin and relieve dryness and tightness<br>• SEA Kelp Extract: Contains a variety of vitamins, minerals, and fatty acids to help skin maintain a water-moisture balance.",
       "usage": "Every morning, after cleansing, toning, take a proper amount of product, and apply it evenly evenly to the face and neck, avoiding the eye.",
       "price": "HK$260",
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01":"植物肌密保濕乳液.png",
-        "img_02":"植物肌密保濕乳液.png"
+        "img_01":"p/e/pe41.jpg",
+        "img_02":"p/e/pe42.jpg"
       },
       "description_image": null
     },
@@ -826,14 +827,15 @@
       "capacity": "51g",
       "skin_suitable": "Clinical tests show it does not cause itchiness and allergy<br>Suitable for all skin types<br>Oil and fragrance free<br>Anti-allergy formula <br>Will not cause acne",
       "function": "• Highly efficient water-locking formula contains a variety of trace elements, which delivers and supplements moisture to deep layers of skin and firmly lock moisture, up to 10 hours.<br>• Provide nourishment for the skin, enhance the skin resistance, forming a naturalwater locking barrier, improve the long-term water shortage issue of skin. Always resist the loss of skin moisture caused by the dry environment.<br>• Accelerate cellular moisture and nutrient circulation, promote cell vitality, fundamentally helping dry skin regain hydration, improve elasticity, and restore brilliance.",
-      "principal_components": "",
-      "usage": "",
+      "principal_components": null,
+      "usage": null,
       "price": "HK$448",
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01":"水妍保濕凝露.png",
-        "img_02":"水妍保濕凝露01.png"
+        "img_01":"p/f/pf11.jpg",
+        "img_02":"p/f/pf12.jpg",
+        "img_03":"p/f/pf13.jpg"
       },
       "description_image": "水妍保濕凝露02.jpg"
     },
@@ -846,14 +848,15 @@
       "capacity": "51g",
       "skin_suitable": "Clinical tests show it does not cause itchiness and allergy<br>Suitable for all skin types<br>Fragrance-free<br>Anti-allergy formula <br>Will not cause acne",
       "function": "• Highly efficient water-locking formula contains a variety of trace elements, which delivers and supplements moisture to deep layers of skin and firmly lock moisture, up to 10 hours.<br>• Provide nourishment for the skin, enhance the skin resistance, forming a naturalwater locking barrier, improve the long-term water shortage issue of skin. Always resist the loss of skin moisture caused by the dry environment.<br>• Accelerate cellular moisture and nutrient circulation, promote cell vitality, fundamentally helping dry skin regain hydration, improve elasticity, and restore brilliance.",
-      "principal_components": "",
-      "usage": "",
+      "principal_components": null,
+      "usage": null,
       "price": "HK$448",
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01":"水妍保濕修護霜.png",
-        "img_02":"水妍保濕修護霜01.png"
+        "img_01":"p/f/pf21.jpg",
+        "img_02":"p/f/pf22.jpg",
+        "img_03":"p/f/pf23.jpg"
       },
       "description_image": "水妍保濕修護霜02.jpg"
     },
@@ -865,15 +868,15 @@
       "Product Description": "• Provide immediate care for skin around the eyes, reducing swelling due to lack of sleep.<br>• Clinical test confirmed that it can increase hydration for the skina round the eye by 130%.<br>• Tighten teh skin around the eyes and reduce fine lines.<br>• Can be used as eye mask or eye cream.",
       "capacity": "11g",
       "skin_suitable": "Tested by dermotologist <br>Suitable for sensitive skin<br>Fragrance-free<br>Anti-allergy formula<br>",
-      "function": "",
-      "principal_components": "",
-      "usage": "",
+      "function": null,
+      "principal_components": null,
+      "usage": null,
       "price": "HK$288",
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01":"眼膜膠.png",
-        "img_02":"眼膜膠01.png"
+        "img_01":"p/f/pf31.jpg",
+        "img_02":"p/f/pf32.jpg"
       },
       "description_image": null
     },
@@ -885,15 +888,16 @@
       "Product Description": "Skin-friendly texture can attach accurately to the skin, around the eye and quickly penetrate.<br>• It brings fresh coolness to the tiring skin around the eye, providing instant calmness and soothing the skin around the eye. <br>• Contains a variety of plant extracts that can replenish the water for the eye, moisturize the skin. Clinical study proves ** that it can instantly enhances the skin moisture.<br>• Help to improve eye puffness and dull skin, showing vitality and radiance. <br><br>** in vitro ingredient test",
       "capacity": "100g | 30",
       "skin_suitable": "Suitable for all skin types type<br>Tested by dermatologist and ophthalmologists<br>Passed the clinical tests for skin irritation and allergy <br>Not easy to cause acne<br>Suitable for poeple wearing contact lenses and with sensitive eyes",
-      "function": "",
-      "principal_components": "",
+      "function": null,
+      "principal_components": null,
       "usage": "After cleansing, take out the eye patches from the box with a stick. The two eye patches were placed below the two eyes, and gently applied on the eye. Remove the eye patch after 20 minutes. Do not erase the remaining essence, gently massage to the skin until its completely absorbed.",
       "price": "HK$428",
       "video_source": "Mary Kay 水凝膠眼膜.mp4",
       "normal_image": null,
       "small_images": {
-        "img_01":"水凝膠眼膜.png",
-        "img_02":"水凝膠眼膜01.png"
+        "img_01":"p/f/pf41.jpg",
+        "img_02":"p/f/pf42.jpg",
+        "img_03":"p/f/pf43.jpg"
       },
       "description_image": "水凝膠眼膜02.jpg"
     },
@@ -906,14 +910,14 @@
       "capacity": "110ml",
       "skin_suitable": "Passed the clinical tests for skin irritation and allergy <br>Suitable for sensitive eyes and skin<br>Suitable for people wearing contact lenses<br>Tested by eye expert test<br>Low allergenic<br>Oil free",
       "function": "• Unique double layer formula: the upper layer can remove waterproof makeup, and the lower layer can remove general makeup.<br>• Refreshing and not greasy, it is possible to completely remove the eye makeup and the dirt in the air.<br>• Keep the skin soft and smooth after use.",
-      "principal_components": "",
-      "usage": "",
+      "principal_components": null,
+      "usage": null,
       "price": "HK$155",
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01":"眼部卸妝液.png",
-        "img_02":"眼部卸妝液01.png"
+        "img_01":"p/f/pf51.jpg",
+        "img_02":"p/f/pf52.jpg"
       },
       "description_image": null
     },
@@ -925,15 +929,16 @@
       "Product Description": "• The Micellar cleansing formula is the first step for the double-cleasning of skin.<br>• Mild and can effectively cleanse the facial skin, dissolved the oil and dirt, impurities and makeup like magnets.<br>• With the unique rinse-free formula, you don't need to rinse it of after use. <br>• Not irrirative to the skin. It can help the skin to stay hydrated. Cleanse and care for the skin at the same time. <br>• Morning / Outdoor / Post exercise /Changing makeup / Night : it can be used at any time.",
       "capacity": "147ml",
       "skin_suitable": "Suitable for dry to oily skin<br>Test by dermatologist<br>Passed the clinical tests for skin irritation and allergy",
-      "function": "",
-      "principal_components": "",
+      "function": null,
+      "principal_components": null,
       "usage": "Take a proper amount of product with cotton pad to gently put on the skin, wipe off the makeup and dirt, no need to use water. Avoid direct contact with your eyes.",
       "price": "HK$170",
       "video_source": "卸妝潔膚水 Micellar Water.mp4",
       "normal_image": null,
       "small_images": {
-        "img_01":"卸妝潔膚水.png",
-        "img_02":"卸妝潔膚水01.png"
+        "img_01":"p/f/pf61.jpg",
+        "img_02":"p/f/pf62.jpg",
+        "img_03":"p/f/pf63.jpg"
       },
       "description_image": "卸妝潔膚水02.jpg"
     },
@@ -945,14 +950,14 @@
       "Product Description": "It is especially designed to provide special protection for dry skin. It can effectively lock in the skin moisture and increase hydration. It can form a special moisturizing protective film on top of the skin to reduce dryness. E42 It can keep the skin's natural moisture, also suitable for other dry body parts such as hand, elbow and foot.",
       "capacity": "60g",
       "skin_suitable": "Clinical test shows it does not cause itchiness and irritation <br>Suitable for all skin types<br>Anti-allergy formula<br>Will not cause acne",
-      "function": "",
-      "principal_components": "",
-      "usage": "",
+      "function": null,
+      "principal_components": null,
+      "usage": null,
       "price": "HK$155",
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01":"柔嫩滋養霜.png"
+        "img_01":"p/f/pf71.jpg"
       },
       "description_image": null
     },
@@ -964,14 +969,14 @@
       "Product Description": "• Refreshing, breathable, non-sticky skin-friendly formula, texture is delicate, cool and refresh, providing up to 8 hours of oil control.<br>• The silicon oil absorption net cmposed of a variety of ingredients can quickly absorb excess grease on the face, and prevent the loss of makeup due to oil secretion.<br>•The oil control effect is particularly obvious on the oily area of T-zone, forehead and nose .<br>• Contains a variety of soft light particles to modify large pores.",
       "capacity": "17ml",
       "skin_suitable": "Clinical test shows it does not cause itchiness and irritation <br>Suitable for all skin types<br>Anti-allergy formula<br>Will not cause acne",
-      "function": "",
-      "principal_components": "",
-      "usage": "",
+      "function": null,
+      "principal_components": null,
+      "usage": null,
       "price": "HK$162",
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01":"T字控油涼露.png"
+        "img_01":"p/f/pf81.jpg"
       },
       "description_image": null
     },
@@ -983,14 +988,14 @@
       "Product Description": "A foaming cleansing with mild and delicate formula, which can completely remove dirt, improve skin color unevenness, so that the skin is clean, soft and radiant.",
       "capacity": "100g",
       "skin_suitable": "Designed for Asian skin type<br>Suitable for Asian skin type<br>Suitable for all skin types",
-      "function": "",
+      "function": null,
       "principal_components": "• Tahitian Black Pearl: Protecting skin, brightens skin color, can also give skin energy, awaken skin vitality and enhance hydration and resistance.<br>• Opti-Bright™ Complex: Exclusively developed complex combines Angelica Acutiloba Root, plant-based amino acid and nicotine hyamine and produces synergies to target at a variety of complex skin factors, inhibit melanin and color spots, improve dullness, and help to minimize existing spots, so that the skin looks bright, smooth and flawless. <br>• Samphire: a magic plant growing in high salt-content coastlines, with specialwater storage and regulating capacity, can improve the skin moisture transmission channel, so that the skin stayed moisturized and crystal clear for a long time.",
       "usage": "Every morning and evening, squeeze out the right amount of products in the palm, add water to make lather and apply on the face and neck with circular motion, avoid the eyes, and then wipe it off with warm water or wet beauty towel.",
       "price": "HK$280",
       "video_source": "LumiVie™ 亮采系列.mp4",
       "normal_image": null,
       "small_images": {
-        "img_01":"LumiVie™ 亮采潔面乳.jpg"
+        "img_01":"p/g/pg11.jpg"
       },
       "description_image": null
     },
@@ -1009,7 +1014,7 @@
       "video_source": "LumiVie™ 亮采系列.mp4",
       "normal_image": null,
       "small_images": {
-        "img_01":"LumiVie™ 亮采原液精華面膜.jpg"
+        "img_01":"p/g/pg21.jpg"
       },
       "description_image": null
     },
@@ -1021,14 +1026,14 @@
       "Product Description": "The essense water contains high essence ingredients, so that the skin can look bright and clear, and instantly feels soft and supple. The skin can also regain the balance and is prepared for the absorption of additional skin nutrients for better whitening effect.",
       "capacity": "100ml",
       "skin_suitable": "Designed for Asian skin type<br>Suitable for Asian skin type<br>Suitable for all skin types",
-      "function": "",
+      "function": null,
       "principal_components": "• Tahitian Black Pearl: Protecting skin, brightens skin color, can also give skin energy, awaken skin vitality and enhance hydration and resistance.<br>• Opti-Bright™ Complex: Exclusively developed complex combines Angelica Acutiloba Root, plant-based amino acid and nicotine hyamine and produces synergies to target at a variety of complex skin factors, inhibit melanin and color spots, improve dullness, and help to minimize existing spots, so that the skin looks bright, smooth and flawless. <br>• Samphire: a magic plant growing in high salt-content coastlines, with specialwater storage and regulating capacity, can improve the skin moisture transmission channel, so that the skin stayed moisturized and crystal clear for a long time.",
       "usage": "Use it every morning and evening, after cleansing. Take the right amount of essence in a cotton pad, apply to the skin on the face and neck with an upward and outward direction and avoide the eye area. You can also put the right amount of essence on the palm of your hand, press directly to face and neck skin, and enhance the ingredient penetration.",
       "price": "HK$280",
       "video_source": "LumiVie™ 亮采系列.mp4",
       "normal_image": null,
       "small_images": {
-        "img_01":"LumiVie™ 亮采精華水.png"
+        "img_01":"p/g/pg31.jpg"
       },
       "description_image": null
     },
@@ -1047,7 +1052,7 @@
       "video_source": "LumiVie™ 亮采系列.mp4",
       "normal_image": null,
       "small_images": {
-        "img_01":"亮采密集精華液.png"
+        "img_01":"p/g/pg41.jpg"
       },
       "description_image": null
     },
@@ -1059,14 +1064,14 @@
       "Product Description": "The texture of the eye treatment is watery and light and the brightening essence is poured into the skin around the eyes. It instantly brightens the skin around the eyes to provide a moisturized and soothing feel, significantly improves the dull skin around the eyes and reduces dark circles, helping the skin around the eyes to show a bright and white radiance.",
       "capacity": "15g",
       "skin_suitable": "Designed for Asian skin type<br>Suitable for Asian skin type<br>Suitable for all skin types",
-      "function": "",
+      "function": null,
       "principal_components": "•• Tahitian Black Pearl: Protecting skin, brightens skin color, can also give skin energy, awaken skin vitality and enhance hydration and resistance.<br>• Opti-Bright™ Complex: Exclusively developed complex combines Angelica Acutiloba Root, plant-based amino acid and nicotine hyamine and produces synergies to target at a variety of complex skin factors, inhibit melanin and color spots, improve dullness, and help to minimize existing spots, so that the skin looks bright, smooth and flawless. <br>• Samphire: a magic plant growing in high salt-content coastlines, with specialwater storage and regulating capacity, can improve the skin moisture transmission channel, so that the skin stayed moisturized and crystal clear for a long time.",
       "usage": "Every morning and evening, apply an appropriate amount of product around the eyes with your fingertip, tap the face till the product is completely absorbed.",
       "price": "HK$440",
       "video_source": "LumiVie™ 亮采系列.mp4",
       "normal_image": null,
       "small_images": {
-        "img_01":"LumiVie™ 亮采精華眼霜.jpg"
+        "img_01":"p/g/pg51.jpg"
       },
       "description_image": null
     },
@@ -1085,7 +1090,7 @@
       "video_source": "LumiVie™ 亮采系列.mp4",
       "normal_image": null,
       "small_images": {
-        "img_01":"LumiVie™ 亮采滋潤乳.png"
+        "img_01":"p/g/pg61.jpg"
       },
       "description_image": null
     },
@@ -1104,7 +1109,7 @@
       "video_source": "LumiVie™ 亮采系列.mp4",
       "normal_image": null,
       "small_images": {
-        "img_01":" 亮采滋潤霜.png"
+        "img_01":"p/g/pg71.jpg"
       },
       "description_image": null
     },
@@ -1115,15 +1120,15 @@
       "header_links":["product_series" , "product_features"],
       "Product Description": "• The texture is gently clear. It can provide cleansing effect without irritating the skin, and quickly moisturize the skin.<br>• Restore the skin balance, feel fresh and soft, and improve the sensitive skin .",
       "capacity": "95g",
-      "skin_suitable": "",
-      "function": "",
-      "principal_components": "",
-      "usage": "",
+      "skin_suitable": null,
+      "function": null,
+      "principal_components": null,
+      "usage": null,
       "price": "HK$190",
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01":"舒顏潔面乳.png"
+        "img_01":"p/h/ph11.jpg"
       },
       "description_image": null
     },
@@ -1134,15 +1139,15 @@
       "header_links":["product_series" , "product_features"],
       "Product Description": "• The texture is smooth and not sticky, can quickly moist the skin.<br>• Rich hydrolyzamer extracts can effectively reconstruct damaged sebum membranes.<br>• Continuous deep moisturizing effect to prevent water loss on the surface of the skin.",
       "capacity": "50ml",
-      "skin_suitable": "",
-      "function": "",
-      "principal_components": "",
-      "usage": "",
+      "skin_suitable": null,
+      "function": null,
+      "principal_components": null,
+      "usage": null,
       "price": "HK$270",
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01":"舒顏潔面乳.png"
+        "img_01":"p/h/ph21.jpg"
       },
       "description_image": null
     },
@@ -1153,15 +1158,15 @@
       "header_links":["product_series" , "product_features"],
       "Product Description": "• Can help protect your skin from the external environment, improve redness and peeling, moisturize and balance the skin, and give the skin a thorough care.<br>• Repair skin moisturizing layer, restore teh skin water-locking usage, and nourish the skin.",
       "capacity": "50g",
-      "skin_suitable": "",
-      "function": "",
-      "principal_components": "",
-      "usage": "",
+      "skin_suitable": null,
+      "function": null,
+      "principal_components": null,
+      "usage": null,
       "price": "HK$320",
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01":"舒顏保濕霜.png"
+        "img_01":"p/h/ph31.jpg"
       },
       "description_image": null
     },
@@ -1172,15 +1177,15 @@
       "header_links":["product_series" , "product_features"],
       "Product Description": "• The mild and clear texture provides second round of cleansing effect and can improve the absorption of follow-up skin care products.<br>• Restore the skin balance, feel fresh and soft, and improve the condition of sensitive and dry skin .<br>• Contains a variety of moisturizing and soothing ingredients , enhances skin antioxidation processes, and effectively soothes any discomfort.",
       "capacity": "100ml",
-      "skin_suitable": "",
-      "function": "",
-      "principal_components": "",
-      "usage": "",
+      "skin_suitable": null,
+      "function": null,
+      "principal_components": null,
+      "usage": null,
       "price": "HK$230",
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01":"舒顏柔膚水.png"
+        "img_01":"p/h/ph41.jpg"
       },
       "description_image": null
     },
@@ -1191,15 +1196,15 @@
       "header_links":["product_series" , "product_features" , "skincare"],
       "Product Description": "• Soothing skin sensitive state.<br>• Rapid hydration effect, making the skin softer.<br>• Help the skin restore health and balance.",
       "capacity": "29g",
-      "skin_suitable": "",
-      "function": "",
-      "principal_components": "",
-      "usage": "",
+      "skin_suitable": null,
+      "function": null,
+      "principal_components": null,
+      "usage": null,
       "price": "HK$310",
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01":"舒顏精華露.png"
+        "img_01":"p/h/ph51.jpg"
       },
       "description_image": null
     },
@@ -1218,7 +1223,7 @@
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01":"淨顏潔面啫喱.png"
+        "img_01":"p/i/pi11.jpg"
       },
       "description_image": null
     },
@@ -1237,8 +1242,7 @@
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01":"淨顏活性碳面膜.png",
-        "img_02":"淨顏活性碳面膜01.png"
+        "img_01":"p/i/pi21.jpg"
       },
       "description_image": null
     },
@@ -1257,7 +1261,7 @@
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01":"淨顏調理爽膚水.png"
+        "img_01":"p/i/pi31.jpg"
       },
       "description_image": null
     },
@@ -1276,7 +1280,7 @@
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01":"淨顏調理爽膚水.png"
+        "img_01":"p/i/pi41.jpg"
       },
       "description_image": null
     },
@@ -1295,7 +1299,7 @@
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01":"淨顏重點修護精華.png"
+        "img_01":"p/i/pi51.jpg"
       },
       "description_image": null
     },
@@ -1314,7 +1318,7 @@
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01":"淨顏清爽保濕乳液.png"
+        "img_01":"p/i/pi61.jpg"
       },
       "description_image": null
     },
@@ -1327,17 +1331,17 @@
       "capacity": "3.6g",
       "skin_suitable": "Test by dermatologist<br>Passed the clinical test for skin irritation and allergy",
       "function": "• New Gel Technology provides rich and saturated color <br>• Silky touch and easy to spread, making the lips soft and comfortable<br>• Long-lasting makeup with smooth color <br>• Sunflower seed oil and jojoba can moisturize the lips to prevent dryness .<br>• Containing optical particles that can scatter light, showing soft focal-like natural makeup look",
-      "principal_components": "",
-      "usage": "",
+      "principal_components": null,
+      "usage": null,
       "price": "HK$218",
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01":"絕色緞光唇膏.png",
-        "img_02":"絕色緞光唇膏RapsberryIce.png",
-        "img_03":"絕色緞光唇膏RedSmolder.png",
-        "img_04":"絕色緞光唇膏Romantic Pink.png",
-        "img_05":"絕色緞光唇膏Rub-SunsetPeach.png"
+        "img_01":"m/m/ma11.jpg",
+        "img_02":"m/a/ma12.jpg",
+        "img_03":"m/a/ma13.jpg",
+        "img_04":"m/a/ma14.jpg",
+        "img_05":"m/a/ma15.jpg"
       },
       "description_image": null
     },
@@ -1348,19 +1352,20 @@
       "header_links":"makeup",
       "Product Description": "The texture is light and not sticky, and the color is super gloss and smooth. The vitamins C and E in the formula can moisturize the lips. The color can be highlighted with simple application, creating instant and lasting makeup effect and providing the lips with a charming color.",
       "capacity": "3.9g",
-      "skin_suitable": "",
+      "skin_suitable": null,
       "function": "• The formula contains vitamins C and E of castor seed oil that can instantly moisturize the lips, making the lips feel more comfortable.<br>• New high-gloss and high moisture retention technology, contains ingredients designed to care for the lips,, which can moisturize the lips and keep it healthy.<br>• It is equipped with three pearls flash color s that can create different makeup looks that match with different occasions <br>• The texture is light and not sticky, the color is rich and saturated, easy to spread and apply .<br>• Unique brushhead design helps to apply the color gently and immediately, and it creates a perfect lip makeup.<br>• Have a touch of vanilla scent, making you feel relaxed and comfortable.<br>Independent consumer research confirmed *:<br>98% of users said the product is smooth to apply .<br>96% of users said that the lips feel moisturized<br>91% of users said it makes the lips look healthy.<br>90% said that the lips are smooth after use.<br><br>* According to a one-week independent consumer study, 100 women have given an evaluation after the use of the lip gloss daily, and the result is based on the consent of most group members.",
-      "principal_components": "",
-      "usage": "",
+      "principal_components": null,
+      "usage": null,
       "price": "HK$168",
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01":"凝亮唇彩_Iconic Red火辣鮮紅 .png",
-        "img_02":"凝亮唇彩_Nude Blush淡粉玫瑰02.jpg",
-        "img_03":"凝亮唇彩_Pink Ballerina粉色芭蕾02.jpg",
-        "img_04":"凝亮唇彩_Unique Mauve玫瑰淡紫02.jpg",
-        "img_05":"凝亮唇彩_Fancy Nancy蜜桃晶粉02.jpg"
+        "img_01":"m/m/ma11.jpg",
+        "img_02":"m/a/ma22.jpg",
+        "img_03":"m/a/ma23.jpg",
+        "img_04":"m/a/ma24.jpg",
+        "img_05":"m/a/ma25.jpg",
+        "img_06":"m/a/ma26.jpg"
       },
       "description_image": "凝亮唇彩01.jpg"
     },
@@ -1372,14 +1377,14 @@
       "Product Description": "• The primer can perfectly cover fine lines and pores with simple application, making it a perfect primer. <br>• Let the subsequent application of foundation easier and smoother.",
       "capacity": "29ml",
       "skin_suitable": "Suitable for all skin types use<br>Tested by dermatologist <br>Suitable for sensitive skin<br>Will not cause acne<br>Free of oil and fragrance",
-      "function": "",
-      "principal_components": "",
-      "usage": "",
+      "function": null,
+      "principal_components": null,
+      "usage": null,
       "price": "HK$250",
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01":"妝前修顏底霜SPF15.png"
+        "img_01":"m/b/mb11.jpg"
       },
       "description_image": null
     },
@@ -1391,14 +1396,14 @@
       "Product Description": "• Contains multiple plant extracts, ideal to be applied between skincare regimen and makeup.<br>• The texture is light and refreshing, and it has the effects of long-lasting moisturizing, brightening, and minimizing fine lines.<br>• The unique formula creates a natural luster that can brighten the skin immediately after application, building a honey-like glow for the skin. <br>• Protect the makeup, provide long-lasting shines, and create a natural flawless brightened skin .<br>• The Sun protection factor of SPF 35 with PA++ protects against the sun for daily life, and it will not cause too much burden for the skin.",
       "capacity": "40ml",
       "skin_suitable": "Suitable for sensitive skin<br>Test by dermatologist<br>Passed skin irritation and allergic tests<br>Passed Asian skin test<br>Suitable for all skin types<br>Fragrance-free<br>Oil free<br>Not easy to cause acne",
-      "function": "",
-      "principal_components": "",
+      "function": null,
+      "principal_components": null,
       "usage": "After cleansing and daily skin care regimen every morning, apply an appropriate amount of product with finger pulp on the face before using the foundation.",
       "price": "HK$328",
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01":"光感修顏霜.png"
+        "img_01":"m/b/mb21.jpg"
       },
       "description_image": null
     },
@@ -1410,16 +1415,15 @@
       "Product Description": "It is rich in natural and pure mineral ingredients, which combines the ideal concealer of the foundation and the light and comfort quality of the powder. Just sweep gently on the face, you can effectively cover wrinkles, fine lines and flaws, and keep your fresh makeup. Fragrance free formula that is gentle and not irratative.",
       "capacity": "8g",
       "skin_suitable": "Tested by dermatologist <br>Clinical test shows that it does not cause itchiness and allergy <br>Suitable for sensitive skin<br>Will not cause acne<br>Oil and fragrance free",
-      "function": "",
+      "function": null,
       "principal_components": "• Titanium dioxide, mica powder: Provide a shiny pearl effect while covering fine lines and blemishes.<br>• Zinc stearate: Enhance product adhesion, hold the makeup better .<br>• Boron nitride: soften the skin.<br>• Silicide: moisturize the skin.<br>• Butyl hydroxytoluene: antioxidant.<br>Fragrance-free formula : pure texture that does not irritate the skin.",
-      "usage": "",
+      "usage": null,
       "price": "HK$190",
       "video_source": null,
-      "normal_image": null,
-      "small_images": {
-        "img_01":"礦研粉底.png",
-        "img_02":"礦研粉底01.png",
-        "img_03":"礦研粉底02.jpg"
+      "normal_image":{
+        "img_01":"m/b/mb31.jpg",
+        "img_02":"m/b/mb32.jpg",
+        "img_03":"m/b/mb33.jpg"
       },
       "description_image": null
     },
@@ -1431,14 +1435,14 @@
       "Product Description": "• The mineral toner particle can help to correct skin tone defects such as color spots and dark circles, and can fully adjust and improve facial complexion.<br>• It can modify pores and fine lines, improve skin texture, and make the skin look delicate, smooth, and young.<br>• Special water moisturizing factors can hydrate the skin without being greasy. It can provide a long-lasting hydration for 10 hours.<br>• Waterfare fruit extract and willow bark extraction can effectively soothe and calm the skin, reduce redness and have a gentle anti-inflammatory effect on acne skin.",
       "capacity": "29ml",
       "skin_suitable": "Suitable for sensitive skin<br>Tested by dermatologist<br>Tested by ophthalmologist test<br>Will not cause acne<br>Free of oil and fragrance <br>Suitable for people wearing contact lens",
-      "function": "",
-      "principal_components": "",
-      "usage": "",
+      "function": null,
+      "principal_components": null,
+      "usage": null,
       "price": "HK$340",
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01":"水嫩亮肌CC 霜.png"
+        "img_01":"m/b/mb41.jpg"
       },
       "description_image": null
     },
@@ -1451,14 +1455,14 @@
       "capacity": "30ml",
       "skin_suitable": "Test by dermatologist<br>Clinical tests show it does not cause itchiness and allergy<br>Not easy to cause acne <br>Suitable for sensitive skin<br>Suitable for sensitive eyes and people wearing contact lenses<br>Free of oil and fragrance",
       "function": "Moisturizing formula Luminous-Wear<br>• Designed for normal to dry skin.<br>• Light and moisturizing texture, long-lasting moisturizing effect with reflective minerals and jojoba ingredients, making makeup last longer, creating a perfect and shiny makeup.<br>• The makeup effect is nourishing and moisturizing for up to 12 hours, so that the makeup will last for a long time, and the skin will stay moist and comfortable for a long time, showing a moisturizing and flawless skin.<br><br>Refreshing formula Matte-Wear<br>• Designed for mixed to oily skin.<br>• The texture is light and refreshing. The special microspheres contain oil-controlling essence to absorb excess oil on the face like a sponge, making the makeup look less oily and creating a flawless skin.<br>• The makeup oil-controlling effect lasts for up to 12 hours, making the makeup look lasting, keeping the skin fresh and comfortable for a long time, showing a matte and flawless skin.",
-      "principal_components": "",
+      "principal_components": null,
       "usage": "After cleansing and daily skin care regimen every morning, apply an appropriate amount of product with finger pulp or brush on the face and neck.",
       "price": "HK$320",
       "video_source": "時光精靈3D無瑕修顔粉底乳.mp4",
       "normal_image": null,
       "small_images": {
-        "img_01":"時光精靈3D無瑕修顏粉底乳.png",
-        "img_02":"時光精靈3D無瑕修顏粉底乳01.png"
+        "img_01":"m/b/mb51.jpg",
+        "img_02":"m/b/mb52.jpg"
       },
       "description_image": null
     },
@@ -1470,15 +1474,15 @@
       "Product Description": "•• The powder is lightweight, making the skin velvetly smooth.<br>• Forming an oil absorbing protective film on the surface of the skin, the oil-control effecdt lasts 8 hours. Eliminate the oil shine and achieve long-lasting and meticulous makeup.<br>• Natural mineral ingredients, containing the vitamin E, effectively fight against free radicals that causes wrinkles.",
       "capacity": "9g",
       "skin_suitable": "Suitable for sensitive skin<br>Tested by dermatologist <br>Clinical test shows it does not cause itchiness and allergy <br>Will not cause acne<br>Free of oil",
-      "function": "",
-      "principal_components": "",
-      "usage": "",
+      "function": null,
+      "principal_components": null,
+      "usage": null,
       "price": "HK$165",
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01":"礦研清盈粉餅.png",
-        "img_02":"礦研清盈粉餅01.png"
+        "img_01":"m/b/mb61.jpg",
+        "img_02":"m/b/mb62.jpg"
       },
       "description_image": null
     },
@@ -1492,15 +1496,15 @@
       "skin_suitable": "Test by dermatologist<br>Passed skin sensitivity test <br>Suitable for sensitive skin, including tender skin around the eyes <br>Suitable for all skin types and skin tones<br>Suitable for people wearing contact lenses<br>Fragrance-free<br>Not easy to cause acne <br>waterproof",
       "function": "• Cover the color spots, dullnes, uneven pigment and fine scar.<br>• Wet creamy texture is smooth and light, the effect is sustainable, and it can conceal the flaws on the face perfectly and sustainably. Not easy to cause fine lines or stuck with powder.<br>• Optical particlecan scatter light, exhibiting a fuzzy effect and diluting fine lines.<br>• Correct uneven skin tones and hide the redness of skin.",
       "principal_components": "• Glycycetic acts as an antioxidant and has soothing effect, ca be combined with antioxidant Vitamin E to protect the skin.<br>• Maize moisturizing essence and glycerol act as mild moisturizer, concealers and provide the benefit of skin care.<br>• • The bottle has a transparent window, which is convenient to identify the color; the soft bevel brush head is convenient to apply the product accurately and thoroughly.",
-      "usage": "",
+      "usage": null,
       "price": "HK$170",
       "video_source": "完美遮瑕霜.mp4",
       "normal_image": null,
       "small_images": {
-        "img_01":"完美遮瑕霜01.png",
-        "img_02":"完美遮瑕霜02.png",
-        "img_03":"完美遮瑕霜03.png",
-        "img_04":"完美遮瑕霜04.png"
+        "img_01":"m/b/mb71.jpg",
+        "img_02":"m/b/mb72.jpg",
+        "img_03":"m/b/mb73.jpg",
+        "img_04":"m/b/mb74.jpg"
       },
       "description_image": null
     },
@@ -1513,13 +1517,13 @@
       "capacity": "6g",
       "skin_suitable": "Test by dermatologist<br>Passed skin sensitivity test <br>Suitable for sensitive skin, including tender skin around the eyes <br>Suitable for all skin types and skin tones<br>Suitable for people wearing contact lenses<br>Fragrance-free<br>Not easy to cause acne <br>waterproof",
       "function": "• Special orange peach color tones, specializes in neutralizing purple blue pigment or bruised eyes , while brightening the skin below the eyes.<br>• Also can be applied to neutralize the purple-blue or bruised pigments of the skin.<br>• It can be used with the Perfecdting Concealer to complement each other.<br>• Wet creamy texture is smooth and light, the effect is sustainable, and it can conceal the flaws on the face perfectly and sustainably. Not easy to cause fine lines or stuck with powder.<br>• The bottle has a transparent window, which is convenient to identify the color; the soft bevel brush head is convenient to apply the product accurately and thoroughly.",
-      "principal_components": "",
-      "usage": "",
+      "principal_components": null,
+      "usage": null,
       "price": "HK$170",
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01":"眼底矯色霜.png"
+        "img_01":"m/b/mb81.jpg"
       },
       "description_image": null
     },
@@ -1531,14 +1535,14 @@
       "Product Description": "• Highly transparent and highly photosensitive, and it is not too white. Breathable and can be appied to skins with different tones to finish the makeup and make the skin look translucent.",
       "capacity": "11g",
       "skin_suitable": "Suitable for sensitive skin<br>Tested by dermatologist<br>Tested by Ophthalmologist<br>Will not cause acne<br>Free of oil and fragrance <br>Suitable for people wearing contact lens",
-      "function": "",
+      "function": null,
       "principal_components": "• Aluminum Starch Octenylsuccinate has a long-lasting oil control effect, so that the clear makeup can be maintained all the day.<br>• Contains mineral ingredient Mica , which can give makeup translucent shiny luster. It can also reflect the light to conceal defects, showing a slightly matte effect and smooth skin.",
-      "usage": "",
+      "usage": null,
       "price": "HK$260",
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01":"感光透亮蜜粉.png"
+        "img_01":"m/b/mb91.jpg"
       },
       "description_image": null
     },
@@ -1551,13 +1555,13 @@
       "capacity": "4.8g",
       "skin_suitable": "Test by dermatologist<br>Passed skin sensitivity and allergic tests <br>Oil-Free formula<br>Not easy to cause acne<br>Suitable for sensitive skin<br>",
       "function": "• Applied the highlighter on the area that naturally reflecting the light, such as the forehead, the nose, the cheekbones to bring a highlighting effect. <br>• Contains mineral components, which can make the makeup long-lasting and will not harm the skin.<br>• Saturated color can be fully applied. The translucent texture provides a soft and delicate makeup feel. <br>• The color is lasting, and is not easy to get off.",
-      "principal_components": "",
-      "usage": "",
+      "principal_components": null,
+      "usage": null,
       "price": "HK$140",
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01":"魅彩輕羽光影.jpg"
+        "img_01":"m/b/mb101.jpg"
       },
       "description_image": null
     },
@@ -1570,14 +1574,14 @@
       "capacity": "4.8g",
       "skin_suitable": "Test by dermatologist<br>Passed skin sensitivity and allergic tests <br>Oil-Free formula<br>Not easy to cause acne<br>Suitable for sensitive skin",
       "function": "• Contains mineral components, which can make the makeup long-lasting and will not harm the skin.<br>• There is matte and flashy color to provide you with the best color tone and create the best \"makeup\" preparation for you .<br>• Saturated color can be fully applied. The translucent texture provides a soft and delicate makeup feel. <br>• The color is lasting, it is not easy to get off, and the blush will stay shine and bright after going to work, exercise, or accessing locations with A/C. <br>• A gently swipe can show the natural and effect, helping you stay real, natural and beautiful.",
-      "principal_components": "",
-      "usage": "",
+      "principal_components": null,
+      "usage": null,
       "price": "HK$140",
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01":"魅彩輕羽胭脂HintOfPink淡粉紅.png",
-        "img_02":"魅彩輕羽胭脂JuicyPeach亮珊瑚.png"
+        "img_01":"m/b/mb111.jpg",
+        "img_02":"m/b/mb112.jpg"
       },
       "description_image": null
     },
@@ -1589,15 +1593,13 @@
       "Product Description": "• Use before eye shadows to prevent eye shadows from being creased and discolored.<br>• Waterproof formula, making eye makeup long-lasting.<br>• With beewax, vitamin E, chamomile and sesame oil, moisturizing yet not sticky.",
       "capacity": "8.5g",
       "skin_suitable": "Fragrance-free<br>Passed sensitivity test <br>Suitable for sensitive skin<br>Suitable for people wearing contact lens",
-      "function": "",
-      "principal_components": "",
-      "usage": "",
+      "function": null,
+      "principal_components": null,
+      "usage": null,
       "price": "HK$130",
       "video_source": null,
       "normal_image": null,
-      "small_images": {
-        "img_01":"眼部底霜.png"
-      },
+      "small_images": null,
       "description_image": null
     },
     "pd71":{
@@ -1607,19 +1609,19 @@
       "header_links":"makeup",
       "Product Description": "Patented innovative technology Mary Kay ChromaFusion Matrix Technology combines cream-like silky touch and feather-light texture into the eye-shadow to achieve unprecedented superior color and durability to highlight different styling and complexion.",
       "capacity": "1.4g",
-      "skin_suitable": "",
+      "skin_suitable": null,
       "function": "• A variety of colors suitable for Asians, matte and lusterous color provide two different textures and help creating a color combination with infinite charm. <br>• Contains mineral ingredients that are skin-friendly and oil-controlling, while giving the skin a bright glow<br>• Rich and vivid color, smooth texture, easy to apply and color evenly<br>•Long-lasting color, not easy to fall off, can effectively hold makeup for 12 hours*",
-      "principal_components": "",
-      "usage": "",
+      "principal_components": null,
+      "usage": null,
       "price": "HK$90",
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01":"魅彩輕羽眼影魅彩輕羽眼影.png",
-        "img_02":"魅彩輕羽眼影blossom淡粉櫻.png",
-        "img_03":"魅彩輕羽眼影GoldStatus蜜糖金.png",
-        "img_04":"魅彩輕羽眼影Hazelnut榛果杏.png",
-        "img_05":"RoseGold.玫瑰金.png"
+        "img_01":"m/c/mc21.jpg",
+        "img_02":"m/c/mc22.jpg",
+        "img_03":"m/c/mc23.jpg",
+        "img_04":"m/c/mc24.jpg",
+        "img_05":"m/c/mc25.jpg"
       },
       "description_image": null
     },
@@ -1630,17 +1632,17 @@
       "header_links":"makeup",
       "Product Description": "Oval pencil design, moderate hardness ‧ fine texture, smooth application<br>‧ Waterproof and long-lasting formula, can maintain the ideal eyebrow shape all day long<br>‧ Comes with a special eyebrow brush to make eyebrows more three-dimensional and natural",
       "capacity": "0.2g",
-      "skin_suitable": "",
-      "function": "",
-      "principal_components": "",
-      "usage": "",
+      "skin_suitable": null,
+      "function": null,
+      "principal_components": null,
+      "usage": null,
       "price": "HK$148",
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01":"Pink Young 眉筆.png",
-        "img_02":"Pink Young 眉筆02.pngg",
-        "img_03":"Pink Young 眉筆03.pngg"
+        "img_01":"m/c/mc31.jpg",
+        "img_02":"m/c/mc32.jpg",
+        "img_03":"m/c/mc33.jpg"
       },
       "description_image": null
     },
@@ -1652,15 +1654,15 @@
       "Product Description": "pen-like design, easy to control, stable, can easily and accurately control the thinkness of the eyelne<br>‧ Effective waterproof formula, effectively improve the holding time, make the makeup endurance‧ The color is rich and saturated, high color, highlighting eye outline‧ moderate pen point design helps draw the eyeline easily and smoothly‧ Quick -drying formula, not easy to cake and decolorize",
       "capacity": "1.5g",
       "skin_suitable": "Approved by eye doctor <br>Test by dermatologist<br>Clinical tests show it does not cause itchiness and allergy<br>Suitable for sensitive eyes<br>Not easy to cause acne",
-      "function": "",
-      "principal_components": "",
-      "usage": "",
+      "function": null,
+      "principal_components": null,
+      "usage": null,
       "price": "HK$188",
       "video_source": "眼妝教學技巧 - 持久防水眼線液",
       "normal_image": null,
       "small_images": {
-        "img_01":"持色防水眼線液.png",
-        "img_02":"持色防水眼線液01.png"
+        "img_01":"m/c/mc41.jpg",
+        "img_02":"m/c/mc42.jpg"
       },
       "description_image": null
     },
@@ -1671,16 +1673,16 @@
       "header_links":"makeup",
       "Product Description": "Upgraded version of the liquid eyeliner pen, which has improved significantly in color saturation, color rendering and durability. The pen point is still soft and smooth, easy to create a beautiful eye makeup.",
       "capacity": "1.5g",
-      "skin_suitable": "",
+      "skin_suitable": null,
       "function": "The pen shape designed is easy to control and can easily and accurately create thick eyeline <br>‧ The color is rich, saturated, and bright, highlighting the outline of the eye<br>‧ The pen point provides smooth and soft touch, will not pull the skin around the eye<br>‧ Quick formula, not easy to cake and decolorize",
-      "principal_components": "",
-      "usage": "",
+      "principal_components": null,
+      "usage": null,
       "price": "HK$195",
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01":"柔順銳目眼線液.png",
-        "img_02":"柔順銳目眼線液01.png"
+        "img_01":"m/c/mc51.jpg",
+        "img_02":"m/c/mc52.jpg"
       },
       "description_image": null
     },
@@ -1692,15 +1694,15 @@
       "Product Description": "• Rich in amino acid peptide complex, providing nutrients, protection, toughness, and nourishment to eyelashes, as well as elasticity and flexibility<br>• Prevent breakage caused by fragile, scarce, and present thick and long eyelashes<br>• Make eyelashes look abundantand thick . <br>Unique fine brush can care for each eyelash, and can also be used for eyebrows",
       "capacity": "4.5ml",
       "skin_suitable": "Suitable for sensitive skin<br>Tested by ophthalmologist <br>Suitable for people wearing contact lens",
-      "function": "",
-      "principal_components": "",
-      "usage": "",
+      "function": null,
+      "principal_components": null,
+      "usage": null,
       "price": "HK$250",
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01":"美睫滋養精華露.png",
-        "img_02":"美睫滋養精華露01.png"
+        "img_01":"m/c/mc61.jpg",
+        "img_02":"m/c/mc62.jpg"
       },
       "description_image": null
     },
@@ -1712,15 +1714,13 @@
       "Product Description": "• Keep the eyelash smooth and healthy, make eyelashes more dense, and provide moisture for smoother and easier makeup.<br>• The unique design of nylon and cotton fiber bristles can effectively coat the primer on eyelashes to create the desirable effect and prepare for mascara. <br>• If you want to have a full-featured natural, long eyelashes, in addition to the mascara, the lash primer is also essential.",
       "capacity": "8g",
       "skin_suitable": "Suitable for sensitive skin<br>Tested by ophthalmologist <br>Suitable for people wearing contact lens",
-      "function": "",
-      "principal_components": "",
-      "usage": "",
+      "function": null,
+      "principal_components": null,
+      "usage": null,
       "price": "HK$198",
       "video_source": null,
       "normal_image": null,
-      "small_images": {
-        "img_01":"睫毛底膏.png"
-      },
+      "small_images": null,
       "description_image": null
     },
     "pd77":{
@@ -1731,16 +1731,16 @@
       "Product Description": "New curved plastic brush head comes with mixed long and short bristles to help to coat the mascara evenly on each eyelash.<br>• The texture is rich and has the effect of curling, extending and repairing the eyelashes. It contains the vitamin E-derivative that can nourish and strengthen eyelashes.",
       "capacity": "8g",
       "skin_suitable": "Suitable for sensitive skin <br>Fragrance-free Tested by ophthalmologist <br>Suitable for people wearing contact lens",
-      "function": "",
-      "principal_components": "",
-      "usage": "",
+      "function": null,
+      "principal_components": null,
+      "usage": null,
       "price": "HK$120",
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01":"臻愛纖盈特長睫毛液.png",
-        "img_02":"臻愛纖盈特長睫毛液01.png",
-        "img_03":"臻愛纖盈特長睫毛液02.jpg"
+        "img_01":"m/c/mc81.jpg",
+        "img_02":"m/c/mc82.jpg",    
+        "img_03":"m/c/mc83.jpg"
       },
       "description_image": null
     },
@@ -1752,15 +1752,15 @@
       "Product Description": "The ultimate thickness, instant growth, wide angle, easy to shape the rich and magnificent eyelashes.<br><br>• Mary Kay's first mascara for multi-angle intensity and growth effects.<br>• Add 200% volume for the eyelashes, it is equal to doubling the volume for each eyelash. The thickness will also increase by 84% *!<br>• New, special Double Impact Brush can extend the eyelashes in multiple orientation. Thicken and elongate the eyelash at the same time. <br>• Contains super color mineral particles to wrap each eyelashes, create the ultimate dark makeup effect that is not easy to decolorize.<br>• Vitamine B5, composite fatty acids and vitamin E components in the formula can effectively moisturize the eyelashes and provides protection, nourishment, antioxidant and strength.",
       "capacity": "9g",
       "skin_suitable": "Suitable for sensitive skin <br>Fragrance-free Tested by ophthalmologist <br>Suitable for people wearing contact lens",
-      "function": "",
-      "principal_components": "",
-      "usage": "",
+      "function": null,
+      "principal_components": null,
+      "usage": null,
       "price": "HK$240",
       "video_source": "大師級化妝技巧 _ 豐盈增長睫毛液.mp4",
       "normal_image": null,
       "small_images": {
-        "img_01":"豐盈增長睫毛液.png",
-        "img_02":"豐盈增長睫毛液01.png"
+        "img_01":"m/c/mc91.jpg",
+        "img_02":"m/c/mc92.jpg"
       },
       "description_image": null
     },
@@ -1771,15 +1771,15 @@
       "header_links":"makeup",
       "Product Description": "。Mary Kay® Blending Sponge is a new generation of beauty sponge, made with a unique open-cell physical structure. After absorbing water, it can reduce the absorption of foundation; and through the rapid elastic tapping method, it can easily create a more transparent and thin foundation makeup effect.",
       "capacity": "1 pcs",
-      "skin_suitable": "",
+      "skin_suitable": null,
       "function": "• The tip of the sponge is suitable for subtle areas that are not easy to apply makeup<br>• The round bottom is suitable for large areas<br>• The central groove is convenient for you to hold the beauty sponge",
-      "principal_components": "",
+      "principal_components": null,
       "usage": "Before use, soak the sponge and squeeze out the excess water, then put an appropriate amount of foundation milk, foundation cream or concealer on the back of your hand or makeup tray, use the sponge to dip the makeup product, then quickly press onto the skin until it has an even finish.<br><br>It is recommended to wash it immediately after each use and replace it with a brand new sponge every three months.",
       "price": "HK$98",
       "video_source": "美妝葫蘆蛋使用教學 How-to_ Blending Sponge _ Mary Kay Hong Kong.mp4",
       "normal_image": null,
       "small_images": {
-        "img_01":"美妝葫蘆蛋.png"
+        "img_01":"m/d/md11.jpg"
       },
       "description_image": null
     },
@@ -1790,15 +1790,16 @@
       "header_links":"makeup",
       "Product Description": "The set includes 5 high-quality essential makeup brushes with different usages, stored in a stylish and lightweight makeup bag. The brush is smooth to the touch and does not irritate the skin. The shape of the brush head has been specially designed to help easily handle all kinds of makeup, presenting a natural and perfect makeup feel.<br><br>•Fashionable and professional brush head design allows novices and experts to create different makeup looks more handily.<br>•Sweeping hair is dense and elastic, with strong powder-grabbing power, and easy to apply color evenly.<br>• High-quality fiber brush can be used with any powder, cream and liquid cosmetics.",
       "capacity": "1 set",
-      "skin_suitable": "",
+      "skin_suitable": null,
       "function": "• All-Over Powder Brush: The ball head design, the sweeping hair is soft, the powder grasping power is strong, can pick up an appropriate amount of crushed powder or trimming powder and sweep it evenly on the face, suitable for sweeping a large area.<br>• Cheek Brush: Special three-in-one brush head shape design, easily handles Cheek, Contour and Highlighting .<br>• All-Over Eye Shadow Brush: The curved flat sweeping head can fit the natural curvature of the eye socket and easily create evenly colored eyeshadow. It is especially suitable for a wide range of eyelids. It is convenient to loosen or blend the colors of the eyeshadow to create a natural eye makeup effect.<br>•Eye Crease Brush: The bevel brush is especially suitable for eye corners, eyelid creases and the position of the eye socket line. It can easily and meticulously draw professional-grade deep eye sockets and enhance the three-dimensionality of the eyelids.<br>•Eye Smudger Brush: Dense brush hair, tapered design, helps to smudge the eyeliner close to the root of the eyelashes to create a smoky eye makeup, and at the same time, it is convenient to create a detailed effect for the hard-to-reach areas.",
-      "principal_components": "",
-      "usage": "",
+      "principal_components": null,
+      "usage": null,
       "price": "HK$500",
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01":"美妝大師化妝掃套裝.jpg"
+        "img_01":"m/d/md21.jpg",
+        "img_02":"m/d/md22.jpg"
       },
       "description_image": "美妝大師化妝掃套裝01.jpg"
     },
@@ -1809,15 +1810,15 @@
       "header_links":"makeup",
       "Product Description": "• The elliptical design brush head, the dense and short bristles are made of high-quality super soft fiber hair.<br>• The brush head design makes it easier for you to grasp the amount of foundation, without leaving too much foundation on the foundation brush.<br>•Unique handle design helps you control the brush head more flexibly, evenly stick the foundation to the skin, push the foundation perfectly without leaving powder marks, and quickly and easily brush out the perfect foundation.<br>• By gently tapping or drawing a circle to extend the foundation, the concealer effect will be better, showing a flawless natural makeup.<br>•Suitable for use with foundation milk or cream foundation.",
       "capacity": "1 pcs",
-      "skin_suitable": "",
-      "function": "",
-      "principal_components": "",
-      "usage": "",
+      "skin_suitable": null,
+      "function": null,
+      "principal_components": null,
+      "usage": null,
       "price": "HK$150",
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01":"橢圓粉底掃.png"
+        "img_01":"m/d/md31.jpg"
       },
       "description_image": null
     },
@@ -1828,15 +1829,15 @@
       "header_links":"makeup",
       "Product Description": "The soft and thick brush has great ability to grasp powder, making it easier for you to control the amount of powder taken, and to create a uniform, thin, natural makeup with a certain degree of concealment. It is suitable for use with mineral foundations, pressed powders and all powdered foundation products.",
       "capacity": "1 pcs",
-      "skin_suitable": "",
-      "function": "",
-      "principal_components": "",
-      "usage": "",
+      "skin_suitable": null,
+      "function": null,
+      "principal_components": null,
+      "usage": null,
       "price": "HK$130",
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01":"粉狀粉底掃.png"
+        "img_01":"m/d/md41.jpg"
       },
       "description_image": null
     },
@@ -1847,15 +1848,15 @@
       "header_links":"makeup",
       "Product Description": "The slant design of the brush head fits the contours of the face, and there are no dead spots on makeup; the plump and flat bristles are full and elastic, which can evenly adhere the foundation to the skin and help the foundation to be pushed away perfectly without leaving powder marks. It can be used with liquid foundation or cream foundation. By gently tapping or using a circle or small spiral technique to extend the foundation, you can easily control the concealment degree and create top quality foundation.",
       "capacity": "1 pcs",
-      "skin_suitable": "",
-      "function": "",
-      "principal_components": "",
-      "usage": "",
+      "skin_suitable": null,
+      "function": null,
+      "principal_components": null,
+      "usage": null,
       "price": "HK$130",
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01":"斜角濕粉掃.png"
+        "img_01":"m/d/md51.jpg"
       },
       "description_image": null
     },
@@ -1866,15 +1867,15 @@
       "header_links":"makeup",
       "Product Description": "The soft and elastic flat brush can gently and evenly apply cream-like or liquid-like concealer products and eye shadows perfectly without powder marks. It is also suitable for applying lip makeup products.",
       "capacity": "1 pcs",
-      "skin_suitable": "",
-      "function": "",
-      "principal_components": "",
-      "usage": "",
+      "skin_suitable": null,
+      "function": null,
+      "principal_components": null,
+      "usage": null,
       "price": "HK$110",
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01":"霜狀彩妝掃.jpg"
+        "img_01":"m/d/md61.jpg"
       },
       "description_image": null
     },
@@ -1885,15 +1886,15 @@
       "header_links":"makeup",
       "Product Description": "Double-headed design, one end is a bevel sweep, easy to draw precise and detailed eyeliner or eyebrow shape, and fill the gap between the eyebrows; the other end is a spiral brush head, the hair volume is fine and elastic, which helps to comb the eyebrows and soften eyebrow color.",
       "capacity": "1 pcs",
-      "skin_suitable": "",
-      "function": "",
-      "principal_components": "",
-      "usage": "",
+      "skin_suitable": null,
+      "function": null,
+      "principal_components": null,
+      "usage": null,
       "price": "HK$100",
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01":"雙頭眉毛 : 眼線掃.jpg"
+        "img_01":"m/d/md71.jpg"
       },
       "description_image": null
     },
@@ -1904,15 +1905,15 @@
       "header_links":"makeup",
       "Product Description": "• The outer box rose printing design is gorgeous and beautiful<br>•Slim and small, easy to carry<br>• Contains a makeup mirror to help you easily shape the perfect makeup<br>• Magnetic design allows you to assmble your makeup box freely and easily.",
       "capacity": "1pcs",
-      "skin_suitable": "",
+      "skin_suitable": null,
       "function": "Combination example<br><br>• 3 types of Chromafusion Eyeshadow + 2 types of Chromafusion Blush / Contour /Highlighter + 1 Cheek Brush<br>• 3 types of Chromafusion Blush / Contour / Highlighter and Shadow + 1 Cheek Brush",
-      "principal_components": "",
-      "usage": "",
+      "principal_components": null,
+      "usage": null,
       "price": "HK$150",
       "video_source": "z",
       "normal_image": null,
       "small_images": {
-        "img_01":"完美自選彩妝盒.png"
+        "img_01":"m/d/md81.jpg"
       },
       "description_image": "z"
     },
@@ -1923,15 +1924,15 @@
       "header_links":"makeup",
       "Product Description": "The puff is soft, comfortable and does not irritate the skin. It can evenly and tightly apply the powder on the face. The makeup feels translucent and refreshing, presenting a natural and perfect makeup feel. Can be placed in a makeup box.",
       "capacity": "1 pcs",
-      "skin_suitable": "",
-      "function": "",
-      "principal_components": "",
-      "usage": "",
+      "skin_suitable": null,
+      "function": null,
+      "principal_components": null,
+      "usage": null,
       "price": "HK$25",
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01":"粉撲.png"
+        "img_01":"m/d/md91.jpg"
       },
       "description_image": null
     },
@@ -1942,15 +1943,15 @@
       "header_links":"makeup",
       "Product Description": "Sweeping hair is made of high-quality fiber hair, which perfectly combines the firmness and elasticity of man-made fiber hair and the smoothness of natural animal hair. It is soft to the touch and does not irritate the skin, presenting a natural and perfect makeup feel. Can be placed in a makeup box.",
       "capacity": "1pcs",
-      "skin_suitable": "",
-      "function": "",
-      "principal_components": "",
-      "usage": "",
+      "skin_suitable": null,
+      "function": null,
+      "principal_components": null,
+      "usage": null,
       "price": "HK$25",
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01":"胭脂掃Palette Cheek Brush.png"
+        "img_01":"m/d/md101.jpg"
       },
       "description_image": null
     },
@@ -1961,15 +1962,15 @@
       "header_links":"product_series",
       "Product Description": "The texture is comfortable, the foam is fine, and the skin is gently cleansed, so that the whole body can regain comfort, freshness and smoothness while exuding a pleasant scent of white tea and citrus.",
       "capacity": "192ml",
-      "skin_suitable": "",
-      "function": "",
+      "skin_suitable": null,
+      "function": null,
       "principal_components": "Shea Butter-Moisturizes the skin, has a fine and non-greasy texture, can be quickly absorbed, and forms a natural protective film that locks water on the surface of the skin, giving the skin the necessary moisture and hydration.",
       "usage": "Massage the product on wet body skin, gently rub until foaming, and then rinse off with water.",
       "price": "HK$200",
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01":"莎婷乳木果呵護沐浴露.png"
+        "img_01":"p/k/pk11.jpg"
       },
       "description_image": null
     },
@@ -1980,15 +1981,15 @@
       "header_links":"product_series",
       "Product Description": "The creamy texture gently exfoliates old dead skin cells, leaving the skin instantly soft and smooth, regaining vitality. Gentle in nature, suitable for daily use, keeping the whole body smooth and lubricated every day",
       "capacity": "185g",
-      "skin_suitable": "",
-      "function": "",
+      "skin_suitable": null,
+      "function": null,
       "principal_components": "•Shea Butter-Moisturizes the skin, has a fine and non-greasy texture, can be quickly absorbed, and forms a natural protective film that locks water on the surface of the skin, giving the skin the necessary moisture and hydration. <br><br>•Sunflower Oil – can combine with skin lipids to maintain skin moisture, moisturize and soften skin, and is rich in vitamin E, which has antioxidant effect",
       "usage": "Apply the product to wet body skin, massage gently in circular motions, and then rinse off with water.",
       "price": "HK$200",
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01":"莎婷乳木果煥活磨砂膏.png"
+        "img_01":"p/k/pk21.jpg"
       },
       "description_image": null
     },
@@ -1999,15 +2000,15 @@
       "header_links":"product_series",
       "Product Description": "Aromatic and smooth, it instantly blends with the skin, relieves skin dryness, and forms a long-lasting silky touch, bringing unprecedented moisture and care. Clinical tests have confirmed that it can keep moisturizing for 24 hours*.",
       "capacity": "192ml",
-      "skin_suitable": "",
-      "function": "",
+      "skin_suitable": null,
+      "function": null,
       "principal_components": "•Shea Butter-Moisturizes the skin, has a fine and non-greasy texture, can be quickly absorbed, and forms a natural protective film that locks water on the surface of the skin, giving the skin the necessary moisture and hydration. <br><br>•Vitamin E -antioxidant, prevent cell membrane damage, delay aging, and have moisturizing effects",
       "usage": "Take an appropriate amount of the product and gently massage on the skin all over the body.",
       "price": "HK$200",
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01":"莎婷乳木果絲滑潤膚乳.png"
+        "img_01":"p/k/pk31.jpg"
       },
       "description_image": null
     },
@@ -2018,15 +2019,15 @@
       "header_links":"product_series",
       "Product Description": "The fragrance-free formula wraps your hands in a soft and comfortable fine foam, which gently and effectively cleanses your hands without leaving your hands feeling dry after use. The formula contains nourishing shea butter, which softens and soothes dry skin. Instantly moisturizes and protects the skin with a barrier, leaving the hands soft and smooth.",
       "capacity": "185g",
-      "skin_suitable": "",
-      "function": "",
+      "skin_suitable": null,
+      "function": null,
       "principal_components": "Shea butter has small molecules, is refreshing and not greasy. It is not easy to be washed off by water or dissolved by soap. It easily penetrates the keratin and stays on the skin for a longer time without feeling sticky or shiny. At the same time, it is rich in Omega-3, which helps maintain and complete the natural water-locking protective film on the skin surface to prevent water loss. It has long-term moisturizing effect and can adjust the water-oil balance.",
       "usage": "Take an appropriate amount of hand sanitizer on your hands and fingers, gently rub your hands for at least 20 seconds, and then rinse with water.",
       "price": "HK$100",
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01":"莎婷乳木果洗手液.png"
+        "img_01":"p/k/pk41.jpg"
       },
       "description_image": null
     },
@@ -2037,7 +2038,7 @@
       "header_links":"product_series",
       "Product Description": "Use precious and rich shea butter to double repair the skin of your hands! It takes only three steps to instantly care for the delicate hands, combined with the specially formulated white tea and citrus scent, so that your hands can enjoy the pleasant and soothing experience of Home Spa every day.",
       "capacity": "Satin Hands® Pampering Set<br>(White Tea & Citrus) include：<br><br>- Satin Hands® Protecting Softener | 60 g<br><br>- Satin Hands® Satin Smoothie® Refining Shea Scrub<br>(White Tea & Citrus)| | 220 g<br><br>- Satin Hands® Nourishing Shea Cream<br>(White Tea & Citrus) | | 85 g",
-      "skin_suitable": "",
+      "skin_suitable": null,
       "function": "• Use the whole set , you will experience: *<br>• Hands feel moisturized, soft and smooth immediately<br>• Hand skin regains vitality, soothing sensation and protection<br>• Skin feels rejuvenated, looks more delicate and healthy<br><br>* The results of an independent consumer study of 52 women who used the product once a day for a week",
       "principal_components": "<br>•Core ingredient: Shea Butter<br>Shea butter has small molecules, is refreshing and not greasy. It is not easy to be washed off by water or dissolved by soap. It easily penetrates the keratin and stays on the skin for a longer time without feeling sticky or shiny. At the same time, it is rich in Omega-3, which helps maintain and complete the natural water-locking protective film on the skin surface to prevent water loss. It has long-term moisturizing effect and can adjust the water-oil balance. It is the best ingredient to bring home spa enjoyment.<br><br>• Unique fragrance: white tea and citrus fragrance<br>Specially blended unique white tea and citrus scent, the main note is elegant white tea, combined with the citrus scent interwoven by grapefruit and lemongrass, plus cardamom, cherry blossom and jasmine scents, let your hands indulge in freshness, pleasure, relaxation and comfort <br>",
       "usage": "Step 1: Protection and preparation<br>Nourishing hand cream<br>• The fragrance-free formula effectively softens and protects the skin, eliminates dryness and tightness, and is better prepared for follow-up skincare regimen.<br><br>Step 2: Cleanse and renewal <br>Shea Butter scrub <br>• Among 10 women, 9 of them said their hands became soft, smooth and full of vitality after use! *<br>• Gently and effectively cleanse the skin and exfoliate, while the shea butter ingredient softens the skin, leaving the hands delicate and smooth.<br><br>Step 3: Moisturize and relieve<br>Shea Butter Cream<br>•Clinical testing confirmed that it can keep moisturizing for up to 24 hours †<br>• Contains rich shea butter, instantly nourishes and meticulously cares for the hands, and keeps moisturizing for up to 24 hours, so that the hands can bid farewell to dryness and roughness, and regain smoothness and comfort.<br>• Combine apricot kernel oil, safflower seed oil and sunflower seed oil rich in vitamins A, E and Omega-3 to effectively maintain the skin's healthy moisturizing barrier and fully protect the delicate hand skin.<br>• Regular use not only fully moisturizes the hand skin, but also repairs the nails and the nail border skin, making the nail border skin softer and healthier.<br>• The fresh white tea and citrus aroma makes it pleasant and relaxing when applied.<br><br>* The results of an independent consumer study of 52 women who used the product once a day for a week<br>† Biophysical test results",
@@ -2045,10 +2046,11 @@
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01":"莎婷手部護理組合.png",
-        "img_02":"莎婷手部護理組合01.png",
-        "img_03":"莎婷手部護理組合02.png",
-        "img_04":"莎婷手部護理組合03.png"
+        "img_01":"p/k/pk51.jpg",
+        "img_02":"p/k/pk52.jpg",
+        "img_03":"p/k/pk53.jpg",
+        "img_04":"p/k/pk54.jpg",
+        "img_05":"p/k/pk55.jpg"
       },
       "description_image": "莎婷手部護理組合04.jpg"
     },
@@ -2059,15 +2061,15 @@
       "header_links":"product_series",
       "Product Description": "Satin Hands Nourishing Shea Butter Hand Cream uses precious and rich shea butter to double repair the hand skin; combined with the specially formulated white tea and citrus scent, it allows hands to enjoy a pleasant and soothing experience of Home Spa every day.",
       "capacity": "85g",
-      "skin_suitable": "",
+      "skin_suitable": null,
       "function": "Clinical tests confirm that the moisturizing effect can last up to 24 hours †<br>• Contains rich shea butter oil, instantly nourishes and meticulously cares for the hands, and keeps moisturizing for up to 24 hours, so that the hands can bid farewell to dryness and roughness, and regain smoothness and comfort.<br>• Combine apricot kernel oil, safflower seed oil and sunflower seed oil rich in vitamin A, E and Omega-3 to effectively maintain the skin's healthy moisturizing barrier and fully protect the delicate hand skin.<br>• Regular use not only fully moisturizes the hand skin, but also repairs the nails and the nail border skin, making the nail border skin softer and healthier.<br>• The fresh white tea and citrus aroma make it pleasant and relaxing when applied.<br>• In an independent consumer study, 9 out of 10 women reported that their hands were fully nourished, became softer, smooth and full of vitality after use*.<br><br>* The results of an independent consumer study of 52 women who used the product once a day for a week<br>† Biophysical test results",
       "principal_components": "<br>•Core ingredient: Shea Butter<br>Shea butter has small molecules, is refreshing and not greasy. It is not easy to be washed off by water or dissolved by soap. It easily penetrates the keratin and stays on the skin for a longer time without feeling sticky or shiny. At the same time, it is rich in Omega-3, which helps maintain and complete the natural water-locking protective film on the skin surface to prevent water loss. It has long-term moisturizing effect and can adjust the water-oil balance. It is the best ingredient to bring home spa enjoyment.<br><br>• Unique fragrance: white tea and citrus fragrance<br>Specially blended unique white tea and citrus scent, the main note is elegant white tea, combined with the citrus scent interwoven by grapefruit and lemongrass, plus cardamom, cherry blossom and jasmine scents, let your hands indulge in freshness, pleasure, relaxation and comfort",
-      "usage": "",
+      "usage": null,
       "price": "HK$115",
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01":"莎婷乳木果護手霜.png"
+        "img_01":"p/k/pk61.jpg"
       },
       "description_image": null
     },
@@ -2079,14 +2081,14 @@
       "Product Description": "The second step of Satin Lips care. A sweet and moisturizing lip balm that gently cares for the delicate lips and makes the lips plump and moiturized.",
       "capacity": "8g",
       "skin_suitable": "Tested and approved by dermatologist<br>Pass the clinical skin sensitivity test",
-      "function": "",
+      "function": null,
       "principal_components": "• Shea butter combined with jojoba ester can make lips comfortable, soft and moisturized.<br><br>•Shea butter is rich in vitamins A and E, which can effectively resist oxidation and help the skin retain water.<br><br>•Jojoba ester effectively helps moisturize and lock water and proide a natural barrier for the lip skin.<br>• The texture is soft and non-sticky, making lips look plump and supple<br>•White tea and citrus intertwined with a fresh aroma, bringing pleasant sensory enjoyment.<br>•Use as a primer on the lip before applying makeup to make the lipstick or lip gloss more saturated.Apply an appropriate amount of shea butter sugar scrub lip balm to lips 2-3 times a week, and massage gently in circular motions. Wipe off the scrub with a paper towel and moistened cotton pad or rinse off with water. Then apply shea butter lip balm.",
       "usage": "Use as needed or before lip makeup. It is also suitable for use after shea sugar scrub .",
       "price": "HK$150",
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01":"莎婷乳木果護唇脂.png"
+        "img_01":"p/k/pk71.jpg"
       },
       "description_image": null
     },
@@ -2098,14 +2100,14 @@
       "Product Description": "The first step of Satin Lips regimen. The sweet lip scrub gently and effectively removes excess dead skin, say goodbye to lip dryness and roughness, and regenerate vitality.",
       "capacity": "8g",
       "skin_suitable": "Tested and approved by dermatologist<br>Pass the clinical skin sensitivity test",
-      "function": "",
+      "function": null,
       "principal_components": "•Natural sucrose particles gently remove the aging keratin of the lips and help renew the lip skin tissue.<br><br>• The rich and nourishing shea butter gives the lips a soft and smooth natural lip color.<br><br>• Sunflower seed oil is rich in vitamin E, which is effective against oxidation and protects lips from free radical damage.<br>•White tea and citrus intertwined with a fresh aroma, bringing pleasant sensory enjoyment.",
       "usage": "Apply an appropriate amount of shea sugar scrub to lips 2-3 times a week, and massage gently in circular motions. Wipe off the scrub with a paper towel and moistened cotton pad or rinse off with water. Then apply shea butter balm.",
       "price": "HK$150",
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01":"莎婷乳木果去角質唇霜.png"
+        "img_01":"p/k/pk81.jpg"
       },
       "description_image": null
     },
@@ -2116,16 +2118,16 @@
       "header_links":"product_series",
       "Product Description": "The refreshing and cool mint formula helps relieve fatigue in the feet and legs, injects refreshing vitality into the feet, and restores the lightness of walking.",
       "capacity": "88ml",
-      "skin_suitable": "",
+      "skin_suitable": null,
       "function": "• Contains menthol, peppermint essential oil and eucalyptus leaf essential oil, which brings a cool and refreshing feeling and relieves pressure on the feet and legs.<br>• Rosemary and white willow bark extracts have gentle astringent properties, which can relax and condition tired feet and legs, and restore lightness and vitality to the feet.<br>• The birch bark extract regulates and smoothes the skin of the feet, combined with glycerin to maintain the ideal moisturizing state of the skin, making the skin of the feet softer, smoother and more refreshing.<br>• Lightweight and non-sticky, it can be massaged on the feet and legs at any time to instantly relieve the feeling of heaviness.",
-      "principal_components": "",
+      "principal_components": null,
       "usage": "Take an appropriate amount of product and apply directly to the feet and legs, and gently massage",
       "price": "HK$170",
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01":"清涼薄荷足部潤膚露.png",
-        "img_02":"清涼薄荷足部潤膚露01.png"
+        "img_01":"p/k/pk91.jpg",
+        "img_02":"p/k/pk92.jpg"
       },
       "description_image": null
     },
@@ -2144,7 +2146,7 @@
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01":"胸部護理霜.png"
+        "img_01":"p/k/pk101.jpg"
       },
       "description_image": null
     },
@@ -2163,7 +2165,8 @@
       "video_source": "Mary Kay 全新防曬系列.mp4",
       "normal_image": null,
       "small_images": {
-        "img_01":"多效防曬隔離乳.png"
+        "img_01":"f/g/fg11.jpg",
+        "img_02":"f/g/fg12.jpg"
       },
       "description_image": "多效防曬隔離乳01jpg<br>防曬01.jpg"
     },
@@ -2182,7 +2185,9 @@
       "video_source": "Mary Kay 全新防曬系列.mp4",
       "normal_image": null,
       "small_images": {
-        "img_01":"水感輕透防曬乳.png"
+        "img_01":"f/f/ff21.jpg",
+        "img_02":"f/f/ff22.jpg",
+        "img_03":"f/f/ff22.jpg"
       },
       "description_image": "水感輕透防曬乳01.jpg<br>防曬02.jpg"
     },
@@ -2194,14 +2199,14 @@
       "Product Description": "The ice blue replenishing gel is rich in plant extracts, which can quickly provide hydration and has excellent antioxidant effects. The texture is refreshing, effectively soothes and calms irritated and red skin after sun exposure. The texture is refreshing and the gel can be absorbed quickly, does not feel sticky, and is suitable for all skin types.",
       "capacity": "192ml",
       "skin_suitable": "Suitable for all skin types types<br>tested by dermatologists<br>Pass skin irritation and allergy test<br>Suitable for face and body skin",
-      "function": "",
+      "function": null,
       "principal_components": "• Rhodiola Rosea Root Extract: It has excellent antioxidant properties, and can quickly repair and soften the skin after sun exposure, reduce inflammation and moisture loss after sun exposure, and keep skin moisturized.<br><br>•Camellia Sinensis Leaf Extractd: powerful antioxidant, slow down the phenomenon of photo-aging, while effectively soothing and calming skin irritation and redness after sun exposure.<br>•Glycerin: skin moisturizer and softener to keep the skin moisturized, soft and smooth.",
       "usage": "Apply it evenly on the skin after sun exposure; it can also be used on skin that has been exposed to strong wind or over-irritated (too cold or hot).<br><br>If necessary, apply repeatedly. When applying on the face, avoid the eye area. It can also be used as a primer before applying sunscreen to enhance moisturizing and protection.",
       "price": "HK$200",
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01":"夏艷曬後修護凝露.png"
+        "img_01":"f/g/fg31.jpg"
       },
       "description_image": null
     },
@@ -2212,16 +2217,16 @@
       "header_links":"makeup",
       "Product Description": "Inspired by the brave life story of Mary Kay Ash, the founder of Mary Kay Company, the rich and unique fragrance is composed of fresh and refreshing ginger, rich and soft rose and warm and roasted tonka bean aroma, showing unquestionable confidence, fearlessness and courage.<br><br>The special multi-faceted cut bottle design symbolizes the versatility of women. The bottle cap represents self-confidence and perseverance. The pale gold color of the bottle reflects the strength and belief of women, as well as the infinite possibilities of life brought by the warm sunshine.",
       "capacity": "50ml",
-      "skin_suitable": "",
-      "function": "",
+      "skin_suitable": null,
+      "function": null,
       "principal_components": "FLORAL WOODY<br>Top notes: Italian Bergamot, Ginger, Lush Petals<br>Middle notes: Bold Rose, Lily of the Valley, Orchid<br>Base notes: Sustainable Roasted Tonka Bean, Cedarwood, Australian Sandalwood, Vanilla Musk",
-      "usage": "",
+      "usage": null,
       "price": "HK$598",
       "video_source": "z",
       "normal_image": null,
       "small_images": {
-        "img_01":"勇敢無懼香水.jpg",
-        "img_02":"勇敢無懼香水02.jpg"
+        "img_01":"m/e/me31.jpg",
+        "img_02":"m/e/me32.jpg"
       },
       "description_image": null
     },
@@ -2233,14 +2238,14 @@
       "Product Description": "• Contains anti-aging ingredients, which can significantly reduce fine lines and wrinkles around the eyes.<br>• Effectively moisturize and tighten the eye skin, and have the effect of brightening, soothing and smoothing the skin around the eyes.<br>",
       "capacity": "18g",
       "skin_suitable": "Tested by ophthalmologists<br>Clinical tests show it does not cause itchiness and allergy<br>Suitable for all skin types <br>Free of oil <br>Hypoallergenic formula<br>Suitable for people who wear contact lenses",
-      "function": "",
-      "principal_components": "",
+      "function": null,
+      "principal_components": null,
       "usage": "Dip an appropriate amount of eye cream with your ring finger and gently pat on the eye area to nourish the skin around the eye area",
       "price": "HK$358",
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01":"男士眼霜.png"
+        "img_01":"p/j/pj11.jpg"
       },
       "description_image": null
     },
@@ -2252,14 +2257,14 @@
       "Product Description": "• A mild, transparent gel that can effectively cleanse the grease and dirt on the skin and cleanse the pores.<br>•Leaves the skin refreshed, comfortable and full of vitality.<br>•Be well prepared for the subsequent shaving steps.",
       "capacity": "133ml",
       "skin_suitable": "Suitable for all skin types and sensitive skin<br>Free of oil, fragrance and alcohol<br>Not easy to cause acne",
-      "function": "",
-      "principal_components": "",
-      "usage": "",
+      "function": null,
+      "principal_components": null,
+      "usage": null,
       "price": "HK$228",
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01":"男士潔面啫喱.png"
+        "img_01":"p/j/pj21.jpg"
       },
       "description_image": null
     },
@@ -2270,7 +2275,7 @@
       "header_links":"tonic",
       "Product Description": "DailyBenefits ® Antioxidant uses 4 kinds of antioxidant nutrients to tackle the issue of oxidation and fight against the damage caused by oxidation to DNA, so that the cells in the body can regain their youthful power. Protect the human body from all aspects, fight against damage and aging caused by oxidation, and at the same time bring various benefits to the skin, helping to create youthful beauty from the inside out.",
       "capacity": "60 tablets",
-      "skin_suitable": "",
+      "skin_suitable": null,
       "function": "Research and development of a century-old pharmaceutical manufacturer in Europe<br>Made in Taiwan GMP factory<br>Main raw materials imported from Europe and America<br>Compound formula<br>Does not contain hormones",
       "principal_components": "Green Tea Extract (EGCG)<br>• Antioxidant, helps to remove free radicals generated when the body is tired.<br>• Helps repair the epidermis and reduces collagen degradation.<br><br>Lutein is extracted from Calendula<br>• Lutein can absorb blue light from sunlight, computer light sources, office lighting, etc., to prevent blue light from damaging the eyes.<br>•Help to maintain skin and eye health, effectively reduce UVA, UVB and blue light damage to the skin and eyes.<br>•Increase skin moisture level, help skin to stay radiant and elastic.<br>•It has anti-oxidant usage, resists DNA oxidative damage, and helps to improve brain vitality.<br><br>Vitamin C and Vitamin E<br>• Vitamin C helps collagen synthesis, and vitamin E helps maintain the integrity of cell membranes.<br>•Helps reduce DNA oxidative damage.<br>• When the two are used together, they have a synergistic effect, and the effect is better than when they are used alone.",
       "usage": "• One tablet each morning and evening, it is recommended to consume after meals.<br><br>＊Please take it continuously for the best effect",
@@ -2278,7 +2283,7 @@
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01":"怡日健®粉妍片.png"
+        "img_01":"s/a/sa11.jpg"
       },
       "description_image": null
     },
@@ -2290,14 +2295,14 @@
       "Product Description": "The three star ingredients of Bone Helper are hydrolyzed egg yolk powder, casein phosphopeptide, and vitamin D3. Replenishes collagen and promotes calcium absorption, promoting bone health. The Bone Helper has high thermal stability and can be added to various beverages and soups. It will not deteriorate even when stored at high temperatures.",
       "capacity": "30 packs x 2g",
       "skin_suitable": "This product contains ingredients derived from milk and eggs",
-      "function": "",
+      "function": null,
       "principal_components": "。Hydrolyzed Bonepep<br>•The active peptide has small molecule and is easy to be absorbed.<br>• Use Japanese local high-quality egg yolk as raw materials, and use a patented enzymatic hydrolysis technology to extract.<br><br><br>Casein Phosphopeptide (CPP)<br>•The active peptide molecule is small and easy to be absorbed.<br>•Lactose is removed, and people who are allergic to milk (lactose) can also take it.<br>• Fresh milk from New Zealand dairy farm with non-genetically modified pastures.<br><br><br>Vitamin D3 <br>• Promote calcium absorption.<br>•Use patented technology to make small molecule particles, which are more easily absorbed by the human body.<br>• Originated from Switzerland, the quality of raw materials meets EU standards.",
       "usage": "1 packet per day is recommended<br>Mix 1 packet of powder with about 100ml of warm water or milk and drink it, or mix it with hot soup.",
       "price": "HK$498",
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01":"怡日健®金骨網.jpg"
+        "img_01":"s/a/sa21.jpg"
       },
       "description_image": null
     },
@@ -2309,15 +2314,15 @@
       "Product Description": "•Scientific formula of five strains, covering the intestinal tract and improving the intestinal microenvironment.<br>• The number of live bacteria per pack is as high as 50 billion, which continuously reaches the intestines, and the effect is better.<br>• Contains high-quality strains, verified by professional scientific experiments, and obtained patent certification.<br>•From the global professional probiotic manufacturer-DuPont, the safety is recognized by the US FDA. The high-cleanliness plant exclusively produces probiotics, no cross-contamination, safety and high quality are guaranteed.<br>• Advanced \"bacteria freeze-drying\" technology and strict moisture control ensure the activity of probiotics to a greater extent.<br>• Convenient to consume and preserve, can be made into a drink, good taste, no need to refrigerate.",
       "capacity": "30 packs x 2g",
       "skin_suitable": "This product contains milk ingredients",
-      "function": "",
-      "principal_components": "",
+      "function": null,
+      "principal_components": null,
       "usage": "Mix 1 packet of powder with about 50ml of water or milk and other liquid foods below 37°C, mix thoroughly and drink",
       "price": "HK$428",
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01":"怡日健®益生菌.jpg",
-        "img_02":"怡日健®益生菌01.jpg"
+        "img_01":"s/a/sa31.jpg",
+        "img_02":"s/a/sa32.jpg"
       },
       "description_image": null
     },
@@ -2328,35 +2333,35 @@
       "header_links":"tonic",
       "Product Description": "High-content of selected Italian imported fish collagen peptides, each containing 5,000 mg, equivalent to eating 2-3 fish, zero fat, leaving skin moisturized without burden.<br>•Precious bonito elastin peptides from Japan increase skin elasticity. Each bonito can only extract about 0.1 g of elastin, which is extremely rare.<br>• Matched with natural prickly pear powder, rich in vitamin C, antioxidant and stimulating collagen production at the same time, making the skin more translucent.<br>•Add red beets from France, which are rich in minerals and provide natural pink pigments, giving you a nice and tender scent.<br>•The molecule is super small, it can be circulated into the body to be absorbed and used within 2 hours after taking it.<br>• The quality is strictly monitored, and the products have passed more than 1,000 tests.",
       "capacity": "30packs x ８g",
-      "skin_suitable": "",
-      "function": "",
-      "principal_components": "",
+      "skin_suitable": null,
+      "function": null,
+      "principal_components": null,
       "usage": "Mix 1 packet of powder with about 150ml of warm water and mix thoroughly for drinking, and 2 packets can be mixed with 200-300ml of warm water for drinking, either before or after meals.",
       "price": "HK$628",
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01":"怡日健®膠原蛋白肽.png"
+        "img_01":"s/a/sa41.jpg"
       },
       "description_image": null
     },
     "pd109":{
       "產品中文名稱": "怡日健®綜合維他命B",
       "name": "Daily Benefits® Complex B",
-      "series": "",
-      "header_links":"",
+      "series": null,
+      "header_links":null,
       "Product Description": "• Replenish vitamin B, which is not easily stored by the body, to maintain energy and promote body metabolism.<br>• Contains 8 B vitamins required by the human body, among which Niacinamide, Biotin and Folic Acid, protect your health while also protecting your beauty.<br>•Scientific content, high-efficiency supplement, to meet daily needs.<br>•Adopt film coating technology to avoid light, heat, and moisture, and lock the core nutrients.<br>•Small round tablets, easy to swallow, dissolve in the body within 5 minutes.<br>• The quality is strictly monitored, and the products have passed more than 600 tests.<br>• Originated from a century-old nutraceutical raw material supplier—DSM, in compliance with pharmaceutical standards",
       "capacity": "90 tablets",
-      "skin_suitable": "",
-      "function": "",
-      "principal_components": "",
+      "skin_suitable": null,
+      "function": null,
+      "principal_components": null,
       "usage": "Take 1 tablet once a day, swallowed with water.",
       "price": "HK$238",
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01":"怡日健®綜合維他命B.png",
-        "img_02":"怡日健®綜合維他命B01.png"
+        "img_01":"s/a/sa51.jpg",
+        "img_02":"s/a/sa52.jpg"
       },
       "description_image": null
     }
