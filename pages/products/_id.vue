@@ -13,7 +13,7 @@
         <li
           v-for="(item, index) in productData.products"
           :key="index"
-          class="col-lg-4 col-md-6 col-xs-6 white text_center"
+          class="col-6 col-md-6 col-lg-4 white text_center"
         >
           <nuxt-link
             :to="{ name: `products-series-id___${$i18n.locale}`, params: { id: item, series: title } }"

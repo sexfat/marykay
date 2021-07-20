@@ -1,6 +1,6 @@
 <template>
   <div>
-    <div class="s3">
+    <div id="s3" class="s3">
       <div class="video_wrap hide">
         <video poster="" playsinline loop autoplay muted>
           <source src="~assets/images/video/index_02.mp4" type="video/mp4" />
@@ -35,7 +35,11 @@
     <div class="dark bottom-caption">
       <div class="action small_title">
         PINK DOING MORE
-        <div id="" class="arrow"><img src="~assets/images/down-arrow-white.svg" alt="" srcset="" /></div>
+        <div id="" class="arrow">
+          <nuxt-link :to="{ hash: '#s4' }"
+            ><img src="~assets/images/down-arrow-white.svg" alt="" srcset=""
+          /></nuxt-link>
+        </div>
       </div>
     </div>
   </div>

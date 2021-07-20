@@ -1,5 +1,5 @@
 <template>
-  <section class="s4">
+  <section id="s4" class="s4">
     <div class="flex-block">
       <div class="heading-block">
         <h3 class="h3">
@@ -89,7 +89,11 @@
     <div class="dark bottom-caption margin-top_150">
       <div class="action small_title">
         OUR PRODUCT
-        <div id="" class="arrow"><img src="~assets/images/down-arrow-white.svg" alt="" srcset="" /></div>
+        <div id="" class="arrow">
+          <nuxt-link :to="{ hash: '#s5' }"
+            ><img src="~assets/images/down-arrow-white.svg" alt="" srcset=""
+          /></nuxt-link>
+        </div>
       </div>
     </div>
   </section>

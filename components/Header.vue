@@ -161,8 +161,15 @@ export default {
     mobileMeauInit() {
       // eslint-disable-next-line no-undef
       this.menu = new MmenuLight(this.$refs.navigation, 'all')
-      this.drawer = this.menu.offcanvas()
-      this.menu.navigation()
+      this.drawer = this.menu.offcanvas({
+        position: 'left',
+      })
+      this.menu.navigation({
+        // selectedClass: 'Selected',
+        slidingSubmenus: true,
+        // theme: 'dark',
+        title: 'Mary Kay',
+      })
     },
     openMeau(e) {
       e.preventDefault()

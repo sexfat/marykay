@@ -1,6 +1,6 @@
 <!-- eslint-disable -->
 <template>
-  <div class="section_full s1 parallax dark">
+  <div id="s1" class="section_full s1 parallax dark">
     <div class="container clearfix nopadding">
       <div class="slider-caption slider-caption-center margin-top_200">
         <h2>

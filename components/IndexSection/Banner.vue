@@ -24,7 +24,9 @@
     </div>
     <div class="action">
       <p class="small_title">OUR BRAND</p>
-      <div id="a1" class="arrow"><img src="~assets/images/down-arrow-white.svg" alt="" srcset="" /></div>
+      <div id="a1" class="arrow">
+        <nuxt-link :to="{ hash: '#s1' }"><img src="~assets/images/down-arrow-white.svg" alt="" srcset="" /></nuxt-link>
+      </div>
     </div>
   </div>
 </template>

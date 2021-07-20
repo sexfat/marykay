@@ -26,7 +26,9 @@
     <div class="action small_title">
       SCIENCE<br />
       BEHIND PRODUCT
-      <div id="a1" class="arrow"><img src="~assets/images/down-arrow-white.svg" alt="" srcset="" /></div>
+      <div id="a1" class="arrow">
+        <nuxt-link :to="{ hash: '#s3' }"><img src="~assets/images/down-arrow-white.svg" alt="" srcset="" /></nuxt-link>
+      </div>
     </div>
   </section>
 </template>

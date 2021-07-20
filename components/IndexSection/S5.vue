@@ -1,12 +1,17 @@
 <template>
-  <div class="s5">
+  <div id="s5" class="s5">
     <div class="banner">
+      <div class="titles">
+        <h1 class="showcase" data-aos="fade-up" data-aos-duration="800">
+          <b>Mary Kay® Pink Clay Mask</b>
+        </h1>
+      </div>
       <img src="~assets/images/Pink_Clay_Mask.jpg" alt="" srcset="" />
     </div>
     <div class="container-fluid">
       <div class="row">
         <div class="col-lg-7 col-md-12 dark flex">
-          <div class="body" data-aos="fade-left" data-aos-duration="1000">
+          <div class="body" data-aos="fade-downs" data-aos-duration="1000">
             <p class="small_title">NEW</p>
             <h3 class="h4">Mary Kay® Pink Clay Mask</h3>
             <p class="margin-top_30">
