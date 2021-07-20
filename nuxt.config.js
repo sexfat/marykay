@@ -49,9 +49,27 @@ export default {
         },
       },
     },
+    // html: {
+    //   minify: {
+    //     collapseBooleanAttributes: true,
+    //     decodeEntities: true,
+    //     minifyCSS: true,
+    //     minifyJS: true,
+    //     processConditionalComments: true,
+    //     removeEmptyAttributes: true,
+    //     removeRedundantAttributes: true,
+    //     trimCustomFragments: true,
+    //     useShortDoctype: true,
+    //     preserveLineBreaks: false,
+    //     collapseWhitespace: true,
+    //   },
+    // },
   },
   router: {
     // base: '/dist/',
+  },
+  server: {
+    port: 5500, // default: 3000
   },
   generate: {
     fallback: true,

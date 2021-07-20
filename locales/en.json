@@ -57,7 +57,7 @@
           "header_img": "series.jpg"
         },
         "TimeWise": {
-          "name": "TimeWise",
+          "name": "TimeWise Moisture Renewing/TimeWise® Age Minimize 3D™",
           "cn": "時光精靈/ 時光精靈3D系列",
           "header_links": "product_series",
           "header_img": "series.jpg"
@@ -75,13 +75,13 @@
           "header_img": "series.jpg"
         },
         "Supplementary": {
-          "name": "Supplementary",
+          "name": "Supplementary maintenance",
           "cn": "補充性保養系列",
           "header_links": "product_series",
           "header_img": "series.jpg"
         },
         "LumiVie": {
-          "name": "LumiVie",
+          "name": "LumiVie™",
           "cn": "亮采系列",
           "header_links": "product_series",
           "header_img": "series.jpg"
@@ -93,19 +93,19 @@
           "header_img": "series.jpg"
         },
         "Clear_Proof": {
-          "name": "Clear Proof",
+          "name": "Clear Proof ® ",
           "cn": "淨顏系列",
           "header_links": "product_series",
           "header_img": "series.jpg"
         },
         "Male": {
-          "name": "Male",
+          "name": "MK Men",
           "cn": "男士系列",
           "header_links": "product_series",
           "header_img": "series.jpg"
         },
         "Satin_Body": {
-          "name": "Satin Body",
+          "name": "Body",
           "cn": "美體系列",
           "header_links": "product_series",
           "header_img": "series.jpg"
@@ -123,49 +123,49 @@
           "header_img": "series.jpg"
         },
         "Toner": {
-          "name": "Toner",
+          "name": "Lotion",
           "cn": "化妝水",
           "header_links": "product_features",
           "header_img": "series.jpg"
         },
         "Lotion": {
-          "name": "Lotion",
+          "name": "Lotion&Cream",
           "cn": "乳液/乳霜",
           "header_links": "product_features",
           "header_img": "series.jpg"
         },
         "Facial_Mask": {
-          "name": "Facial Mask",
+          "name": "Mask",
           "cn": "面膜",
           "header_links": "product_features",
           "header_img": "series.jpg"
         },
         "Essence": {
-          "name": "Essence",
+          "name": "Serum & Oil",
           "cn": "精華液/油",
           "header_links": "product_features",
           "header_img": "series.jpg"
         },
         "Body_Care": {
-          "name": "Body Care",
+          "name": "Sun Care",
           "cn": "身體防曬/保養",
           "header_links": "product_features",
           "header_img": "series.jpg"
         },
         "Eye_Lip_Care": {
-          "name": "Eye & Lip Care",
+          "name": "Eye&Lips Care",
           "cn": "眼唇保養",
           "header_links": "product_features",
           "header_img": "series.jpg"
         },
         "Special_Care": {
-          "name": "Special Care",
+          "name": "Targeted Solutions",
           "cn": "特殊護理",
           "header_links": "product_features",
           "header_img": "series.jpg"
         },
         "Beauty_Apparatus": {
-          "name": "Beauty Apparatus",
+          "name": "Skin Care Tools",
           "cn": "美容儀器",
           "header_links": "product_features",
           "header_img": "series.jpg"
@@ -177,19 +177,19 @@
           "header_img": "series.jpg"
         },
         "Facial": {
-          "name": "Facial",
+          "name": "Face",
           "cn": "臉部系列",
           "header_links": "makeup",
           "header_img": "series.jpg"
         },
         "Eye": {
-          "name": "Eye",
+          "name": "Eyes",
           "cn": "眼部系列",
           "header_links": "makeup",
           "header_img": "series.jpg"
         },
         "Makeup_Tools": {
-          "name": "Makeup Tools",
+          "name": "Tools",
           "cn": "彩妝工具",
           "header_links": "makeup",
           "header_img": "series.jpg"
@@ -201,7 +201,7 @@
           "header_img": "series.jpg"
         },
         "Tonic": {
-          "name": "Tonic",
+          "name": "Nutrition",
           "cn": "食物補充品",
           "header_links": "tonic",
           "header_img": "series.jpg"
@@ -257,22 +257,22 @@
   },
   "header_links": {
     "maintenance": {
-      "name": "Maintenance"
+      "name": "Skin Care"
     },
     "dm": {
       "name": "DM"
     },
     "about": {
-      "name": "About Marykay",
+      "name": "About Mary Kay",
       "series": {
-        "concept": { "name": "Concept" },
-        "story": { "name": "Story" },
-        "charitable": { "name": "Charitable" },
-        "innovation": { "name": "Innovation" }
+        "concept": { "name": "Brand Concept" },
+        "story": { "name": "About Mary Kay Ash" },
+        "charitable": { "name": "Social Corporate Responsibility" },
+        "innovation": { "name": "Scientific Research Innovation" }
       }
     },
     "product_series": {
-      "name": "Product Series",
+      "name": "COLLECTION",
       "series": {
         "Youthfinity": {
           "name": "臻時粹顏系列",
@@ -321,7 +321,7 @@
       }
     },
     "product_features": {
-      "name": "Product Features",
+      "name": "CONCERN",
       "series": {
         "Remover": {
           "name": "卸妝",
@@ -391,7 +391,7 @@
       }
     },
     "tonic": {
-      "name": "Tonic",
+      "name": "Nutrition",
       "series": {
         "Tonic": {
           "name": "食物補充品",
@@ -440,7 +440,9 @@
       "video_source": null,
       "normal_image": "臻時粹顏™精華乳01.png",
       "small_images": {
-        "img_01": "臻時粹顏™精華乳02.png"
+        "img_01": "首頁＿明星商品01.jpg",
+        "img_02": "首頁＿明星商品02.jpg",
+        "img_03": "首頁＿明星商品03.jpg"
       },
       "description_image": null
     },
@@ -457,11 +459,7 @@
       "principal_components": "24K Liquid Gold Polypeptide: Improve the skin's internal structure and strength, promote collagen production1, and enhance skin firmness. It also contains moisturizing ceramides and plant-derived phytosterols, which help enhance the skin's barrier function and skin care effect3. With continuous use, the skin will be plumped, more elastic and younger.<br><br>Aspen Rose extract: awakens the skin's natural protective barrier, helps protect the skin against various environmental stresses, and solves the problem of skin aging.<br><br>Evening primrose: The essence extracted from evening primrose seeds helps revitalize the self-proliferation of skin matrix protein, intensively repairs the skin, revitalizes the skin's fullness, elasticity and firmness, and tightens the skin.<br><br>Squalane: Replenish the required lipids for the skin and form a breathable protective film on the surface of the skin, which can slow down the evaporation of moisture, play a moisturizing and emollient effect, and keep the skin healthy.<br><br>配方特點：<br>通過亞洲膚質測試，適合亞洲人肌膚<br>適合各種肌膚類型<br>不易堵塞毛孔<br>*女性持續早晚使用產品的獨立消費者研究結果<br>1 關鍵成分的體外測試結果<br>2 結果來自個別的獨立消費者研究，測試中252名亞洲女性使用產品21天，每天2次後給予評價<br>3 關鍵成分的體內測試結果Formula characteristics:<br>Passed Asian skin quality test, suitable for Asian skin<br>Suitable for all skin types types<br>Not easy to clog pores<br>*Independent consumer research results of women who continue to use the product in the morning and evening<br>1 In vitro test results of key ingredients<br>2 The results come from individual independent consumer research. In the test, 252 Asian women used the product for 21 days and evaluated after 2 times a day3 In vivo test results of key ingredients",
       "video_source": "video_ind03.mp4",
       "normal_image": "臻時粹顏™精華油.png",
-      "small_images": {
-        "img_01": "臻時粹顏™精華油.png",
-        "img_02": "臻時粹顏™精華油01.png",
-        "img_03": "臻時粹顏™精華油02.png"
-      },
+      "small_images":null,
       "description_image": null
     },
     "test": {
@@ -478,9 +476,9 @@
       "video_source": "video_ind03.mp4",
       "normal_image": null,
       "small_images": {
-        "img_01": "臻時粹顏™精華油.png",
-        "img_02": "臻時粹顏™精華油01.png",
-        "img_03": "臻時粹顏™精華油02.png"
+        "img_01": "首頁＿明星商品01.jpg",
+        "img_02": "首頁＿明星商品02.jpg",
+        "img_03": "首頁＿明星商品03.jpg"
       },
       "description_image": null
     }

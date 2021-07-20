@@ -13,15 +13,20 @@
         <li class="col-lg-7 col-md-12">
           <!-- 大圖 -->
           <div class="product_img">
-            <img src="~assets/images/夏艷曬後修護凝露.png" alt="" srcset="" />
+            <img :src="mainImg" alt="" srcset="" />
           </div>
           <!-- 小圖 -->
           <div class="thumbnail">
             <ul>
-              <li><img src="~assets/images/夏艷曬後修護凝露.png" alt="" srcset="" /></li>
-              <li><img src="~assets/images/夏艷曬後修護凝露.png" alt="" srcset="" /></li>
-              <li><img src="~assets/images/夏艷曬後修護凝露.png" alt="" srcset="" /></li>
-              <li><img src="~assets/images/夏艷曬後修護凝露.png" alt="" srcset="" /></li>
+              <li v-for="(item, index) in productData.small_images" :key="index">
+                <img
+                  :ref="index"
+                  :src="require(`~/assets/images/${item}`)"
+                  alt=""
+                  srcset=""
+                  @click="mainImgChanging(index)"
+                />
+              </li>
             </ul>
           </div>
         </li>
@@ -88,7 +93,9 @@ export default {
     }
   },
   data() {
-    return {}
+    return {
+      mainImg: '',
+    }
   },
   head: {
     title: '產品頁',
@@ -102,7 +109,12 @@ export default {
     },
   },
   mounted() {
-    // console.log(this.series)
+    if (Object.keys(this.$refs).length) this.mainImg = this.$refs.img_01[0].src
+  },
+  methods: {
+    mainImgChanging(index) {
+      this.mainImg = this.$refs[index][0].src
+    },
   },
 }
 </script>

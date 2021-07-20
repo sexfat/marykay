@@ -11,7 +11,9 @@
         <div class="nav">
           <div class="header-left">
             <div class="logo">
-              <nuxt-link to="/"><img src="~assets/images/logo_marykay-white.svg" alt="" srcset="" /></nuxt-link>
+              <nuxt-link :to="localePath('/')"
+                ><img src="~assets/images/logo_marykay-white.svg" alt="" srcset=""
+              /></nuxt-link>
             </div>
           </div>
 
