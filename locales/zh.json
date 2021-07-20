@@ -1,0 +1,254 @@
+{
+  "pages": {
+    "homepage": {
+      "title": "首頁",
+      "description": "這是首頁介紹",
+      "section_1": {
+        "title": "區塊1",
+        "description": "區塊1內容"
+      }
+    },
+    "about_page": {
+      "concept": {
+        "title": "品牌理念",
+        "description": "這是品牌理念介紹",
+        "section_1": {
+          "title": "區塊1",
+          "description": "區塊1內容"
+        }
+      },
+      "story": {
+        "title": "創辦人故事",
+        "description": "這是創辦人故事介紹",
+        "section_1": {
+          "title": "區塊1",
+          "description": "區塊1內容"
+        }
+      },
+      "charitable": {
+        "title": "粉紅公益",
+        "description": "這是粉紅公益介紹",
+        "section_1": {
+          "title": "區塊1",
+          "description": "區塊1內容"
+        }
+      },
+      "innovation": {
+        "title": "科研創新",
+        "description": "這是科研創新介紹",
+        "section_1": {
+          "title": "區塊1",
+          "description": "區塊1內容"
+        }
+      }
+    },
+    "series_page": {
+      "title": "系列",
+      "description": "這是系列介紹",
+      "section_1": {
+        "title": "區塊1",
+        "description": "區塊1內容"
+      }
+    },
+    "product_page": {
+      "title": "產品",
+      "description": "這是產品介紹",
+      "section_1": {
+        "title": "區塊1",
+        "description": "區塊1內容"
+      }
+    },
+    "others_page": {
+      "title": "其他",
+      "description": "這是其他介紹",
+      "section_1": {
+        "title": "區塊1",
+        "description": "區塊1內容"
+      }
+    }
+  },
+  "header_links": {
+    "about": {
+      "name": "關於",
+      "series": {
+        "concept": { "name": "品牌理念" },
+        "story": { "name": "創辦人故事" },
+        "charitable": { "name": "粉紅公益" },
+        "innovation": { "name": "科研創新" }
+      }
+    },
+    "product_series": {
+      "name": "產品系列",
+      "series": {
+        "ps01": {
+          "name": "臻時粹顏系列",
+          "products": ["pd1", "pd2", "pd3"]
+        },
+        "ps02": {
+          "name": "時光精靈Repair系列",
+          "products": []
+        },
+        "ps03": {
+          "name": "時光精靈/ 時光精靈3D系列",
+          "products": []
+        },
+        "ps04": {
+          "name": "天然淨活系列",
+          "products": []
+        },
+        "ps05": {
+          "name": "植物肌密系列",
+          "products": []
+        },
+        "ps06": {
+          "name": "補充性保養系列",
+          "products": []
+        },
+        "ps07": {
+          "name": "亮采系列",
+          "products": []
+        },
+        "ps08": {
+          "name": "舒顏系列",
+          "products": []
+        },
+        "ps09": {
+          "name": "淨顏系列",
+          "products": []
+        },
+        "ps10": {
+          "name": "男士系列",
+          "products": []
+        },
+        "ps11": {
+          "name": "美體系列",
+          "products": []
+        }
+      }
+    },
+    "product_features": {
+      "name": "產品功能",
+      "series": {
+        "pf01": {
+          "name": "卸妝",
+          "products": []
+        },
+        "pf02": {
+          "name": "潔顏",
+          "products": []
+        },
+        "pf03": {
+          "name": "化妝水",
+          "products": []
+        },
+        "pf04": {
+          "name": "乳液/乳霜",
+          "products": []
+        },
+        "pf05": {
+          "name": "面膜",
+          "products": []
+        },
+        "pf06": {
+          "name": "精華液/油",
+          "products": []
+        },
+        "pf07": {
+          "name": "身體防曬/保養",
+          "products": []
+        },
+        "pf08": {
+          "name": "眼唇保養",
+          "products": []
+        },
+        "pf09": {
+          "name": "特殊護理",
+          "products": []
+        },
+        "pf10": {
+          "name": "美容儀器",
+          "products": []
+        }
+      }
+    },
+    "makeup": {
+      "name": "底妝/彩妝",
+      "series": {
+        "mu01": {
+          "name": "唇部系列",
+          "products": ["mu01_01"]
+        },
+        "mu02": {
+          "name": "臉部系列",
+          "products": []
+        },
+        "mu03": {
+          "name": "眼部系列",
+          "products": []
+        },
+        "mu04": {
+          "name": "彩妝工具",
+          "products": []
+        },
+        "mu05": {
+          "name": "香氛系列",
+          "products": []
+        }
+      }
+    },
+    "tonic": {
+      "name": "食物補充品",
+      "series": {
+        "tn01": {
+          "name": "食物補充品",
+          "products": ["tn01_01"]
+        }
+      }
+    },
+    "skincare": {
+      "name": "護膚專區",
+      "series": {
+        "sc01": {
+          "name": "親水專區",
+          "products": ["sk01_01"]
+        },
+        "sc02": {
+          "name": "逆齡專區",
+          "products": []
+        },
+        "sc03": {
+          "name": "控油專區",
+          "products": []
+        },
+        "sc04": {
+          "name": "舒壓專區",
+          "products": []
+        },
+        "sc05": {
+          "name": "懶人專區",
+          "products": []
+        }
+      }
+    }
+  },
+  "products": {
+    "ps01_01": {
+      "name": "臻時粹顏™精華乳",
+      "series": "ps01",
+      "header_links": "product_series",
+      "capacity": "30ml",
+      "price": "HK$2,450",
+      "description": "能將活膚再生能量極致昇華的全效精華。塗上瞬間即融入肌膚，傾注臻時粹顏™玫瑰複合物的超凡生命能量，同步抵禦、煥活及延緩衰老。層層煥活，肌膚更顯緊實細緻，膚觸如絲般柔軟嫩滑，享受臻極美麗蛻變。",
+      "skin_suitable": "全膚質適用",
+      "usage": "• 每天早晚，在潔面、爽膚後使用。<br>• 配合以下按摩技巧，可達致最佳感官享受及產品煥活肌膚效能：<br>用指尖均勻塗抹於面部及頸部，避開眼周。從面部中央開始，利用手指輕輕地將精華乳向上向外均勻地塗抹開。",
+      "function": null,
+      "principal_components": null,
+      "video_source": null,
+      "normal_image": "臻時粹顏™精華乳01.png",
+      "small_images": {
+        "img_01": "臻時粹顏™精華乳02.png"
+      },
+      "description_image": null
+    }
+  }
+}
