@@ -1,5 +1,5 @@
-.product_item {
 
+.product_item {
 
     .product_inner {
         padding: 0 3%;
@@ -8,17 +8,7 @@
         min-height: 700px;
         margin: 0 auto;
 
-        .breadcrumbs {
-            margin-bottom: 60px;
-            font-size: .91rem;
-            color: $font-color-light;
-
-            a {
-                color: $font-color-light;
-                font-weight: 800;
-                margin: 0 1px;
-            }
-        }
+        
 
         .product_img {
             img {

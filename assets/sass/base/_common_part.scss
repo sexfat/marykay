@@ -142,6 +142,7 @@ h3 {
 
 
 @include push (top, 600, margin);
+@include push (bottom, 300, margin);
 
 //讓flex-blick 歸零
 @include t() {
@@ -215,5 +216,18 @@ h3 {
         transform: translate(0, 0);
         display: block;
         // opacity: 1;
+    }
+}
+
+//  .breadcrumbs
+ .breadcrumbs {
+    margin-bottom: 60px;
+    font-size: .91rem;
+    color: $font-color-light;
+
+    a {
+        color: $font-color-light;
+        font-weight: 800;
+        margin: 0 1px;
     }
 }

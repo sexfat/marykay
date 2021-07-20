@@ -4,6 +4,9 @@
     .banner {
         height: 580px;
         overflow: hidden;
+        display: flex;
+        justify-content: center;
+        align-items: center;
 
         @include t() {
             height: auto;
@@ -11,6 +14,19 @@
 
         img {
             position: relative;
+        }
+
+        .titles {
+            position: absolute;
+            z-index: 100;
+            font-size: 20px;
+            width: 590px;
+            margin: 0 auto;
+
+            @include t() {
+                font-size: 14px;
+                width: 240px;
+            }
         }
 
 
@@ -63,13 +79,15 @@
                     margin: 0 auto;
                     cursor: pointer;
                     transition: .15s all ease-in;
-                    @include t(){
+
+                    @include t() {
                         top: 65%;
                         width: 70%;
                         opacity: 1;
                     }
+
                     .desc {
-   height:200px ;
+                        height: 200px;
                     }
                 }
 
