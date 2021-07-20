@@ -111,21 +111,13 @@ $h_caption : 250px;
 
         }
     }
-
-
     .s3 {
-
         @include t() {
             height: 90vh;
         }
-
         @include m() {
             height: 80vh;
         }
 
-
     }
-
-
-
 }
