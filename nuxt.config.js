@@ -69,7 +69,7 @@ export default {
     // base: '/dist/',
   },
   server: {
-    port: 5500, // default: 3000
+    port: 6601, // default: 3000
   },
   generate: {
     fallback: true,
