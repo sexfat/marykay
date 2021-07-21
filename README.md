@@ -28,7 +28,7 @@ $ npm run generate
 * [影片檔](https://drive.google.com/drive/folders/1CE1GfwhF_mxcZgU5K-IUuIgvchI50nEp)
 
 ```bash
-放至此專案路徑下 : assets/images/video
+影片放至此專案路徑下 : assets/images/video
 ```
 
 
