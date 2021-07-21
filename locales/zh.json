@@ -82,47 +82,79 @@
       "series": {
         "ps01": {
           "name": "臻時粹顏系列",
-          "products": ["ps01_01", "ps01_02", "ps01_03"]
+          "products": ["pd1", "pd2", "pd3"]
         },
         "ps02": {
           "name": "時光精靈Repair系列",
-          "products": []
+          "products": ["pd4", "pd5", "pd6", "pd7", "pd8", "pd9", "pd10", "pd11"]
         },
         "ps03": {
           "name": "時光精靈/ 時光精靈3D系列",
-          "products": []
+          "products": [
+            "pd12",
+            "pd13",
+            "pd14",
+            "pd15",
+            "pd16",
+            "pd17",
+            "pd18",
+            "pd19",
+            "pd20",
+            "pd21",
+            "pd22"
+          ]
         },
         "ps04": {
           "name": "天然淨活系列",
-          "products": []
+          "products": ["pd23", "pd24", "pd25", "pd26"]
         },
         "ps05": {
           "name": "植物肌密系列",
-          "products": []
+          "products": ["pd27", "pd28", "pd29", "pd30"]
         },
         "ps06": {
           "name": "補充性保養系列",
-          "products": []
+          "products": [
+            "pd31",
+            "pd32",
+            "pd33",
+            "pd34",
+            "pd35",
+            "pd36",
+            "pd37",
+            "pd38"
+          ]
         },
         "ps07": {
           "name": "亮采系列",
-          "products": []
+          "products": ["pd39", "pd40", "pd41", "pd42", "pd43", "pd44", "pd45"]
         },
         "ps08": {
           "name": "舒顏系列",
-          "products": []
+          "products": ["pd46", "pd47", "pd48", "pd49", "pd50"]
         },
         "ps09": {
           "name": "淨顏系列",
-          "products": []
+          "products": ["pd51", "pd52", "pd53", "pd54", "pd55", "pd56"]
         },
         "ps10": {
           "name": "男士系列",
-          "products": []
+          "products": ["pd103", "pd104"]
         },
         "ps11": {
           "name": "美體系列",
-          "products": []
+          "products": [
+            "pd89",
+            "pd90",
+            "pd91",
+            "pd92",
+            "pd93",
+            "pd94",
+            "pd95",
+            "pd96",
+            "pd97",
+            "pd98"
+          ]
         }
       }
     },
@@ -131,39 +163,62 @@
       "series": {
         "pf01": {
           "name": "卸妝",
-          "products": []
+          "products": ["pd35", "pd36"]
         },
         "pf02": {
           "name": "潔顏",
-          "products": []
+          "products": ["pd4", "pd12", "pd23", "pd27", "pd46", "pd51", "pd104"]
         },
         "pf03": {
           "name": "化妝水",
-          "products": []
+          "products": ["pd14", "pd29", "pd49", "pd53"]
         },
         "pf04": {
           "name": "乳液/乳霜",
-          "products": []
+          "products": [
+            "pd10",
+            "pd11",
+            "pd16",
+            "pd17",
+            "pd22",
+            "pd30",
+            "pd31",
+            "pd32",
+            "pd37",
+            "pd48",
+            "pd56"
+          ]
         },
         "pf05": {
           "name": "面膜",
-          "products": []
+          "products": ["pd5", "pd6", "pd13", "pd28", "pd47", "pd52"]
         },
         "pf06": {
           "name": "精華液/油",
-          "products": []
+          "products": [
+            "pd1",
+            "pd2",
+            "pd7",
+            "pd8",
+            "pd15",
+            "pd21",
+            "pd25",
+            "pd50",
+            "pd54",
+            "pd55"
+          ]
         },
         "pf07": {
           "name": "身體防曬/保養",
-          "products": []
+          "products": ["pd99", "pd100", "pd101"]
         },
         "pf08": {
           "name": "眼唇保養",
-          "products": []
+          "products": ["pd3", "pd9", "pd18", "pd33", "pd34", "pd103"]
         },
         "pf09": {
           "name": "特殊護理",
-          "products": []
+          "products": ["pd20", "pd24", "pd26", "pd38"]
         },
         "pf10": {
           "name": "美容儀器",
@@ -176,23 +231,56 @@
       "series": {
         "mu01": {
           "name": "唇部系列",
-          "products": ["mu01_01"]
+          "products": ["pd57", "pd58"]
         },
         "mu02": {
           "name": "臉部系列",
-          "products": []
+          "products": [
+            "pd59",
+            "pd60",
+            "pd61",
+            "pd62",
+            "pd63",
+            "pd64",
+            "pd65",
+            "pd66",
+            "pd67",
+            "pd68",
+            "pd69"
+          ]
         },
         "mu03": {
           "name": "眼部系列",
-          "products": []
+          "products": [
+            "pd70",
+            "pd71",
+            "pd72",
+            "pd73",
+            "pd74",
+            "pd75",
+            "pd76",
+            "pd77",
+            "pd78"
+          ]
         },
         "mu04": {
           "name": "彩妝工具",
-          "products": []
+          "products": [
+            "pd79",
+            "pd80",
+            "pd81",
+            "pd82",
+            "pd83",
+            "pd84",
+            "pd85",
+            "pd86",
+            "p87",
+            "pd88"
+          ]
         },
         "mu05": {
           "name": "香氛系列",
-          "products": []
+          "products": ["pd102"]
         }
       }
     },
@@ -201,7 +289,7 @@
       "series": {
         "tn01": {
           "name": "食物補充品",
-          "products": ["tn01_01"]
+          "products": ["pd105", "pd106", "pd107", "pd108"]
         }
       }
     },
@@ -210,23 +298,23 @@
       "series": {
         "sc01": {
           "name": "親水專區",
-          "products": ["sk01_01"]
+          "products": ["pd13", "pd14", "pd31", "pd33", "pd34", "pd60", "pd101"]
         },
         "sc02": {
           "name": "逆齡專區",
-          "products": []
+          "products": ["pd1", "pd9", "pd15"]
         },
         "sc03": {
           "name": "控油專區",
-          "products": []
+          "products": ["pd38", "pd52", "pd55", "pd59"]
         },
         "sc04": {
           "name": "舒壓專區",
-          "products": []
+          "products": ["pd22", "pd25", "pd34", "pd42", "pd44", "pd50"]
         },
         "sc05": {
           "name": "懶人專區",
-          "products": []
+          "products": ["pd12", "pd13", "pd36", "pd62"]
         }
       }
     }
