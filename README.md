@@ -34,9 +34,10 @@ $ npm run generate
 
 ### 使用方式&資料夾說明
 
-### `載入資源路徑範例`
-<a> 連結更改為 <nuxt-link>
+### `a連結更改`
+
 ```html
+<a> 連結更改為 <nuxt-link>
 //ex: 回首頁
 <nuxt-link :to="localePath('/')"> Home </nuxt-link>
 
