@@ -11,7 +11,7 @@ $ npm install
 # 執行開發環境
 $ npm run dev
 
-# 產生靜態頁面 路徑: ./dist/
+# 產生靜態頁面 至此路徑下: ./dist/
 $ npm run generate 
 
 ```
@@ -21,8 +21,32 @@ $ npm run generate
 * [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 * [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 * [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur) vue檔格式解析
+
+### 雲端檔案位置
+* [商品分類](https://docs.google.com/spreadsheets/d/1rWjCAO8fDey9V4xt_mycrFjTQ1LMAyc-/edit#gid=231340791)
+* [商品中英文檔 Excel](https://drive.google.com/drive/folders/1ml-QFVeOywaTi-ou1ak66e_9TjaupXBs)
+* [影片檔](https://drive.google.com/drive/folders/1CE1GfwhF_mxcZgU5K-IUuIgvchI50nEp)
+
+```bash
+影片放至此專案路徑下 : assets/images/video
+```
+
+
 ### 使用方式&資料夾說明
 
+### `a連結更改`
+
+```html
+<a> 連結更改為 <nuxt-link>
+//ex: 回首頁
+<nuxt-link :to="localePath('/')"> Home </nuxt-link>
+
+//ex path : pages/about
+<nuxt-link :to="localePath('about')"> Home </nuxt-link>
+  
+```
+[參考](https://i18n.nuxtjs.org/basic-usage#nuxt-link)
+  
 ### `載入資源路徑範例`
 以 "~" 為開頭作為根目錄起始位置。
 ```html
