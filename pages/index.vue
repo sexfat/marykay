@@ -31,13 +31,10 @@ export default {
       ) {
         return false
       }
-      console.log('getSamePageAnchor', link.hash)
-      console.log('getSamePageAnchor type', typeof link.hash)
       return link.hash
     },
     scrollToHash(hash, e) {
       const elem = hash ? document.querySelector(hash) : false
-      console.log('el', elem)
       if (elem) {
         if (e) e.preventDefault()
         this.$gsap.to(window, { druation: 10, scrollTo: elem, ease: 'power2' })

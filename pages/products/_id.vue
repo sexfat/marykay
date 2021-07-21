@@ -16,9 +16,9 @@
           class="col-6 col-md-6 col-lg-4 white text_center"
         >
           <nuxt-link
-            :to="{ name: `products-series-id___${$i18n.locale}`, params: { id: item, series: title } }"
+            :to="{ name: `products-series-id___${$i18n.locale}`, params: { id: item, series: id } }"
           ></nuxt-link>
-          <img src="~assets/images/夏艷曬後修護凝露.png" alt="" />
+          <img :src="require(`~/assets/images/HK/${products[item].small_images.img_01}`)" alt="" />
           <dl>
             <dd>
               {{ $t(`products.${item}.name`) }}

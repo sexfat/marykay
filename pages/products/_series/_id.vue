@@ -21,7 +21,7 @@
               <li v-for="(item, index) in productData.small_images" :key="index">
                 <img
                   :ref="index"
-                  :src="require(`~/assets/images/${item}`)"
+                  :src="require(`~/assets/images/HK/${item}`)"
                   alt=""
                   srcset=""
                   @click="mainImgChanging(index)"
@@ -64,7 +64,7 @@
           <h3>{{ $t('pages.product_page.video') }}</h3>
           <div class="video">
             <video autoplay="autoplay" poster="" preload="auto" loop playsinline muted>
-              <source src="~assets/images/video_ind03.mp4" type="video/mp4" />
+              <source :src="require(`~/assets/images/video/${productData.video_source}`)" type="video/mp4" />
             </video>
           </div>
         </section>
