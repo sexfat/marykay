@@ -237,7 +237,7 @@
       "產品英文名稱": "Youthfinity® The Serum",
       "series": ["ps01", "pf06", "sc02"],
       "header_links": ["product_series", "product_features", "skincare"],
-      "Product Description": "能將活膚再生能量極致昇華的全效精華。塗上瞬間即融入肌膚，傾注臻時粹顏™玫瑰複合物的超凡生命能量，同步抵禦、煥活及延緩衰老。層層煥活，肌膚更顯緊實細緻，膚觸如絲般柔軟嫩滑，享受臻極美麗蛻變。",
+      "description": "能將活膚再生能量極致昇華的全效精華。塗上瞬間即融入肌膚，傾注臻時粹顏™玫瑰複合物的超凡生命能量，同步抵禦、煥活及延緩衰老。層層煥活，肌膚更顯緊實細緻，膚觸如絲般柔軟嫩滑，享受臻極美麗蛻變。",
       "capacity": "30ml",
       "skin_suitable": "全膚質適用",
       "usage": "• 每天早晚，在潔面、爽膚後使用。<br>• 配合以下按摩技巧，可達致最佳感官享受及產品煥活肌膚效能：<br>用指尖均勻塗抹於面部及頸部，避開眼周。<br>從面部中央開始，利用手指輕輕地將精華乳向上向外均勻地塗抹開。",
@@ -245,10 +245,11 @@
       "principal_components": "獨特 Youthfinity Infinite Complex™ 臻時粹顏™玫瑰複合物，糅合三種頂級抗老成分，啟動 3R 臻時煥膚系統，帶來抵禦、煥活及延緩三重改善老化的功能：<br>RESIST 抵禦外界環境侵害<br>- 阿爾卑斯永恆玫瑰 (Alpen Rose)：喚醒肌膚的天然防護屏障，抵抗外界各種環境壓力侵害 。<br>REJUNVENATE 煥活肌膚充盈彈性<br>- 月見草 (Evening Primrose)：萃取自月見草籽的精華促進肌膚基質蛋白再生，煥活肌膚的充盈、緊實及彈性。<br>REDUCE 延緩肌膚內部衰老<br>- 三肽技術 (Infinite Tripeptide)：結合 Vitality-Preserving Technology 活力保存科技，阻止老化蛋白質的產生，提升細胞功能，延緩肌膚內部衰老<br>•<br>特別添加活性成分 - 睡菜葉萃取，幫助皮膚的重要蛋白增生，由內重拾生機，展現年輕活力。",
       "price": "HK$2,450",
       "video_source": null,
+      "normal_image": null,
       "small_images": {
-        "img_01": "臻時粹顏™乳.png",
-        "img_02": "臻時粹顏™乳01.png",
-        "img_03": "臻時粹顏™乳02.jpg"
+        "img_01": "p/a/pa11.png",
+        "img_02": "p/a/pa12.png",
+        "img_03": "p/a/pa13.png"
       },
       "description_image": null
     },
@@ -257,18 +258,19 @@
       "產品英文名稱": "Youthfinity® The Facial Oil",
       "series": ["ps01", "pf06"],
       "header_links": ["product_series", "product_features"],
-      "Product Description": "首款面部精華油，特別添加珍稀24K液體黃金多肽，將強大的抗衰老肽注入肌膚，促進膠原蛋白生成，令永恆玫瑰帶來的無盡美麗與24K液體黃金多肽帶來的無盡奢華相互交融。補充源源滋潤，使肌膚更緊緻，顯著改善細紋和皺紋，肌膚由內而外煥發青春光澤，綻放前所未有的至臻光芒。",
+      "description": "首款面部精華油，特別添加珍稀24K液體黃金多肽，將強大的抗衰老肽注入肌膚，促進膠原蛋白生成，令永恆玫瑰帶來的無盡美麗與24K液體黃金多肽帶來的無盡奢華相互交融。補充源源滋潤，使肌膚更緊緻，顯著改善細紋和皺紋，肌膚由內而外煥發青春光澤，綻放前所未有的至臻光芒。",
       "capacity": "<br>25ml",
       "skin_suitable": "全膚質適用",
       "usage": "• 每天早晚，潔面、爽膚及精華後、面霜前使用。 精華油既可以單獨使用，<br>亦可與面霜混合使用。<br>• 配合以下手法按摩，為您的肌膚帶來無盡奢寵 :<br>取數滴精華油在掌心輕搓暖和，輕柔按壓於肌膚幫助吸收，然後從臉部中央推至太陽穴，再從前額中央推至太陽穴。<br>手掌沿著頸部底部向上推至耳垂，由下而上提拉面部和頸部肌膚。<br>最後輕柔打圈至太陽穴，並輕柔按壓，避開眼周。<br>",
       "function": "<br>添加珍稀24K液體黃金多肽，促進膠原蛋白產生1，提升肌膚緊實度。<br>珍貴成分阿爾卑斯玫瑰和月見草專注抵禦肌膚老化和抗氧化1，臻顔緊膚。<br>明顯改善細紋和皺紋，肌膚重拾柔軟滋潤。<br>散發雅緻清幽的花香Eau De Lune水月光，令你沉醉於感官的享受，更帶來嬌嫩欲滴的水光美肌。<br>明顯改善肌膚密度，增強彈性和强韌度。<br>臨床測試結果的臻極見證2:<br>• 96%見證膚色更富光澤，容光煥發<br>• 92%見證肌膚明顯提升緊實度及彈性，膚質得到改善<br>• 91%見證肌膚變得更健康<br>• 88%見證細紋及皺紋顯著改善<br>• 87%見證膚質變得更緊緻更年輕，煥發青春光芒",
       "principal_components": "24K液體黃金多肽 : 提升肌膚的內在結構完整和強韌度，促進膠原蛋白的生成1，提升肌膚緊實度。還添加了具有滋潤保濕功效的神經酰胺和植物萃取的植物甾醇，有助提升肌膚屏障功能的護膚功效3。持續使用，肌膚更豐盈，更彈性，更年輕。<br>阿爾卑斯玫瑰萃取物 : 喚醒肌膚的天然防護屏障，幫助保護肌膚抵禦各種環境壓力侵害，從而解決肌膚表皮老化問題。<br>月見草 : 萃取自月見草籽的精華幫助煥活皮膚基質蛋白的自我增生，集中性修護肌膚，煥活肌膚的充盈、彈性及緊實度，臻顔緊膚。<br>角鯊烷 : 為肌膚補充需要的脂質，在皮膚表面形成一層透氣的保護膜，能減緩皮膚水分蒸發，發揮保濕、潤膚的效果，令肌膚保持健康狀態。<br>配方特點：<br>通過亞洲膚質測試，適合亞洲人肌膚<br>適合各種肌膚類型<br>不易堵塞毛孔<br>*女性持續早晚使用產品的獨立消費者研究結果<br>1 關鍵成分的體外測試結果<br>2 結果來自個別的獨立消費者研究，測試中252名亞洲女性使用產品21天，每天2次後給予評價<br>3 關鍵成分的體內測試結果",
       "price": "HK$1,850",
+      "video_source": "pa21.mp4",
       "normal_image": null,
       "small_images": {
-        "img_01": "臻時粹顏™精華油.png",
-        "img_02": "臻時粹顏™精華油01.png",
-        "img_03": "臻時粹顏™精華油02.jpg"
+        "img_01": "p/a/pa21.png",
+        "img_02": "p/a/pa22.png",
+        "img_03": "p/a/pa23.png"
       },
       "description_image": null
     },
@@ -277,7 +279,7 @@
       "產品英文名稱": "Youthfinity® The Eye Crème",
       "series": ["ps01", "pf08"],
       "header_links": ["product_series", "product_features"],
-      "Product Description": "特別為脆弱眼周肌膚而設計的細膩絲滑質地及無香精配方，有效撫平細紋、緊實提升眼部肌膚。輕盈舒適的配方，瞬間融入眼周肌膚之中，有效減淡歲月痕跡，使眼周肌膚彈潤平滑，高效修復歲月痕跡，雙眸綻放動人神采。",
+      "description": "特別為脆弱眼周肌膚而設計的細膩絲滑質地及無香精配方，有效撫平細紋、緊實提升眼部肌膚。輕盈舒適的配方，瞬間融入眼周肌膚之中，有效減淡歲月痕跡，使眼周肌膚彈潤平滑，高效修復歲月痕跡，雙眸綻放動人神采。",
       "capacity": "15ml",
       "skin_suitable": "全膚質適用",
       "usage": "• 每天早晚，潔面、爽膚及精華後、面霜前使用<br>• 配合以下按摩技巧，可達致最佳感官享受及產品煥活肌膚效能：<br>利用附上的按摩棒，取適量眼霜塗於潔淨的眼周肌膚<br>平滑眼底肌膚：從眼頭往眼尾輕抹，接著，以同一方法輕抹上眼瞼，重塑眼部輪廓：從眼尾往太陽穴提拉輕抹數次",
@@ -287,9 +289,9 @@
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01": "臻時粹顏™眼霜.png",
-        "img_02": "臻時粹顏™眼霜01.png",
-        "img_03": "臻時粹顏™眼霜02.png"
+        "img_01": "p/a/pa31.png",
+        "img_02": "p/a/pa32.png",
+        "img_03": "p/a/pa33.png"
       },
       "description_image": null
     },
@@ -298,17 +300,17 @@
       "產品英文名稱": "TimeWise Repair® Volu-Firm™ Foaming Cleanser",
       "series": ["ps02", "pf02"],
       "header_links": ["product_series", "product_features"],
-      "Product Description": "配方溫和細膩，能充分清潔肌膚<br>同時不會帶走天然水分，使肌膚更感柔嫩、水潤保濕<br>蘊含獨特 Volu-Firm™ Complex 的新生力量複合物，有效喚醒肌膚活力，讓肌膚重獲充滿活力的年輕光彩<br>為後續的緊緻護理做好準備",
+      "description": "配方溫和細膩，能充分清潔肌膚<br>同時不會帶走天然水分，使肌膚更感柔嫩、水潤保濕<br>蘊含獨特 Volu-Firm™ Complex 的新生力量複合物，有效喚醒肌膚活力，讓肌膚重獲充滿活力的年輕光彩<br>為後續的緊緻護理做好準備",
       "capacity": "127g",
       "skin_suitable": "適合敏感性肌膚<br>經皮膚科醫生測試認可<br>不添加香精香料<br>Oil-free（無油）配方<br>不易引致粉刺",
       "usage": "擠出適量產品於掌心，加水輕輕搓揉成泡沫後，均勻按摩於濕潤的面部和頸部，以打圈的手法清潔，避開眼周，然後以清水沖洗乾淨。配合整個系列使用，效果更佳。",
       "function": "一項獨立消費者研究中，大部份使用女性親身驗証及認同 *<br>86% 肌膚保持水潤保濕<br>87% 肌膚煥發光彩<br>89% 肌膚更感柔嫩順滑<br>90% 感到肌膚倍受寵愛<br>＊數據來自193位女性早晚使用產品連續1星期的獨立消費者研究",
       "principal_components": "三胜肽 (Tripeptide-1)：激活肌膚組織之修復，促進細胞外基質蛋白如膠原蛋白、彈性蛋白、纖連蛋白和層黏連蛋白的穩定性及生成。<br>植物幹細胞 (Plant Stem Cells)：萃取自積雪草的植物幹細胞，保護及強化肌膚細胞間架，使肌膚緊緻有彈性，並提亮膚色。<br>皮膚彈性滋養因子 (Skin Volume Supporting Peptide)：促進透明質酸的生成，充盈保濕，提升肌膚彈性，緊緻肌膚。",
       "price": "HK$328",
-      "video_source": "時光精靈Repair 系列.mp4",
+      "video_source": "pb.mp4",
       "normal_image": null,
       "small_images": {
-        "img_01": "時光精靈Repair緊顏潔面乳.png"
+        "img_01": "p/b/pb11.png"
       },
       "description_image": null
     },
@@ -317,17 +319,17 @@
       "產品英文名稱": "TimeWise Repair Revealing Radiance Facial Peel",
       "series": ["ps02", "pf05"],
       "header_links": ["product_series", "product_features"],
-      "Product Description": "時光精靈 Repair 亮彩煥膚面膜是一個先進、尊貴的家居煥膚產品，能溫和而有效地去除老舊角質，使肌膚感到純淨及得到深層清潔。只需使用一次，肌膚即感煥然一新，透現年輕光澤。同時能提昇肌膚吸收後續護理中的養分。持續使用，膚質顯著改善，皮膚看起來更年輕，更容光煥發。",
+      "description": "時光精靈 Repair 亮彩煥膚面膜是一個先進、尊貴的家居煥膚產品，能溫和而有效地去除老舊角質，使肌膚感到純淨及得到深層清潔。只需使用一次，肌膚即感煥然一新，透現年輕光澤。同時能提昇肌膚吸收後續護理中的養分。持續使用，膚質顯著改善，皮膚看起來更年輕，更容光煥發。",
       "capacity": "48g",
       "skin_suitable": "通過皮膚科醫生測試<br>通過臨床皮膚敏感測試<br>適合所有膚質<br>不易引致暗瘡粉刺<br>不含油分",
       "function": "潔面後，塗抹產品於肌膚上，避開眼周並輕柔按摩。10 分鐘後用溫水洗淨或用溫濕毛巾擦淨。使用中可能會有輕微刺激感受。白天請使用防曬產品，並避免在陽光下暴曬。如要達到最佳效果，建議每週間隔使用 2 次。使用產品的同一天不應再使用其他減法面膜。",
       "usage": "•肌膚感到純淨及得到深層清潔<br>•膚色更均勻透亮，使肌膚顯得更年輕<br>•減淡細紋和皺紋，膚質得到顯著改善<br>•膚質更細緻光滑，重拾柔軟觸感 *<br>*266 位女性連續 3星期、每周使用產品兩次的獨立消費者研究結果",
       "principal_components": "主要成分：<br>•乙醇酸 GLYCOLIC ACID<br>•鎮靜植物萃取 CALMING BOTANICAL EXTRACTS<br>•海洋萃取 MARINE EXTRACT",
       "price": "HK$598",
-      "video_source": "時光精靈Repair 系列.mp4",
+      "video_source": "pb.mp4",
       "normal_image": null,
       "small_images": {
-        "img_01": "時光精靈Repair亮彩煥膚面膜.png"
+        "img_01": "p/b/pb21.png"
       },
       "description_image": null
     },
@@ -336,17 +338,17 @@
       "產品英文名稱": "TimeWise Repair Lifting Bio-Cellulose Mask",
       "series": ["ps02", "pf05"],
       "header_links": ["product_series", "product_features"],
-      "Product Description": "薈萃多種珍貴護膚精華，並以舒適親膚的生物纖維材質承載，完美緊貼輪廓，將豐沛精華源源導入、充盈肌膚，發揮高效抗老修護效能。",
+      "description": "薈萃多種珍貴護膚精華，並以舒適親膚的生物纖維材質承載，完美緊貼輪廓，將豐沛精華源源導入、充盈肌膚，發揮高效抗老修護效能。",
       "capacity": "24g x 4",
       "skin_suitable": "通過亞洲膚質測試<br>適用於所有膚質試",
       "usage": "潔面後，塗抹產品於肌膚上，避開眼周並輕柔按摩。10 分鐘後用溫水洗淨或用溫濕毛巾擦淨。使用中可能會有輕微刺激感受。白天請使用防曬產品，並避免在陽光下暴曬。如要達到最佳效果，建議每週間隔使用 2 次。使用產品的同一天不應再使用其他減法面膜。<br>1. 取下面膜。面膜夾於兩層保護膜的中間，從一邊撕去保護膜，並將面膜敷在潔淨的面部。 2. 將面膜覆蓋及延展於額頭、面頰、鼻周、嘴周和眼周，使其貼合面部輪廓。如有需要眼部肌膚也可以使用。輕柔地撫平面膜，使其完全貼合面部肌膚。 3. 小心地拿走上層保護膜。待 20 – 30 分鐘後取下面膜，無需擦拭多餘的精華液，輕輕按摩直至皮膚完全吸收。面膜使用後請棄掉，請勿循環使用。",
       "function": "•肌膚顯得緊實、飽滿<br>•面部輪廓顯著提升及充盈<br>•肌膚瞬間顯得通透亮澤<br>•即時將充沛水分注入肌膚，還能顯著提升肌膚含水量達 24 小時†，為肌膚提供一整天的持續保濕效能<br>•減淡細紋及皺紋<br>† 臨床皮膚測量研究結果",
       "principal_components": "o生物纖維是透過天然椰子水發酵過程所衍生的精密 3D交錯網狀纖維結構，具卓越吸附力，承載著大量護膚精華:<br>•燕麥仁萃取 AVENA SATIVA KERNAL EXTRACT<br>•蘭花萃取 ORCHID EXTRACT<br>•透明質酸鈉 SODIUM HYALURONATE<br>臨床測試證實 :<br>o 連續 2 星期每周使用產品 2 次，大多數女性同意：<br>皮膚看起來更緊緻飽滿<br>面部輪廓顯著提升及充盈<br>皮膚看起來更年輕<br>皮膚看起來更通透亮澤<br>o 連續 4 星期每周使用產品 2 次，大多數女性同意：減少細紋和皺紋的出現<br>300 位女性連續 4 星期、每周使用產品兩次的獨立消費者研究結果",
       "price": "HK$698",
-      "video_source": "時光精靈Repair 系列.mp4",
+      "video_source": "pb.mp4",
       "normal_image": null,
       "small_images": {
-        "img_01": "時光精靈 Repair 緊顏生物纖維面膜.png"
+        "img_01": "p/b/pb31.png"
       },
       "description_image": null
     },
@@ -355,17 +357,17 @@
       "產品英文名稱": "TimeWise Repair® Volu-Firm™ Advanced Lifting Serum",
       "series": ["ps02", "pf06"],
       "header_links": ["product_series", "product_features"],
-      "Product Description": "奢華高效的緊顏精華露，蘊含獨特 Volu-Firm™ Complex的新生力量，以及特別添加2種新成分-高良薑葉萃取物及五味子萃取物，有效提升、緊緻面部和頸部肌膚，減緩鬆弛。臨床證實有效提升及緊緻面部輪廓，減少皺紋。持續使用，肌膚重拾彈性，重現充盈飽滿的年輕光采。",
+      "description": "奢華高效的緊顏精華露，蘊含獨特 Volu-Firm™ Complex的新生力量，以及特別添加2種新成分-高良薑葉萃取物及五味子萃取物，有效提升、緊緻面部和頸部肌膚，減緩鬆弛。臨床證實有效提升及緊緻面部輪廓，減少皺紋。持續使用，肌膚重拾彈性，重現充盈飽滿的年輕光采。",
       "capacity": "29ml",
       "skin_suitable": "適合敏感性肌膚<br>經皮膚科醫生測試認可<br>不添加香精香料<br>Oil-free（無油）配方<br>不易引致粉刺<br>適合敏感眼睛及配戴隱形眼鏡人士使用",
       "usage": "每天早晚，潔面、柔膚後，使用中指及無名指，由下而上，由內而外，輕輕將產品均勻塗抹在面部及頸部。配合一定的緊緻按摩手法，效果更見顯著。",
       "function": "蘊含 Volu-Firm™ Complex 新生能量複合物，以及添加2種新成分-高良薑葉萃取物及五味子萃取物，有效促進肌膚細胞更新，使肌膚重現年輕活力<br>臨床證明可明顯提升及緊緻皮膚，減少深紋和皺紋的出現<br>顯著改善皮膚彈性和緊緻度，重現完美面部金三角<br>緊實肌膚，緩減鬆弛，使面部輪廓更緊緻<br>幫助臉頰，下顎和頸部肌膚提升線條，塑造完美V面輪廓<br>一項獨立消費者研究中，大部份使用女性親身驗証及認同 *<br>100% 臉頰和下顎肌膚顯著提升<br>98% 整體皮膚顯著提升<br>82% 改善皮膚緊緻度<br>98％ 顯著減少深紋和皺紋<br>78% 增強皮膚彈性<br>100% 感到肌膚即時補充水分**<br>* 數據來自45位女性早晚使用產品連續12星期的獨立消費者研究<br>** 體外成分測試",
       "principal_components": "三胜肽 (Tripeptide-1)：激活肌膚組織之修復，促進細胞外基質蛋白如膠原蛋白、彈性蛋白、纖連蛋白和層黏連蛋白的穩定性及生成。<br>植物幹細胞 (Plant Stem Cells)：萃取自積雪草的植物幹細胞，保護及強化肌膚細胞間架，使肌膚緊緻有彈性，並提亮膚色。<br>皮膚彈性滋養因子 (Skin Volume Supporting Peptide)：促進透明質酸的生成，充盈保濕，提升肌膚彈性，緊緻肌膚。<br>高良薑葉萃取物(Alpinia Galanga Leaf Extract)及五味子萃取物<br>(Schisandra Extract) ***：促進天然膠原蛋白，彈性蛋白和透明質酸的生成，有效減少皺紋、增強肌膚活力及彈性，肌膚保持年輕緊緻。<br>*** 關鍵成分的體外測試結果。",
       "price": "HK$698",
-      "video_source": "時光精靈Repair 系列.mp4",
+      "video_source": "pb.mp4",
       "normal_image": null,
       "small_images": {
-        "img_01": "時光精靈Repair緊顏精華露.png"
+        "img_01": "p/b/pb41.png"
       },
       "description_image": null
     },
@@ -374,17 +376,17 @@
       "產品英文名稱": "TimeWise Repair® Volu-Fill™ Deep Wrinkle Filler",
       "series": ["ps02", "pf06"],
       "header_links": ["product_series", "product_features"],
-      "Product Description": "逆齡魔法筆，創新 Volu-Fill™ 緊實充盈科技，結合視黃醇成分，針對面部 6 大皺紋區域，即時充盈細紋，持續撫平皺紋，讓肌膚煥發年輕光彩，實現年輕奇蹟",
+      "description": "逆齡魔法筆，創新 Volu-Fill™ 緊實充盈科技，結合視黃醇成分，針對面部 6 大皺紋區域，即時充盈細紋，持續撫平皺紋，讓肌膚煥發年輕光彩，實現年輕奇蹟",
       "capacity": "14g",
       "skin_suitable": "適合敏感性肌膚<br>通過皮膚刺激性和敏感測試<br>經皮膚科及眼科醫生測試認可<br>不添加香精香料<br>Oil-free（無油）配方<br>不易引致粉刺<br>適合敏感眼睛及配戴隱形眼鏡人士使用",
       "usage": "每天早晚，精華後、面霜前使用。取適量輕拍於皺紋細紋處直至吸收，然後塗上合適面霜。",
       "function": "蘊含獨特配方Volu-Fill™ 緊實充盈科技<br>視黃醇成分由內煥發肌膚修護力，日復一日，減少及減淡皺紋<br>提供即時及持續雙重功效，即時填補及明顯充盈皺紋<br>100% 女性親證有效改善皺紋長度、闊度及深度<br>有效直擊6大皺紋區域：前額紋、眉心紋、魚尾紋、法令紋、口周紋、木偶紋<br>一項獨立消費者研究中，大部份使用女性親身驗証及認同:***<br>97% 表示產品不會產生小碎屑<br>97% 認同使用產品後，彩妝均勻貼服易推<br>96% 認同使用產品後，妝前底霜均勻易推<br>96% 表示產品迅速吸收，不留痕跡<br>95% 表示產品迅速乾掉，不產生黏腻感<br>*數據來自獨立研究測試中，31 位女性早晚使用產品連續8星期後進行的皺紋嚴重程度評估。「皺紋嚴重程度」以皺紋長度、深度及數量來作指標。<br>*數據來自 45 位女性早晚使用產品連續8星期的獨立研究測試。<br>*數據來自 228 位女性早晚使用產品連續3星期的獨立消費者研究。",
       "principal_components": "透明質酸 (Hyaluronic Acid)：即時填補皺紋，並吸取大量水分子，幫助充盈皺紋，使肌膚表面恢復飽滿狀態，顯得更加平滑。<br>彈性體 (Flexible Elastomers)：幫助填充及修飾皺紋，並且形成彈性網絡作為透明質酸微粒的基座，鞏固透明質酸的吸水功效。<br>胺基酸和印度沒藥樹脂萃取物 (Amino Acids and Commiphora Mukul Resin Extract)：共同協力提供針對性充盈功效，使皺紋顯得豐盈飽滿。<br>視黃醇 (Retinol)： 皮膚學專家一致認同的除皺抗衰老成分，幫助肌膚細飽新陳代謝，並促進膠原蛋白再生，持續使用能有效減淡皺紋。專業的微囊技術保護成分的穩定性及活性，並直擊皺紋，定時定點定量逐步釋放活性及功效。",
       "price": "HK$488",
-      "video_source": "時光精靈Repair 系列.mp4",
+      "video_source": "pb.mp4",
       "normal_image": null,
       "small_images": {
-        "img_01": "時光精靈Repair緊顏撫紋精華霜.png"
+        "img_01": "p/b/pb51.png"
       },
       "description_image": null
     },
@@ -393,17 +395,17 @@
       "產品英文名稱": "TimeWise Repair® Volu-Firm™ Eye Renewal Cream",
       "series": ["ps02", "pf08", "sc02"],
       "header_links": ["product_series", "product_features", "skincare"],
-      "Product Description": "質地柔滑，使養分迅速滲透肌膚，臨床證實有效提升及緊緻眼部肌膚，並有效減少細紋和皺紋。特製的金屬按摩頭能輕柔按摩眼周脆弱肌膚，加速眼周微循環，同時帶來清涼感，緩解疲勞及浮腫，煥發眼部神采",
+      "description": "質地柔滑，使養分迅速滲透肌膚，臨床證實有效提升及緊緻眼部肌膚，並有效減少細紋和皺紋。特製的金屬按摩頭能輕柔按摩眼周脆弱肌膚，加速眼周微循環，同時帶來清涼感，緩解疲勞及浮腫，煥發眼部神采",
       "capacity": "14g",
       "skin_suitable": "適合敏感性肌膚<br>經皮膚科及眼科醫生測試認可<br>不添加香精香料<br>不易引致粉刺<br>適合敏感眼睛及配戴隱形眼鏡人士使用",
       "usage": "每天早晚，潔面、柔膚後，用無名指輕塗於眼部周圍，以指腹輕輕彈拍。 可在塗上眼霜後，配合使用金屬按摩頭按摩眼周肌膚，促進眼部微循環，改善黑眼圈及眼袋，其冰涼觸感能舒緩疲憊眼周。",
       "function": "緊緻鬆弛之眼周肌膚及幫助提升眼角<br>緩減黑眼圈及眼部浮腫和眼袋<br>淡化皺紋並長效保濕<br>即時為眼周肌膚補充雙倍水分，並持續保濕達12小時*<br>獨特金屬按摩頭經特別設計，模仿人的指腹點壓按摩眼周穴位，幫助促進眼周微循環，改善眼袋<br>「水凝液晶輸送技術」增強產品配方功效<br>一項獨立消費者研究中，大部份使用女性親身驗証及認同:<br>使用一星期後+：<br>74% 幫助提升眼周肌膚，減淡皺紋<br>68% 幫助緩減黑眼圈及眼袋和浮腫問題<br>使用兩星期後+：<br>73% 緊緻眼周鬆弛肌膚<br>70% 減淡皺紋<br>71% 眼周肌膚重拾年輕活力<br>使用四星期後+：<br>85% 幫助修護眼周肌膚<br>67% 眼瞼下垂現象得到改善<br>*關鍵成分的體外測試結果。<br>+數據來自180位女性早晚使用產品連續4星期的獨立消費者研究。<br>１關鍵成分的體外測試結果。",
       "principal_components": "三胜肽 (Tripeptide-1)：激活肌膚組織之修復，促進細胞外基質蛋白如膠原蛋白、彈性蛋白、纖連蛋白和層黏連蛋白的穩定性及生成。<br>植物幹細胞 (Plant Stem Cells)：萃取自積雪草的植物幹細胞，保護及強化肌膚細胞間架，使肌膚緊緻有彈性，並提亮膚色。<br>皮膚彈性滋養因子 (Skin Volume Supporting Peptide)：促進透明質酸的生成，充盈保濕，提升肌膚彈性，緊緻肌膚。<br>維他命C衍生物 (Vitamin C Derivative) 及甜豌豆萃取 (Sweet Pea Extract)：能促進膠原蛋白的合成，減慢肌膚密度、彈性及緊實度之流失，有效對抗細紋、皺紋及鬆弛肌膚1。<br>積雪草萃取物（Centella Asiatica Extract）、 源自橄欖油的酯（Esters Derived Olive Oil）及合成神經酰胺（Synthetic Ceramides）：能促進透明質酸的成分，為眼周肌膚提供長效保濕，有效對抗眼部肌膚皺摺及乾燥現象1。",
       "price": "HK$468",
-      "video_source": "時光精靈Repair 系列.mp4",
+      "video_source": "pb.mp4",
       "normal_image": null,
       "small_images": {
-        "img_01": "時光精靈Repair緊顏眼霜.png"
+        "img_01": "p/b/pb61.png"
       },
       "description_image": null
     },
@@ -412,16 +414,16 @@
       "產品英文名稱": "TimeWise Repair® Volu-Firm™ Day Cream With SPF 30",
       "series": ["ps02", "pf04"],
       "header_links": ["product_series", "product_features"],
-      "Product Description": "多效滋潤的日霜，能保護肌膚免受日光和紫外線的光致老化損害，蘊含獨特 Volu-Firm™ Complex 的新生力量，能提升面部及頸部的彈性，明顯減緩鬆弛和皺紋，使肌膚重現充盈飽滿的年輕光采，明顯修復歲月衰老跡象",
+      "description": "多效滋潤的日霜，能保護肌膚免受日光和紫外線的光致老化損害，蘊含獨特 Volu-Firm™ Complex 的新生力量，能提升面部及頸部的彈性，明顯減緩鬆弛和皺紋，使肌膚重現充盈飽滿的年輕光采，明顯修復歲月衰老跡象",
       "capacity": "48g",
       "skin_suitable": "適合敏感性肌膚<br>經皮膚科醫生測試認可<br>不添加香精香料<br>Oil-free（無油）配方<br>不易引致粉刺",
       "usage": "每天早上，潔面、柔膚後，取適量產品均勻塗於面部及頸部。配合整個系列使用，效果更見顯著 。",
       "function": "有效緊緻鬆弛肌膚，肌膚重現年輕充盈飽滿<br>肌膚顯著提升和回復均勻膚色<br>幫助鎮靜舒緩肌膚*<br>加强肌膚防禦力，保護肌膚免受UVA/UVB的損害<br>肌膚恢復水潤並提供持續12小時的保濕功效<br>一項獨立消費者研究中，大部份使用女性親身驗証及認同:**<br>80% 肌膚重拾年輕充盈胞滿<br>70% 明顯減淡皺紋<br>74% 有效緊緻頸部鬆弛肌膚<br>82% 回復均勻膚色<br>*關鍵成分的體外測試結果<br>**數據來自181位女性每天早上使用產品連續4星期的獨立消費者研究",
       "principal_components": "三胜肽 (Tripeptide-1)：激活肌膚組織之修復，促進細胞外基質蛋白如膠原蛋白、彈性蛋白、纖連蛋白和層黏連蛋白的穩定性及生成。<br>植物幹細胞 (Plant Stem Cells)：萃取自積雪草的植物幹細胞，保護及強化肌膚細胞間架，使肌膚緊緻有彈性，並提亮膚色。<br>皮膚彈性滋養因子 (Skin Volume Supporting Peptide)：促進透明質酸的生成，充盈保濕，提升肌膚彈性，緊緻肌膚。<br>沒藥醇 (Bisabolol)、水飛薊果萃取物 (Silymarin) 及鈣葡萄糖酸 (Calcium Ketogluconate)：幫助安撫及減少因外界刺激而產生的泛紅、乾燥及其他敏感不適反應。<br>己基間苯二酚 (Hexylresorcinol)*：有效和強大的抗氧化劑配製，促進膠原蛋白的合成，抗擊皺紋及鬆弛肌膚，使肌膚保持年輕活力。",
-      "video_source": "時光精靈Repair 系列.mp4",
+      "video_source": "pb.mp4",
       "normal_image": null,
       "small_images": {
-        "img_01": "時光精靈Repair緊顏日霜.png"
+        "img_01": "p/b/pb71.png"
       },
       "description_image": null
     },
@@ -430,17 +432,17 @@
       "產品英文名稱": "TimeWise Repair® Volu-Firm™ Night Treatment with Retinol",
       "series": ["ps02", "pf04"],
       "header_links": ["product_series", "product_features"],
-      "Product Description": "奢華高效的滋潤晚霜，凝聚 Retinol 視黃醇及核心成分 Volu-Firm™ Complex 的新生力量，能顯著改善膚質，明顯減緩面部鬆弛和皺紋，提升肌膚緊實度和彈性，使肌膚重獲充滿活力的年輕光彩，明顯修復歲月衰老跡象",
+      "description": "奢華高效的滋潤晚霜，凝聚 Retinol 視黃醇及核心成分 Volu-Firm™ Complex 的新生力量，能顯著改善膚質，明顯減緩面部鬆弛和皺紋，提升肌膚緊實度和彈性，使肌膚重獲充滿活力的年輕光彩，明顯修復歲月衰老跡象",
       "capacity": "48g",
       "skin_suitable": "適合敏感性肌膚<br>經皮膚科醫生測試認可<br>不添加香精香料<br>Oil-free（無油）配方<br>不易引致粉刺",
       "usage": "每天晚上，潔面、柔膚後，取適量產品均勻塗於面部及頸部。配合整個系列使用，效果更見顯著 。",
       "function": "淡化細紋及皺紋<br>肌膚重拾年輕彈性，充盈飽滿<br>促進細胞更新，肌膚重現光澤*<br>幫助緊緻肌膚，回復均勻膚色<br>頸部肌膚更為緊緻光滑<br>一項獨立消費者研究中，大部份使用女性親身驗証及認同:**<br>82% 頸部肌膚更顯柔軟緊緻光滑<br>71% 肌膚重拾緊緻彈性<br>81% 重拾年輕充盈胞滿<br>86% 回復均勻膚色<br>90% 肌膚整體外觀得以提升<br>* 關鍵成分的體外測試結果",
       "principal_components": "三胜肽 (Tripeptide-1)：激活肌膚組織之修復，促進細胞外基質蛋白如膠原蛋白、彈性蛋白、纖連蛋白和層黏連蛋白的穩定性及生成。<br>植物幹細胞 (Plant Stem Cells)：萃取自積雪草的植物幹細胞，保護及強化肌膚細胞間架，使肌膚緊緻有彈性，並提亮膚色。<br>皮膚彈性滋養因子 (Skin Volume Supporting Peptide)：促進透明質酸的生成，充盈保濕，提升肌膚彈性，緊緻肌膚。<br>視黃醇 (Retinol)： 皮膚學專家一致認同的除皺抗衰老成分，幫助肌膚細飽新陳代謝，並促進膠原蛋白再生，持續使用能有效減淡皺紋。專業的微囊技術保護成分的穩定性及活性，並直擊皺紋，定時定點定量逐步釋放活性及功效。<br>石榴萃取物 (Pomegranate Extract) 及肉桂樹皮萃取物 (Cinnamon Bark Extract)：幫助抑制能加速肌膚老化的糖化終產物，有效減少皮膚糖化反應。<br>海藻萃取(Codium Tomentosum / 軟毛松藻)：幫助肌膚保持濕潤，皮膚保濕度即時提升。",
       "price": "HK$758",
-      "video_source": "時光精靈Repair 系列.mp4",
+      "video_source": "pb.mp4",
       "normal_image": null,
       "small_images": {
-        "img_01": "時光精靈Repair緊顏晚霜.png"
+        "img_01": "p/b/pb81.png"
       },
       "description_image": null
     },
@@ -449,7 +451,7 @@
       "產品英文名稱": "TimeWise® Age Minimize 3D™ 4-in-1 Cleanser",
       "series": ["ps03", "pf02", "sc05"],
       "header_links": ["product_series", "product_features", "skincare"],
-      "Product Description": "特有獨家的 AGE MINIMIZE 3D® COMPLEX 3D減齡複合物配方，由白藜蘆醇微囊、維他命B3和抗衰老胜肽三大成分協力組成，發揮協同效應： DEFENDS 防禦外界環境侵害 l DELAYS 延緩衰老 l DELIVERS 實現年輕緊緻肌膚，為肌膚帶來3D逆轉年輕奇蹟功效。",
+      "description": "特有獨家的 AGE MINIMIZE 3D® COMPLEX 3D減齡複合物配方，由白藜蘆醇微囊、維他命B3和抗衰老胜肽三大成分協力組成，發揮協同效應： DEFENDS 防禦外界環境侵害 l DELAYS 延緩衰老 l DELIVERS 實現年輕緊緻肌膚，為肌膚帶來3D逆轉年輕奇蹟功效。",
       "capacity": "127g",
       "skin_suitable": "備有2種膚質配方選擇 - 中性至乾性配方及混合至油性配方",
       "usage": "每天早晚，取適量產品均勻按摩於濕潤的面部和頸部，如有需要可加水揉搓以增加泡沫，然後以清水沖洗乾淨",
@@ -459,7 +461,7 @@
       "video_source": "時光精靈 3D 系列.mp4",
       "normal_image": null,
       "small_images": {
-        "img_01": "時光精靈3D四效潔面乳.png"
+        "img_01": "p/c/pc11.png"
       },
       "description_image": null
     },
@@ -468,17 +470,17 @@
       "產品英文名稱": "TimeWise Moisture Renewing Gel Mask",
       "series": ["ps03", "pf05", "sc01", "sc05"],
       "header_links": ["product_series", "product_features", "skincare"],
-      "Product Description": "保濕滋潤的睡眠面膜，在睡夢中滋養並修護肌膚。<br>•啫喱質感，補充肌膚水分，增加彈性，舒緩肌膚壓力並細緻毛孔<br>•含減緩衰老配方，預防細紋及皺紋的產生。",
+      "description": "保濕滋潤的睡眠面膜，在睡夢中滋養並修護肌膚。<br>•啫喱質感，補充肌膚水分，增加彈性，舒緩肌膚壓力並細緻毛孔<br>•含減緩衰老配方，預防細紋及皺紋的產生。",
       "capacity": "85g",
       "skin_suitable": "經皮膚科專家測試<br>適合敏感肌膚<br>不含油脂及香料<br>不會引起粉刺",
-      "usage": "",
-      "function": "",
-      "principal_components": "",
+      "usage": null,
+      "function": null,
+      "principal_components": null,
       "price": "HK$358",
       "video_source": "時光精靈 3D 系列.mp4",
       "normal_image": null,
       "small_images": {
-        "img_01": "時光精靈晚間補濕修護面膜.png"
+        "img_01": "p/c/pc21.png"
       },
       "description_image": null
     },
@@ -487,17 +489,17 @@
       "產品英文名稱": "TimeWise Moisture Renewing Softener",
       "series": ["ps03", "pf03", "sc01"],
       "header_links": ["product_series", "product_features", "skincare"],
-      "Product Description": "•<br>含補水滋養成份透明質酸鈉，可像海綿一樣留住皮膚水分。同時幫助減少表皮水分流失。<br>•<br>超強抗氧化物，小扁豆萃取﹑巴西莓萃取及香桃木葉水，有效抵禦外界環境對肌膚的侵害，強化毛孔壁，避免肌膚鬆弛。<br>•<br>維他命B3減低紫外線對皮膚傷害。<br>•<br>為肌膚提供二次徹底清潔，提升後續護膚品的吸收。",
+      "description": "•<br>含補水滋養成份透明質酸鈉，可像海綿一樣留住皮膚水分。同時幫助減少表皮水分流失。<br>•<br>超強抗氧化物，小扁豆萃取﹑巴西莓萃取及香桃木葉水，有效抵禦外界環境對肌膚的侵害，強化毛孔壁，避免肌膚鬆弛。<br>•<br>維他命B3減低紫外線對皮膚傷害。<br>•<br>為肌膚提供二次徹底清潔，提升後續護膚品的吸收。",
       "capacity": "147ml",
       "skin_suitable": "全膚質",
-      "usage": "",
-      "function": "",
-      "principal_components": "",
+      "usage": null,
+      "function": null,
+      "principal_components": null,
       "price": "HK$298",
       "video_source": "時光精靈 3D 系列.mp4",
       "normal_image": null,
       "small_images": {
-        "img_01": "時光精靈保濕柔膚水.png"
+        "img_01": "p/c/pc31.png"
       },
       "description_image": null
     },
@@ -506,17 +508,17 @@
       "產品英文名稱": "TimeWise® Replenishing Serum C+E™",
       "series": ["ps03", "pf06", "sc02"],
       "header_links": ["product_series", "product_features", "skincare"],
-      "Product Description": "含有豐富維他命C+E強大抗氧化成分，高效抗氧，強化肌膚抵禦外在環境壓力的能力，保護肌膚免受自由基的傷害，提升肌膚彈性及緊緻度，減淡細紋及皺紋，提亮膚色，促進天然膠原蛋白和彈性蛋白的生成，用後肌膚容光煥發。真空泵咀設計，保持每滴精華新鮮有效，從而增強抗氧化劑的保護作用，幫助預防及延緩肌膚衰老。",
+      "description": "含有豐富維他命C+E強大抗氧化成分，高效抗氧，強化肌膚抵禦外在環境壓力的能力，保護肌膚免受自由基的傷害，提升肌膚彈性及緊緻度，減淡細紋及皺紋，提亮膚色，促進天然膠原蛋白和彈性蛋白的生成，用後肌膚容光煥發。真空泵咀設計，保持每滴精華新鮮有效，從而增強抗氧化劑的保護作用，幫助預防及延緩肌膚衰老。",
       "capacity": "44ml",
       "skin_suitable": "全膚質",
       "usage": "每天早晚，潔面爽膚後，取適量產品由下而上、由內而外均勻塗抹於面部及頸部。",
       "function": "在一項獨立消費者研究，為期 3 星期的臨床測試中**，見證以下效果：<br>•使用一次後<br>o皮膚立即提亮 <br>•使用一個星期後<br>o皮膚感覺更加柔軟<br>o皮膚看起來感覺更光滑<br>•每天兩次使用三週後<br>o肌膚提升剔透光澤度<br>o減少細紋及皺紋 <br>o肌膚看起來更年輕 <br>o肌膚更緊實細緻 <br>o肌膚更有彈性<br>*關鍵成分的體外測試結果<br>**根據一項爲期3星期的獨立臨床研究結果，其中226名女性每天早晚使用產品2次後給予評價",
       "principal_components": "三種不同成分的維他命C可幫助提亮膚色和緊實肌膚：<br>•<br>純維他命C微囊(Encapsulated Pure Vitamin C)<br>o　幫助皮膚的自然修復。强大抗氧化功效，支持膠原蛋白和彈性蛋白的形成，促進皮膚健康狀態。<br>o　結合維他命E的微球將強大的成分包裹起來，提供抗氧化保護，確保關鍵成分穩定釋放到皮膚表面，幫助預防及延緩肌膚衰老。<br>•　餘甘子萃取物 (Amla Fruit Extract)<br>o　Amla是一種超級水果，富含多種營養成分，包括多酚，礦物質和維他命，具有强大抗氧化功效，有效延缓肌膚衰老。促進天然膠原蛋白的生成*，保護皮膚健康。<br>•　維他命C衍生物 (Vitamin C Derivative)<br>o 由於維他命C是天然水溶性，傳統技術上難以萃取於肌膚中使用，以先進技術飾為油溶性的維他命C衍生物，可增強吸收，深入肌膚發揮強大抗氧化功效。<br>•　維他命E (Vitamin E)<br>o　是科學上已知的最強大的抗氧化劑之一。幫助抵禦自由基的侵害，同時能紓緩、保濕、維持結締組織、強化皮脂和細胞膜，促進肌膚呈現柔軟、健康的年輕膚質。",
       "price": "HK$598",
-      "video_source": "時光精靈維 C E 精華露.mp4",
+      "video_source": "pc41.mp4",
       "normal_image": null,
       "small_images": {
-        "img_01": "時光精靈維 C+E 精華露.png"
+        "img_01": "p/c/pc41.png"
       },
       "description_image": null
     },
@@ -525,7 +527,7 @@
       "產品英文名稱": "TimeWise® Age Minimize 3D™ Day Cream",
       "series": ["ps03", "pf04"],
       "header_links": ["product_series", "product_features"],
-      "Product Description": "特有獨家的3D減齡複合物配方 (AGE MINIMIZE 3D® COMPLEX) ，由白藜蘆醇微囊、抗衰老胜肽和維他命B3三大成分協力組成，發揮協同效應： DEFENDS 防禦外界環境侵害 l DELAYS 延緩衰老 l DELIVERS 實現年輕緊緻肌膚，為肌膚帶來3D逆轉年輕奇蹟功效。",
+      "description": "特有獨家的3D減齡複合物配方 (AGE MINIMIZE 3D® COMPLEX) ，由白藜蘆醇微囊、抗衰老胜肽和維他命B3三大成分協力組成，發揮協同效應： DEFENDS 防禦外界環境侵害 l DELAYS 延緩衰老 l DELIVERS 實現年輕緊緻肌膚，為肌膚帶來3D逆轉年輕奇蹟功效。",
       "capacity": "48g",
       "usage": "備有2種膚質配方選擇 - 中性至乾性配方及混合至油性配方",
       "使用方法": "每天早上，取適量產品均勻塗抹於面部和頸部。",
@@ -535,7 +537,7 @@
       "video_source": "時光精靈 3D 系列.mp4",
       "normal_image": null,
       "small_images": {
-        "img_01": "時光精靈3D日霜.png"
+        "img_01": "p/c/pc51.png"
       },
       "description_image": null
     },
@@ -544,7 +546,7 @@
       "產品英文名稱": "TimeWise® Age Minimize 3D™ Night Cream",
       "series": ["ps03", "pf04"],
       "header_links": ["product_series", "product_features"],
-      "Product Description": "特有獨家的3D減齡複合物配方 (AGE MINIMIZE 3D® COMPLEX) ，由白藜蘆醇微囊、抗衰老胜肽和維他命B3三大成分協力組成，發揮協同效應： DEFENDS 防禦外界環境侵害 l DELAYS 延緩衰老 l DELIVERS 實現年輕緊緻肌膚，為肌膚帶來3D逆轉年輕奇蹟功效。",
+      "description": "特有獨家的3D減齡複合物配方 (AGE MINIMIZE 3D® COMPLEX) ，由白藜蘆醇微囊、抗衰老胜肽和維他命B3三大成分協力組成，發揮協同效應： DEFENDS 防禦外界環境侵害 l DELAYS 延緩衰老 l DELIVERS 實現年輕緊緻肌膚，為肌膚帶來3D逆轉年輕奇蹟功效。",
       "capacity": "48g",
       "skin_suitable": "備有2種膚質配方選擇 - 中性至乾性配方及混合至油性配方",
       "usage": "每天晚上，取適量產品均勻塗抹於面部和頸部。",
@@ -554,7 +556,7 @@
       "video_source": "時光精靈 3D 系列.mp4",
       "normal_image": null,
       "small_images": {
-        "img_01": "時光精靈3D宛霜.png"
+        "img_01": "p/c/pc61.png"
       },
       "description_image": null
     },
@@ -563,7 +565,7 @@
       "產品英文名稱": "TimeWise® Age Minimize 3D™ Eye Cream",
       "series": ["ps03", "pf08"],
       "header_links": ["product_series", "product_features"],
-      "Product Description": "特有獨家的3D減齡複合物配方 (AGE MINIMIZE 3D® COMPLEX) ，由白藜蘆醇微囊、抗衰老胜肽和維他命B3三大成分協力組成，發揮協同效應： DEFENDS 防禦外界環境侵害 l DELAYS 延緩衰老 l DELIVERS 實現年輕緊緻肌膚，為肌膚帶來3D逆轉年輕奇蹟功效。",
+      "description": "特有獨家的3D減齡複合物配方 (AGE MINIMIZE 3D® COMPLEX) ，由白藜蘆醇微囊、抗衰老胜肽和維他命B3三大成分協力組成，發揮協同效應： DEFENDS 防禦外界環境侵害 l DELAYS 延緩衰老 l DELIVERS 實現年輕緊緻肌膚，為肌膚帶來3D逆轉年輕奇蹟功效。",
       "capacity": "14g",
       "skin_suitable": "全膚質",
       "usage": "每天早晚，潔面爽膚後，以無名指沾取適量均勻塗抹於眼周，輕按至完全吸收。",
@@ -573,7 +575,7 @@
       "video_source": "時光精靈 3D 系列.mp4",
       "normal_image": null,
       "small_images": {
-        "img_01": "時光精靈3D眼霜.png"
+        "img_01": "p/c/pc71.png"
       },
       "description_image": null
     },
@@ -582,17 +584,17 @@
       "產品英文名稱": "TimeWise® 3D Foundation",
       "series": "ps03",
       "header_links": "product_series",
-      "Product Description": "通過IntelliMatch™技術，完美模擬真實肌膚，設計更精確的色調，完美無縫地配對比以往更多的膚色，給予你猶如天生的無瑕自然妝容。",
+      "description": "通過IntelliMatch™技術，完美模擬真實肌膚，設計更精確的色調，完美無縫地配對比以往更多的膚色，給予你猶如天生的無瑕自然妝容。",
       "capacity": "30ml",
       "skin_suitable": "經皮膚科醫生測試<br>通過皮膚刺激性和過敏性測試<br>不易引致暗瘡粉刺<br>適合敏感性肌膚<br>適用於敏感眼睛和佩戴隱形眼鏡人士<br>不含香料及不含油分",
       "usage": "每天早上，潔面、日常護膚程序後使用。取適量以指腹或化妝掃均勻塗於全面和頸部肌膚。",
       "function": "滋潤配方 Luminous-Wear<br>•專為中性至乾性膚質而設。<br>•質地輕盈水潤，含反光礦物及荷荷芭成分長效保濕及滋潤，令妝容持久不浮粉，締造完美亮澤妝容。<br>•妝效滋潤保濕長達12小時，令妝容持久貼服，肌膚長時間保持水潤舒適，展現潤澤無瑕膚質。<br>清爽配方 Matte-Wear<br>•專為混合性至油性膚質而設。<br>•質地輕盈清爽，特殊的微球體含控油精華像海綿般吸收面上過多油脂，令妝容不泛油光，塑造出完美無瑕肌膚。<br>•妝效控油長達12小時，令妝容持久貼服，肌膚長時間保持清爽舒適，展現啞緻無瑕膚質。",
       "principal_components": "•獨家AGE MINIMIZE 3D® COMPLEX配方，精心研創的配方技術蘊含白藜蘆醇微囊、抗衰老胜肽和維他命B3，有效修飾和淡化細紋、皺紋、毛孔及面部瑕疵，同時有助改善暗啞膚色，使肌膚顯得完美無瑕，看起來更健康、緊緻、年輕。<br>•配有防濕和防汗配方，無懼潮濕炎熱天氣，塑造長效持久的無瑕自然美肌，並能持妝一整天。<br>•無香料、無油且不易致暗瘡粉刺，適合所有膚質使用。",
       "price": "HK$320",
-      "video_source": "時光精靈3D無瑕修顔粉底乳.mp4",
+      "video_source": "pc81.mp4",
       "normal_image": null,
       "small_images": {
-        "img_01": "時光精靈3D無瑕修顏粉底乳.png"
+        "img_01": "p/c/pc81.png"
       },
       "description_image": null
     },
@@ -601,17 +603,17 @@
       "產品英文名稱": "TimeWise Microdermabrasion Refine",
       "series": ["ps03", "pf09"],
       "header_links": ["product_series", "product_features"],
-      "Product Description": "含有皮膚科醫生所使用的專業微晶煥膚微粒，幫助去除老化角質，細緻毛孔，呈現肌膚光采。<br>",
+      "description": "含有皮膚科醫生所使用的專業微晶煥膚微粒，幫助去除老化角質，細緻毛孔，呈現肌膚光采。<br>",
       "capacity": "<br>70g",
       "skin_suitable": "經臨床測試不會引起痕癢及敏感<br>不含油脂及香料<br>不會引起粉刺",
-      "usage": "",
+      "usage": null,
       "function": "•使用時輕柔按摩即可有效去除老化角質，促進肌膚新生，撫平細紋及縮小毛孔，令您的肌膚立即呈現明亮、健康的活力光采。",
       "principal_components": "•微晶煥膚微粒：有效去除死皮，提供即時的煥膚功效。<br>•甘油等保濕劑：提供持久的保濕和滋潤。<br>•矽氧烷等調理成份：使肌膚觸感更柔滑",
       "price": "HK$400",
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01": "時光精靈微晶煥膚霜.png"
+        "img_01": "p/c/pc91.png"
       },
       "description_image": null
     },
@@ -620,17 +622,17 @@
       "產品英文名稱": "TimeWise Pore Minimizer",
       "series": ["ps03", "pf06"],
       "header_links": ["product_series", "product_features"],
-      "Product Description": "<br>瞬間吸收的清爽滋養精華，顯著細毛孔，減輕肌膚泛紅不適",
+      "description": "<br>瞬間吸收的清爽滋養精華，顯著細毛孔，減輕肌膚泛紅不適",
       "capacity": "29ml",
       "skin_suitable": "通過皮膚敏感測試<br>適合所有膚質<br>不含油脂及香料<br>不會引起粉刺",
       "usage": "特別適用於「微晶煥膚霜」後使用，減輕泛紅不適。亦可日復日使用，毛孔明顯變得緊緻，肌膚更見光滑無瑕。",
-      "function": "",
+      "function": null,
       "principal_components": "•蘊含波斯綢樹皮萃取及水解大豆精華，有效促進肌膚蛋白的合成，即時收細毛孔，持續使用效果更為理想顯著。<br>•含獨家抗氧化成分「三重茶素精華」，結合柳珊瑚萃取及吳茱萸果萃取，即時鎮靜、舒緩肌膚。",
       "price": "HK$450",
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01": "時光精靈細緻毛孔精華.png"
+        "img_01": "p/c/pc101.png"
       },
       "description_image": "時光精靈細緻毛孔精華01.jpg"
     },
@@ -639,16 +641,17 @@
       "產品英文名稱": "TimeWise Body Targeted-Action Toning Lotion",
       "series": ["ps03", "pf04", "sc04"],
       "header_links": ["product_series", "product_features", "skincare"],
-      "Product Description": "含多種有效成份幫助肌膚持久保濕，調理、緊致肌膚，只需簡單一步，就可讓你全身肌膚體現緊實自然的年輕光彩。",
+      "description": "含多種有效成份幫助肌膚持久保濕，調理、緊致肌膚，只需簡單一步，就可讓你全身肌膚體現緊實自然的年輕光彩。",
       "capacity": "236ml",
       "skin_suitable": "經臨床測試不會引起痕癢及敏感<br>經皮膚科專家測試<br>不會引起粉刺<br>不含油脂",
-      "usage": "",
-      "function": "",
+      "price": "HK$340",
+      "usage": null,
+      "function": null,
       "principal_components": "•含3種抗氧化成份，抵抗日光為肌膚帶來的傷害。長效保濕達24小時。<br>•含咖啡因成份 (Caffeine) 加速排出多餘體液，令身體線條更緊實。",
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01": "時光精靈美體緊緻乳液,png"
+        "img_01": "p/c/pc111.png"
       },
       "description_image": null
     },
@@ -657,19 +660,19 @@
       "產品英文名稱": "Naturally® Purifying Cleanser",
       "series": ["ps03", "pf02"],
       "header_links": ["product_series", "product_features"],
-      "Product Description": "99.49%的天然成分1。質地柔滑的潔面乳霜，溫和清潔肌膚、去除面上污垢，清潔同時讓肌膚舒適不緊繃。配方特別添加矢車菊花水和甜杏仁油，具有舒緩功效。同時亦具有强效保濕能力的甘油和抗氧化成分維他命 E。皮膚感覺柔滑、水潤，舒適，更顯潔淨、清新。具有淡淡的香草味，天然清新香氣亦能使你平靜放鬆。<br>1根據第三方標準（COSMOS標準）許可加工的天然來源。天然資源包括水，植物，礦物質，礦物成分和其他農業成分。<br>COSMOS天然認證是通過Ecocert Greenlife 的COSMOS標準而獲取認證的。",
+      "description": "99.49%的天然成分1。質地柔滑的潔面乳霜，溫和清潔肌膚、去除面上污垢，清潔同時讓肌膚舒適不緊繃。配方特別添加矢車菊花水和甜杏仁油，具有舒緩功效。同時亦具有强效保濕能力的甘油和抗氧化成分維他命 E。皮膚感覺柔滑、水潤，舒適，更顯潔淨、清新。具有淡淡的香草味，天然清新香氣亦能使你平靜放鬆。<br>1根據第三方標準（COSMOS標準）許可加工的天然來源。天然資源包括水，植物，礦物質，礦物成分和其他農業成分。<br>COSMOS天然認證是通過Ecocert Greenlife 的COSMOS標準而獲取認證的。",
       "capacity": "127g",
       "skin_suitable": "適合中性至乾性膚質<br>適合敏感性肌膚",
       "usage": "每天早晚，用化妝棉取適量產品在濕潤的面部及頸部充分按摩，<br>避開眼周，再以溫水沖洗或溫濕美容巾擦拭乾淨。",
       "function": "ECOCERT COSMOS天然標準認證<br>不含防腐劑、塑化劑、化學界面活性劑SLS/SLES、酒精、矽膠、人工香料及色素、礦物油、基因改造成分<br>經皮膚科醫生測試<br>過皮膚刺激性和過敏性臨床測試<br>不易引致粉刺",
       "principal_components": "•矢車菊花水(Cornflower Floral Water)：增強皮膚內的水分，具有鎮靜、舒緩和調理皮膚的功效。<br>•甜杏仁油 (Sweet Almond Oil) : 含豐富維他命，具有滋養、保濕、舒緩、抗過敏的功效，幫助滋潤皮膚和緩解乾燥。<br>•維他命 E (Tocopherol)：抗氧化成分，萃取自大豆並添加至葵花籽油中，幫助抵禦自由基的侵害。<br>•甘油 (Glycerin) : 萃取自椰子和油菜籽，強效保濕能力，提升皮膚含水量，使皮膚保持柔軟、光滑、水潤。",
       "price": "HK$268",
-      "video_source": "天然淨活系列.mp4",
+      "video_source": "pd.mp4",
       "normal_image": null,
       "small_images": {
-        "img_01": "天然淨活潔面乳.png",
-        "img_02": "天然淨活潔面乳01.png",
-        "img_03": "天然淨活潔面乳02.jpg"
+        "img_01": "p/d/pd11.jpg",
+        "img_02": "p/d/pd12.jpg",
+        "img_03": "p/d/pd13.jpg"
       },
       "description_image": null
     },
@@ -678,18 +681,19 @@
       "產品英文名稱": "Naturally® Exfoliating Powder",
       "series": ["ps04", "pf09"],
       "header_links": ["product_series", "product_features"],
-      "Product Description": "100％的天然成分1。深層清潔毛孔，去除膚色暗沉的死皮細胞。配方加入氫化蓖麻油製成的細蠟粒和檸檬酸，輕柔地去除角質，幫助皮膚細胞更新，享受柔軟光滑的肌膚。有效收細毛孔，賦予肌膚健康光采，為後續肌膚護理做好準備。具有淡淡的香草味，天然清新香氣亦能使你平靜放鬆。<br>1根據第三方標準（COSMOS標準）許可加工的天然來源。天然資源包括水，植物，礦物質，礦物成分和其他農業成分。<br>COSMOS天然認證是通過Ecocert Greenlife 的COSMOS標準而獲取認證的。",
+      "description": "100％的天然成分1。深層清潔毛孔，去除膚色暗沉的死皮細胞。配方加入氫化蓖麻油製成的細蠟粒和檸檬酸，輕柔地去除角質，幫助皮膚細胞更新，享受柔軟光滑的肌膚。有效收細毛孔，賦予肌膚健康光采，為後續肌膚護理做好準備。具有淡淡的香草味，天然清新香氣亦能使你平靜放鬆。<br>1根據第三方標準（COSMOS標準）許可加工的天然來源。天然資源包括水，植物，礦物質，礦物成分和其他農業成分。<br>COSMOS天然認證是通過Ecocert Greenlife 的COSMOS標準而獲取認證的。",
       "capacity": "74g",
       "skin_suitable": "適合中性至乾性膚質<br>適合敏感性肌膚",
       "usage": "打開前先搖勻。避開眼周及避免吸入粉末。取適量產品於掌心中，加進適量清水，用指尖微微將「去角質粉」與清水混合以達到所需的稠度。建議加入2-3滴天然淨活多效精華油，輕輕打圈按摩，再以溫水沖洗或溫濕美容巾擦拭乾淨。",
       "function": "ECOCERT COSMOS天然標準認證<br>不含防腐劑、塑化劑、化學界面活性劑SLS/SLES、酒精、矽膠、人工香料及色素、礦物油、基因改造成分<br>經皮膚科醫生測試<br>過皮膚刺激性和過敏性臨床測試<br>不易引致粉刺",
       "principal_components": "•小蘇打(Baking Soda)：天然傳統去角質的方法，具有深層清潔和舒緩作用。<br>•氫化蓖麻油(Hydrogenated Castor Oil)：製成細蠟粒，提供去角質功效，幫助皮膚細胞更新，去除膚色暗沉的死皮細胞。<br>•檸檬酸(Citric Acid)：具抗氧化功效，溫和去角質。<br>•大米澱粉(Rice Starch)：具有吸收性，，並可補充肌膚所缺失水分，使肌膚光滑細膩充滿彈性。",
       "price": "HK$348",
-      "video_source": "天然淨活系列.mp4",
+      "video_source": "pd.mp4",
       "normal_image": null,
       "small_images": {
-        "img_01": "天然淨活去角質粉.png",
-        "img_02": "天然淨活去角質粉01.png"
+        "img_01": "p/d/pd21.jpg",
+        "img_02": "p/d/pd22.jpg",
+        "img_03": "p/d/pd23.jpg"
       },
       "description_image": "天然淨活去角質粉02.jpg<br>天然淨活.jpg<br>"
     },
@@ -698,19 +702,20 @@
       "產品英文名稱": "Naturally® Nourishing Oil",
       "series": ["ps04", "pf06", "sc04"],
       "header_links": ["product_series", "product_features", "skincare"],
-      "Product Description": "100％的天然成分1 。感覺輕盈，吸收迅速。含有多種天然油脂加乘作用，混合極度保濕的橄欖果油、甜杏仁油和芝麻油，源自於植物的角鯊烷、維他命E等的天然配方，令皮膚倍感水潤滋潤，給予肌膚活力，散發健康光彩。具有淡淡的香草味，天然清新香氣亦能使你平靜放鬆。1根據第三方標準（COSMOS標準）許可加工的天然來源。天然資源包括水，植物，礦物質，礦物成分和其他農業成分。<br>COSMOS天然認證是通過Ecocert Greenlife 的COSMOS標準而獲取認證的。",
+      "description": "100％的天然成分1 。感覺輕盈，吸收迅速。含有多種天然油脂加乘作用，混合極度保濕的橄欖果油、甜杏仁油和芝麻油，源自於植物的角鯊烷、維他命E等的天然配方，令皮膚倍感水潤滋潤，給予肌膚活力，散發健康光彩。具有淡淡的香草味，天然清新香氣亦能使你平靜放鬆。1根據第三方標準（COSMOS標準）許可加工的天然來源。天然資源包括水，植物，礦物質，礦物成分和其他農業成分。<br>COSMOS天然認證是通過Ecocert Greenlife 的COSMOS標準而獲取認證的。",
       "capacity": "29ml",
       "skin_suitable": "適合中性至乾性膚質<br>適合敏感性肌膚",
       "usage": "每天早晚，取數滴精華油在掌心輕搓至暖和，輕輕按壓於肌膚，然後由下而上，由內而外輕柔按摩面部和頸部肌膚。",
       "function": "ECOCERT COSMOS天然標準認證<br>不含防腐劑、塑化劑、化學界面活性劑SLS/SLES、酒精、矽膠、人工香料及色素、礦物油、基因改造成分<br>經皮膚科醫生測試<br>過皮膚刺激性和過敏性臨床測試<br>不易引致粉刺",
       "principal_components": "•芝麻油 (Sesame Seed Oil) ：富含豐富的維他命，礦物質和必需脂肪酸，提供抗氧化保護，幫助抵抗自由基的侵害。具有滋潤、保濕及調理肌膚的功效。<br>•橄欖果油 (Olive Fruit Oil)：含有豐富的維他命A，E及多酚等美肌成分，有效保持皮膚彈性和潤澤。有助舒緩和滋潤皮膚。具有抗氧化作用。<br>•甜杏仁油 (Sweet Almond Oil) ：易吸收，含豐富維他命，具有滋養、保濕、舒緩、抗過敏的功效，幫助滋潤皮膚和緩解乾燥。<br>•角鯊烷 (Squalane) ：親膚性高，發揮保濕、潤膚的效果。能減緩皮膚水分蒸發，維持皮膚彈性飽滿。<br>•維他命 E (Tocopherol)：抗氧化成分，萃取自大豆並添加至葵花籽油中，幫助抵禦自由基的侵害。",
       "price": "HK$498",
-      "video_source": "天然淨活系列.mp4",
+      "video_source": "pd.mp4",
       "normal_image": null,
       "small_images": {
-        "img_01": "天然淨活多效精華油.png",
-        "img_02": "天然淨活多效精華油01.png",
-        "img_03": "天然淨活多效精華油02.jpg"
+        "img_01": "p/d/pd31.jpg",
+        "img_02": "p/d/pd32.jpg",
+        "img_03": "p/d/pd33.jpg",
+        "img_04": "p/d/pd34.jpg"
       },
       "description_image": "天然淨活多效精華油03.jpg<br>天然淨活.jpg"
     },
@@ -719,17 +724,17 @@
       "產品英文名稱": "Naturally® Moisturizing Stick",
       "series": ["ps04", "pf09"],
       "header_links": ["product_series", "product_features"],
-      "Product Description": "100％的天然成分1 。多功能修護膏，幫助軟化粗糙的肌膚。 具有針對性的成分可立即緩解乾燥肌膚，使皮膚倍感滋潤，舒緩和柔軟。 扭旋式設計方便使用。1根據第三方標準（COSMOS標準）許可加工的天然來源。天然資源包括水，植物，礦物質，礦物成分和其他農業成分。<br>COSMOS天然認證是通過Ecocert Greenlife 的COSMOS標準而獲取認證的。",
+      "description": "100％的天然成分1 。多功能修護膏，幫助軟化粗糙的肌膚。 具有針對性的成分可立即緩解乾燥肌膚，使皮膚倍感滋潤，舒緩和柔軟。 扭旋式設計方便使用。1根據第三方標準（COSMOS標準）許可加工的天然來源。天然資源包括水，植物，礦物質，礦物成分和其他農業成分。<br>COSMOS天然認證是通過Ecocert Greenlife 的COSMOS標準而獲取認證的。",
       "capacity": "10.8g",
       "skin_suitable": "適合中性至乾性膚質<br>適合敏感性肌膚",
       "usage": "在任何乾燥的身體肌膚使用，例如面部，嘴唇，手肘/腳肘，膝蓋，或腳跟。取適量產品輕柔按摩於面部和",
       "function": "ECOCERT COSMOS天然標準認證<br>不含防腐劑、塑化劑、化學界面活性劑SLS/SLES、酒精、矽膠、人工香料及色素、礦物油、基因改造成分<br>經皮膚科醫生測試<br>過皮膚刺激性和過敏性臨床測試<br>不易引致粉刺",
       "principal_components": "•角鯊烷 (Squalane) ：親膚性高，發揮保濕、潤膚的效果。能減緩皮膚水分蒸發，維持皮膚彈性飽滿。<br>•小燭樹蠟 (Candelilla Wax) 及蜂蠟 (Beeswax) : 具有清爽、修復和軟化皮膚功效，能在肌膚形成天然保護層，阻隔有害物質接觸肌膚，同時防止肌膚水分流失，使皮膚倍感滋潤，舒緩和柔軟。<br>•巴西棕櫚蠟 (Carnauba Wax) : 具有潤膚功效，可立即緩解乾燥肌膚，使皮膚倍感柔軟、滋潤。",
       "price": "HK$298",
-      "video_source": "天然淨活系列.mp4",
+      "video_source": "pd.mp4",
       "normal_image": null,
       "small_images": {
-        "img_01": "天然淨活修護膏.png"
+        "img_01": "p/d/pd41.jpg"
       },
       "description_image": null
     },
@@ -738,18 +743,18 @@
       "產品英文名稱": "Botanical Effects® Skin Care Cleanse",
       "series": ["ps05", "pf02"],
       "header_links": ["product_series", "product_features"],
-      "Product Description": "質地柔滑的潔面乳霜，溫和清潔肌膚、去除彩妝和污垢，不帶走肌膚所需水分及養分，令肌膚感到柔滑、水潤，更顯潔淨、清新。",
+      "description": "質地柔滑的潔面乳霜，溫和清潔肌膚、去除彩妝和污垢，不帶走肌膚所需水分及養分，令肌膚感到柔滑、水潤，更顯潔淨、清新。",
       "capacity": "113g",
       "skin_suitable": "不含酒精<br>不含香料<br>不含合成色素<br>1號適合敏感性肌膚、乾性肌膚<br>2號適合敏感性肌膚、中性肌膚<br>不易引致粉刺<br>通過皮膚刺激性和過敏性臨床測試",
       "usage": "每天早晚，取適量產品在濕潤的面部及頸部充分按摩，避開眼周，再以溫水沖洗或溫濕美容巾擦拭乾淨",
-      "function": "",
+      "function": null,
       "principal_components": "抗氧草本複合精華 - 由水飛薊 (Silymarin) 及羅漢果 (Luo Han Guo) 組成，含強效抗氧化物，幫助抗擊自由基，提升肌膚防禦能力，從根本抵禦環境傷害，全面守護所有類型的肌膚。<br>1 號配方特別針對乾性肌膚添加：<br>•亞麻籽精華 (Flaxseed Extract)：含豐富Omega-3 脂肪酸，滋潤肌膚，紓緩乾燥繃緊。<br>•水解藻膠 (Sea Kelp Extract)：含多種維他命、礦物質和脂肪酸，幫助肌膚維持水潤平衡。<br>2 號配方特別針對中性及混合性肌膚添加：<br>•白雞蛋花萃取 (Frangipani Flower Extract)：能鎮靜及紓緩肌膚，並含抗氧化物幫助對抗環境壓力 。<br>•巨睡蓮萃取 (Water Lily Extract)： 含豐富抗氧化物，並為肌膚提供多種礦物質，促進肌膚健康 。",
       "price": "HK$180",
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01": "植物肌密潔面乳1號.png",
-        "img_02": "植物肌密潔面乳2號.png"
+        "img_01": "p/e/pe11.jpg",
+        "img_02": "p/e/pe12.jpg"
       },
       "description_image": null
     },
@@ -758,36 +763,39 @@
       "產品英文名稱": "Botanical Effects® Skin Care Mask",
       "series": ["ps05", "pf05"],
       "header_links": ["product_series", "product_features"],
-      "Product Description": "乳霜狀的面膜含有聚合物微粒，能溫和去除角質，同時為肌膚注入滋養水分，使肌膚顯得潤澤健康，更感煥然一新。",
+      "description": "乳霜狀的面膜含有聚合物微粒，能溫和去除角質，同時為肌膚注入滋養水分，使肌膚顯得潤澤健康，更感煥然一新。",
       "capacity": "113g",
       "skin_suitable": "不含酒精<br>不含香料<br>不含合成色素<br>1號適合敏感性肌膚、乾性肌膚<br>2號適合敏感性肌膚、中性肌膚<br>不易引致粉刺<br>通過皮膚刺激性和過敏性臨床測試",
       "usage": "潔面後，取足夠的面膜霜均勻地塗抹在面上，避開眼周和唇周。敷大約 10 分鐘後，用溫水或溫濕美容巾洗淨。每週可使用 2-3 次。避免使用在刺激不適的肌膚上。",
-      "function": "",
+      "function": null,
       "principal_components": "抗氧草本複合精華 - 由水飛薊 (Silymarin) 及羅漢果 (Luo Han Guo) 組成，含強效抗氧化物，幫助抗擊自由基，提升肌膚防禦能力，從根本抵禦環境傷害，全面守護所有類型的肌膚。<br>1 號配方特別針對乾性肌膚添加：<br>•亞麻籽精華 (Flaxseed Extract)：含豐富Omega-3 脂肪酸，滋潤肌膚，紓緩乾燥繃緊。<br>•水解藻膠 (Sea Kelp Extract)：含多種維他命、礦物質和脂肪酸，幫助肌膚維持水潤平衡。<br>2 號配方特別針對中性及混合性肌膚添加：<br>•白雞蛋花萃取 (Frangipani Flower Extract)：能鎮靜及紓緩肌膚，並含抗氧化物幫助對抗環境壓力 。<br>•巨睡蓮萃取 (Water Lily Extract)： 含豐富抗氧化物，並為肌膚提供多種礦物質，促進肌膚健康 。",
       "price": "HK$230",
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01": "植物肌密面膜霜1號.png",
-        "img_02": "植物肌密面膜霜2號.png"
+        "img_01": "p/e/pe21.jpg",
+        "img_02": "p/e/pe22.jpg"
       },
       "description_image": null
     },
     "pd29": {
       "name": "植物肌密爽膚水",
       "產品英文名稱": "Botanical Effects® Skin Care Freshen",
-      "Product Description": "溫和滋潤的爽膚水，能幫助清除殘留污垢，同步幫助肌膚回復水潤平衡，並紓緩肌膚，使肌膚重拾健康光澤，更感柔軟光滑。",
+      "series": ["ps05", "pf03"],
+      "header_links": ["product_series", "product_features"],
+      "description": "溫和滋潤的爽膚水，能幫助清除殘留污垢，同步幫助肌膚回復水潤平衡，並紓緩肌膚，使肌膚重拾健康光澤，更感柔軟光滑。",
       "capacity": "147ml",
       "skin_suitable": "不含酒精<br>不含香料<br>不含合成色素<br>1號適合敏感性肌膚、乾性肌膚<br>2號適合敏感性肌膚、中性肌膚<br>不易引致粉刺<br>通過皮膚刺激性和過敏性臨床測試",
       "usage": "每天早晚，潔面後，用爽膚水噴濕棉花或化妝棉，輕輕擦拭於面部及頸部，避開眼周，直到化妝棉上沒有殘留污垢及彩妝為止。<br>可配合化妝棉作二次清潔後，亦可將爽膚水直接噴於面上加強補充水分及植物肌密精華。",
-      "function": "",
+      "function": null,
       "principal_components": "抗氧草本複合精華 - 由水飛薊 (Silymarin) 及羅漢果 (Luo Han Guo) 組成，含強效抗氧化物，幫助抗擊自由基，提升肌膚防禦能力，從根本抵禦環境傷害，全面守護所有類型的肌膚。<br>1 號配方特別針對乾性肌膚添加：<br>•亞麻籽精華 (Flaxseed Extract)：含豐富Omega-3 脂肪酸，滋潤肌膚，紓緩乾燥繃緊。<br>•水解藻膠 (Sea Kelp Extract)：含多種維他命、礦物質和脂肪酸，幫助肌膚維持水潤平衡。<br>2 號配方特別針對中性及混合性肌膚添加：<br>•白雞蛋花萃取 (Frangipani Flower Extract)：能鎮靜及紓緩肌膚，並含抗氧化物幫助對抗環境壓力 。<br>•巨睡蓮萃取 (Water Lily Extract)： 含豐富抗氧化物，並為肌膚提供多種礦物質，促進肌膚健康 。",
       "price": "HK$210",
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01": "植物肌密爽膚水.png",
-        "img_02": "植物肌密爽膚水.png"
+        "img_01": "p/e/pe31.jpg",
+        "img_02": "p/e/pe32.jpg",
+        "img_03": "p/e/pe32.jpg"
       },
       "description_image": null
     },
@@ -796,18 +804,18 @@
       "產品英文名稱": "Botanical Effects® Skin Care Hydrate 1",
       "series": ["ps05", "pf04"],
       "header_links": ["product_series", "product_features"],
-      "Product Description": "柔滑滋潤的保濕乳液，為肌膚注滿水分，並讓肌膚達到持久舒適保濕狀態。用後肌膚水潤舒適，更顯飽滿柔滑。",
+      "description": "柔滑滋潤的保濕乳液，為肌膚注滿水分，並讓肌膚達到持久舒適保濕狀態。用後肌膚水潤舒適，更顯飽滿柔滑。",
       "capacity": "88ml",
       "skin_suitable": "不含酒精<br>不含香料<br>不含合成色素<br>1號適合敏感性肌膚、乾性肌膚<br>2號適合敏感性肌膚、中性肌膚<br>不易引致粉刺<br>通過皮膚刺激性和過敏性臨床測試",
       "usage": "每天早晚，潔面、爽膚後，取適量產品，由下而上輕輕均勻塗抹在面部及頸部，避開眼周。",
-      "function": "",
+      "function": null,
       "principal_components": "抗氧草本複合精華 - 由水飛薊 (Silymarin) 及羅漢果 (Luo Han Guo) 組成，含強效抗氧化物，幫助抗擊自由基，提升肌膚防禦能力，從根本抵禦環境傷害，全面守護所有類型的肌膚a。<br>1 號配方特別針對乾性肌膚添加：<br>•亞麻籽精華 (Flaxseed Extract)：含豐富Omega-3 脂肪酸，滋潤肌膚，紓緩乾燥繃緊。<br>•水解藻膠 (Sea Kelp Extract)：含多種維他命、礦物質和脂肪酸，幫助肌膚維持水潤平衡。<br>2 號配方特別針對中性及混合性肌膚添加：<br>•白雞蛋花萃取 (Frangipani Flower Extract)：能鎮靜及紓緩肌膚，並含抗氧化物幫助對抗環境壓力 。<br>•巨睡蓮萃取 (Water Lily Extract)： 含豐富抗氧化物，並為肌膚提供多種礦物質，促進肌膚健康 。",
       "price": "HK$260",
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01": "植物肌密保濕乳液.png",
-        "img_02": "植物肌密保濕乳液.png"
+        "img_01": "p/e/pe41.jpg",
+        "img_02": "p/e/pe42.jpg"
       },
       "description_image": null
     },
@@ -816,18 +824,19 @@
       "產品英文名稱": "Oil-free Hydrating Gel",
       "series": ["ps06", "pf04", "sc01"],
       "header_links": ["product_series", "product_features", "skincare"],
-      "Product Description": "•啫喱狀質地，特別適合油性肌膚使用，幫助肌膚迅速達到水份平衡，保持長時間的水柔滋潤。",
+      "description": "•啫喱狀質地，特別適合油性肌膚使用，幫助肌膚迅速達到水份平衡，保持長時間的水柔滋潤。",
       "capacity": "51g",
       "skin_suitable": "經臨床測試不會引起痕癢及敏感<br>適合所有膚質<br>不含油脂及香料<br>防過敏配方<br>不會引起粉刺",
-      "usage": "",
+      "usage": null,
       "function": "•高效鎖水配方含多種微量元素，迅速輸送並補充水份到肌膚深層並牢牢鎖住水分，長達10小時。<br>•提供肌膚所需滋養成份，增強肌膚抵抗力，形成天然鎖水屏障，改善肌膚長期缺水問題。時刻抵禦乾燥環境導致的皮膚水份流失。<br>•加速細胞間水份和營養循環，促進細胞活力，從根本上幫助乾澀的肌膚回復滋潤，改善彈性，恢復光彩。",
-      "principal_components": "",
+      "principal_components": null,
       "price": "HK$448",
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01": "水妍保濕凝露.png",
-        "img_02": "水妍保濕凝露01.png"
+        "img_01": "p/f/pf11.jpg",
+        "img_02": "p/f/pf12.jpg",
+        "img_03": "p/f/pf13.jpg"
       },
       "description_image": "水妍保濕凝露02.jpg"
     },
@@ -836,17 +845,19 @@
       "產品英文名稱": "Intense Moisturizing Cream",
       "series": ["ps06", "pf04"],
       "header_links": ["product_series", "product_features"],
-      "Product Description": "乳霜狀質地，適合所有膚質人士使用。幫助肌膚迅速達到水份平衡，保持長時間的水柔滋潤。",
+      "description": "乳霜狀質地，適合所有膚質人士使用。幫助肌膚迅速達到水份平衡，保持長時間的水柔滋潤。",
       "capacity": "51g",
       "skin_suitable": "經臨床測試不會引起痕癢及敏感<br>適合所有膚質<br>不含香料<br>防過敏配方<br>不會引起粉刺",
-      "usage": "",
+      "usage": null,
       "function": "•高效鎖水配方含多種高效保濕因子，迅速輸送並補充水份到肌膚深層並牢牢鎖住水分，長達10小時。<br>•提供肌膚所需滋養成份，增強肌膚抵抗力，形成天然鎖水屏障，改善肌膚長期缺水問題。時刻抵禦乾燥環境導致的皮膚水份流失。<br>•加速細胞間水份和營養循環，促進細胞活力，從根本上幫助乾澀的肌膚回復滋潤，改善彈性，恢復光彩。",
+      "principal_components": null,
       "price": "HK$448",
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01": "水妍保濕修護霜.png",
-        "img_02": "水妍保濕修護霜01.png"
+        "img_01": "p/f/pf21.jpg",
+        "img_02": "p/f/pf22.jpg",
+        "img_03": "p/f/pf23.jpg"
       },
       "description_image": "水妍保濕修護霜02.jpg"
     },
@@ -855,18 +866,18 @@
       "產品英文名稱": "Indulge Soothing Eye Gel",
       "series": ["ps06", "pf08", "sc01"],
       "header_links": ["product_series", "product_features", "skincare"],
-      "Product Description": "•提供眼部肌膚快速的保養功效，減輕因睡眠不足產生的浮腫現象。<br>•臨床測試証實，能增加眼部滋潤度達130%。<br>•緊實眼周肌膚，減淡幼紋。<br>•可作眼膜或眼霜使用。",
+      "description": "•提供眼部肌膚快速的保養功效，減輕因睡眠不足產生的浮腫現象。<br>•臨床測試証實，能增加眼部滋潤度達130%。<br>•緊實眼周肌膚，減淡幼紋。<br>•可作眼膜或眼霜使用。",
       "capacity": "11g",
       "skin_suitable": "經皮膚科專家測試<br>適合敏感肌膚<br>不含香料<br>防過敏配方",
-      "usage": "",
-      "function": "",
-      "principal_components": "",
+      "usage": null,
+      "function": null,
+      "principal_components": null,
       "price": "HK$288",
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01": "眼膜膠.png",
-        "img_02": "眼膜膠01.png"
+        "img_01": "p/f/pf31.jpg",
+        "img_02": "p/f/pf32.jpg"
       },
       "description_image": null
     },
@@ -875,18 +886,19 @@
       "產品英文名稱": "Hydrogel Eye Patches",
       "series": ["ps06", "pf08", "sc01", "sc04"],
       "header_links": ["product_series", "product_features", "skincare"],
-      "Product Description": "•親膚水凝質地精準貼合眼底肌膚，迅速滲透。<br>•貼上後瞬間帶來清新涼快感覺，為疲憊眼周補充神采，即時鎮靜和舒緩眼部肌膚。<br>•富含多種植物萃取成分，為眼睛補充源源水分，滋潤眼部肌膚，臨床證明**瞬間提升皮膚保濕度。<br>•幫助改善眼部浮腫和暗啞，呈現活力耀目神彩。<br>**體外成分測試",
+      "description": "•親膚水凝質地精準貼合眼底肌膚，迅速滲透。<br>•貼上後瞬間帶來清新涼快感覺，為疲憊眼周補充神采，即時鎮靜和舒緩眼部肌膚。<br>•富含多種植物萃取成分，為眼睛補充源源水分，滋潤眼部肌膚，臨床證明**瞬間提升皮膚保濕度。<br>•幫助改善眼部浮腫和暗啞，呈現活力耀目神彩。<br>**體外成分測試",
       "capacity": "100g | 30對",
       "skin_suitable": "適合所有膚質類型<br>經皮膚科及眼科醫生測試<br>通過皮膚刺激性和過敏性測試<br>不易引致粉刺<br>適合佩戴隱形眼鏡和敏感眼睛人士使用",
       "usage": "潔面後用膠棒從盒中取出眼膜。將兩片眼膜分別置於兩眼下方，輕柔地敷上並撫平眼膜。待20分鐘後取下眼膜。不用抹去眼周剩餘的精華液，輕輕按摩至皮膚完全吸收。",
-      "function": "",
-      "principal_components": "",
+      "function": null,
+      "principal_components": null,
       "price": "HK$428",
-      "video_source": "Mary Kay 水凝膠眼膜.mp4",
+      "video_source": "pf41.mp4",
       "normal_image": null,
       "small_images": {
-        "img_01": "水凝膠眼膜.png",
-        "img_02": "水凝膠眼膜01.png"
+        "img_01": "p/f/pf41.jpg",
+        "img_02": "p/f/pf42.jpg",
+        "img_03": "p/f/pf43.jpg"
       },
       "description_image": "水凝膠眼膜02.jpg"
     },
@@ -895,18 +907,18 @@
       "產品英文名稱": "Oil-free Eye Makeup Remover",
       "series": ["ps06", "pf01"],
       "header_links": ["product_series", "product_features"],
-      "Product Description": "質地溫和，能徹底卸除眼部彩妝，用後肌膚清爽不感油膩。",
+      "description": "質地溫和，能徹底卸除眼部彩妝，用後肌膚清爽不感油膩。",
       "capacity": "110ml",
       "skin_suitable": "通過皮膚刺激性和過敏性臨床測試<br>適合敏感眼睛及肌膚<br>適合佩戴隱形眼鏡人士使用<br>經眼科專家測試<br>低致敏性<br>不含油分",
-      "usage": "",
+      "usage": null,
       "function": "•獨特雙層配方：上層卸除防水性彩妝，下層卸除一般性彩妝。<br>•清爽不油，能徹底卸除眼部彩妝和空氣中的髒污物。<br>•用後肌膚保持柔軟、光滑。",
-      "principal_components": "",
+      "principal_components": null,
       "price": "HK$155",
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01": "眼部卸妝液.png",
-        "img_02": "眼部卸妝液01.png"
+        "img_01": "p/f/pf51.jpg",
+        "img_02": "p/f/pf52.jpg"
       },
       "description_image": null
     },
@@ -915,18 +927,19 @@
       "產品英文名稱": "Micellar Water",
       "series": ["ps06", "pf01", "sc05"],
       "header_links": ["product_series", "product_features", "skincare"],
-      "Product Description": "•擁有Micellar潔膚配方，為雙重清潔肌膚的第一步。<br>•溫和有效清潔面部肌膚，像磁鐵般溶解表面油脂污垢，雜質及彩妝。<br>•一抹卸淨，獨特的免洗配方，用後無須過水。<br>•不易刺激肌膚，肌膚保持水潤，同步潔膚護膚。<br>•早上/戶外/運動後/瞬間換妝/晚上，任何時間均可使用。",
+      "description": "•擁有Micellar潔膚配方，為雙重清潔肌膚的第一步。<br>•溫和有效清潔面部肌膚，像磁鐵般溶解表面油脂污垢，雜質及彩妝。<br>•一抹卸淨，獨特的免洗配方，用後無須過水。<br>•不易刺激肌膚，肌膚保持水潤，同步潔膚護膚。<br>•早上/戶外/運動後/瞬間換妝/晚上，任何時間均可使用。",
       "capacity": "147ml",
       "skin_suitable": "適合乾性至油性膚質<br>經皮膚科醫生測試<br>通過皮膚刺激性和過敏性臨床測試",
       "usage": "用化妝棉沾取適量產品輕柔擦拭肌膚，抹去面上彩妝及污垢，無須過水。避免直接接觸眼睛。",
-      "function": "",
-      "principal_components": "",
+      "function": null,
+      "principal_components": null,
       "price": "HK$170",
-      "video_source": "卸妝潔膚水 Micellar Water.mp4",
+      "video_source": "pf61.mp4",
       "normal_image": null,
       "small_images": {
-        "img_01": "卸妝潔膚水.png",
-        "img_02": "卸妝潔膚水01.png"
+        "img_01": "p/f/pf61.jpg",
+        "img_02": "p/f/pf62.jpg",
+        "img_03": "p/f/pf63.jpg"
       },
       "description_image": "卸妝潔膚水02.jpg"
     },
@@ -935,17 +948,17 @@
       "產品英文名稱": "Extra Emollient Night Cream",
       "series": ["ps06", "pf04"],
       "header_links": ["product_series", "product_features"],
-      "Product Description": "•特別為乾燥肌膚提供特別保護研發，有效鎖住皮膚水份，增加滋潤度。<br>•能在肌膚表皮面形成特別滋潤的保護膜，消除皮膚乾燥現象。<br>•保持臉部皮膚的天然滋潤，亦適用於手部、肘部和腳部等特別乾燥的部位。",
+      "description": "•特別為乾燥肌膚提供特別保護研發，有效鎖住皮膚水份，增加滋潤度。<br>•能在肌膚表皮面形成特別滋潤的保護膜，消除皮膚乾燥現象。<br>•保持臉部皮膚的天然滋潤，亦適用於手部、肘部和腳部等特別乾燥的部位。",
       "capacity": "60g",
       "skin_suitable": "經臨床測試不會引起痕癢及敏感<br>適合所有膚質<br>防過敏配方<br>不會引起粉刺",
-      "usage": "",
-      "function": "",
-      "principal_components": "",
+      "usage": null,
+      "function": null,
+      "principal_components": null,
       "price": "HK$155",
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01": "柔嫩滋養霜.png"
+        "img_01": "p/f/pf71.jpg"
       },
       "description_image": null
     },
@@ -954,17 +967,17 @@
       "產品英文名稱": "Oil Mattifier",
       "series": ["ps06", "pf09", "sc03"],
       "header_links": ["product_series", "product_features", "skincare"],
-      "Product Description": "•清爽、透氣、不黏膩的親膚性配方，質地剔透細膩，膚感清涼舒爽，提供長達８小時控油效果。<br>•由多種成份組成獨有的「矽質吸油網」，可迅速吸收臉部多餘油脂，亦能阻止出油導致的脫妝情況。<br>•對油脂分泌旺盛的T區、前額及鼻翼等部位，控油效果尤其顯著。<br>•內含多種柔光顆粒可修飾毛孔粗大現象。",
+      "description": "•清爽、透氣、不黏膩的親膚性配方，質地剔透細膩，膚感清涼舒爽，提供長達８小時控油效果。<br>•由多種成份組成獨有的「矽質吸油網」，可迅速吸收臉部多餘油脂，亦能阻止出油導致的脫妝情況。<br>•對油脂分泌旺盛的T區、前額及鼻翼等部位，控油效果尤其顯著。<br>•內含多種柔光顆粒可修飾毛孔粗大現象。",
       "capacity": "17ml",
       "skin_suitable": "經臨床測試不會引起痕癢及敏感<br>適合敏感肌膚<br>不含油脂及香料<br>防過敏配方<br>不會引起粉刺",
-      "usage": "",
-      "function": "",
-      "principal_components": "",
+      "usage": null,
+      "function": null,
+      "principal_components": null,
       "price": "HK$162",
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01": "T字控油涼露.png"
+        "img_01": "p/f/pf81.jpg"
       },
       "description_image": null
     },
@@ -973,17 +986,17 @@
       "產品英文名稱": "LumiVie™ Foaming Cleanser",
       "series": "ps07",
       "header_links": "product_series",
-      "Product Description": "配方溫和細膩的起泡型潔面乳，能徹底去除面上污垢，改善膚色不匀，讓肌膚潔淨透亮，同時令肌膚倍感柔軟，煥發亮采健康光澤。",
+      "description": "配方溫和細膩的起泡型潔面乳，能徹底去除面上污垢，改善膚色不匀，讓肌膚潔淨透亮，同時令肌膚倍感柔軟，煥發亮采健康光澤。",
       "capacity": "100g",
       "skin_suitable": "專為亞洲肌膚研製<br>適合亞洲人肌膚<br>適合所有膚質",
       "usage": "每天早晚，擠出適量產品於掌心，加水輕輕搓揉成泡沫後，以打圈的手法清潔面部及頸部，避開眼周，再以溫水沖洗或溫濕美容巾擦拭乾淨。",
-      "function": "",
+      "function": null,
       "principal_components": "•大溪地黑珍珠臻萃 (Tahitian Black Pearl)：保護肌膚、提亮膚色，還能賦予肌膚能量、喚醒肌膚活力和增強保水及抵抗能力。<br>•Opti-Bright™ 複合物 (Opti-Bright™ Complex)：獨家研發的複合物將東當歸根提取物、植物性胺基酸和菸鹼醯胺結合並產生協同作用，針對造成膚色不均的多種因素，抑制黑色素及色斑形成，對抗黯沉膚色，並幫助改善現有色斑，讓肌膚剔透亮白、勻淨無瑕。<br>•海蓬子萃取 (Samphire)：生長在高鹽分海岸線的神奇植物，具有特殊的儲存和調節水分能力，能提升肌膚水分傳輸通道，讓肌膚長時間保持水潤晶瑩。",
       "price": "HK$280",
-      "video_source": "LumiVie™ 亮采系列.mp4",
+      "video_source": "pg.mp4",
       "normal_image": null,
       "small_images": {
-        "img_01": "LumiVie™ 亮采潔面乳.jpg"
+        "img_01": "p/g/pg11.jpg"
       },
       "description_image": null
     },
@@ -992,17 +1005,17 @@
       "產品英文名稱": "LumiVie™ Black Sheet Mask",
       "series": "ps07",
       "header_links": "product_series",
-      "Product Description": "3D剪裁的高效備長炭纖維面膜精準貼合臉部輪廓，為肌膚注入高濃度活性精華，每塊30g面膜相當於一支LumiVie™亮采密集精華液的煥亮功效。通過對肌膚的密集護理，迅速滲透，喚醒肌膚活力，有效改善膚色不匀和色素沉澱，展現剔透無瑕的完美肌膚。同時密集保濕，使肌膚潤澤透亮，由內而外煥發亮采。",
+      "description": "3D剪裁的高效備長炭纖維面膜精準貼合臉部輪廓，為肌膚注入高濃度活性精華，每塊30g面膜相當於一支LumiVie™亮采密集精華液的煥亮功效。通過對肌膚的密集護理，迅速滲透，喚醒肌膚活力，有效改善膚色不匀和色素沉澱，展現剔透無瑕的完美肌膚。同時密集保濕，使肌膚潤澤透亮，由內而外煥發亮采。",
       "capacity": "30g x 5片",
       "skin_suitable": "專為亞洲肌膚研製<br>適合亞洲人肌膚<br>適合所有膚質",
       "usage": "將面膜敷在潔淨的面部。/輕柔地將面膜打開並撫平在額頭及面頰，讓其貼合面部輪廓。/輕柔地向兩側敷上並撫平面膜，使其貼合下顎線條。/注意撫平鼻翼兩側，使其貼合鼻翼。/待15-20分鐘後取下面膜。不用抹去面上剩餘的精華液，輕輕按摩至皮膚完全吸收。/建議每週使用 2-3 次。",
       "function": "臨床測試證實*<br>•連續3星期每周使用產品2次，整體膚質顯著提升：<br>86%女性見證肌膚更透亮光澤<br>81%女性見證肌膚更顯明亮<br>81%女性見證肌膚暗黃膚色得到改善<br>*結果來自一項中國進行的獨立臨床測試，測試女性連續 3星期每周使用產品兩次後給予評價。",
       "principal_components": "•大溪地黑珍珠臻萃 (Tahitian Black Pearl)：保護肌膚、提亮膚色，還能賦予肌膚能量、喚醒肌膚活力和增強保水及抵抗能力。<br>•Opti-Bright™ 複合物 (Opti-Bright™ Complex)：獨家研發的複合物將東當歸根提取物、植物性胺基酸和菸鹼醯胺結合並產生協同作用，針對造成膚色不均的多種因素，抑制黑色素及色斑形成，對抗黯沉膚色，並幫助改善現有色斑，讓肌膚剔透亮白、勻淨無瑕。<br>•海蓬子萃取 (Samphire)：生長在高鹽分海岸線的神奇植物，具有特殊的儲存和調節水分能力，能提升肌膚水分傳輸通道，讓肌膚長時間保持水潤晶瑩。",
       "price": "HK$480",
-      "video_source": "LumiVie™ 亮采系列.mp4",
+      "video_source": "pg.mp4",
       "normal_image": null,
       "small_images": {
-        "img_01": "LumiVie™ 亮采原液精華面膜.jpg"
+        "img_01": "p/g/pg21.jpg"
       },
       "description_image": null
     },
@@ -1011,17 +1024,17 @@
       "產品英文名稱": "<br>LumiVie™ Essence Water",
       "series": "ps07",
       "header_links": "product_series",
-      "Product Description": "含有高精華成分的爽膚水，使肌膚即時顯得剔透亮澤，瞬間感到水凝柔軟，同時，肌膚重拾淨透平衡，為吸收後續護膚養分作好準備，提升亮白效果。",
+      "description": "含有高精華成分的爽膚水，使肌膚即時顯得剔透亮澤，瞬間感到水凝柔軟，同時，肌膚重拾淨透平衡，為吸收後續護膚養分作好準備，提升亮白效果。",
       "capacity": "100ml",
       "skin_suitable": "專為亞洲肌膚研製<br>適合亞洲人肌膚<br>適合所有膚質",
       "usage": "每天早晚，潔面後使用。以化妝棉沾取適量精華水，由下而上，由內而外輕輕擦拭面部及頸部肌膚作二次清潔，避開眼周。 亦可將適量精華水倒於掌心，直接輕柔按壓於面、頸肌膚，加強精華成分滲透。",
-      "function": "",
+      "function": null,
       "principal_components": "<br>•大溪地黑珍珠臻萃 (Tahitian Black Pearl)：保護肌膚、提亮膚色，還能賦予肌膚能量、喚醒肌膚活力和增強保水及抵抗能力。<br>•Opti-Bright™ 複合物 (Opti-Bright™ Complex)：獨家研發的複合物將東當歸根提取物、植物性胺基酸和菸鹼醯胺結合並產生協同作用，針對造成膚色不均的多種因素，抑制黑色素及色斑形成，對抗黯沉膚色，並幫助改善現有色斑，讓肌膚剔透亮白、勻淨無瑕。<br>•海蓬子萃取 (Samphire)：生長在高鹽分海岸線的神奇植物，具有特殊的儲存和調節水分能力，能提升肌膚水分傳輸通道，讓肌膚長時間保持水潤晶瑩。",
       "price": "HK$280",
-      "video_source": "LumiVie™ 亮采系列.mp4",
+      "video_source": "pg.mp4",
       "normal_image": null,
       "small_images": {
-        "img_01": "LumiVie™ 亮采精華水.png"
+        "img_01": "p/g/pg31.jpg"
       },
       "description_image": null
     },
@@ -1030,17 +1043,17 @@
       "產品英文名稱": "LumiVie™ Intensive Serum",
       "series": ["ps07", "sc04"],
       "header_links": ["product_series", "skincare"],
-      "Product Description": "質感輕盈、迅速滲透，有效對抗膚色不均和色素沉澱，賦予肌膚無與倫比的動人光澤。蘊含高濃度的活性精華，帶來密集而深層的修護，使肌膚由內而外煥發健康活力，展現勻淨剔透的瀅潤光芒。",
+      "description": "質感輕盈、迅速滲透，有效對抗膚色不均和色素沉澱，賦予肌膚無與倫比的動人光澤。蘊含高濃度的活性精華，帶來密集而深層的修護，使肌膚由內而外煥發健康活力，展現勻淨剔透的瀅潤光芒。",
       "capacity": "30ml",
       "skin_suitable": "專為亞洲肌膚研製<br>適合亞洲人肌膚<br>適合所有膚質",
       "usage": "每天早晚，潔面、爽膚後，取適量產品均勻塗抹於面部和頸部，由下而上，由內而外輕輕按摩。",
       "function": "臨床測試證實*：<br>•僅僅 2 星期，肌膚光澤感、明亮度、膚色均勻度和膚質狀態顯著提升<br>•使用 2 星期後，使用女性見證色斑顯著縮減：<br>色斑數量減少<br>色斑範圍縮小<br>* 結果來自一項於中國（上海、北京、廣州）進行的獨立研究，研究中 245-246 名女性連續 21 天早晚使用產品各一次。",
       "principal_components": "•大溪地黑珍珠臻萃 (Tahitian Black Pearl)：保護肌膚、提亮膚色，還能賦予肌膚能量、喚醒肌膚活力和增強保水及抵抗能力。<br>•Opti-Bright™ 複合物 (Opti-Bright™ Complex)：獨家研發的複合物將東當歸根提取物、植物性胺基酸和菸鹼醯胺結合並產生協同作用，針對造成膚色不均的多種因素，抑制黑色素及色斑形成，對抗黯沉膚色，並幫助改善現有色斑，讓肌膚剔透亮白、勻淨無瑕。<br>•海蓬子萃取 (Samphire)：生長在高鹽分海岸線的神奇植物，具有特殊的儲存和調節水分能力，能提升肌膚水分傳輸通道，讓肌膚長時間保持水潤晶瑩。",
       "price": "HK$750",
-      "video_source": "LumiVie™ 亮采系列.mp4",
+      "video_source": "pg.mp4",
       "normal_image": null,
       "small_images": {
-        "img_01": "亮采密集精華液.png"
+        "img_01": "p/g/pg41.jpg"
       },
       "description_image": null
     },
@@ -1049,17 +1062,17 @@
       "產品英文名稱": "LumiVie™ Eye Treatment",
       "series": "ps07",
       "header_links": "product_series",
-      "Product Description": "質地水潤輕盈，為眼周肌膚傾注亮采精華，瞬間提亮眼周肌膚，即時倍感滋潤舒適，顯著改善眼周暗沉膚色和減淡黑眼圈，幫助眼周肌膚展現明亮透白光采。",
+      "description": "質地水潤輕盈，為眼周肌膚傾注亮采精華，瞬間提亮眼周肌膚，即時倍感滋潤舒適，顯著改善眼周暗沉膚色和減淡黑眼圈，幫助眼周肌膚展現明亮透白光采。",
       "capacity": "15g",
       "skin_suitable": "專為亞洲肌膚研製<br>適合亞洲人肌膚<br>適合所有膚質",
       "usage": "每天早晚，以指尖取適量均勻塗抹於眼周，輕按至完全吸收。",
-      "function": "",
+      "function": null,
       "principal_components": "•大溪地黑珍珠臻萃 (Tahitian Black Pearl)：保護肌膚、提亮膚色，還能賦予肌膚能量、喚醒肌膚活力和增強保水及抵抗能力。<br>•Opti-Bright™ 複合物 (Opti-Bright™ Complex)：獨家研發的複合物將東當歸根提取物、植物性胺基酸和菸鹼醯胺結合並產生協同作用，針對造成膚色不均的多種因素，抑制黑色素及色斑形成，對抗黯沉膚色，並幫助改善現有色斑，讓肌膚剔透亮白、勻淨無瑕。<br>•海蓬子萃取 (Samphire)：生長在高鹽分海岸線的神奇植物，具有特殊的儲存和調節水分能力，能提升肌膚水分傳輸通道，讓肌膚長時間保持水潤晶瑩。",
       "price": "HK$440",
-      "video_source": "LumiVie™ 亮采系列.mp4",
+      "video_source": "pg.mp4",
       "normal_image": null,
       "small_images": {
-        "img_01": "LumiVie™ 亮采精華眼霜.jpg"
+        "img_01": "p/g/pg51.jpg"
       },
       "description_image": null
     },
@@ -1068,17 +1081,17 @@
       "產品英文名稱": "LumiVie™ Moisturizing Lotion",
       "series": ["ps07", "sc04"],
       "header_links": ["product_series", "skincare"],
-      "Product Description": "質感輕盈、有效保濕而不黏膩，早晚均可使用，給予肌膚輕柔呵護，煥發水凝清新的透亮光采。",
+      "description": "質感輕盈、有效保濕而不黏膩，早晚均可使用，給予肌膚輕柔呵護，煥發水凝清新的透亮光采。",
       "capacity": "30ml",
       "skin_suitable": "專為亞洲肌膚研製<br>適合亞洲人肌膚<br>適合所有膚質",
       "usage": "每天早晚，潔面、爽膚後，取適量產品均勻塗抹於面部和頸部，由下而上，由內而外輕輕按摩。",
       "function": "臨床測試證實*：<br>•使用後即時保濕，肌膚保濕度提升 120% *<br>•使用 12 小時後* ，100% 女性見證水凝保濕感受持續 12 小時<br>•使用 8 星期後* * ，整體肌膚質感顯著提升：<br>更富光澤<br>更顯明亮<br>暗黃膚色得到改善<br>88% 女性見證色斑明顯減少<br>* 結果來自一項獨立臨床測試，測試中 22 名女性使用產品 15 分鐘、8 小時及 12 小時後給予評價。<br>** 結果來自個別的獨立臨床測試，測試中 45-51 名亞洲女性使用產品 4 星期、8 星期及 12星期後給予評價。",
       "principal_components": "•大溪地黑珍珠臻萃 (Tahitian Black Pearl)：保護肌膚、提亮膚色，還能賦予肌膚能量、喚醒肌膚活力和增強保水及抵抗能力。<br>•Opti-Bright™ 複合物 (Opti-Bright™ Complex)：獨家研發的複合物將東當歸根提取物、植物性胺基酸和菸鹼醯胺結合並產生協同作用，針對造成膚色不均的多種因素，抑制黑色素及色斑形成，對抗黯沉膚色，並幫助改善現有色斑，讓肌膚剔透亮白、勻淨無瑕。<br>•海蓬子萃取 (Samphire)：生長在高鹽分海岸線的神奇植物，具有特殊的儲存和調節水分能力，能提升肌膚水分傳輸通道，讓肌膚長時間保持水潤晶瑩。",
       "price": "HK$370",
-      "video_source": "LumiVie™ 亮采系列.mp4",
+      "video_source": "pg.mp4",
       "normal_image": null,
       "small_images": {
-        "img_01": "LumiVie™ 亮采滋潤乳.png"
+        "img_01": "p/g/pg61.jpg"
       },
       "description_image": null
     },
@@ -1087,17 +1100,17 @@
       "產品英文名稱": "LumiVie™ Moisturizing Cream",
       "series": "ps07",
       "header_links": "product_series",
-      "Product Description": "質感豐潤柔滑，早晚均可使用，即時為乾燥肌膚注入充沛滋養，並令肌膚持久潤澤飽滿、柔滑透亮",
+      "description": "質感豐潤柔滑，早晚均可使用，即時為乾燥肌膚注入充沛滋養，並令肌膚持久潤澤飽滿、柔滑透亮",
       "capacity": "30ml",
       "skin_suitable": "專為亞洲肌膚研製<br>適合亞洲人肌膚<br>適合所有膚質",
       "usage": "每天早晚，精華液後使用，取適量產品均勻塗抹於面部和頸部，由下而上，由內而外輕輕按摩。",
       "function": "臨床測試證實*：<br>•使用後迅速為肌膚注入充沛滋養，肌膚保濕度提升 186%*<br>•使用 12 小時後* ，95% 女性見證肌膚持續 12 小時維持水嫩潤澤<br>•使用 8 星期後* * ，整體肌膚質感顯著提升：<br>更富光澤<br>更顯明亮<br>暗黃膚色得到改善",
       "principal_components": "<br>•大溪地黑珍珠臻萃 (Tahitian Black Pearl)：保護肌膚、提亮膚色，還能賦予肌膚能量、喚醒肌膚活力和增強保水及抵抗能力。<br>•Opti-Bright™ 複合物 (Opti-Bright™ Complex)：獨家研發的複合物將東當歸根提取物、植物性胺基酸和菸鹼醯胺結合並產生協同作用，針對造成膚色不均的多種因素，抑制黑色素及色斑形成，對抗黯沉膚色，並幫助改善現有色斑，讓肌膚剔透亮白、勻淨無瑕。<br>•海蓬子萃取 (Samphire)：生長在高鹽分海岸線的神奇植物，具有特殊的儲存和調節水分能力，能提升肌膚水分傳輸通道，讓肌膚長時間保持水潤晶瑩。",
       "price": "HK$470",
-      "video_source": "LumiVie™ 亮采系列.mp4",
+      "video_source": "pg.mp4",
       "normal_image": null,
       "small_images": {
-        "img_01": " 亮采滋潤霜.png"
+        "img_01": "p/g/pg71.jpg"
       },
       "description_image": null
     },
@@ -1106,17 +1119,17 @@
       "產品英文名稱": "Calming Influence Facial Cleanser",
       "series": ["ps08", "pf02"],
       "header_links": ["product_series", "product_features"],
-      "Product Description": "•質地溫和清透，潔淨而不刺激皮膚，能迅速水潤柔軟肌膚。<br>•回復肌膚平衡，感覺清新柔潤，令敏感肌膚得到改善。",
+      "description": "•質地溫和清透，潔淨而不刺激皮膚，能迅速水潤柔軟肌膚。<br>•回復肌膚平衡，感覺清新柔潤，令敏感肌膚得到改善。",
       "capacity": "95g",
       "skin_suitable": "敏感性肌膚適用",
-      "usage": "",
-      "function": "",
-      "principal_components": "",
+      "usage": null,
+      "function": null,
+      "principal_components": null,
       "price": "HK$190",
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01": "舒顏潔面乳.png"
+        "img_01": "p/h/ph11.jpg"
       },
       "description_image": null
     },
@@ -1125,17 +1138,17 @@
       "產品英文名稱": "Calming Influence Mask",
       "series": ["ps08", "pf05"],
       "header_links": ["product_series", "product_features"],
-      "Product Description": "•質地柔滑而不黏膩，能迅速水潤柔軟肌膚。<br>•含豐富水解藻膠萃取，有效重建受損皮脂膜。<br>•持續深層滋潤，防止肌膚表層水份流失。",
+      "description": "•質地柔滑而不黏膩，能迅速水潤柔軟肌膚。<br>•含豐富水解藻膠萃取，有效重建受損皮脂膜。<br>•持續深層滋潤，防止肌膚表層水份流失。",
       "capacity": "50ml",
       "skin_suitable": "敏感性肌膚適用",
-      "usage": "",
-      "function": "",
-      "principal_components": "",
+      "usage": null,
+      "function": null,
+      "principal_components": null,
       "price": "HK$270",
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01": "舒顏潔面乳.png"
+        "img_01": "p/h/ph21.jpg"
       },
       "description_image": null
     },
@@ -1144,17 +1157,17 @@
       "產品英文名稱": "Calming Influence Facial Moisturizer",
       "series": ["ps08", "pf04"],
       "header_links": ["product_series", "product_features"],
-      "Product Description": "•能幫助保護肌膚免受外界環境侵害，改善泛紅脫皮等問題，滋潤並均衡肌膚，給予肌膚悉心呵護。<br>•修護皮膚保濕層，回復肌膚鎖水功能，同時滋養肌膚。",
+      "description": "•能幫助保護肌膚免受外界環境侵害，改善泛紅脫皮等問題，滋潤並均衡肌膚，給予肌膚悉心呵護。<br>•修護皮膚保濕層，回復肌膚鎖水功能，同時滋養肌膚。",
       "capacity": "50g",
       "skin_suitable": "敏感性肌膚適用",
-      "usage": "",
-      "function": "",
-      "principal_components": "",
+      "usage": null,
+      "function": null,
+      "principal_components": null,
       "price": "HK$320",
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01": "舒顏保濕霜.png"
+        "img_01": "p/h/ph31.jpg"
       },
       "description_image": null
     },
@@ -1163,17 +1176,17 @@
       "產品英文名稱": "Calming Influence Freshener",
       "series": ["ps08", "pf03"],
       "header_links": ["product_series", "product_features"],
-      "Product Description": "•質地溫和清透，為肌膚提供二次潔淨，提升後續護膚品的吸收。<br>•回復肌膚平衡，感覺清新柔潤，令敏感缺水肌膚得到改善。<br>•含多種滋潤舒緩成份，加強皮膚抗氧化進程，有效舒緩不適感。",
+      "description": "•質地溫和清透，為肌膚提供二次潔淨，提升後續護膚品的吸收。<br>•回復肌膚平衡，感覺清新柔潤，令敏感缺水肌膚得到改善。<br>•含多種滋潤舒緩成份，加強皮膚抗氧化進程，有效舒緩不適感。",
       "capacity": "100ml",
       "skin_suitable": "敏感性肌膚適用",
-      "usage": "",
-      "function": "",
-      "principal_components": "",
+      "usage": null,
+      "function": null,
+      "principal_components": null,
       "price": "HK$230",
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01": "舒顏柔膚水.png"
+        "img_01": "p/h/ph41.jpg"
       },
       "description_image": null
     },
@@ -1182,17 +1195,17 @@
       "產品英文名稱": "Calming Influence Serum",
       "series": ["ps08", "pf06", "sc04"],
       "header_links": ["product_series", "product_features", "skincare"],
-      "Product Description": "•舒緩肌膚敏感狀態。<br>•迅速保濕，令肌膚倍添柔潤。<br>•令肌膚恢復健康和平衡狀態。",
+      "description": "•舒緩肌膚敏感狀態。<br>•迅速保濕，令肌膚倍添柔潤。<br>•令肌膚恢復健康和平衡狀態。",
       "capacity": "29g",
       "skin_suitable": "敏感性肌膚適用",
-      "usage": "",
-      "function": "",
-      "principal_components": "",
+      "usage": null,
+      "function": null,
+      "principal_components": null,
       "price": "HK$310",
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01": "舒顏精華露.png"
+        "img_01": "p/h/ph51.jpg"
       },
       "description_image": null
     },
@@ -1201,7 +1214,7 @@
       "產品英文名稱": "Clear Proof ® Clarifying Cleanser for Acne-Prone Skin",
       "series": ["ps09", "pf02"],
       "header_links": ["product_series", "product_features"],
-      "Product Description": "淨顏護理的重要第一步，清爽的透明啫喱，按摩於濕潤的皮膚上形成輕柔的清潔泡沫，深入毛孔徹底清潔及去油，同時幫助促進表皮更新，預防死皮堆積、堵塞毛孔。",
+      "description": "淨顏護理的重要第一步，清爽的透明啫喱，按摩於濕潤的皮膚上形成輕柔的清潔泡沫，深入毛孔徹底清潔及去油，同時幫助促進表皮更新，預防死皮堆積、堵塞毛孔。",
       "capacity": "127g",
       "skin_suitable": "適合敏感性肌膚<br>不含香料<br>不含油分<br>不易引致暗瘡粉刺",
       "usage": "取適量產品在濕潤的面部及頸部充分按摩，避開眼周，再以溫水沖洗或溫濕美容巾擦拭乾淨。<br>使用要點：<br>• 使用本產品期間，皮膚可能會感到乾燥或輕微刺激，此乃正常反應，代表成分正在發揮功效，一般使用兩星期後皮膚會漸漸適應。建議可從一天使用一次開始，視乎狀況或需要再慢慢調整為一天使用兩次。<br>• 若皮膚出現過度乾燥或脫皮現象，則改為一天或隔天使用一次。<br>• 首三天可先局部使用於一至兩個細小暗瘡粉刺部位，如沒有乾燥或不適才按照上述建議方法使用。<br>• 水楊酸會促進角質代謝，因此使用水楊酸產品期間，應避免使用其它去角質及煥膚產品，以免角質被過度去除而引起刺激不適，並應每天做好防曬護理保護皮膚。",
@@ -1211,7 +1224,7 @@
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01": "淨顏潔面啫喱.png"
+        "img_01": "p/i/pi11.jpg"
       },
       "description_image": null
     },
@@ -1220,7 +1233,7 @@
       "產品英文名稱": "Clear Proof ® Deep-Cleansing Charcoal Mask",
       "series": ["ps09", "pf05", "sc03"],
       "header_links": ["product_series", "product_features", "skincare"],
-      "Product Description": "具三重效能的深層清潔面膜，如同「淨化磁石」般將毛孔內之污染物、塵埃、油脂、黑頭白頭等通通吸走，深層清潔，徹底排毒，大大提升健康抵禦力，不但杜絕暗瘡，還能幫助不同膚質去除和預防黑頭及白頭粉刺，幫助肌膚回復光潔淨透！",
+      "description": "具三重效能的深層清潔面膜，如同「淨化磁石」般將毛孔內之污染物、塵埃、油脂、黑頭白頭等通通吸走，深層清潔，徹底排毒，大大提升健康抵禦力，不但杜絕暗瘡，還能幫助不同膚質去除和預防黑頭及白頭粉刺，幫助肌膚回復光潔淨透！",
       "capacity": "114g",
       "skin_suitable": "適合敏感性肌膚<br>適合暗瘡性肌膚<br>通過皮膚刺激性和及過敏性臨床測試<br>不易引致暗瘡粉刺<br>經皮膚科醫生測試認可",
       "usage": "潔面後，取足夠的面膜霜輕柔且均勻地塗抹在面上，避開眼周和唇周，大約 10-20 分鐘後，用溫水或溫濕美容巾洗淨。每週可使用 2-3 次。",
@@ -1230,8 +1243,7 @@
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01": "淨顏活性碳面膜.png",
-        "img_02": "淨顏活性碳面膜01.png"
+        "img_01": "p/i/pi21.jpg"
       },
       "description_image": null
     },
@@ -1240,7 +1252,7 @@
       "產品英文名稱": "Clear Proof ® Blemish Control Toner",
       "series": ["ps09", "pf03"],
       "header_links": ["product_series", "product_features"],
-      "Product Description": "於潔面及面膜後使用可加強淨化皮膚及毛孔，用後皮膚倍感清新潔淨！",
+      "description": "於潔面及面膜後使用可加強淨化皮膚及毛孔，用後皮膚倍感清新潔淨！",
       "capacity": "147g",
       "skin_suitable": "不含香料<br>通過皮膚過敏性臨床測試<br>不易引致暗瘡粉刺",
       "usage": "潔面後，用化妝棉沾取適量的爽膚水，輕輕擦拭於面部及頸部，避開眼周。<br>*尤加利葉精油及薄荷醇成分帶來清涼味道及略帶微微刺眼的感覺，因此使用時應特別注意避開眼周。<br>使用要點<br>• <br>使用本產品期間，皮膚可能會感到乾燥或輕微刺激，此乃正常反應，代表成分正在發揮功效，一般使用兩星期後皮膚會漸漸適應。建議可從一天使用一次開始，視乎狀況或需要再慢慢調整為一天使用兩次。<br>• 若皮膚出現過度乾燥或脫皮現象，則改為一天或隔天使用一次。<br>• 首三天可先局部使用於一至兩個細小暗瘡粉刺部位，如沒有乾燥或不適才按照上述建議方法使用。<br>• 水楊酸會促進角質代謝，因此使用水楊酸產品期間，應避免使用其它去角質及煥膚產品，以免角質被過度去除而引起刺激不適，並應每天做好防曬護理保護皮膚。",
@@ -1250,7 +1262,7 @@
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01": "淨顏調理爽膚水.png"
+        "img_01": "p/i/pi31.jpg"
       },
       "description_image": null
     },
@@ -1259,7 +1271,7 @@
       "產品英文名稱": "Clear Proof ® Pore-Purifying Serum for Acne-Prone Skin",
       "series": ["ps09", "pf06"],
       "header_links": ["product_series", "product_features"],
-      "Product Description": "絲滑的透明啫喱精華，質地清爽無負擔，塗抹方便，有效幫助減褪及預防暗瘡，同時幫助控油，淨化、暢通及收細毛孔",
+      "description": "絲滑的透明啫喱精華，質地清爽無負擔，塗抹方便，有效幫助減褪及預防暗瘡，同時幫助控油，淨化、暢通及收細毛孔",
       "capacity": "50g",
       "skin_suitable": "適合敏感性肌膚<br>不含香料<br>不含油分<br>不易引致暗瘡粉刺",
       "usage": "潔面、爽膚後，取適量產品輕輕塗於面部及頸部，避開眼周。<br>使用要點<br>• 使用本產品期間，皮膚可能會感到乾燥或輕微刺激，此乃正常反應，代表成分正在發揮功效，一般使用兩星期後皮膚會漸漸適應。建議可從一天使用一次開始，視乎狀況或需要再慢慢調整為一天使用兩次。<br>• 若皮膚出現過度乾燥或脫皮現象，則改為一天或隔天使用一次。<br>• 首三天可先局部使用於一至兩個細小暗瘡粉刺部位，如沒有乾燥或不適才按照上述建議方法使用。<br>• 水楊酸會促進角質代謝，因此使用水楊酸產品期間，應避免使用其它去角質及煥膚產品，以免角質被過度去除而引起刺激不適，並應每天做好防曬護理保護皮膚。",
@@ -1269,7 +1281,7 @@
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01": "淨顏調理爽膚水.png"
+        "img_01": "p/i/pi41.jpg"
       },
       "description_image": null
     },
@@ -1278,7 +1290,7 @@
       "產品英文名稱": "Clear Proof ® Spot Solution for Acne-Prone Skin",
       "series": ["ps08", "ps09", "pf06", "sc03"],
       "header_links": ["product_series", "product_features", "skincare"],
-      "Product Description": "清爽精華乳液，針對已形成的暗瘡發揮調理改善作用，並預防暗瘡循環爆發，更能加強暗瘡修復，減少暗瘡疤印。配方不黏不膩、呈淺綠色，幫助修飾暗瘡泛紅。",
+      "description": "清爽精華乳液，針對已形成的暗瘡發揮調理改善作用，並預防暗瘡循環爆發，更能加強暗瘡修復，減少暗瘡疤印。配方不黏不膩、呈淺綠色，幫助修飾暗瘡泛紅。",
       "capacity": "29g",
       "skin_suitable": "適合敏感性肌膚<br>不含香料<br>不含油分<br>不易引致暗瘡粉刺",
       "usage": "取適量產品局部塗於暗瘡患處。<br>使用要點<br>• <br>使用本產品期間，皮膚可能會感到乾燥或輕微刺激，此乃正常反應，代表成分正在發揮功效，一般使用兩星期後皮膚會漸漸適應。建議可從一天使用一次開始，視乎狀況或需要再慢慢調整為一天使用二至三次。<br>• 若皮膚出現過度乾燥或脫皮現象，則改為一天或隔天使用一次。<br>• 首三天可先局部使用於一至兩個細小暗瘡粉刺部位，如沒有乾燥或不適才按照上述建議方法使用。<br>• 水楊酸會促進角質代謝，因此使用水楊酸產品期間，應避免使用其它去角質及煥膚產品，以免角質被過度去除而引起刺激不適，並應每天做好防曬護理保護皮膚。",
@@ -1288,7 +1300,7 @@
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01": "淨顏重點修護精華.png"
+        "img_01": "p/i/pi51.jpg"
       },
       "description_image": null
     },
@@ -1297,7 +1309,7 @@
       "產品英文名稱": "Clear Proof ® Oil-Free Moisturizer for Acne-Prone Skin",
       "series": ["ps08", "ps09", "pf04"],
       "header_links": ["product_series", "product_features"],
-      "Product Description": "紓緩保濕，重建健康皮脂膜，用後皮膚重現健康、柔滑",
+      "description": "紓緩保濕，重建健康皮脂膜，用後皮膚重現健康、柔滑",
       "capacity": "88ml",
       "skin_suitable": "適合敏感性肌膚<br>通過皮膚刺激性和過敏性臨床測試<br>不易引致暗瘡粉刺",
       "usage": "潔面、爽膚後，取適量產品，由下而上輕輕均勻塗抹在乾淨的面部及頸部，避開眼周。",
@@ -1307,7 +1319,7 @@
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01": "淨顏清爽保濕乳液.png"
+        "img_01": "p/i/pi61.jpg"
       },
       "description_image": null
     },
@@ -1316,21 +1328,21 @@
       "產品英文名稱": "Gel Semi-Shine Lipstick",
       "series": "mu01",
       "header_links": "makeup",
-      "Product Description": "延續絕色啫喱唇膏熱，絕色緞光唇膏以同一嶄新啫喱技術，為櫻唇帶來飽和度高及遮蓋力強的絲緞亮澤色彩。持久濃郁的出眾色彩，柔軟舒適的非凡質感，塑造一抹愛上的細膩緞亮唇色。",
+      "description": "延續絕色啫喱唇膏熱，絕色緞光唇膏以同一嶄新啫喱技術，為櫻唇帶來飽和度高及遮蓋力強的絲緞亮澤色彩。持久濃郁的出眾色彩，柔軟舒適的非凡質感，塑造一抹愛上的細膩緞亮唇色。",
       "capacity": "3.6g",
       "skin_suitable": "經皮膚科醫生測試認可<br>通過皮膚刺激性和過敏性臨床測試",
-      "usage": "",
+      "usage": null,
       "function": "•嶄新啫喱技術透現出濃郁飽和的色彩，像真度高<br>•觸感絲滑、塗抹順滑，讓雙唇柔軟舒適<br>•妝效持久、色彩貼服<br>•葵花籽油及荷荷芭脂等呵護成分，滋潤雙唇，使雙唇不顯亦不感乾燥<br>•含有光學粒子散射光線，呈現柔焦般的自然潤澤妝感",
-      "principal_components": "",
+      "principal_components": null,
       "price": "HK$218",
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01": "絕色緞光唇膏.png",
-        "img_02": "絕色緞光唇膏RapsberryIce.png",
-        "img_03": "絕色緞光唇膏RedSmolder.png",
-        "img_04": "絕色緞光唇膏Romantic Pink.png",
-        "img_05": "絕色緞光唇膏Rub-SunsetPeach.png"
+        "img_01": "m/m/ma11.jpg",
+        "img_02": "m/a/ma12.jpg",
+        "img_03": "m/a/ma13.jpg",
+        "img_04": "m/a/ma14.jpg",
+        "img_05": "m/a/ma15.jpg"
       },
       "description_image": null
     },
@@ -1339,21 +1351,22 @@
       "產品英文名稱": "Unlimited™ Lip Gloss",
       "series": "mu01",
       "header_links": "makeup",
-      "Product Description": "質地輕盈不黏笠，超柔滑亮澤，配方中的維他命C及E呵護成分能滋潤雙唇，極致保濕。輕輕一抺立即上色，締造瞬間及持久的豐盈凝亮妝感，為雙唇鎖定迷人色彩。",
+      "description": "質地輕盈不黏笠，超柔滑亮澤，配方中的維他命C及E呵護成分能滋潤雙唇，極致保濕。輕輕一抺立即上色，締造瞬間及持久的豐盈凝亮妝感，為雙唇鎖定迷人色彩。",
       "capacity": "3.9g",
-      "skin_suitable": "",
-      "usage": "",
+      "skin_suitable": null,
+      "usage": null,
       "function": "<br>•配方含有蓖麻籽油等維他命C及E的呵護成分瞬間滋潤雙唇，極致保濕，令雙唇感受無比舒適潤澤。<br>•嶄新高光澤感和高保濕度技術，專為調理雙唇而設計的成分，立即滋潤並保持嘴唇健康。<br>•配有三種珍珠微閃、閃爍晶瑩、豐盈亮澤妝效，非常百搭，不同場合也能塑造千變萬化的閃亮妝效。<br>•質地輕盈不黏笠，色彩濃郁飽和，零阻力滑動，塗抹順滑亮澤。<br>•獨特的刷頭設計輕輕一抺立即上色，締造瞬間完美唇妝。<br>•具有淡淡的雲呢拿香味，清新香氣使你使用時份外舒適放鬆。<br>獨立消費者研究證實*：<br>98% 用家表示塗抹順滑。<br>96% 用家表示嘴唇立即感到滋潤。<br>91% 用家表示它使嘴唇看起來很健康。<br>90% 家表示使用後嘴唇感到柔滑。<br>*根據一項為期一周的獨立消費者研究，100位女性每天使用凝亮唇彩後給予評價，結果是基於大多數小組成員的同意。",
-      "principal_components": "",
+      "principal_components": null,
       "price": "HK$168",
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01": "凝亮唇彩_Iconic Red火辣鮮紅 .png",
-        "img_02": "凝亮唇彩_Nude Blush淡粉玫瑰02.jpg",
-        "img_03": "凝亮唇彩_Pink Ballerina粉色芭蕾02.jpg",
-        "img_04": "凝亮唇彩_Unique Mauve玫瑰淡紫02.jpg",
-        "img_05": "凝亮唇彩_Fancy Nancy蜜桃晶粉02.jpg"
+        "img_01": "m/m/ma21.jpg",
+        "img_02": "m/a/ma22.jpg",
+        "img_03": "m/a/ma23.jpg",
+        "img_04": "m/a/ma24.jpg",
+        "img_05": "m/a/ma25.jpg",
+        "img_06": "m/a/ma26.jpg"
       },
       "description_image": "凝亮唇彩01.jpg"
     },
@@ -1362,17 +1375,17 @@
       "產品英文名稱": "Foundation Primer Sunscreen SPF15",
       "series": ["mu02", "sc03"],
       "header_links": "skincare",
-      "Product Description": "•輕輕一抹，完美隱藏細紋與毛孔，絕對是完美底妝的好工具。<br>•讓後續的粉底更貼服易推。",
+      "description": "•輕輕一抹，完美隱藏細紋與毛孔，絕對是完美底妝的好工具。<br>•讓後續的粉底更貼服易推。",
       "capacity": "29ml",
       "skin_suitable": "適合所有膚質使用<br>皮膚科專家測試<br>適合敏感肌膚<br>不會造成粉刺<br>不含油脂及香料",
-      "usage": "",
-      "function": "",
-      "principal_components": "",
+      "usage": null,
+      "function": null,
+      "principal_components": null,
       "price": "HK$250",
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01": "妝前修顏底霜SPF15.png"
+        "img_01": "m/b/mb11.jpg"
       },
       "description_image": null
     },
@@ -1381,17 +1394,17 @@
       "產品英文名稱": "Honey Glow Finisher SPF 35/ PA++",
       "series": ["mu02", "sc01"],
       "header_links": ["makeup", "skincare"],
-      "Product Description": "•蘊含多種植物萃取，可於護膚與彩妝之間使用。<br>•質地輕盈清爽，有長效保濕、提亮滋潤、改善細紋的功效。<br>•獨特配方煥發皮膚自然光澤，一抹提亮膚色，瞬間打造光感修顏, 使肌膚如大自然的花蜜般煥發光彩。<br>•為後續妝容提升持妝度，持久綻放透亮光彩，打造自然無暇透亮肌。<br>•SPF 35 配搭 PA++ 的防曬系數，為日常生活築起充足防線，同時不會造成過多負擔。",
+      "description": "•蘊含多種植物萃取，可於護膚與彩妝之間使用。<br>•質地輕盈清爽，有長效保濕、提亮滋潤、改善細紋的功效。<br>•獨特配方煥發皮膚自然光澤，一抹提亮膚色，瞬間打造光感修顏, 使肌膚如大自然的花蜜般煥發光彩。<br>•為後續妝容提升持妝度，持久綻放透亮光彩，打造自然無暇透亮肌。<br>•SPF 35 配搭 PA++ 的防曬系數，為日常生活築起充足防線，同時不會造成過多負擔。",
       "capacity": "40ml",
       "skin_suitable": "適合敏感肌膚<br>經皮膚科醫生測試<br>通過皮膚刺激性和過敏性測試<br>通過亞洲膚質測試<br>適合所有膚質<br>不含香料<br>不含油分<br>不易引致暗瘡粉刺",
       "usage": "每天早上潔面及日常護膚程序後、在塗粉底前，取適量以指腹均勻塗於全面。",
-      "function": "",
-      "principal_components": "",
+      "function": null,
+      "principal_components": null,
       "price": "HK$328",
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01": "光感修顏霜.png"
+        "img_01": "m/b/mb21.jpg"
       },
       "description_image": null
     },
@@ -1400,19 +1413,19 @@
       "產品英文名稱": "Mineral Powder Foundation",
       "series": "mu02",
       "header_links": "makeup",
-      "Product Description": "富含天然精純礦物成份，融合了粉底的理想遮瑕和碎粉的輕盈舒適。只需輕輕一掃，就可有效遮蓋皺紋、細紋和瑕疵，持久保持清新妝容。無香料清爽配方，溫和不刺激。",
+      "description": "富含天然精純礦物成份，融合了粉底的理想遮瑕和碎粉的輕盈舒適。只需輕輕一掃，就可有效遮蓋皺紋、細紋和瑕疵，持久保持清新妝容。無香料清爽配方，溫和不刺激。",
       "capacity": "8g",
       "skin_suitable": "經皮膚科專家測試<br>經臨床測試不會引起痕癢及敏感<br>適合敏感肌膚<br>不會造成粉刺<br>不含油脂及香料",
-      "usage": "",
-      "function": "",
+      "usage": null,
+      "function": null,
       "principal_components": "•二氧化鈦、雲母粉：提供閃亮絢麗的珠光效果，同時遮蓋細紋和皮膚瑕疵。<br>•硬脂酸鋅：增強產品附著力，不易掉妝。<br>•氮化硼：柔滑肌膚。<br>•矽油：滋潤肌膚。<br>•丁基化羥基甲苯：抗氧化。<br>•無香精配方：質地純淨不刺激皮膚。",
       "price": "HK$190",
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01": "礦研粉底.png",
-        "img_02": "礦研粉底01.png",
-        "img_03": "礦研粉底02.jpg"
+        "img_01": "m/b/mb31.jpg",
+        "img_02": "m/b/mb32.jpg",
+        "img_03": "m/b/mb33.jpg"
       },
       "description_image": null
     },
@@ -1421,17 +1434,17 @@
       "產品英文名稱": "Complexion Corrector Cream Sunscreen SPF 15",
       "series": ["mu02", "sc05"],
       "header_links": ["makeup", "skincare"],
-      "Product Description": "•含礦物調色粒子幫助修正色斑及黑眼圈等膚色瑕疵、全面調整及改善面部膚色。<br>•能修飾毛孔及細紋，改善膚質，使肌膚看起來細緻、光滑、年輕。<br>•特有水潤因子能使肌膚即時水潤而不油膩，10 小時長效保濕。<br>•水飛薊果提取物及柳樹皮萃取有效舒緩鎮靜肌膚，減少泛紅現象並對暗瘡性皮膚發揮溫和消炎功效。",
+      "description": "•含礦物調色粒子幫助修正色斑及黑眼圈等膚色瑕疵、全面調整及改善面部膚色。<br>•能修飾毛孔及細紋，改善膚質，使肌膚看起來細緻、光滑、年輕。<br>•特有水潤因子能使肌膚即時水潤而不油膩，10 小時長效保濕。<br>•水飛薊果提取物及柳樹皮萃取有效舒緩鎮靜肌膚，減少泛紅現象並對暗瘡性皮膚發揮溫和消炎功效。",
       "capacity": "29ml",
       "skin_suitable": "適合敏感肌膚<br>皮膚科專家測試<br>眼科專家測試<br>不會造成粉刺<br>不含油脂及香料<br>適合配戴隱形眼鏡人士使用",
-      "usage": "",
-      "function": "",
-      "principal_components": "",
+      "usage": null,
+      "function": null,
+      "principal_components": null,
       "price": "HK$340",
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01": "水嫩亮肌CC 霜.png"
+        "img_01": "m/b/mb41.jpg"
       },
       "description_image": null
     },
@@ -1440,18 +1453,18 @@
       "產品英文名稱": "TimeWise® 3D Foundation",
       "series": ["mu02", "mu02"],
       "header_links": ["makeup", "makeup"],
-      "Product Description": "•通過IntelliMatch™技術，完美模擬真實肌膚，設計更精確的色調，完美無縫地配對比以往更多的膚色，給予你猶如天生的無瑕自然妝容。<br>•獨家AGE MINIMIZE 3D® COMPLEX配方，精心研創的配方技術蘊含白藜蘆醇微囊、維他命B3和抗衰老胜肽，有效修飾和淡化細紋、皺紋、毛孔及面部瑕疵，同時有助改善暗啞膚色，使肌膚顯得完美無瑕，看起來更健康、緊緻、年輕。<br>•配有防濕和防汗配方，無懼潮濕炎熱天氣，塑造長效持久的無瑕自然美肌，並能持妝一整天。<br>•無香料、無油且不易致暗瘡粉刺，適合所有膚質使用。",
+      "description": "•通過IntelliMatch™技術，完美模擬真實肌膚，設計更精確的色調，完美無縫地配對比以往更多的膚色，給予你猶如天生的無瑕自然妝容。<br>•獨家AGE MINIMIZE 3D® COMPLEX配方，精心研創的配方技術蘊含白藜蘆醇微囊、維他命B3和抗衰老胜肽，有效修飾和淡化細紋、皺紋、毛孔及面部瑕疵，同時有助改善暗啞膚色，使肌膚顯得完美無瑕，看起來更健康、緊緻、年輕。<br>•配有防濕和防汗配方，無懼潮濕炎熱天氣，塑造長效持久的無瑕自然美肌，並能持妝一整天。<br>•無香料、無油且不易致暗瘡粉刺，適合所有膚質使用。",
       "capacity": "30ml",
       "skin_suitable": "經皮膚科醫生測試<br>通過皮膚刺激性和過敏性測試<br>不易引致暗瘡粉刺<br>適合敏感性肌膚<br>適用於敏感眼睛和佩戴隱形眼鏡人士<br>不含香料及不含油分",
       "usage": "每天早上，潔面、日常護膚程序後使用。取適量以指腹或化妝掃均勻塗於全面和頸部肌膚。",
       "function": "滋潤配方 Luminous-Wear<br>•專為中性至乾性膚質而設。<br>•質地輕盈水潤，含反光礦物及荷荷芭成分長效保濕及滋潤，令妝容持久不浮粉，締造完美亮澤妝容。<br>•妝效滋潤保濕長達12小時，令妝容持久貼服，肌膚長時間保持水潤舒適，展現潤澤無瑕膚質。<br>清爽配方 Matte-Wear<br>•專為混合性至油性膚質而設。<br>•質地輕盈清爽，特殊的微球體含控油精華像海綿般吸收面上過多油脂，令妝容不泛油光，塑造出完美無瑕肌膚。<br>•妝效控油長達12小時，令妝容持久貼服，肌膚長時間保持清爽舒適，展現啞緻無瑕膚質。",
-      "principal_components": "",
+      "principal_components": null,
       "price": "HK$320",
       "video_source": "時光精靈3D無瑕修顔粉底乳.mp4",
       "normal_image": null,
       "small_images": {
-        "img_01": "時光精靈3D無瑕修顏粉底乳.png",
-        "img_02": "時光精靈3D無瑕修顏粉底乳01.png"
+        "img_01": "m/b/mb51.jpg",
+        "img_02": "m/b/mb52.jpg"
       },
       "description_image": null
     },
@@ -1460,18 +1473,18 @@
       "產品英文名稱": "Mineral Sheer Pressed Powder",
       "series": "mu02",
       "header_links": "makeup",
-      "Product Description": "•粉質輕盈透薄，令肌膚如絲絨般柔滑。<br>•於肌膚表面形成吸油保護膜，長達 8 小時控油，杜絕油光，實現持久細緻的亮麗妝容。<br>•天然礦物成份 ，含維他命 E ，有效對抗導致皺紋形成的自由基。",
+      "description": "•粉質輕盈透薄，令肌膚如絲絨般柔滑。<br>•於肌膚表面形成吸油保護膜，長達 8 小時控油，杜絕油光，實現持久細緻的亮麗妝容。<br>•天然礦物成份 ，含維他命 E ，有效對抗導致皺紋形成的自由基。",
       "capacity": "9g",
       "skin_suitable": "適合敏感肌膚<br>皮膚科專家測試<br>經臨床測試不會引起痕癢及敏感<br>不會造成粉刺<br>不含油脂",
-      "usage": "",
-      "function": "",
-      "principal_components": "",
+      "usage": null,
+      "function": null,
+      "principal_components": null,
       "price": "HK$165",
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01": "礦研清盈粉餅.png",
-        "img_02": "礦研清盈粉餅01.png"
+        "img_01": "m/b/mb61.jpg",
+        "img_02": "m/b/mb62.jpg"
       },
       "description_image": null
     },
@@ -1480,20 +1493,20 @@
       "產品英文名稱": "Perfecting Concealer™",
       "series": "mu02",
       "header_links": "makeup",
-      "Product Description": "打造自然、無瑕底妝的必要步驟。遮蓋面部不同瑕疵，與粉底自然融合，讓肌膚看起自然細緻、膚色均勻，就如經美圖後面上瑕疵通通隱形，更能使五官更加立體。",
+      "description": "打造自然、無瑕底妝的必要步驟。遮蓋面部不同瑕疵，與粉底自然融合，讓肌膚看起自然細緻、膚色均勻，就如經美圖後面上瑕疵通通隱形，更能使五官更加立體。",
       "capacity": "6g",
       "skin_suitable": "經皮膚科醫生測試認可<br>通過皮膚敏感測試<br>適用於敏感性肌膚，包括幼嫩眼周肌膚<br>適用於所有膚質及膚色 <br>適合佩戴隱形眼鏡人士使用<br>不含香料<br>不易引致暗瘡粉刺<br>防水",
-      "usage": "",
+      "usage": null,
       "function": "•遮蓋色斑、暗沉、不均色素及細小疤印等不同瑕疵 。<br>•濕潤的乳霜狀質地，配方柔滑輕盈，效果貼服持久，能不露痕跡地持久遮蓋及隱沒面部瑕疵，不易卡粉、起細紋或積線。<br>•光學粒子散射光線，呈現模糊效果，淡化細紋。<br>•修正膚色不均，同時隱藏泛紅。",
       "principal_components": "•含甘草成分，具抗氧化及舒緩功效，結合抗氧化劑維他命 E 保護肌膚。<br>•玉米保濕精華和甘油成分溫和保濕，遮瑕同時護膚。<br>•瓶身透明窗口方便辯認色調；柔軟斜角絨毛頭方便精準仔細塗抹遮瑕霜。",
       "price": "HK$170",
-      "video_source": "完美遮瑕霜.mp4",
+      "video_source": "mb71.mp4",
       "normal_image": null,
       "small_images": {
-        "img_01": "完美遮瑕霜01.png",
-        "img_02": "完美遮瑕霜02.png",
-        "img_03": "完美遮瑕霜03.png",
-        "img_04": "完美遮瑕霜04.png"
+        "img_01": "m/b/mb71.jpg",
+        "img_02": "m/b/mb72.jpg",
+        "img_03": "m/b/mb73.jpg",
+        "img_04": "m/b/mb74.jpg"
       },
       "description_image": null
     },
@@ -1502,17 +1515,17 @@
       "產品英文名稱": "Undereye Corrector",
       "series": "mu02",
       "header_links": "makeup",
-      "Product Description": "瞬間中和眼底黑眼圈色素，即時令眼部下方肌膚變得明亮，告別暗沉膚色，頓時令雙眼神采奕奕。",
+      "description": "瞬間中和眼底黑眼圈色素，即時令眼部下方肌膚變得明亮，告別暗沉膚色，頓時令雙眼神采奕奕。",
       "capacity": "6g",
       "skin_suitable": "經皮膚科醫生測試認可<br>通過皮膚敏感測試<br>適用於敏感性肌膚，包括幼嫩眼周肌膚<br>適用於所有膚質及膚色 <br>適合佩戴隱形眼鏡人士使用<br>不含香料<br>不易引致暗瘡粉刺<br>防水",
-      "usage": "",
+      "usage": null,
       "function": "•特別調製帶橙色的蜜桃色調，專門矯正及中和紫藍色或瘀青的眼圈色素，同時提亮眼底肌膚，使雙眼頓時充滿神采 。<br>•同時適用於中和帶紫藍色或瘀青的疤痕色素。<br>•能與完美遮瑕霜完美搭配使用，自然完美融合。<br>•濕潤的乳霜狀質地，配方柔滑輕盈，效果貼服持久, 不易卡粉、起細紋或積線。<br>•瓶身透明窗口方便辯認色調；柔軟斜角絨毛頭方便精準仔細塗抹產品。",
-      "principal_components": "",
+      "principal_components": null,
       "price": "HK$170",
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01": "眼底矯色霜.png"
+        "img_01": "m/b/mb81.jpg"
       },
       "description_image": null
     },
@@ -1521,17 +1534,17 @@
       "產品英文名稱": "Translucent Loose Powder",
       "series": "mu02",
       "header_links": "makeup",
-      "Product Description": "•高透明、高感光、不過白。透氣貼服於每一種色調的肌膚；完美定妝，同時使肌膚透亮自然光澤。",
+      "description": "•高透明、高感光、不過白。透氣貼服於每一種色調的肌膚；完美定妝，同時使肌膚透亮自然光澤。",
       "capacity": "11g",
       "skin_suitable": "適合敏感肌膚<br>皮膚科專家測試<br>眼科專家測試<br>不會造成粉刺<br>不含油脂及香料<br>適合配戴隱形眼鏡人士使用",
-      "usage": "",
-      "function": "",
+      "usage": null,
+      "function": null,
       "principal_components": "•智慧型吸油粉末 (Aluminum Starch Octenylsuccinate) 長效控油，讓清爽妝容維持一整天。<br>•含有礦物成分雲母 (Mica)，能給予彩妝半透明的閃亮光澤，柔焦效果反射光線掩飾瑕疵，呈現微霧面妝效及光滑肌膚。",
       "price": "HK$260",
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01": "感光透亮蜜粉.png"
+        "img_01": "m/b/mb91.jpg"
       },
       "description_image": null
     },
@@ -1540,17 +1553,17 @@
       "產品英文名稱": "Chromafusion™ Highlighter",
       "series": "mu02",
       "header_links": "makeup",
-      "Product Description": "專利革新技術Mary Kay Chromafusion™ Matrix Technology，將乳霜般的柔滑貼服觸感和羽毛般的輕盈質地完美結合於修容中，成就前所未有的絕佳顯色度和持久度。超輕盈粉末加上色調和反光顏料的結合，在任何光線下都帶來自然光澤的妝感。",
+      "description": "專利革新技術Mary Kay Chromafusion™ Matrix Technology，將乳霜般的柔滑貼服觸感和羽毛般的輕盈質地完美結合於修容中，成就前所未有的絕佳顯色度和持久度。超輕盈粉末加上色調和反光顏料的結合，在任何光線下都帶來自然光澤的妝感。",
       "capacity": "4.8g",
       "skin_suitable": "經皮膚科醫生測試<br>通過皮膚刺激性和過敏性臨床測試<br>Oil-Free (無油)配方<br>不易引致粉刺<br>適合敏感性肌膚<br>",
-      "usage": "",
+      "usage": null,
       "function": "•在面部自然反射光線的部位，如前額、鼻樑、顴骨上方等，輕輕掃上光粉，會帶來提亮效果。<br>•含有礦物成分，既可使妝效持久亮麗光澤，同時亦不會損害肌膚。<br>•色彩飽和，上色度高，質感透薄，妝感柔滑細緻。<br>•色澤持久，不易脫落暈染。",
-      "principal_components": "",
+      "principal_components": null,
       "price": "HK$140",
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01": "魅彩輕羽光影.jpg"
+        "img_01": "m/b/mb101.jpg"
       },
       "description_image": null
     },
@@ -1559,18 +1572,18 @@
       "產品英文名稱": "Chromafusion™ Blush",
       "series": "mu02",
       "header_links": "makeup",
-      "Product Description": "專利革新技術Mary Kay Chromafusion™ Matrix Technology，將乳霜般的柔滑貼服觸感和羽毛般的輕盈質地完美結合於胭脂中，成就前所未有的絕佳顯色度和持久度。超輕盈粉末加上色調和反光顏料的結合，在任何光線下都帶來自然光澤的妝感。",
+      "description": "專利革新技術Mary Kay Chromafusion™ Matrix Technology，將乳霜般的柔滑貼服觸感和羽毛般的輕盈質地完美結合於胭脂中，成就前所未有的絕佳顯色度和持久度。超輕盈粉末加上色調和反光顏料的結合，在任何光線下都帶來自然光澤的妝感。",
       "capacity": "4.8g",
       "skin_suitable": "經皮膚科醫生測試<br>通過皮膚刺激性和過敏性臨床測試<br>Oil-Free (無油)配方<br>不易引致粉刺<br>適合敏感性肌膚",
-      "usage": "",
+      "usage": null,
       "function": "•含有礦物成分，既可使妝效持久亮麗光澤，同時亦不會損害肌膚。<br>•有啞光和閃爍色調，為你提供最適合你的色調，打造自然光感好氣色的最佳「妝」備。<br>•色彩飽和，上色度高，質感透薄，妝感柔滑細緻。<br>•色澤持久，不易脫落暈染，胭脂在經歷上班、運動、進出冷氣地方等日程後仍然整天保持亮麗光澤。<br>•輕輕一掃即現淡透自然效果，展現真實，自然的最佳亮麗效果。",
-      "principal_components": "",
+      "principal_components": null,
       "price": "HK$140",
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01": "魅彩輕羽胭脂HintOfPink淡粉紅.png",
-        "img_02": "魅彩輕羽胭脂JuicyPeach亮珊瑚.png"
+        "img_01": "m/b/mb111.jpg",
+        "img_02": "m/b/mb112.jpg"
       },
       "description_image": null
     },
@@ -1579,18 +1592,16 @@
       "產品英文名稱": "Eye Primer",
       "series": "mu03",
       "header_links": "makeup",
-      "Product Description": "• 於眼影前使用，防止眼影出現摺痕及脫色。<br>• 防水配方，令眼妝持久艷麗。<br>• 含蜂蠟、維他命 E、甘菊及芝麻油，滋潤而不粘膩。",
+      "description": "• 於眼影前使用，防止眼影出現摺痕及脫色。<br>• 防水配方，令眼妝持久艷麗。<br>• 含蜂蠟、維他命 E、甘菊及芝麻油，滋潤而不粘膩。",
       "capacity": "8.5g",
       "skin_suitable": "不含香料<br>通過敏感測試<br>適合敏感肌膚<br>適合配戴隱形眼鏡者",
-      "usage": "",
-      "function": "",
-      "principal_components": "",
+      "usage": null,
+      "function": null,
+      "principal_components": null,
       "price": "HK$130",
       "video_source": null,
       "normal_image": null,
-      "small_images": {
-        "img_01": "眼部底霜.png"
-      },
+      "small_images": null,
       "description_image": null
     },
     "pd71": {
@@ -1598,21 +1609,21 @@
       "產品英文名稱": "Chromafusion™ Eye Shadow",
       "series": "mu03",
       "header_links": "makeup",
-      "Product Description": "專利革新技術 Mary Kay Chromafusion™ Matrix Technology 將乳霜般的柔滑貼服觸感和羽毛般的輕盈質地完美結合於眼影中，成就前所未有的絕佳顯色度及持久度，完美襯托不同造型和膚色。",
+      "description": "專利革新技術 Mary Kay Chromafusion™ Matrix Technology 將乳霜般的柔滑貼服觸感和羽毛般的輕盈質地完美結合於眼影中，成就前所未有的絕佳顯色度及持久度，完美襯托不同造型和膚色。",
       "capacity": "1.4g",
-      "skin_suitable": "",
-      "usage": "",
+      "skin_suitable": null,
+      "usage": null,
       "function": "•多款適合亞洲人的色調，啞光和閃爍 2 款絕美質感，打造無限魅力色彩組合<br>•含有礦物成分，親膚、控油，同時賦予肌膚亮麗光澤<br>•色彩濃郁鮮明，質感柔滑，易於均勻塗抹及上色<br>•色澤持久，不易脫落，能有效持妝 12 小時*",
-      "principal_components": "",
+      "principal_components": null,
       "price": "HK$90",
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01": "魅彩輕羽眼影魅彩輕羽眼影.png",
-        "img_02": "魅彩輕羽眼影blossom淡粉櫻.png",
-        "img_03": "魅彩輕羽眼影GoldStatus蜜糖金.png",
-        "img_04": "魅彩輕羽眼影Hazelnut榛果杏.png",
-        "img_05": "RoseGold.玫瑰金.png"
+        "img_01": "m/c/mc21.jpg",
+        "img_02": "m/c/mc22.jpg",
+        "img_03": "m/c/mc23.jpg",
+        "img_04": "m/c/mc24.jpg",
+        "img_05": "m/c/mc25.jpg"
       },
       "description_image": null
     },
@@ -1621,19 +1632,19 @@
       "產品英文名稱": "Pink Young Brow Pencil & Brush Duo<br>Pencil & Brush",
       "series": "mu03",
       "header_links": "makeup",
-      "Product Description": "‧ 橢圓筆芯設計，軟硬度適中 ‧ 質地細膩，塗抹柔滑<br>‧ 防水持久配方，整天都能保持理想眉形<br>‧ 附專用眉掃修飾眉毛更立體自然",
+      "description": "‧ 橢圓筆芯設計，軟硬度適中 ‧ 質地細膩，塗抹柔滑<br>‧ 防水持久配方，整天都能保持理想眉形<br>‧ 附專用眉掃修飾眉毛更立體自然",
       "capacity": "0.2g",
-      "skin_suitable": "",
-      "usage": "",
-      "function": "",
-      "principal_components": "",
+      "skin_suitable": null,
+      "usage": null,
+      "function": null,
+      "principal_components": null,
       "price": "HK$148",
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01": "Pink Young 眉筆.png",
-        "img_02": "Pink Young 眉筆02.pngg",
-        "img_03": "Pink Young 眉筆03.pngg"
+        "img_01": "m/c/mc31.jpg",
+        "img_02": "m/c/mc32.jpg",
+        "img_03": "m/c/mc33.jpg"
       },
       "description_image": null
     },
@@ -1642,18 +1653,18 @@
       "產品英文名稱": "Waterproof Liquid Eyeliner Pen",
       "series": "mu03",
       "header_links": "makeup",
-      "Product Description": "‧ 筆狀設計，操控輕易、穩定，粗幼眼線都能輕鬆準確勾畫<br>‧ 特效防水配方，有效提升持妝時間，令妝效持久不暈染<br>‧ 顏色濃郁飽和，顯色度高，突顯眼部輪廓<br>‧ 筆頭觸感舒適，軟硬適中，勾畫順暢，輕易描繪俐落眼線<br>‧ 速乾配方，不易結塊及脫色",
+      "description": "‧ 筆狀設計，操控輕易、穩定，粗幼眼線都能輕鬆準確勾畫<br>‧ 特效防水配方，有效提升持妝時間，令妝效持久不暈染<br>‧ 顏色濃郁飽和，顯色度高，突顯眼部輪廓<br>‧ 筆頭觸感舒適，軟硬適中，勾畫順暢，輕易描繪俐落眼線<br>‧ 速乾配方，不易結塊及脫色",
       "capacity": "1.5g",
       "skin_suitable": "經眼科醫生測試認可<br>經皮膚科醫生測試認可<br>通過臨床皮膚敏感和刺激測試<br>適用於敏感眼睛使用<br>不易引致粉刺",
-      "usage": "",
-      "function": "",
-      "principal_components": "",
+      "usage": null,
+      "function": null,
+      "principal_components": null,
       "price": "HK$188",
-      "video_source": "眼妝教學技巧 - 持久防水眼線液",
+      "video_source": "mc41.mp4",
       "normal_image": null,
       "small_images": {
-        "img_01": "持色防水眼線液.png",
-        "img_02": "持色防水眼線液01.png"
+        "img_01": "m/c/mc41.jpg",
+        "img_02": "m/c/mc42.jpg"
       },
       "description_image": null
     },
@@ -1662,18 +1673,18 @@
       "產品英文名稱": "Liquid Eyeliner Pen",
       "series": "mu03",
       "header_links": "makeup",
-      "Product Description": "升級版柔順銳目眼線液，顏色飽和度、顯色度和持久度顯著提升，筆頭依舊柔軟順滑，輕鬆打造深邃明眸！",
+      "description": "升級版柔順銳目眼線液，顏色飽和度、顯色度和持久度顯著提升，筆頭依舊柔軟順滑，輕鬆打造深邃明眸！",
       "capacity": "1.5g",
-      "skin_suitable": "",
-      "使用方法": "",
+      "skin_suitable": null,
+      "使用方法": null,
       "function": "筆狀設計，操控輕易、穩定，粗幼眼線都能輕鬆準確勾畫<br>‧ 顏色濃郁飽和，顯色度高，突顯眼部輪廓，強化眼神<br>‧ 筆頭觸感舒適，勾畫順暢，不會拉扯眼部皮膚<br>‧ 速乾配方，不易結塊及脫色",
-      "principal_components": "",
+      "principal_components": null,
       "price": "HK$195",
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01": "柔順銳目眼線液.png",
-        "img_02": "柔順銳目眼線液01.png"
+        "img_01": "m/c/mc51.jpg",
+        "img_02": "m/c/mc52.jpg"
       },
       "description_image": null
     },
@@ -1682,18 +1693,18 @@
       "產品英文名稱": "Lash & Brow Building Serum",
       "series": "mu03",
       "header_links": "makeup",
-      "Product Description": "•富含氨基酸盒肽複合物，提供睫毛所需營養，保護、強韌、滋養並賦予睫毛彈性及柔韌<br>•防止因脆弱而引起的斷裂、稀少、賦予豐盈濃密纖長睫毛<br>•令睫毛增長豐盈，濃密立體且根根分明<br>獨特細小軟刷，呵護到每根睫毛，亦可使用於眉毛",
+      "description": "•富含氨基酸盒肽複合物，提供睫毛所需營養，保護、強韌、滋養並賦予睫毛彈性及柔韌<br>•防止因脆弱而引起的斷裂、稀少、賦予豐盈濃密纖長睫毛<br>•令睫毛增長豐盈，濃密立體且根根分明<br>獨特細小軟刷，呵護到每根睫毛，亦可使用於眉毛",
       "capacity": "4.5ml",
       "skin_suitable": "適合敏感肌膚<br>眼科專家測試<br>適合配戴隱形眼鏡人士",
-      "usage": "",
-      "function": "",
-      "principal_components": "",
+      "usage": null,
+      "function": null,
+      "principal_components": null,
       "price": "HK$250",
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01": "美睫滋養精華露.png",
-        "img_02": "美睫滋養精華露01.png"
+        "img_01": "m/c/mc61.jpg",
+        "img_02": "m/c/mc62.jpg"
       },
       "description_image": null
     },
@@ -1702,18 +1713,16 @@
       "產品英文名稱": "Lash Primer",
       "series": "mu03",
       "header_links": "makeup",
-      "Product Description": "•保持睫毛順滑健康狀態，令睫毛更感濃密增長，滋潤順滑更易上妝。<br>•尼龍纖維與棉纖維刷毛交織而成的獨特刷毛設計刷， 能有效地將底膏包裹於睫毛，達到根根分明的效果，為睫毛液上妝做好準備。<br>•想要擁有豐盈自然、纖長分明的睫毛，除了睫毛液外，睫毛底妝必不可少。",
+      "description": "•保持睫毛順滑健康狀態，令睫毛更感濃密增長，滋潤順滑更易上妝。<br>•尼龍纖維與棉纖維刷毛交織而成的獨特刷毛設計刷， 能有效地將底膏包裹於睫毛，達到根根分明的效果，為睫毛液上妝做好準備。<br>•想要擁有豐盈自然、纖長分明的睫毛，除了睫毛液外，睫毛底妝必不可少。",
       "capacity": "8g",
       "skin_suitable": "適合敏感肌膚<br>眼科專家測試<br>適合配戴隱形眼鏡人士",
-      "usage": "",
-      "function": "",
-      "principal_components": "",
+      "usage": null,
+      "function": null,
+      "principal_components": null,
       "price": "HK$198",
       "video_source": null,
       "normal_image": null,
-      "small_images": {
-        "img_01": "睫毛底膏.png"
-      },
+      "small_images": null,
       "description_image": null
     },
     "pd77": {
@@ -1721,19 +1730,19 @@
       "產品英文名稱": "Lash Love Lengthening Mascara",
       "series": "mu03",
       "header_links": "makeup",
-      "Product Description": "•嶄新彎曲塑型刷頭，混合長短刷毛，令睫毛液均勻包裹每根睫毛。<br>•質感豐盈，具備鬈翹、纖長、修護多重美睫功效，含維他命 E 衍生物，滋養強韌睫毛。",
+      "description": "•嶄新彎曲塑型刷頭，混合長短刷毛，令睫毛液均勻包裹每根睫毛。<br>•質感豐盈，具備鬈翹、纖長、修護多重美睫功效，含維他命 E 衍生物，滋養強韌睫毛。",
       "capacity": "8g",
       "skin_suitable": "適合敏感肌膚<br>不含香料<br>經眼部測試<br>適合配戴隱形眼鏡人士使用",
-      "usage": "",
-      "function": "",
-      "principal_components": "",
+      "usage": null,
+      "function": null,
+      "principal_components": null,
       "price": "HK$120",
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01": "臻愛纖盈特長睫毛液.png",
-        "img_02": "臻愛纖盈特長睫毛液01.png",
-        "img_03": "臻愛纖盈特長睫毛液02.jpg"
+        "img_01": "m/c/mc81.jpg",
+        "img_02": "m/c/mc82.jpg",
+        "img_03": "m/c/mc83.jpg"
       },
       "description_image": null
     },
@@ -1742,18 +1751,18 @@
       "產品英文名稱": "Lash Intensity™ Mascara",
       "series": "mu03",
       "header_links": "makeup",
-      "Product Description": "極致濃密、瞬間增長、廣角豐盈, 輕易塑造豐密濃長驚艷美睫。<br>•Mary Kay 首款針對多角度豐盈及增長效果的睫毛液。<br>•為睫毛加添 200% 濃密豐盈感,猶如為每根睫毛增多兩根睫 毛粗厚度的豐盈效果,同時增長 84%*!。<br>•嶄新、特別的 Double Impact™ Brush 雙效廣角刷頭,一刷上 便能讓睫毛多方位伸延,同步豐盈及拉長睫毛。<br>•含超濃色彩的礦物粒子包裹每根睫毛,打造不易脫色的極致 濃黑妝效。<br>•配方中的維他命原 B5、複合脂肪酸及維他命 E 成分有效保濕 潤滑睫毛,並提供保護、滋養、抗氧化及強健功效。",
+      "description": "極致濃密、瞬間增長、廣角豐盈, 輕易塑造豐密濃長驚艷美睫。<br>•Mary Kay 首款針對多角度豐盈及增長效果的睫毛液。<br>•為睫毛加添 200% 濃密豐盈感,猶如為每根睫毛增多兩根睫 毛粗厚度的豐盈效果,同時增長 84%*!。<br>•嶄新、特別的 Double Impact™ Brush 雙效廣角刷頭,一刷上 便能讓睫毛多方位伸延,同步豐盈及拉長睫毛。<br>•含超濃色彩的礦物粒子包裹每根睫毛,打造不易脫色的極致 濃黑妝效。<br>•配方中的維他命原 B5、複合脂肪酸及維他命 E 成分有效保濕 潤滑睫毛,並提供保護、滋養、抗氧化及強健功效。",
       "capacity": "9g",
       "skin_suitable": "適合敏感肌膚<br>不含香料<br>經眼部測試<br>適合配戴隱形眼鏡人士使用",
-      "usage": "",
-      "function": "",
-      "principal_components": "",
+      "usage": null,
+      "function": null,
+      "principal_components": null,
       "price": "HK$240",
-      "video_source": "大師級化妝技巧 _ 豐盈增長睫毛液.mp4",
+      "video_source": "mc91.mp4",
       "normal_image": null,
       "small_images": {
-        "img_01": "豐盈增長睫毛液.png",
-        "img_02": "豐盈增長睫毛液01.png"
+        "img_01": "m/c/mc91.jpg",
+        "img_02": "m/c/mc92.jpg"
       },
       "description_image": null
     },
@@ -1762,17 +1771,17 @@
       "產品英文名稱": "Blending Sponge",
       "series": "mu04",
       "header_links": "makeup",
-      "Product Description": "Mary Kay® 美妝葫蘆蛋是新一代的美妝海綿，以獨特 open-cell 物理結構製成，吸水後使用可以減少吸收粉底；而透過快速彈力拍按的方式，可以輕易塑造更透薄貼服的底妝效果。",
+      "description": "Mary Kay® 美妝葫蘆蛋是新一代的美妝海綿，以獨特 open-cell 物理結構製成，吸水後使用可以減少吸收粉底；而透過快速彈力拍按的方式，可以輕易塑造更透薄貼服的底妝效果。",
       "capacity": "1 個",
-      "skin_suitable": "",
+      "skin_suitable": null,
       "usage": "使用前，先將美妝蛋浸濕並擠出多餘水分，然後將適量粉底乳、粉底霜或遮瑕霜置於乾淨的手背或化妝盤上，用美妝蛋沾取底妝產品，再快速拍按到皮膚上直至呈現均勻妝效。<br>建議每次使用後隨即清洗，並且每三個月更換一個全新的美妝蛋。",
       "function": "•頂端尖頭適合用於細微不易上妝處<br>•圓形底部適用在大面積<br>•中央凹槽方便手握美妝海綿",
-      "principal_components": "",
+      "principal_components": null,
       "price": "HK$98",
-      "video_source": "美妝葫蘆蛋使用教學 How-to_ Blending Sponge _ Mary Kay Hong Kong.mp4",
+      "video_source": "md11.mp4",
       "normal_image": null,
       "small_images": {
-        "img_01": "美妝葫蘆蛋.png"
+        "img_01": "m/d/md11.jpg"
       },
       "description_image": null
     },
@@ -1781,17 +1790,18 @@
       "產品英文名稱": "Essential Brush Collection",
       "series": "mu04",
       "header_links": "makeup",
-      "Product Description": "套裝包括 5 支優質且具有不同功能的必備化妝掃，收納於時尚輕巧的化妝袋中。化妝掃掃毛觸感柔滑不刺激肌膚，掃頭形狀經過特別設計，有助輕鬆處理全面各式妝容，呈現自然、完美的妝感。<br>•時尚、專業的掃頭設計讓化妝新手和達人都能更得心應手地打造不同妝容。<br>•掃毛濃密富彈性，抓粉力強，輕易均勻著色。<br>•優質纖維掃毛可配合任何粉狀、霜狀和液體彩妝品使用。",
+      "description": "套裝包括 5 支優質且具有不同功能的必備化妝掃，收納於時尚輕巧的化妝袋中。化妝掃掃毛觸感柔滑不刺激肌膚，掃頭形狀經過特別設計，有助輕鬆處理全面各式妝容，呈現自然、完美的妝感。<br>•時尚、專業的掃頭設計讓化妝新手和達人都能更得心應手地打造不同妝容。<br>•掃毛濃密富彈性，抓粉力強，輕易均勻著色。<br>•優質纖維掃毛可配合任何粉狀、霜狀和液體彩妝品使用。",
       "capacity": "1套",
-      "skin_suitable": "",
-      "usage": "",
+      "skin_suitable": null,
+      "usage": null,
       "function": "•蜜粉掃 All-Over Powder Brush：圓球頂頭設計，掃毛鬆軟，抓粉力強，能沾取適量碎粉或修容粉並均勻地掃在面上，適合掃大範圍面積。<br>•胭脂掃 Cheek Brush：特別的三合一掃頭形狀設計，一枝輕易地搞定胭脂、修容和光影。<br>•全方位眼影掃 All-Over Eye Shadow Brush：呈弧形的扁平掃頭能切合眼窩的自然弧度，輕易掃出均勻著色的眼影，特別適用於大範圍眼瞼，方便推鬆或融合眼影色彩，塑造自然的眼妝效果。<br>•斜角眼窩掃 Eye Crease Brush：斜角掃頭特別適用於眼角、眼皮摺痕及眼窩線位置，能輕易細緻地畫出專業級的深邃眼窩，提升眼瞼立體度。<br>•暈染眼影掃 Eye Smudger Brush：密集的掃毛、呈錐形的設計，有助於貼近睫毛根部暈染眼線營造煙燻眼妝，同時方便針對難以觸及的範圍打造細緻效果。",
-      "principal_components": "",
+      "principal_components": null,
       "price": "HK$500",
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01": "美妝大師化妝掃套裝.jpg"
+        "img_01": "m/d/md21.jpg",
+        "img_02": "m/d/md22.jpg"
       },
       "description_image": "美妝大師化妝掃套裝01.jpg"
     },
@@ -1800,17 +1810,17 @@
       "產品英文名稱": "Blending Brush",
       "series": "mu04",
       "header_links": "makeup",
-      "Product Description": "•橢圓設計刷頭，密集而短的掃毛由優質超柔軟纖維毛製成。<br>•刷頭設計讓你更容易掌握粉底量，不會剩餘過多粉底於粉底掃上。<br>•獨特的手柄設計助你更靈活控制刷頭，將粉底均勻貼附肌膚，完美推開粉底不留粉痕，輕鬆快速刷出完美底妝。<br>•透過輕輕點壓或以畫圓手法推延粉底，遮瑕效果會更佳，展現無瑕自然妝容。<br>•適合配合粉底乳或粉底霜使用。",
+      "description": "•橢圓設計刷頭，密集而短的掃毛由優質超柔軟纖維毛製成。<br>•刷頭設計讓你更容易掌握粉底量，不會剩餘過多粉底於粉底掃上。<br>•獨特的手柄設計助你更靈活控制刷頭，將粉底均勻貼附肌膚，完美推開粉底不留粉痕，輕鬆快速刷出完美底妝。<br>•透過輕輕點壓或以畫圓手法推延粉底，遮瑕效果會更佳，展現無瑕自然妝容。<br>•適合配合粉底乳或粉底霜使用。",
       "capacity": "1 支",
-      "skin_suitable": "",
-      "usage": "",
-      "function": "",
-      "principal_components": "",
+      "skin_suitable": null,
+      "usage": null,
+      "function": null,
+      "principal_components": null,
       "price": "HK$150",
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01": "橢圓粉底掃.png"
+        "img_01": "m/d/md31.jpg"
       },
       "description_image": null
     },
@@ -1819,17 +1829,17 @@
       "產品英文名稱": "Powder Foundation Brush",
       "series": "mu04",
       "header_links": "makeup",
-      "Product Description": "柔軟而濃密的掃毛，抓粉能力強，讓你更易掌握取粉量，並打造均勻、透薄、自然並具有一定的遮瑕度妝感。 適合配合礦物粉底、粉餅及所有粉狀底妝產品使用。",
+      "description": "柔軟而濃密的掃毛，抓粉能力強，讓你更易掌握取粉量，並打造均勻、透薄、自然並具有一定的遮瑕度妝感。 適合配合礦物粉底、粉餅及所有粉狀底妝產品使用。",
       "capacity": "1 支",
-      "skin_suitable": "",
-      "usage": "",
-      "function": "",
-      "principal_components": "",
+      "skin_suitable": null,
+      "usage": null,
+      "function": null,
+      "principal_components": null,
       "price": "HK$130",
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01": "粉狀粉底掃.png"
+        "img_01": "m/d/md41.jpg"
       },
       "description_image": null
     },
@@ -1838,17 +1848,17 @@
       "產品英文名稱": "Liquid Foundation Brush",
       "series": "mu04",
       "header_links": "makeup",
-      "Product Description": "斜面設計刷頭，貼合面部輪廓，上妝零死角；豐盈平口的刷毛飽滿富彈力，能將粉底均勻貼附肌膚，幫助粉底完美推開不留粉痕。配合粉底液或粉底霜使用，透過輕輕點壓或者以畫圓或小螺旋狀手法推延粉底，輕易掌握遮瑕度，刷出上質底妝。",
+      "description": "斜面設計刷頭，貼合面部輪廓，上妝零死角；豐盈平口的刷毛飽滿富彈力，能將粉底均勻貼附肌膚，幫助粉底完美推開不留粉痕。配合粉底液或粉底霜使用，透過輕輕點壓或者以畫圓或小螺旋狀手法推延粉底，輕易掌握遮瑕度，刷出上質底妝。",
       "capacity": "1 支",
-      "skin_suitable": "",
-      "usage": "",
-      "function": "",
-      "principal_components": "",
+      "skin_suitable": null,
+      "usage": null,
+      "function": null,
+      "principal_components": null,
       "price": "HK$130",
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01": "斜角濕粉掃.png"
+        "img_01": "m/d/md51.jpg"
       },
       "description_image": null
     },
@@ -1857,17 +1867,17 @@
       "產品英文名稱": "Cream Color Brush",
       "series": "mu04",
       "header_links": "makeup",
-      "Product Description": "柔軟有彈性的扁平掃頭，能像指頭般輕柔而均勻地塗抹霜狀或液體狀的遮瑕產品和眼影，完美無粉痕。同時適合用作塗抹唇妝產品。",
+      "description": "柔軟有彈性的扁平掃頭，能像指頭般輕柔而均勻地塗抹霜狀或液體狀的遮瑕產品和眼影，完美無粉痕。同時適合用作塗抹唇妝產品。",
       "capacity": "1 支",
-      "skin_suitable": "",
-      "usage": "",
-      "function": "",
-      "principal_components": "",
+      "skin_suitable": null,
+      "usage": null,
+      "function": null,
+      "principal_components": null,
       "price": "HK$110",
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01": "霜狀彩妝掃.jpg"
+        "img_01": "m/d/md61.jpg"
       },
       "description_image": null
     },
@@ -1876,17 +1886,17 @@
       "產品英文名稱": "Eyebrow / Eyeliner Brush",
       "series": "mu04",
       "header_links": "makeup",
-      "Product Description": "雙頭設計，一端是斜角掃，輕易勾畫精確細緻的眼線或眉形，並填滿眉毛間的空隙；另一端是螺旋型刷頭，毛量細密且富彈性，有助梳理眉毛，並柔化眉色。",
+      "description": "雙頭設計，一端是斜角掃，輕易勾畫精確細緻的眼線或眉形，並填滿眉毛間的空隙；另一端是螺旋型刷頭，毛量細密且富彈性，有助梳理眉毛，並柔化眉色。",
       "capacity": "1 支",
-      "skin_suitable": "",
-      "usage": "",
-      "function": "",
-      "principal_components": "",
+      "skin_suitable": null,
+      "usage": null,
+      "function": null,
+      "principal_components": null,
       "price": "HK$100",
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01": "雙頭眉毛 : 眼線掃.jpg"
+        "img_01": "m/d/md71.jpg"
       },
       "description_image": null
     },
@@ -1895,17 +1905,17 @@
       "產品英文名稱": "Perfect Palette™",
       "series": "mu04",
       "header_links": "makeup",
-      "Product Description": "•外盒玫瑰印花設計，華麗美觀<br>•纖薄巧小，攜帶方便<br>•內含化妝鏡，助你輕鬆塑造完美妝容<br>•磁吸式設計，隨心所欲，自由組合，輕鬆組合專屬「我的」彩妝盒",
+      "description": "•外盒玫瑰印花設計，華麗美觀<br>•纖薄巧小，攜帶方便<br>•內含化妝鏡，助你輕鬆塑造完美妝容<br>•磁吸式設計，隨心所欲，自由組合，輕鬆組合專屬「我的」彩妝盒",
       "capacity": "1個",
-      "skin_suitable": "",
-      "usage": "",
+      "skin_suitable": null,
+      "usage": null,
       "function": "組合範例<br>•魅彩輕羽眼影 3 款 + 魅彩輕羽胭脂 / 修容 / 光影 2 款 + 胭脂掃 1 個<br>•魅彩輕羽胭脂 / 修容 / 光影 3 款 + 胭脂掃 1 個",
-      "principal_components": "",
+      "principal_components": null,
       "price": "HK$150",
       "video_source": "z",
       "normal_image": null,
       "small_images": {
-        "img_01": "完美自選彩妝盒.png"
+        "img_01": "m/d/md81.jpg"
       },
       "description_image": "z"
     },
@@ -1914,17 +1924,17 @@
       "產品英文名稱": "Powder Puff",
       "series": "mu04",
       "header_links": "makeup",
-      "Product Description": "粉撲柔軟舒服不刺激肌膚，能把粉餅均勻並緊貼地塗抹在臉上，妝感透薄清爽，呈現自然、完美的妝感。可放於彩妝盒內。",
+      "description": "粉撲柔軟舒服不刺激肌膚，能把粉餅均勻並緊貼地塗抹在臉上，妝感透薄清爽，呈現自然、完美的妝感。可放於彩妝盒內。",
       "capacity": "1個",
-      "skin_suitable": "",
-      "usage": "",
-      "function": "",
-      "principal_components": "",
+      "skin_suitable": null,
+      "usage": null,
+      "function": null,
+      "principal_components": null,
       "price": "HK$25",
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01": "粉撲.png"
+        "img_01": "m/d/md91.jpg"
       },
       "description_image": null
     },
@@ -1933,17 +1943,17 @@
       "產品英文名稱": "Palette Cheek Brush",
       "series": "mu04",
       "header_links": "makeup",
-      "Product Description": "掃毛由優質纖維毛製成，完美結合人造纖維毛的結實富彈性和天然動物毛的柔滑，觸感柔軟不刺激肌膚，呈現自然、完美的妝感。可放於彩妝盒內。",
+      "description": "掃毛由優質纖維毛製成，完美結合人造纖維毛的結實富彈性和天然動物毛的柔滑，觸感柔軟不刺激肌膚，呈現自然、完美的妝感。可放於彩妝盒內。",
       "capacity": "1個",
-      "skin_suitable": "",
-      "usage": "",
-      "function": "",
-      "principal_components": "",
+      "skin_suitable": null,
+      "usage": null,
+      "function": null,
+      "principal_components": null,
       "price": "HK$25",
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01": "胭脂掃Palette Cheek Brush.png"
+        "img_01": "m/d/md101.jpg"
       },
       "description_image": null
     },
@@ -1952,17 +1962,17 @@
       "產品英文名稱": "Satin Body® Indulgent Shea Wash",
       "series": "ps11",
       "header_links": "product_series",
-      "Product Description": "質感舒適，泡沫細緻，溫和清潔身體肌膚，讓全身重拾舒適清新、滋潤柔滑，同時散發白茶和柑橘交織而成的怡人香氣。",
+      "description": "質感舒適，泡沫細緻，溫和清潔身體肌膚，讓全身重拾舒適清新、滋潤柔滑，同時散發白茶和柑橘交織而成的怡人香氣。",
       "capacity": "192ml",
       "skin_suitable": "全膚質",
       "usage": "將產品按摩於濕潤的身體肌膚上，輕輕揉至起泡，然後以清水洗淨。",
-      "function": "",
+      "function": null,
       "principal_components": "乳木果油 (Shea Butter) - 滋潤肌膚，質地細緻不油膩，可迅速吸收，並於肌膚表面形成鎖水的天然保護膜，給予肌膚所需的滋潤保濕",
       "price": "HK$200",
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01": "莎婷乳木果呵護沐浴露.png"
+        "img_01": "p/k/pk11.jpg"
       },
       "description_image": null
     },
@@ -1971,17 +1981,17 @@
       "產品英文名稱": "Satin Body® Revitalizing Shea Scrub",
       "series": "ps11",
       "header_links": "product_series",
-      "Product Description": "質地幼滑如霜，輕輕去除老舊角質，令肌膚即時柔軟光滑，重拾活力。性質溫和，適合每天使用，使全身每天保持細緻潤滑",
+      "description": "質地幼滑如霜，輕輕去除老舊角質，令肌膚即時柔軟光滑，重拾活力。性質溫和，適合每天使用，使全身每天保持細緻潤滑",
       "capacity": "185g",
       "skin_suitable": "全膚質",
       "usage": "將產品塗於濕潤的身體肌膚上，輕輕打圈按摩，然後以清水洗淨。",
-      "function": "",
+      "function": null,
       "principal_components": "•乳木果油 (Shea Butter) - 滋潤肌膚，質地細緻不油膩，可迅速吸收，並於肌膚表面形成鎖水的天然保護膜，給予肌膚所需的滋潤保濕<br>•葵花籽油 (Sunflower Oil) – 能與肌膚的脂質結合保持肌膚水分，滋潤、柔軟肌膚，並含有豐富的維他命 E，具抗氧化功效",
       "price": "HK$200",
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01": "莎婷乳木果煥活磨砂膏.png"
+        "img_01": "p/k/pk21.jpg"
       },
       "description_image": null
     },
@@ -1990,17 +2000,17 @@
       "產品英文名稱": "Satin Body® Silkening Shea Lotion",
       "series": "ps11",
       "header_links": "product_series",
-      "Product Description": "芳香潤滑，瞬間與肌膚融合，紓緩肌膚乾燥，並形成持久的絲柔觸感，帶來前所未有的水潤呵護。臨床測試證實能持續保濕 24 小時*。",
+      "description": "芳香潤滑，瞬間與肌膚融合，紓緩肌膚乾燥，並形成持久的絲柔觸感，帶來前所未有的水潤呵護。臨床測試證實能持續保濕 24 小時*。",
       "capacity": "192ml",
       "skin_suitable": "全膚質",
       "usage": "取適量產品輕柔按摩於全身肌膚。",
-      "function": "",
+      "function": null,
       "principal_components": "•乳木果油 (Shea Butter) - 滋潤肌膚，質地細緻不油膩，可迅速吸收，並於肌膚表面形成鎖水的天然保護膜，給予肌膚所需的滋潤保濕<br>•維他命 E (Vitamin E) - 抗氧化，預防細胞膜損傷，延緩老化，並具有保濕功效",
       "price": "HK$200",
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01": "莎婷乳木果絲滑潤膚乳.png"
+        "img_01": "p/k/pk31.jpg"
       },
       "description_image": null
     },
@@ -2009,17 +2019,17 @@
       "產品英文名稱": "Satin Hands® Shea Hand Soap",
       "series": "ps11",
       "header_links": "product_series",
-      "Product Description": "無香料配方，將雙手包裹在柔軟舒適的細緻泡沫中，溫和而有效地潔淨雙手，用後不會令雙手感到乾燥，配方含有滋養的乳木果油成分，柔軟和舒緩乾燥肌膚，即時滋潤及保護皮膚屏障，讓手部回復細緻柔滑。",
+      "description": "無香料配方，將雙手包裹在柔軟舒適的細緻泡沫中，溫和而有效地潔淨雙手，用後不會令雙手感到乾燥，配方含有滋養的乳木果油成分，柔軟和舒緩乾燥肌膚，即時滋潤及保護皮膚屏障，讓手部回復細緻柔滑。",
       "capacity": "185g",
       "skin_suitable": "全膚質",
       "usage": "取適量洗手液於雙手及手指部位，輕柔地揉搓雙手最少20秒，然後以清水洗淨。",
-      "function": "",
+      "function": null,
       "principal_components": "乳木果油分子細小，清爽不油膩，不容易被水洗掉或被肥皂溶解，容易滲透角質並在皮膚上停留更長時間，不感黏膩、不泛油光。同時富含 Omega-3，幫助維持及完整肌膚表面的天然鎖水保護膜，防止水分流失，長效保濕，調整水油平衡。",
       "price": "HK$100",
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01": "莎婷乳木果洗手液.png"
+        "img_01": "p/k/pk41.jpg"
       },
       "description_image": null
     },
@@ -2028,7 +2038,7 @@
       "產品英文名稱": "Satin Hands® Pampering Set<br>(White Tea & Citrus)",
       "series": "ps11",
       "header_links": "product_series",
-      "Product Description": "以珍貴、豐潤的乳木果油為手部肌膚帶來加倍的修護！只需三步，瞬間呵護纖纖玉手，結合特別調配的白茶及柑橘香味，讓雙手每天都可以享受　Home Spa 在家水療的愉悅舒緩體驗。",
+      "description": "以珍貴、豐潤的乳木果油為手部肌膚帶來加倍的修護！只需三步，瞬間呵護纖纖玉手，結合特別調配的白茶及柑橘香味，讓雙手每天都可以享受　Home Spa 在家水療的愉悅舒緩體驗。",
       "capacity": "莎婷手部護理組合 - 白茶及柑橘香味<br>Satin Hands® Pampering Set<br>(White Tea & Citrus)<br>組合包括：<br>- Satin Hands® Protecting Softener | 手部滋養霜 | 60 g<br>- Satin Hands® Satin Smoothie® Refining Shea Scrub<br>(White Tea & Citrus)| 乳木果去角質凝露 – 白茶及柑橘香味 | 220 g<br>- Satin Hands® Nourishing Shea Cream<br>(White Tea & Citrus) | 乳木果護手霜 – 白茶及柑橘香味 | 85 g",
       "skin_suitable": "全膚質",
       "usage": "Step 1: 保護及準備<br>手部滋養霜<br>•無香料配方，有效軟化及保護肌膚，消除乾燥及繃緊感覺，更能為後續護理作好準備。<br>Step 2: 細緻及更新<br>乳木果去角質凝露<br>•10 位女性中，9 位使用後表示雙手變得柔軟、嫩滑及充滿生氣！*<br>•溫和而有效地潔淨肌膚及去除角質，同時乳木果油成分柔軟肌膚，讓手部回復細緻柔滑。<br>Step 3: 滋潤及紓緩<br>乳木果護手霜<br>•臨床測試證實能持續保濕達 24 小時 †<br>•蘊含豐潤的乳木果油，即時給予雙手深層滋養及細緻呵護，持續保濕達 24 小時，使雙手告別乾燥和粗糙，重拾柔滑舒適。<br>•糅合富含維他命 A、E 及 Omega-3 的杏桃仁油、紅花籽油及葵花籽油，有效維持肌膚健康保濕屏障，全面保護嬌嫩的手部肌膚。<br>•經常使用，不但充分滋潤手部肌膚，還能修護指甲及甲緣肌膚，使甲緣肌膚更顯柔軟及健康。<br>•清新的白茶及柑橘香氣，塗用時盡感愉悅舒暢。<br>* 52 位女性持續一星期每天使用產品一次的獨立消費者研究結果<br>† 生物物理測試結果",
@@ -2038,10 +2048,11 @@
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01": "莎婷手部護理組合.png",
-        "img_02": "莎婷手部護理組合01.png",
-        "img_03": "莎婷手部護理組合02.png",
-        "img_04": "莎婷手部護理組合03.png"
+        "img_01": "p/k/pk51.jpg",
+        "img_02": "p/k/pk52.jpg",
+        "img_03": "p/k/pk53.jpg",
+        "img_04": "p/k/pk54.jpg",
+        "img_05": "p/k/pk55.jpg"
       },
       "description_image": "莎婷手部護理組合04.jpg"
     },
@@ -2050,17 +2061,17 @@
       "產品英文名稱": "Satin Hands® Nourishing Shea Cream (White Tea & Citrus)",
       "series": "ps11",
       "header_links": "product_series",
-      "Product Description": "莎婷乳木果護手霜，以珍貴、豐潤的乳木果油為手部肌膚帶來加倍的修護；結合特別調配的白茶及柑橘香味，更讓雙手每天都可以享受　Home Spa 在家水療的愉悅舒緩體驗。",
+      "description": "莎婷乳木果護手霜，以珍貴、豐潤的乳木果油為手部肌膚帶來加倍的修護；結合特別調配的白茶及柑橘香味，更讓雙手每天都可以享受　Home Spa 在家水療的愉悅舒緩體驗。",
       "capacity": "85g",
       "skin_suitable": "全膚質",
-      "usage": "",
+      "usage": null,
       "function": "臨床測試證實能持續保濕達 24 小時 †<br>• 蘊含豐潤的乳木果油，即時給予雙手深層滋養及細緻呵護，持續保濕達 24 小時，使雙手告別乾燥和粗糙，重拾柔滑舒適。<br>• 糅合富含維他命 A、E 及 Omega-3 的杏桃仁油、紅花籽油及葵花籽油，有效維持肌膚健康保濕屏障，全面保護嬌嫩的手部肌膚。<br>• 經常使用，不但充分滋潤手部肌膚，還能修護指甲及甲緣肌膚，使甲緣肌膚更顯柔軟及健康。<br>• 清新的白茶及柑橘香氣，塗用時盡感愉悅舒暢。<br>• 於一項獨立消費者研究中，10 位女性，9 位使用後表示雙手得到充分滋養，變得柔軟、嫩滑及充滿生氣*。<br>* 52 位女性持續一星期每天使用產品一次的獨立消費者研究結果<br>† 生物物理測試結果",
       "principal_components": "•核心成分：乳木果油<br>乳木果油分子細小，清爽不油膩，不容易被水洗掉或被肥皂溶解，因此塗上皮膚後不但很容易滲透角質，還可以在皮膚上停留更長的時間，同時不感黏膩、不泛油光。同時，它富含 Omega-3，幫助維持及完整肌膚表面的天然鎖水保護膜，防止水分流失，長效保濕，調整水油平衡，是帶來在家水療享受的最佳成分。<br>•獨特香味：白茶及柑橘香味<br>特別調配的獨特白茶及柑橘香味，主調為清雅的白茶，並結合由西柚及檸檬草交織出的柑橘香氣，再添加小豆蔻、櫻花及茉莉香調，讓雙手沉醉於清新愉悅、悠閒舒適的寵愛中。",
       "price": "HK$115",
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01": "莎婷乳木果護手霜.png"
+        "img_01": "p/k/pk61.jpg"
       },
       "description_image": null
     },
@@ -2069,17 +2080,17 @@
       "產品英文名稱": "Satin Lips® Shea Butter Balm",
       "series": "ps11",
       "header_links": "product_series",
-      "Product Description": "莎婷唇部護理的第二步。清甜滋潤的護唇膏，輕柔呵護嬌嫩雙唇，讓櫻唇豐潤飽滿。",
+      "description": "莎婷唇部護理的第二步。清甜滋潤的護唇膏，輕柔呵護嬌嫩雙唇，讓櫻唇豐潤飽滿。",
       "capacity": "8g",
       "skin_suitable": "經皮膚科醫生測試認可<br>通過臨床皮膚敏感測試",
       "usage": "按需要或於上唇妝前使用。亦特別適合於乳木果去角質唇霜後使用。",
-      "function": "",
+      "function": null,
       "principal_components": "•乳木果油結合荷荷芭酯成分，讓雙唇舒適、柔軟、滋潤。<br>•乳木果油富含維他命 A 及 E，能有效抗氧化，並幫助皮膚保水 。<br>•荷荷芭酯有效幫助保濕鎖水及保護唇部皮膚天然屏障。<br>•質感柔軟、不黏膩，使雙唇顯得豐潤飽滿。<br>•白茶及柑橘交織出清新香氣，帶來愉悅感官享受。<br>•上唇部彩妝品前當唇部打底使用，能使唇膏或唇彩更飽和顯色。",
       "price": "HK$150",
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01": "莎婷乳木果護唇脂.png"
+        "img_01": "p/k/pk71.jpg"
       },
       "description_image": null
     },
@@ -2088,17 +2099,17 @@
       "產品英文名稱": "Satin Lips® Shea Sugar Scrub",
       "series": "ps11",
       "header_links": "product_series",
-      "Product Description": "莎婷唇部護理的第一步。香甜的唇部磨砂溫和而有效地去除多餘死皮，讓雙唇告別乾裂粗糙，重現新生活力。",
+      "description": "莎婷唇部護理的第一步。香甜的唇部磨砂溫和而有效地去除多餘死皮，讓雙唇告別乾裂粗糙，重現新生活力。",
       "capacity": "8g",
       "skin_suitable": "經皮膚科醫生測試認可<br>通過臨床皮膚敏感測試",
       "usage": "每星期 2-3 次，將適量乳木果去角質唇霜塗於唇部，輕輕打圈按摩。 以紙巾及濕潤化妝棉抹去磨砂霜或以清水洗淨。隨即塗上乳木果護唇脂。",
-      "function": "",
+      "function": null,
       "principal_components": "•天然蔗糖微粒輕柔地去除嘴唇老化角質，幫助更新唇部皮膚組織。<br>•豐潤滋養的乳木果油，讓雙唇透現柔嫩光滑的自然唇色 。<br>•葵花籽油富含維他命E，有效抗氧化，保護唇部免受自由基的傷害。<br>•白茶及柑橘交織出清新香氣，帶來愉悅感官享受。",
       "price": "HK$150",
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01": "莎婷乳木果去角質唇霜.png"
+        "img_01": "p/k/pk81.jpg"
       },
       "description_image": null
     },
@@ -2107,18 +2118,18 @@
       "產品英文名稱": "Mint Bliss™ Energizing Lotion for Feet & Legs",
       "series": "ps11",
       "header_links": "product_series",
-      "Product Description": "清新涼快的薄荷配方，幫助紓緩足部及腿部疲勞，為雙腳注入舒爽活力，回復步履輕盈。",
+      "description": "清新涼快的薄荷配方，幫助紓緩足部及腿部疲勞，為雙腳注入舒爽活力，回復步履輕盈。",
       "capacity": "88ml",
       "skin_suitable": "全膚質",
       "usage": "取適量直接塗於足部和腿部，加以輕柔按摩",
       "function": "•含薄荷醇、薄荷精油及尤加利葉精油，帶來涼快清新的感覺，緩解足部和腿部壓力。<br>•迷迭香及白柳樹皮萃取具溫和收斂特性，可放鬆、調理疲憊的足部及腿部，使雙腳重拾輕盈及活力。<br>•白樺木皮萃取調理柔滑腳部肌膚，結合甘油成分維持肌膚的理想保濕狀態，使腳部肌膚更柔軟、滑嫩、舒爽。<br>•質地輕盈不黏膩，可隨時使用按摩於足部及腿部，即時紓緩沉重感。",
-      "principal_components": "",
+      "principal_components": null,
       "price": "HK$170",
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01": "清涼薄荷足部潤膚露.png",
-        "img_02": "清涼薄荷足部潤膚露01.png"
+        "img_01": "p/k/pk91.jpg",
+        "img_02": "p/k/pk92.jpg"
       },
       "description_image": null
     },
@@ -2127,7 +2138,7 @@
       "產品英文名稱": "Décolleté & Bust Beautifying Complex",
       "series": "ps11",
       "header_links": "product_series",
-      "Product Description": "配方富含 Q10、維他命 A、 E 及維他命 C 衍生物等美肌修護成分，滋潤、柔滑胸部、頸部及肩部肌膚，並幫助改善肌膚緊實度和彈性，呵護及美化頸胸三角區。",
+      "description": "配方富含 Q10、維他命 A、 E 及維他命 C 衍生物等美肌修護成分，滋潤、柔滑胸部、頸部及肩部肌膚，並幫助改善肌膚緊實度和彈性，呵護及美化頸胸三角區。",
       "capacity": "50g",
       "skin_suitable": "通過皮膚刺激性和過敏性測試",
       "usage": "沐浴或清潔後，取適量產品輕柔地塗抹在潔淨的胸部、頸部和肩部肌膚。<br>建議由外往內、由下往上，從胸部底部往下巴方向均勻塗抹並加以按摩。",
@@ -2137,7 +2148,7 @@
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01": "胸部護理霜.png"
+        "img_01": "p/k/pk101.jpg"
       },
       "description_image": null
     },
@@ -2146,17 +2157,18 @@
       "產品英文名稱": "Sheer UV Defense Milk SPF50+/PA+++",
       "series": "pf07",
       "header_links": "product_features",
-      "Product Description": "質地輕盈清爽，順滑易推，迅速吸收，讓肌膚零負擔",
+      "description": "質地輕盈清爽，順滑易推，迅速吸收，讓肌膚零負擔",
       "capacity": "60ml",
       "skin_suitable": "所有膚質適用<br>通過亞洲皮膚溫和配方測試<br>經皮膚科醫生測試<br>通過皮膚刺激性和過敏性測試<br>適合敏感性肌膚<br>適用於面部及身體肌膚",
       "usage": "先搖晃，每天早上在日常護膚步驟後取適量塗抹。於日曬前或按需要重覆塗抹於面部及身體肌膚。可作妝前防曬乳液使用。",
       "function": "•SPF 50+ 配搭 PA+++ 的防曬系數，同時含有物理性防曬二氧化鈦，提供雙向紫外線防護和強效的廣譜防曬保護，有效幫助面部及身體肌膚抵禦紫外線 UVA/UVB 的傷害。<br>•同時隔離空氣中的污染物與有害物質，預防曬傷、曬黑和緩減肌膚老化。<br>•配方含有抗氧化和保濕成分，幫助肌膚保持水嫩柔軟。<br>•質地輕盈柔滑，特別適合油性肌膚或炎熱天氣/夏天使用，也可作妝前防曬乳使用。",
       "principal_components": "•維他命 E (Tocopheryl Acetate)：抗氧化，保護肌膚不受自由基的侵害，並為肌膚提供紓緩、保濕和柔滑功效。<br>•西瓜果萃取物 (Watermelon Fruit (Citullus lanatus) Extract)：能提供肌膚活力，可以降低太陽直射下紫外線對皮膚的破壞，同時能滋潤，鎮靜，增加皮膚彈性的作用。<br>•氧化鋅 (Zinc Oxide)、二氧化鈦 (Titanium Dioxide) ：物理性防曬成分，提供雙向紫外線防護，保護肌膚免受 UVA 及 UVB 的傷害。",
       "price": "HK$320",
-      "video_source": "Mary Kay 全新防曬系列.mp4",
+      "video_source": "fg.mp4",
       "normal_image": null,
       "small_images": {
-        "img_01": "多效防曬隔離乳.png"
+        "img_01": "f/g/fg11.jpg",
+        "img_02": "f/g/fg12.jpg"
       },
       "description_image": "多效防曬隔離乳01jpg<br>防曬01.jpg"
     },
@@ -2165,17 +2177,19 @@
       "產品英文名稱": "Invisible UV Defense Lotion SPF50+/PA+++",
       "series": "pf07",
       "header_links": "product_features",
-      "Product Description": "質地輕盈清爽，順滑易推，迅速吸收，讓肌膚零負擔",
+      "description": "質地輕盈清爽，順滑易推，迅速吸收，讓肌膚零負擔",
       "capacity": "80ml",
       "skin_suitable": "所有膚質適用<br>通過亞洲皮膚溫和配方測試<br>經皮膚科醫生測試<br>通過皮膚刺激性和過敏性測試<br>適合敏感性肌膚<br>適用於面部及身體肌膚",
       "usage": "先搖晃，每天早上在日常護膚步驟後取適量塗抹。於日曬前或按需要重覆塗抹於面部及身體肌膚。可作妝前防曬乳液使用。",
       "function": "•SPF 50+ 配搭 PA+++ 的防曬系數，強效防曬配方，有效幫助面部及身體肌膚抵禦紫外線 UVA/UVB 的傷害。<br>•同時隔離空氣中的污染物與有害物質，預防曬傷、曬黑和緩減肌膚老化。<br>•含有多種植物萃取，立即為肌膚注入大量水份，肌膚持續水潤、紓緩、防護，清爽不黏膩，臨床證實可提升皮膚保濕度*。<br>•配方含有抗氧化和保濕成分，幫助肌膚保持水嫩柔軟。<br>•質地輕盈柔滑，特別適合乾性肌膚或寒冷天氣/冬天使用。",
       "principal_components": "•維他命 E (Tocopheryl Acetate)：抗氧化，保護肌膚不受自由基的侵害，並為肌膚提供紓緩、保濕和柔滑功效。<br>•桂竹植物 (Bambusoides (Phyllostachis bamusoides) Plant)、日本扁柏樹（Obtusa (Chamaecyparis obtusa) Tree）、白樺樹（Japonica (Betula platyphylla) Tree）：多種植物萃取，立即為肌膚注入大量水份，肌膚持續水潤、紓緩、防護，清爽不黏膩，臨床證實可提升皮膚保濕度*。<br>*體外成分測試",
       "price": "HK$320",
-      "video_source": "Mary Kay 全新防曬系列.mp4",
+      "video_source": "fg.mp4",
       "normal_image": null,
       "small_images": {
-        "img_01": "水感輕透防曬乳.png"
+        "img_01": "f/f/ff21.jpg",
+        "img_02": "f/f/ff22.jpg",
+        "img_03": "f/f/ff22.jpg"
       },
       "description_image": "水感輕透防曬乳01.jpg<br>防曬02.jpg"
     },
@@ -2184,17 +2198,17 @@
       "產品英文名稱": "Sun Care After-Sun Replenishing Gel",
       "series": ["pf07", "sc01"],
       "header_links": ["product_features", "skincare"],
-      "Product Description": "冰藍色修護啫喱，富含植物萃取，能迅速紓緩補水，並兼具卓越的抗氧化功效。質感清涼，有效安撫、鎮靜曬後受刺激和發紅的肌膚。質地清爽，快速吸收，不感黏膩，適合所有膚質使用。",
+      "description": "冰藍色修護啫喱，富含植物萃取，能迅速紓緩補水，並兼具卓越的抗氧化功效。質感清涼，有效安撫、鎮靜曬後受刺激和發紅的肌膚。質地清爽，快速吸收，不感黏膩，適合所有膚質使用。",
       "capacity": "192ml",
       "skin_suitable": "所有膚質適用<br>經皮膚科醫生測試<br>通過皮膚刺激性和過敏性測試<br>適用於面部及身體肌膚",
       "usage": "均勻塗抹在曬後的肌膚上；亦可以使用在強風吹過或受過度刺激（過冷或過熱）的肌膚上。<br>若有需要可重覆多次塗抹。塗抹於面部時，請避開眼周。亦可於塗防曬前使用作為打底，加強保濕和防護。",
-      "function": "",
+      "function": null,
       "principal_components": "•紅景天根萃取 (Rhodiola Rosea Root Extract)：具卓越抗氧化功效，並可迅速修護、柔潤曬後肌膚，減輕曬後炎症和水分流失，使肌膚保持水 潤。<br>•茶葉萃取 (Camellia Sinensis Leaf Extract)：強效抗氧化，緩減光老化現象，同時有效紓緩、鎮靜曬後受刺激和發紅的肌膚 。<br>•甘油 (Glycerin)：皮膚增濕劑和軟化劑，使肌膚保持水潤、柔軟和光滑。",
       "price": "HK$200",
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01": "夏艷曬後修護凝露.png"
+        "img_01": "f/g/fg31.jpg"
       },
       "description_image": null
     },
@@ -2203,18 +2217,18 @@
       "產品英文名稱": "Live Fearlessly™ Eau de Parfum",
       "series": "mu05",
       "header_links": "makeup",
-      "Product Description": "以 Mary Kay 公司創辦人 Mary Kay Ash 女士的勇敢人生故事為靈感而研發及調配的香水，濃郁、獨特的香氣由清新醒神的辛薑、馥郁柔美的玫瑰和溫暖綿長的烘焙零陵香豆香氣交織而成，展露著無可置疑的自信、無懼和勇氣。<br>特別的多面切割瓶身設計象徵著女性的多面性，瓶蓋代表著自信及堅毅，瓶身的淡金色調折射出女性的力量及的信念，以及溫暖的陽光為生命帶來的無限可能。",
+      "description": "以 Mary Kay 公司創辦人 Mary Kay Ash 女士的勇敢人生故事為靈感而研發及調配的香水，濃郁、獨特的香氣由清新醒神的辛薑、馥郁柔美的玫瑰和溫暖綿長的烘焙零陵香豆香氣交織而成，展露著無可置疑的自信、無懼和勇氣。<br>特別的多面切割瓶身設計象徵著女性的多面性，瓶蓋代表著自信及堅毅，瓶身的淡金色調折射出女性的力量及的信念，以及溫暖的陽光為生命帶來的無限可能。",
       "capacity": "50ml",
-      "skin_suitable": "",
-      "usage": "",
-      "function": "",
+      "skin_suitable": null,
+      "usage": null,
+      "function": null,
       "principal_components": "花香型木質調 | FLORAL WOODY<br>前調：意大利佛手柑 (Italian Bergamot)、辛薑 (Ginger) 、花瓣 (Lush Petals)<br>中調：玫瑰 (Bold Rose)、山野百合 (Lily of the Valley)、蘭花 (Orchid) <br>後調：可持續烘焙零陵香豆 (Sustainable Roasted Tonka Bean)、雪松 (Cedarwood)、澳洲檀香木 (Australian Sandalwood)、香草麝香 (Vanilla Musk)",
       "price": "HK$598",
-      "video_source": "z",
+      "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01": "勇敢無懼香水.jpg",
-        "img_02": "勇敢無懼香水02.jpg"
+        "img_01": "m/e/me31.jpg",
+        "img_02": "m/e/me32.jpg"
       },
       "description_image": null
     },
@@ -2223,17 +2237,17 @@
       "產品英文名稱": "Advanced Eye Cream",
       "series": ["ps10", "pf08"],
       "header_links": ["product_series", "product_features"],
-      "Product Description": "•含抗衰老成份，能明顯減緩眼周細紋和皺紋。<br>•有效保濕並緊緻眼部肌膚，並具有提亮、舒緩和平滑眼周肌膚的功效。<br>",
+      "description": "•含抗衰老成份，能明顯減緩眼周細紋和皺紋。<br>•有效保濕並緊緻眼部肌膚，並具有提亮、舒緩和平滑眼周肌膚的功效。<br>",
       "capacity": "18g",
       "skin_suitable": "經眼科專家測試<br>經臨床測試不會引起痕癢及敏感適合<br>適合所有膚質使用<br>不含油脂<br>防過敏配方<br>適合配帶隱形眼鏡人士使用",
       "usage": "以無名指沾取適量眼霜，輕輕拍打在眼周，即可滋養眼周肌膚",
-      "function": "",
-      "principal_components": "",
+      "function": null,
+      "principal_components": null,
       "price": "HK$358",
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01": "男士眼霜.png"
+        "img_01": "p/j/pj11.jpg"
       },
       "description_image": null
     },
@@ -2242,17 +2256,17 @@
       "產品英文名稱": "Daily Facial Cleanser",
       "series": ["ps10", "pf02"],
       "header_links": ["product_series", "product_features"],
-      "Product Description": "•性質溫和的透明啫喱，能有效清潔皮膚上的油脂污垢，潔淨毛孔。<br>•令皮膚回復清爽舒適，充滿活力。<br>•為後續剃鬚步驟做好充分準備。",
+      "description": "•性質溫和的透明啫喱，能有效清潔皮膚上的油脂污垢，潔淨毛孔。<br>•令皮膚回復清爽舒適，充滿活力。<br>•為後續剃鬚步驟做好充分準備。",
       "capacity": "133ml",
       "skin_suitable": "適合所有膚質及敏感性肌膚<br>不含油分、香料及酒精<br>不易引致粉刺",
-      "usage": "",
-      "function": "",
-      "principal_components": "",
+      "usage": null,
+      "function": null,
+      "principal_components": null,
       "price": "HK$228",
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01": "男士潔面啫喱.png"
+        "img_01": "p/j/pj21.jpg"
       },
       "description_image": null
     },
@@ -2261,9 +2275,9 @@
       "產品英文名稱": "DailyBenefits® Antioxidant",
       "series": "tn01",
       "header_links": "tonic",
-      "Product Description": "粉妍®片採用4種抗氧化營養元素，直擊核心抗氧化，對抗氧化為DNA帶來的損傷，讓身體裡的細胞都重獲年輕源動力。從各個方面對人體進行保護，對抗因氧化而造成的損傷和衰老，同時給肌膚帶來各種好處，有助於由內而外打造年輕美。",
+      "description": "粉妍®片採用4種抗氧化營養元素，直擊核心抗氧化，對抗氧化為DNA帶來的損傷，讓身體裡的細胞都重獲年輕源動力。從各個方面對人體進行保護，對抗因氧化而造成的損傷和衰老，同時給肌膚帶來各種好處，有助於由內而外打造年輕美。",
       "capacity": "60 粒",
-      "skin_suitable": "",
+      "skin_suitable": null,
       "usage": "•每日早晚各一粒，建議飯後食用。<br>＊請連續服用，以發揮最佳效果",
       "function": "歐洲百年製藥大廠研發<br>台灣GMP大廠製造<br>歐美進口主要原材料<br>複合配方<br>不含激素",
       "principal_components": "綠茶萃取物 (EGCG)<br>•抗氧化，有助於清除人體疲勞時產生的自由基。<br>•有助修復表皮皮膚、減少膠原蛋白降解。<br>葉黄素 (Lutein) 萃取自金盞花<br>•葉黃素能夠吸收日光、電腦光源和辦公室照明等中的藍光，避免藍光對眼睛的損傷。<br>•有助於維持皮膚及眼睛健康，有效減少UVA﹅UVB及藍光對皮膚和眼睛的損傷。<br>•增加皮膚保濕度，有助肌膚光澤有彈性。<br>•具抗氧化功能，對抗DNA氧化損傷，有助於改善大腦活力。<br>維他命 C 及 維他命 E<br>•維他命 C 有助膠原蛋白合成，維他命 E 則有助維持細胞膜的完整性。<br>•有助降低 DNA 氧化損傷。<br>•兩者共同使用發揮協同作用，效果較各自單獨使用更佳。",
@@ -2271,7 +2285,7 @@
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01": "怡日健®粉妍片.png"
+        "img_01": "s/a/sa11.jpg"
       },
       "description_image": null
     },
@@ -2280,17 +2294,17 @@
       "產品英文名稱": "Daily Benefits® Bone Helper",
       "series": "tn01",
       "header_links": "tonic",
-      "Product Description": "金骨網的三大明星成分，水解蛋黃粉、酪蛋白磷酸肽、維他命D3。補充骨膠原，同時促進鈣質吸收，有助骨骼健康。金骨網的熱穩定性高，可加在各類飲料、湯中服用，高溫儲存也不會變質。",
+      "description": "金骨網的三大明星成分，水解蛋黃粉、酪蛋白磷酸肽、維他命D3。補充骨膠原，同時促進鈣質吸收，有助骨骼健康。金骨網的熱穩定性高，可加在各類飲料、湯中服用，高溫儲存也不會變質。",
       "capacity": "30包 x 2克",
       "skin_suitable": "本品含有來源於牛奶和雞蛋的成分",
       "usage": "建議每日 1 包<br>將 1 包粉末混合約 100 毫升溫水或牛奶中飲用，也可混合熱湯中食用。",
-      "function": "",
+      "function": null,
       "principal_components": "水解蛋黃粉 (Bonepep)<br>•活性肽分子小，易吸收。<br>•使用日本本土優質蛋黃原料，並採用專利方法-酶解技術提取。<br>酪蛋白磷酸肽 (CPP)<br>•活性肽分子小，易吸收。<br>•去除乳糖，牛奶過敏者 (乳糖) 也可服用。<br>•源自新西蘭非基因改造草場，純天然牧場的鮮奶。<br>維他命D3 (Vitamin D3)<br>•促進鈣質吸收。<br>•以專利技術製成小分子顆粒，更易被人體吸收。<br>•源自瑞士，原料品質符合歐盟標準。",
       "price": "HK$498",
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01": "怡日健®金骨網.jpg"
+        "img_01": "s/a/sa21.jpg"
       },
       "description_image": null
     },
@@ -2299,18 +2313,18 @@
       "產品英文名稱": "Daily Benefits® Probiotics",
       "series": "tn01",
       "header_links": "tonic",
-      "Product Description": "•五種菌株科學配方，全面覆蓋腸道，改善腸道微環境。<br>•每包活菌數高達500億，源源不斷到達腸道，效果更佳。<br>•含有高品質菌株，經過專業科學試驗驗證，並獲專利認證。<br>•來自全球專業益生菌生產商-美國杜邦，安全性得到美國FDA認可，高潔淨度廠房專一生產益生菌，無交叉污染，安全有保障，確保高品質。<br>•先進的「菌種冷凍乾燥」技術，嚴格的水分控制，更大程度保證益生菌活性。<br>•方便食用和保存，可沖飲，好口味，無需冷藏。",
+      "description": "•五種菌株科學配方，全面覆蓋腸道，改善腸道微環境。<br>•每包活菌數高達500億，源源不斷到達腸道，效果更佳。<br>•含有高品質菌株，經過專業科學試驗驗證，並獲專利認證。<br>•來自全球專業益生菌生產商-美國杜邦，安全性得到美國FDA認可，高潔淨度廠房專一生產益生菌，無交叉污染，安全有保障，確保高品質。<br>•先進的「菌種冷凍乾燥」技術，嚴格的水分控制，更大程度保證益生菌活性。<br>•方便食用和保存，可沖飲，好口味，無需冷藏。",
       "capacity": "30包 x 2克",
       "skin_suitable": "本品含有牛奶成分",
       "usage": "將1包粉末混合37℃以下約50毫升水或牛奶等流質食品調勻飲用",
-      "function": "",
-      "principal_components": "",
+      "function": null,
+      "principal_components": null,
       "price": "HK$428",
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01": "怡日健®益生菌.jpg",
-        "img_02": "怡日健®益生菌01.jpg"
+        "img_01": "s/a/sa31.jpg",
+        "img_02": "s/a/sa32.jpg"
       },
       "description_image": null
     },
@@ -2319,51 +2333,51 @@
       "產品英文名稱": "DailyBenefits® Collagen",
       "series": "tn01",
       "header_links": "tonic",
-      "Product Description": "高含量，精選義大利進口魚膠原蛋白肽，每包含5,000毫克，大約相等於吃 2-3條魚， 零脂肪，讓肌膚潤潤無負擔。<br>•取自日本的珍貴鰹魚彈性蛋白肽，增加肌膚彈性。每條鰹魚僅能提萃取約 0.1克的彈性蛋白，特別珍稀難得。<br>•搭配天然水果刺梨粉，含豐富維他命Ｃ，抗氧化同時刺激膠原蛋白生成，令肌膚更透亮。<br>•添加來自法國的紅甜菜，含豐富礦物質，提供天然粉紅色素，為你帶來粉嫩好氣息。<br>•分子超小，服用2小時內即可循環入體內被吸收及運用。<br>•品質嚴格監控，產品通過1,000多項檢測。",
+      "description": "高含量，精選義大利進口魚膠原蛋白肽，每包含5,000毫克，大約相等於吃 2-3條魚， 零脂肪，讓肌膚潤潤無負擔。<br>•取自日本的珍貴鰹魚彈性蛋白肽，增加肌膚彈性。每條鰹魚僅能提萃取約 0.1克的彈性蛋白，特別珍稀難得。<br>•搭配天然水果刺梨粉，含豐富維他命Ｃ，抗氧化同時刺激膠原蛋白生成，令肌膚更透亮。<br>•添加來自法國的紅甜菜，含豐富礦物質，提供天然粉紅色素，為你帶來粉嫩好氣息。<br>•分子超小，服用2小時內即可循環入體內被吸收及運用。<br>•品質嚴格監控，產品通過1,000多項檢測。",
       "capacity": "30包 x ８克",
-      "skin_suitable": "",
+      "skin_suitable": null,
       "usage": "將 1 包粉末混合約150 毫升溫水調勻飲用，2 包可以用 200-300 毫升溫水調勻飲用，飯前或飯後服用均可。",
-      "function": "",
-      "principal_components": "",
+      "function": null,
+      "principal_components": null,
       "price": "HK$628",
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01": "怡日健®膠原蛋白肽.png"
+        "img_01": "s/a/sa41.jpg"
       },
       "description_image": null
     },
     "pd109": {
       "name": "怡日健®綜合維他命B",
       "產品英文名稱": "Daily Benefits® Complex B",
-      "series": "",
-      "header_links": "",
-      "Product Description": "•補充不易被身體儲存的維他命Ｂ，維持精神充沛及促進身體代謝。<br>•含人體所需的8種維他命B，當中的煙醯胺、生物素和葉酸，守護你健康的同時更守護你的美麗。<br>•科學含量，高效補充，滿足日常所需。<br>•採用薄膜包衣技術，避光隔熱防潮，鎖住核心營養。<br>•細小圓片，容易吞服，體內 5 分鐘溶解。<br>•品質嚴格監控，產品通過600多項檢測。<br>•源自百年營養品原料供應商—DSM (荷蘭皇家帝斯曼)，在符合製藥標準",
+      "series": null,
+      "header_links": null,
+      "description": "•補充不易被身體儲存的維他命Ｂ，維持精神充沛及促進身體代謝。<br>•含人體所需的8種維他命B，當中的煙醯胺、生物素和葉酸，守護你健康的同時更守護你的美麗。<br>•科學含量，高效補充，滿足日常所需。<br>•採用薄膜包衣技術，避光隔熱防潮，鎖住核心營養。<br>•細小圓片，容易吞服，體內 5 分鐘溶解。<br>•品質嚴格監控，產品通過600多項檢測。<br>•源自百年營養品原料供應商—DSM (荷蘭皇家帝斯曼)，在符合製藥標準",
       "capacity": "90片",
-      "skin_suitable": "",
+      "skin_suitable": null,
       "usage": "每日1次，每次１ 片，以水吞服。",
-      "function": "",
-      "principal_components": "",
+      "function": null,
+      "principal_components": null,
       "price": "HK$238",
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01": "怡日健®綜合維他命B.png",
-        "img_02": "怡日健®綜合維他命B01.png"
+        "img_01": "s/a/sa51.jpg",
+        "img_02": "s/a/sa52.jpg"
       },
       "description_image": null
     },
     "pd110": {
       "name": "聲波活膚潔面儀",
       "產品英文名稱": "Skinvigorate Sonic",
-      "series": "",
-      "header_links": "",
-      "Product Description": "60秒微米級潔淨體驗，重現剔透注氧光感肌，以聲波科技，採用如蜜震動授粉時，高振頻而不傷花蕊的輕柔聲波震動，能溫柔振出毛孔深層髒污，而不拉扯柔軟的肌膚，更重要的是能有效清除毛孔內，被世界衛生組織介定為一級致癌物的  PM2.5。 實驗証明，聲波活膚潔面儀潔淨度對比用人手清潔去除污垢、油脂、雜質、化妝品和污染物高達4位。",
+      "series": null,
+      "header_links": null,
+      "description": "60秒微米級潔淨體驗，重現剔透注氧光感肌，以聲波科技，採用如蜜震動授粉時，高振頻而不傷花蕊的輕柔聲波震動，能溫柔振出毛孔深層髒污，而不拉扯柔軟的肌膚，更重要的是能有效清除毛孔內，被世界衛生組織介定為一級致癌物的  PM2.5。 實驗証明，聲波活膚潔面儀潔淨度對比用人手清潔去除污垢、油脂、雜質、化妝品和污染物高達4位。",
       "capacity": "1入",
       "skin_suitable": "1入",
       "usage": "可早晚使用，一次60秒，鼻及下巴15秒，左右面頰各15秒",
       "function": "運用聲波微震原理，讓潔膚品與皮膚上的污垢充分結合，溫柔振出毛孔深層髒污，不拉扯肌膚天然構造，從而達到高效無刺激的清潔和按摩效果。",
-      "principal_components": "",
+      "principal_components": null,
       "price": "HK$780",
       "video_source": null,
       "normal_image": null,
