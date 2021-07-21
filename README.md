@@ -11,7 +11,7 @@ $ npm install
 # 執行開發環境
 $ npm run dev
 
-# 產生靜態頁面 路徑: ./dist/
+# 產生靜態頁面 至此路徑下: ./dist/
 $ npm run generate 
 
 ```
