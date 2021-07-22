@@ -2577,7 +2577,7 @@
       "name": "聲波活膚潔面儀",
       "產品英文名稱": "Skinvigorate Sonic",
       "series": null,
-      "header_links": null,
+      "header_links": ["product_features"],
       "Product Description": "All you need is 60 seconds for a superior sonic clean! This rechargeable device removes four times more dirt, oil, impurities, makeup and pollutants – including tiny pollution particles known as PM2.5 – than hand cleansing.* It cleans hard-to-reach places and is suitable for twice-daily cleansing on all skin types, including sensitive skin.",
       "capacity": "1入",
       "skin_suitable": " Suitable for all skin types ",
