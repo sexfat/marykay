@@ -9,7 +9,7 @@ $m-header_h: 52px;
     height: $header_h;
     background-color: $navbg;
     color: $navColor;
-    @include m() {
+    @include t() {
         .m-nav_bar {
             width: 30px;
             height: 30px;
@@ -49,7 +49,7 @@ $m-header_h: 52px;
             display: flex;
             justify-content: space-between;
         }
-        @include m() {
+        @include t() {
             .nav {
                 justify-content: center;
             }
