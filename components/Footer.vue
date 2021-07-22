@@ -3,7 +3,7 @@
     <div class="container-xxl">
       <div class="row">
         <div class="col-lg-3 col-md-6">
-          <h4>關注我們</h4>
+          <h4>{{ $t('pages.footer.follow') }}</h4>
           <ul class="social">
             <li>
               <a href="#"><img src="~assets/images/instagram.png" alt="" srcset="" /></a>
@@ -17,32 +17,32 @@
           </ul>
         </div>
         <div class="col-lg-3 col-md-6">
-          <h4>相關連結</h4>
+          <h4>{{ $t('pages.footer.related_links.name') }}</h4>
           <ul>
-            <li><a href="#">美容顧問登入</a></li>
-            <li><a href="#"> 全球分公司</a></li>
-            <li><a href="#">商德約法</a></li>
+            <li v-for="(value, keys) in footerData.related_links.links" :key="keys">
+              <nuxt-link :to="localePath('/')">{{ $t(`pages.footer.related_links.links.${keys}`) }} </nuxt-link>
+            </li>
           </ul>
         </div>
         <div class="col-lg-3 col-md-6">
-          <h4>購物說明</h4>
+          <h4>{{ $t('pages.footer.shopping_instructions.name') }}</h4>
           <ul>
-            <li><a href="#">產品滿意保證</a></li>
-            <li><a href="#"> 全球隱私權聲明</a></li>
-            <li><a href="#">消費者隱私群方針</a></li>
-            <li><a href="#">使用者規範及協議</a></li>
+            <li v-for="(value, keys) in footerData.shopping_instructions.links" :key="keys">
+              <nuxt-link :to="localePath('/')">{{ $t(`pages.footer.shopping_instructions.links.${keys}`) }} </nuxt-link>
+            </li>
           </ul>
         </div>
         <div class="col-lg-3 col-md-6">
-          <h4>與我們聯繫</h4>
+          <h4>{{ $t('pages.footer.contact_us') }}</h4>
           <ul>
             <div class="contact">
-              <li>玫琳凱服務專線</li>
-              <li>(02) 2735-8088</li>
+              <li>{{ $t('pages.footer.customer_service_tel') }}</li>
+              <li>{{ $t('pages.footer.tel') }}</li>
             </div>
             <div class="contact">
-              <li>免付費服務專線</li>
-              <li>0800-033690</li>
+              <li>{{ $t('pages.footer.contact_style') }}</li>
+              <!-- eslint-disable-next-line vue/no-v-html -->
+              <li v-html="$t('pages.footer.contact_way')"></li>
             </div>
           </ul>
         </div>
@@ -50,3 +50,13 @@
     </div>
   </footer>
 </template>
+
+<script>
+export default {
+  computed: {
+    footerData() {
+      return this.$i18n.messages[this.$i18n.locale].pages.footer
+    },
+  },
+}
+</script>

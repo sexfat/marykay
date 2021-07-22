@@ -1,11 +1,35 @@
 {
   "pages": {
     "homepage": {
-      "title": "首頁",
-      "description": "這是首頁介紹",
-      "section_1": {
-        "title": "區塊1",
-        "description": "區塊1內容"
+      "more": "More",
+      "more_news": "More",
+      "s1": {
+        "h3": "The Power of a Lipstick Makes Difference to the World",
+        "body": "Founded in 1963, Mary Kay has been adhering to its mission:<br>enriching women’s lives and making them feel happy, beautiful and confident.<br>We provide excellent products and unparalleled career opportunities to grant women the rights of having their independent careers and encourage them to pursue for their self-value. Our goal has always been to prepare every woman for success, and we’ve been doing that for more than 57 years We believe that the power of a lipstick makes difference to the world"
+      },
+      "s2": {
+        "h3": "Brand Commitment",
+        "body": "MARY KAY is committed to starting from the perspective of every customer<br/>never compromising on our product quality and security and breaking through the limits on<br/>innovation and technologies<br/>We are dedicated to creating the unique products that bring real effects, which can, on the<br/>one hand, creating satisfactory customer experience and on the other hand enable women to<br/>show their beauty from within.<br/>"
+      },
+      "s3": {
+        "body": "In addition to brand commitment,<br>we believe that the real high-quality products lie in the substantial results.<br>We have the R & D teams made up by more than 300 scientists and 1,500 product patents<br>to provide you with all-rounded makeup and skin care products, thereby creating your personalized perfect skin experience",
+        "small_title": "科學團隊與R3全球研發中心"
+      },
+      "s4": {
+        "h2": "Pink Makes the World a Better Place",
+        "body": "In addition to advocating equal <br>right for women MARY KAY has also been committing to issues,<br>such as environmental protection, social concern and charity, etc.",
+        "slide_1": {
+          "h3": "Environmental Sustainability and Protection",
+          "content_footer": "Including improvement for community water resources, such as<br>irrigation system, matrix research and crop production diversity. We also make efforts to mitigate marine pollution, protect biodiversity and marine resources"
+        },
+        "slide_2": {
+          "h3": "Brand Achievements and Awards",
+          "content_footer": "MARY KAY has partnered with six UN agencies to launch the Women’ Entrepreneurship Accelerator (Women's Entrepreneurship Accelerator)"
+        },
+        "slide_3": {
+          "h3": "Social Welfare and Charity",
+          "content_footer": "First winner of Pink Changing Lives Honoree Monique Coleman Monique Coleman"
+        }
       }
     },
     "series_page": {
@@ -211,6 +235,31 @@
       "video": "Video",
       "function": "Function",
       "principal_components": "Principal Components"
+    },
+    "footer": {
+      "follow": "Follow Mary Kay",
+      "contact_us": "Contact Us",
+      "customer_service_tel": "Customer Service Tel",
+      "tel": "(852)2923-5733",
+      "contact_style": "E-mail",
+      "contact_way": "<a href='mailto:info.hk@mkcorp.com'>info.hk@mkcorp.com</a>",
+      "related_links": {
+        "name": "Related links",
+        "links": {
+          "link_1": "Consultant Sign In",
+          "link_2": "Change Market",
+          "link_3": "HKDSA"
+        }
+      },
+      "shopping_instructions": {
+        "name": "Shopping Instructions",
+        "links": {
+          "link_1": "Customer Satisfaction Guarantee",
+          "link_2": "Global Privacy Statement",
+          "link_3": "Consumer Privacy Policy",
+          "link_4": "Terms of Use of Mary Kay HK’s Website"
+        }
+      }
     }
   },
   "header_links": {
@@ -1755,7 +1804,7 @@
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01":"m/c/mc11.jpg"
+        "img_01": "m/c/mc11.jpg"
       },
       "description_image": null
     },
@@ -1878,7 +1927,7 @@
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01":"m/c/mc71.jpg"
+        "img_01": "m/c/mc71.jpg"
       },
       "description_image": null
     },

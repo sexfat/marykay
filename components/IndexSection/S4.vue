@@ -17,67 +17,68 @@
     <div class="container-xxl">
       <div class="row">
         <div class="col text_center">
-          <h2 class="titles margin-top_50">粉紅讓世界更美好</h2>
+          <h2 class="titles margin-top_50">{{ $t('pages.homepage.s4.h2') }}</h2>
           <div class="diver black"></div>
-          <div class="body margin-top_20">
-            除了提倡女性平權<br />
-            MARY KAY也同時致力於環境保護、社會關懷、慈善公益等議題
-          </div>
+          <!-- eslint-disable vue/no-v-html -->
+          <div class="body margin-top_20" v-html="$t('pages.homepage.s4.body')"></div>
         </div>
       </div>
       <div class="row margin-top_50 silder_pink swiper-container">
         <Swiper ref="s4Swiper" :options="swiperOptions">
-          <!-- swiper-slide col-lg-4 col-md-6 col-sm-6 col-12 -->
-          <Swiper-slide>
+          <Swiper-slide class="col-lg-4 col-md-6 col-sm-6 col-12">
             <div class="bg bg1">
               <div class="inner">
                 <div class="content_heading flex">
                   <h3>
                     PINK DOING GREEN
-                    <p>環境永續與保護</p>
+                    <p>{{ $t('pages.homepage.s4.slide_1.h3') }}</p>
                   </h3>
                 </div>
                 <div class="content_footer">
-                  <p>
-                    包括改良社區水資源包括灌溉系統、基質研究和作物生產多樣性。並減輕海洋污染、保護生物多樣性和海洋資源
-                  </p>
-                  <a class="btn-default btn-outline marginauto margin-top_20" href="#">更多報導</a>
+                  <p v-html="$t('pages.homepage.s4.slide_1.content_footer')"></p>
+                  <a class="btn-default btn-outline marginauto margin-top_20" href="#">{{
+                    $t('pages.homepage.more_news')
+                  }}</a>
                 </div>
               </div>
               <div class="hoverbox"></div>
             </div>
           </Swiper-slide>
-          <Swiper-slide>
+          <Swiper-slide class="col-lg-4 col-md-6 col-sm-6 col-12">
             <div class="bg bg2">
               <div class="inner">
                 <div class="content_heading flex">
                   <h3>
                     PINK ACHIEVEMENT
 
-                    <p>品牌成就與獲獎</p>
+                    <p>{{ $t('pages.homepage.s4.slide_2.h3') }}</p>
                   </h3>
                 </div>
                 <div class="content_footer">
-                  <p>玫琳凱與聯合國六大機構 合作推出女性創業加速器計畫 (Women's Entrepreneurship Accelerator)</p>
-                  <a class="btn-default btn-outline marginauto margin-top_20" href="#">更多報導</a>
+                  <p v-html="$t('pages.homepage.s4.slide_2.content_footer')"></p>
+                  <a class="btn-default btn-outline marginauto margin-top_20" href="#">{{
+                    $t('pages.homepage.more_news')
+                  }}</a>
                 </div>
               </div>
               <div class="hoverbox"></div>
             </div>
           </Swiper-slide>
-          <Swiper-slide>
+          <Swiper-slide class="col-lg-4 col-md-6 col-sm-6 col-12">
             <div class="bg bg3">
               <div class="inner">
                 <div class="content_heading flex">
                   <h3>
                     PINK CHANGING LIVES
 
-                    <p>社會公益與慈善</p>
+                    <p>{{ $t('pages.homepage.s4.slide_3.h3') }}</p>
                   </h3>
                 </div>
                 <div class="content_footer">
-                  <p>首位Pink Changing Lives Honoree得主 Monique Coleman</p>
-                  <a class="btn-default btn-outline marginauto margin-top_20" href="#">更多報導</a>
+                  <p v-html="$t('pages.homepage.s4.slide_3.content_footer')"></p>
+                  <a class="btn-default btn-outline marginauto margin-top_20" href="#">{{
+                    $t('pages.homepage.more_news')
+                  }}</a>
                 </div>
               </div>
               <div class="hoverbox"></div>
