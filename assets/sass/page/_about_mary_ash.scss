@@ -8,27 +8,44 @@
         width: 100%;
         overflow: hidden;
         position: relative;
+        @include t() {
+                height: auto;
+            }
 
         img {
             object-fit: cover;
             height: 560px;
+            @include t() {
+                height: auto;
+            }
         }
     }
 
     .about_marykay_inner {
         position: relative;
         height: 0;
+        @include t() {
+                height: auto;
+            }
 
         .text_head {
             position: absolute;
             left: 50%;
             top: -460px;
+            @include t(){
+              position: initial;
+               left: initial;
+               top: initial;
+            }
 
         }
 
         .text_body {
             margin-top: 50px;
             width: 690px;
+             @include t(){
+                width: 100%;
+            }
 
             ul li {
                 list-style: disc;
@@ -160,6 +177,6 @@
             min-height: 150px;
         }
 
-        .inner {}
+        // .inner {}
     }
 }

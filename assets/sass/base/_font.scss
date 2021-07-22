@@ -37,20 +37,20 @@
 // 英文字體
 @font-face {
   font-family: 'marykay-bold';
-  src: url('~assets/fonts/MaryKaySans-Bold.otf') format('otf');
+  src: url('../fonts/MaryKaySans-Bold.otf') format('otf');
   font-weight: bold;
   // src: local("Arial"),
 }
 
 @font-face {
   font-family: 'marykay';
-  src: url('~assets/fonts/MaryKaySans-Medium.otf') format('otf');
+  src: url('../fonts/MaryKaySans-Medium.otf') format('otf');
   font-weight: normal;
   // src: local("Arial"),
 }
 @font-face {
   font-family: 'marykay-light';
-  src: url('~assets/fonts/MaryKaySans-Light.otf') format('otf');
+  src: url('../fonts/MaryKaySans-Light.otf') format('otf');
   font-weight: lighter;
   // src: local("Arial"),
 }
