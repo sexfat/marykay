@@ -184,9 +184,9 @@ export default {
       }
     },
     resizeChangMenu() {
-      if (window.innerWidth >= '768' && this.MmenuLightClose) {
+      if (window.innerWidth >= '996' && this.MmenuLightClose) {
         window.location.reload()
-      } else if (window.innerWidth < '768') {
+      } else if (window.innerWidth < '996') {
         this.MmenuLightClose = true
         this.mobileMeauInit()
       }
