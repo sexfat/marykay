@@ -96,8 +96,10 @@ export default {
       mainImg: '',
     }
   },
-  head: {
-    title: '產品頁',
+  head() {
+    return {
+      title: `Mary Kay | ${this.productData.name}`,
+    }
   },
   computed: {
     path() {

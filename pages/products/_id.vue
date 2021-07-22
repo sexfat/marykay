@@ -41,8 +41,10 @@ export default {
       id: params.id,
     }
   },
-  head: {
-    title: '產品系列',
+  head() {
+    return {
+      title: `Mary Kay | ${this.id}`,
+    }
   },
   computed: {
     series() {

@@ -81,9 +81,9 @@
                   </ul>
                 </li>
                 <li>
-                  <span>{{ $t('header_links.tonic.name') }}</span>
+                  <span>{{ $t('header_links.Nutrition.name') }}</span>
                   <ul>
-                    <li v-for="(item, index) in Object.entries(linkData.tonic.series)" :key="index">
+                    <li v-for="(item, index) in Object.entries(linkData.Nutrition.series)" :key="index">
                       <nuxt-link
                         :to="{
                           name: `products-id___${$i18n.locale}`,

@@ -8,40 +8,6 @@
         "description": "區塊1內容"
       }
     },
-    "about_page": {
-      "concept": {
-        "title": "品牌理念",
-        "description": "這是品牌理念介紹",
-        "section_1": {
-          "title": "區塊1",
-          "description": "區塊1內容"
-        }
-      },
-      "story": {
-        "title": "創辦人故事",
-        "description": "這是創辦人故事介紹",
-        "section_1": {
-          "title": "區塊1",
-          "description": "區塊1內容"
-        }
-      },
-      "charitable": {
-        "title": "粉紅公益",
-        "description": "這是粉紅公益介紹",
-        "section_1": {
-          "title": "區塊1",
-          "description": "區塊1內容"
-        }
-      },
-      "innovation": {
-        "title": "科研創新",
-        "description": "這是科研創新介紹",
-        "section_1": {
-          "title": "區塊1",
-          "description": "區塊1內容"
-        }
-      }
-    },
     "series_page": {
       "series": {
         "Youthfinity": {
@@ -56,7 +22,7 @@
           "header_links": "product_series",
           "header_img": "series.jpg"
         },
-        "TimeWise": {
+        "TimeWise3D": {
           "name": "TimeWise Moisture Renewing/TimeWise® Age Minimize 3D™",
           "cn": "時光精靈/ 時光精靈3D系列",
           "header_links": "product_series",
@@ -98,13 +64,13 @@
           "header_links": "product_series",
           "header_img": "series.jpg"
         },
-        "Male": {
+        "MK_Men": {
           "name": "MK Men",
           "cn": "男士系列",
           "header_links": "product_series",
           "header_img": "series.jpg"
         },
-        "Satin_Body": {
+        "Body": {
           "name": "Body",
           "cn": "美體系列",
           "header_links": "product_series",
@@ -122,49 +88,49 @@
           "header_links": "product_features",
           "header_img": "series.jpg"
         },
-        "Toner": {
+        "Lotion": {
           "name": "Lotion",
           "cn": "化妝水",
           "header_links": "product_features",
           "header_img": "series.jpg"
         },
-        "Lotion": {
+        "Lotion_Cream": {
           "name": "Lotion&Cream",
           "cn": "乳液/乳霜",
           "header_links": "product_features",
           "header_img": "series.jpg"
         },
-        "Facial_Mask": {
+        "Mask": {
           "name": "Mask",
           "cn": "面膜",
           "header_links": "product_features",
           "header_img": "series.jpg"
         },
-        "Essence": {
+        "Serum_Oil": {
           "name": "Serum & Oil",
           "cn": "精華液/油",
           "header_links": "product_features",
           "header_img": "series.jpg"
         },
-        "Body_Care": {
+        "Sun_Care": {
           "name": "Sun Care",
           "cn": "身體防曬/保養",
           "header_links": "product_features",
           "header_img": "series.jpg"
         },
-        "Eye_Lip_Care": {
+        "Eye_Lips_Care": {
           "name": "Eye&Lips Care",
           "cn": "眼唇保養",
           "header_links": "product_features",
           "header_img": "series.jpg"
         },
-        "Special_Care": {
+        "Targeted_Solutions": {
           "name": "Targeted Solutions",
           "cn": "特殊護理",
           "header_links": "product_features",
           "header_img": "series.jpg"
         },
-        "Beauty_Apparatus": {
+        "Skin_Care_Tools": {
           "name": "Skin Care Tools",
           "cn": "美容儀器",
           "header_links": "product_features",
@@ -176,19 +142,19 @@
           "header_links": "makeup",
           "header_img": "series.jpg"
         },
-        "Facial": {
+        "Face": {
           "name": "Face",
           "cn": "臉部系列",
           "header_links": "makeup",
           "header_img": "series.jpg"
         },
-        "Eye": {
+        "Eyes": {
           "name": "Eyes",
           "cn": "眼部系列",
           "header_links": "makeup",
           "header_img": "series.jpg"
         },
-        "Makeup_Tools": {
+        "Tools": {
           "name": "Tools",
           "cn": "彩妝工具",
           "header_links": "makeup",
@@ -200,10 +166,10 @@
           "header_links": "makeup",
           "header_img": "series.jpg"
         },
-        "Tonic": {
+        "Nutrition": {
           "name": "Nutrition",
           "cn": "食物補充品",
-          "header_links": "tonic",
+          "header_links": "Nutrition",
           "header_img": "series.jpg"
         },
         "Hydrophilic": {
@@ -245,14 +211,6 @@
       "video": "Video",
       "function": "Function",
       "principal_components": "Principal Components"
-    },
-    "others_page": {
-      "title": "其他",
-      "description": "這是其他介紹",
-      "section_1": {
-        "title": "區塊1",
-        "description": "區塊1內容"
-      }
     }
   },
   "header_links": {
@@ -282,7 +240,7 @@
           "name": "時光精靈Repair系列",
           "products": ["pd4", "pd5", "pd6", "pd7", "pd8", "pd9", "pd10", "pd11"]
         },
-        "TimeWise": {
+        "TimeWise3D": {
           "name": "時光精靈/ 時光精靈3D系列",
           "products": ["pd12", "pd13", "pd14", "pd15", "pd16", "pd17", "pd18", "pd19", "pd20", "pd21", "pd22"]
         },
@@ -310,11 +268,11 @@
           "name": "淨顏系列",
           "products": ["pd51", "pd52", "pd53", "pd54", "pd55", "pd56"]
         },
-        "Male": {
+        "MK_Men": {
           "name": "男士系列",
           "products": ["pd103", "pd104"]
         },
-        "Satin_Body": {
+        "Body": {
           "name": "美體系列",
           "products": ["pd89", "pd90", "pd91", "pd92", "pd93", "pd94", "pd95", "pd96", "pd97", "pd98"]
         }
@@ -331,35 +289,35 @@
           "name": "潔顏",
           "products": ["pd4", "pd12", "pd23", "pd27", "pd46", "pd51", "pd104"]
         },
-        "Toner": {
+        "Lotion": {
           "name": "化妝水",
           "products": ["pd14", "pd29", "pd49", "pd53"]
         },
-        "Lotion": {
+        "Lotion_Cream": {
           "name": "乳液/乳霜",
           "products": ["pd10", "pd11", "pd16", "pd17", "pd22", "pd30", "pd31", "pd32", "pd37", "pd48", "pd56"]
         },
-        "Facial_Mask": {
+        "Mask": {
           "name": "面膜",
           "products": ["pd5", "pd6", "pd13", "pd28", "pd47", "pd52"]
         },
-        "Essence": {
+        "Serum_Oil": {
           "name": "精華液/油",
           "products": ["pd1", "pd2", "pd7", "pd8", "pd15", "pd21", "pd25", "pd50", "pd54", "pd55"]
         },
-        "Body_Care": {
+        "Sun_Care": {
           "name": "身體防曬/保養",
           "products": ["pd99", "pd100", "pd101"]
         },
-        "Eye_Lip_Care": {
+        "Eye_Lips_Care": {
           "name": "眼唇保養",
           "products": ["pd3", "pd9", "pd18", "pd33", "pd34", "pd103"]
         },
-        "Special_Care": {
+        "Targeted_Solutions": {
           "name": "特殊護理",
           "products": ["pd20", "pd24", "pd26", "pd38"]
         },
-        "Beauty_Apparatus": {
+        "Skin_Care_Tools": {
           "name": "美容儀器",
           "products": ["pd110"]
         }
@@ -372,17 +330,17 @@
           "name": "唇部系列",
           "products": ["pd57", "pd58"]
         },
-        "Facial": {
+        "Face": {
           "name": "臉部系列",
           "products": ["pd59", "pd60", "pd61", "pd62", "pd63", "pd64", "pd65", "pd66", "pd67", "pd68", "pd69"]
         },
-        "Eye": {
+        "Eyes": {
           "name": "眼部系列",
           "products": ["pd70", "pd71", "pd72", "pd73", "pd74", "pd75", "pd76", "pd77", "pd78"]
         },
-        "Makeup_Tools": {
+        "Tools": {
           "name": "彩妝工具",
-          "products": ["pd79", "pd80", "pd81", "pd82", "pd83", "pd84", "pd85", "pd86", "p87", "pd88"]
+          "products": ["pd79", "pd80", "pd81", "pd82", "pd83", "pd84", "pd85", "pd86", "pd87", "pd88"]
         },
         "Fragrance": {
           "name": "香氛系列",
@@ -390,10 +348,10 @@
         }
       }
     },
-    "tonic": {
+    "Nutrition": {
       "name": "Nutrition",
       "series": {
-        "Tonic": {
+        "Nutrition": {
           "name": "食物補充品",
           "products": ["pd105", "pd106", "pd107", "pd108"]
         }
@@ -653,7 +611,7 @@
       "principal_components": "Resveratrol Microcapsules-Provides triple anti-oxidant effects, helps promote even skin tone and protect the natural collagen of the skin.<br>•<br>Vitamin B3-has whitening and brightening effects and is also an antioxidant.<br>•<br>Anti-aging peptides-stimulate the production of collagen and elastin, making the skin younger and more elastic.",
       "usage": "Every morning and evening, take an appropriate amount of the product and massage it evenly on the wet face and neck. If necessary, add water and rub to increase the foam, and then rinse off with water",
       "price": "HK$288",
-      "video_source": "時光精靈 3D 系列.mp4",
+      "video_source": "時光精靈3D系列.mp4",
       "normal_image": null,
       "small_images": {
         "img_01": "p/c/pc11.jpg"
@@ -672,7 +630,7 @@
       "principal_components": null,
       "usage": null,
       "price": "HK$358",
-      "video_source": "時光精靈 3D 系列.mp4",
+      "video_source": "時光精靈3D系列.mp4",
       "normal_image": null,
       "small_images": {
         "img_01": "p/c/pc21.jpg"
@@ -691,7 +649,7 @@
       "principal_components": null,
       "usage": null,
       "price": "HK$298",
-      "video_source": "時光精靈 3D 系列.mp4",
+      "video_source": "時光精靈3D系列.mp4",
       "normal_image": null,
       "small_images": {
         "img_01": "p/c/pc31.jpg"
@@ -729,7 +687,7 @@
       "principal_components": "Resveratrol Microcapsules-Provides triple anti-oxidant effects, helps promote even skin tone and protect the natural collagen of the skin.<br>•<br>Vitamin B3-has whitening and brightening effects and is also an antioxidant.<br>•<br>Anti-aging peptides-stimulate the production of collagen and elastin, making the skin younger and more elastic.",
       "usage": "Every morning, take an appropriate amount of the product and apply it evenly on the face and neck.",
       "price": "HK$428",
-      "video_source": "時光精靈 3D 系列.mp4",
+      "video_source": "時光精靈3D系列.mp4",
       "normal_image": null,
       "small_images": {
         "img_01": "p/c/pc51.jpg"
@@ -748,7 +706,7 @@
       "principal_components": "Resveratrol Microcapsules-Provides triple anti-oxidant effects, helps promote even skin tone and protect the natural collagen of the skin.<br>•<br>Vitamin B3-has whitening and brightening effects and is also an antioxidant.<br>•<br>Anti-aging peptides-stimulate the production of collagen and elastin, making the skin younger and more elastic.",
       "usage": "Every night, take an appropriate amount of the product and apply it evenly on the face and neck.",
       "price": "HK$428",
-      "video_source": "時光精靈 3D 系列.mp4",
+      "video_source": "時光精靈3D系列.mp4",
       "normal_image": null,
       "small_images": {
         "img_01": "p/c/pc61.jpg"
@@ -767,7 +725,7 @@
       "principal_components": "Resveratrol Microcapsules-Provides triple anti-oxidant effects, helps promote even skin tone and protect the natural collagen of the skin.<br>•<br>Vitamin B3-has whitening and brightening effects and is also an antioxidant.<br>•<br>Anti-aging peptides-stimulate the production of collagen and elastin, making the skin younger and more elastic.",
       "usage": "Every morning and evening, after cleansing and toning, take an appropriate amount with your ring finger and apply it evenly around the eyes. Press gently until it is completely absorbed.",
       "price": "HK$388",
-      "video_source": "時光精靈 3D 系列.mp4",
+      "video_source": "時光精靈3D系列.mp4",
       "normal_image": null,
       "small_images": {
         "img_01": "p/c/pc71.jpg"
@@ -1616,7 +1574,8 @@
       "usage": null,
       "price": "HK$190",
       "video_source": null,
-      "normal_image": {
+      "normal_image": null,
+      "small_images": {
         "img_01": "m/b/mb31.jpg",
         "img_02": "m/b/mb32.jpg",
         "img_03": "m/b/mb33.jpg"
@@ -1654,7 +1613,7 @@
       "principal_components": null,
       "usage": "After cleansing and daily skin care regimen every morning, apply an appropriate amount of product with finger pulp or brush on the face and neck.",
       "price": "HK$320",
-      "video_source": "時光精靈3D無瑕修顔粉底乳.mp4",
+      "video_source": "pc81.mp4",
       "normal_image": null,
       "small_images": {
         "img_01": "m/b/mb51.jpg",
@@ -1795,7 +1754,9 @@
       "price": "HK$130",
       "video_source": null,
       "normal_image": null,
-      "small_images": null,
+      "small_images": {
+        "img_01":"m/c/mc11.jpg"
+      },
       "description_image": null
     },
     "pd71": {
@@ -1916,7 +1877,9 @@
       "price": "HK$198",
       "video_source": null,
       "normal_image": null,
-      "small_images": null,
+      "small_images": {
+        "img_01":"m/c/mc71.jpg"
+      },
       "description_image": null
     },
     "pd77": {
@@ -2106,7 +2069,7 @@
       "principal_components": null,
       "usage": null,
       "price": "HK$150",
-      "video_source": "z",
+      "video_source": null,
       "normal_image": null,
       "small_images": {
         "img_01": "m/d/md81.jpg"
@@ -2613,7 +2576,7 @@
       "function": "•白藜蘆醇微囊 - 提供三重抗氧化功效，有助促進膚色均勻及保護皮膚的天然膠原蛋白。<br><br>•抗衰老胜肽 - 刺激膠原蛋白和彈力蛋白生成，讓肌膚更年輕，更富彈性。<br><br>•維他命B3 - 具有美白提亮功效，同屬抗氧化劑。",
       "principal_components": "•為肌膚提供廣譜防曬保護擔，幫助抵禦UVA 及UVA對肌膚的傷害。<br>•為肌膚擔當抗氧化劑角色，幫助抵禦環境壓力侵害。<br>•特別添加仙人掌萃取增強肌膚天然保濕屏障。<br>•能顯著改善細紋及皺紋，提升肌膚彈性。<br>•膚色更均勻明亮，肌膚重拾活力。<br>•與時光精靈3D晚霜配搭使用，雙效加乘，肌膚顯得更年輕，柔滑，煥發青春光彩。",
       "price": "HK$428",
-      "video_source": "時光精靈 3D 系列.mp4",
+      "video_source": "時光精靈3D系列.mp4",
       "normal_image": null,
       "small_images": {
         "img_01": "時光精靈3D日霜.png"
@@ -2632,7 +2595,7 @@
       "function": "補充肌膚飽滿水分 時光精靈保濕柔膚水補充肌膚所需，高效鎖水技術，強化肌膚屏障，一抹徹底清潔，二抹保濕瑩潤，盛放肌膚原生之美。COSMOS天然認證 天然淨活多效精華油超輕盈多效精華油，瞬間吸收不黏膩。所有膚質適用，含有多種天然油脂加乘作用，令皮膚倍感水潤滋潤，給予肌膚活力，散發健康光彩。",
       "principal_components": "時光精靈保濕柔膚水<br>透明質酸 + 植物草本萃取 + 維他命B3 + 巴西莓果萃取<br><br>天然淨活多效精華油<br>•芝麻油 (Sesame Seed Oil) ：富含豐富的維他命，礦物質和必需脂肪酸，提供抗氧化保護，幫助抵抗自由基的侵害。具有滋潤、保濕及調理肌膚的功效。<br>•橄欖果油 (Olive Fruit Oil)：含有豐富的維他命A，E及多酚等美肌成分，有效保持皮膚彈性和潤澤。有助舒緩和滋潤皮膚。具有抗氧化作用。<br>•甜杏仁油 (Sweet Almond Oil) ：易吸收，含豐富維他命，具有滋養、保濕、舒緩、抗過敏的功效，幫助滋潤皮膚和緩解乾燥。<br>•角鯊烷 (Squalane) ：親膚性高，發揮保濕、潤膚的效果。能減緩皮膚水分蒸發，維持皮膚彈性飽滿。<br>•維他命 E (Tocopherol)：抗氧化成分，萃取自大豆並添加至葵花籽油中，幫助抵禦自由基的侵害。",
       "price": "HK$688",
-      "video_source": "時光精靈 3D 系列.mp4",
+      "video_source": "時光精靈3D系列.mp4",
       "normal_image": null,
       "small_images": {
         "img_01": "轉肌活膚組合.png"
