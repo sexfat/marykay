@@ -119,6 +119,16 @@ h3 {
   font-size: 24px;
 }
 
+footer {
+  h4 {
+    font-size: 1.2rem; 
+    @include m(){
+        font-size: 1.7rem;  
+    
+    }
+  }
+}
+
 .bold {
   font-weight: 500;
 }
