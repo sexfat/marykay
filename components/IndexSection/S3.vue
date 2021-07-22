@@ -15,20 +15,17 @@
                   SKIN CARE THAT DELIVERS RESULTS
                 </h2>
                 <div data-aos="fade-right" data-aos-duration="1000">
-                  <div class="body margin-top_30">
-                    除了品牌承諾<br />
-                    我們相信真正的優質產品還建立在實質成效上 <br />
-                    超過300位科學家的研發團隊與1,500項產品專利 <br />
-                    提供全方位美妝、護膚產品，創造專屬您的個人化完美肌膚體驗
-                  </div>
-                  <p class="small_title init margin-top_30">科學團隊與R3全球研發中心</p>
-                  <a href="#" class="btn-outline btn-large margin-top_2 marginauto_m"> 更多資訊 </a>
+                  <!-- eslint-disable-next-line vue/no-v-html -->
+                  <div class="body margin-top_30" v-html="$t('pages.homepage.s3.body')"></div>
+                  <p class="small_title init margin-top_30">{{ $t('pages.homepage.s3.small_title') }}</p>
+                  <a href="#" class="btn-outline btn-large margin-top_2 marginauto_m">
+                    {{ $t('pages.homepage.more') }}</a
+                  >
                 </div>
               </div>
             </div>
           </div>
         </div>
-
         <div class="video_overlay" style="background-color: rgba(0, 0, 0, 0.45)"></div>
       </div>
     </div>

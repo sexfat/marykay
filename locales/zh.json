@@ -1,14 +1,38 @@
 {
   "pages": {
     "homepage": {
-      "title": "首頁",
-      "description": "這是首頁介紹",
-      "section_1": {
-        "title": "區塊1",
-        "description": "區塊1內容"
+      "more": "更多資訊",
+      "more_news": "更多報導",
+      "s1": {
+        "h3": "一支口紅的力量也能為世界帶來改變",
+        "body": "Mary Kay 創立於1963 年，我們使命始終如一：<br>豐富女性人生，讓女性感到快樂、美麗、自信。<br>我們提供優秀的產品和獨一無二的事業機會<br>賦予女性擁有自主事業的權利，並鼓勵女性追求自我價值<br>我們的目標一直是為每一個女性的成功做好準備，<br>而我們對於這個目標的堅持已經超過57年了<br>我們相信，一支口紅的力量也能為世界帶來改變<br>"
+      },
+      "s2": {
+        "h3": "品牌承諾",
+        "body": "MARY KAY 承諾將每一位顧客做為出發點，<br/>在產品質量和安全方面我們從不妥協， <br />不斷突破創新和技術的界限， <br/>並致力與打造創造獨一無二且能夠帶來真正的效果的產品 <br />不僅創造令顧客滿意的體驗， <br />更讓女性從內到外都散發美麗。"
+      },
+      "s3": {
+        "body": "除了品牌承諾<br />我們相信真正的優質產品還建立在實質成效上 <br />超過300位科學家的研發團隊與1,500項產品專利 <br />提供全方位美妝、護膚產品，創造專屬您的個人化完美肌膚體驗",
+        "small_title": "科學團隊與R3全球研發中心"
+      },
+      "s4": {
+        "h2": "粉紅讓世界更美好",
+        "body": "除了提倡女性平權<br />MARY KAY也同時致力於環境保護、社會關懷、慈善公益等議題",
+        "slide_1": {
+          "h3": "環境永續與保護",
+          "content_footer": "包括改良社區水資源包括灌溉系統、基質研究和作物生產多樣性。並減輕海洋污染、保護生物多樣性和海洋資源"
+        },
+        "slide_2": {
+          "h3": "品牌成就與獲獎",
+          "content_footer": "玫琳凱與聯合國六大機構 合作推出女性創業加速器計畫 (Women's Entrepreneurship Accelerator)"
+        },
+        "slide_3": {
+          "h3": "社會公益與慈善",
+          "content_footer": "首位Pink Changing Lives Honoree得主 Monique Coleman"
+        }
       }
     },
-    "series_page": { 
+    "series_page": {
       "series": {
         "Youthfinity": {
           "name": "臻時粹顏系列",
@@ -211,6 +235,31 @@
       "video": "影片",
       "function": "功能",
       "principal_components": "主要成分"
+    },
+    "footer": {
+      "follow": "關注我們",
+      "contact_us": "與我們聯繫",
+      "customer_service_tel": "玫琳凱服務專線",
+      "tel": "(02) 2735-8088",
+      "contact_style": "免付費服務專線",
+      "contact_way": "0800-033690",
+      "related_links": {
+        "name": "相關連結",
+        "links": {
+          "link_1": "美容顧問登入",
+          "link_2": "全球分公司",
+          "link_3": "​商德約法"
+        }
+      },
+      "shopping_instructions": {
+        "name": "購物說明",
+        "links": {
+          "link_1": "產品滿意保證",
+          "link_2": "全球隱私權聲明",
+          "link_3": "消費者隱私群方針",
+          "link_4": "​使用者規範及協議"
+        }
+      }
     }
   },
   "header_links": {
@@ -1754,7 +1803,7 @@
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01":"m/c/mc11.jpg"
+        "img_01": "m/c/mc11.jpg"
       },
       "description_image": null
     },
@@ -1877,7 +1926,7 @@
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01":"m/c/mc71.jpg"
+        "img_01": "m/c/mc71.jpg"
       },
       "description_image": null
     },

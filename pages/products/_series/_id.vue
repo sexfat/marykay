@@ -39,18 +39,16 @@
               <span class="weight"> {{ $t(`${path}.capacity`) }}</span> /
               <span class="prices">{{ $t(`${path}.price`) }}</span>
             </div>
-            <!--eslint-disable-next-line vue/no-v-html-->
+            <!--eslint-disable vue/no-v-html-->
             <div class="desc" v-html="$t(`${path}.description`)"></div>
             <!-- <div class="btn_buy">如何購買</div> -->
             <div class="detail">
               <section v-if="productData ? productData.skin_suitable : false">
                 <a href="#content-1" class="accordion-toggle">{{ $t('pages.product_page.skin_suitable') }}</a>
-                <!--eslint-disable-next-line vue/no-v-html-->
                 <div id="content-1" class="accordion-content" v-html="$t(`${path}.skin_suitable`)"></div>
               </section>
               <section v-if="productData ? productData.usage : false">
                 <a href="#content-2" class="accordion-toggle">{{ $t('pages.product_page.usage') }}</a>
-                <!--eslint-disable-next-line vue/no-v-html-->
                 <div id="content-2" class="accordion-content" v-html="$t(`${path}.usage`)"></div>
               </section>
             </div>
@@ -69,12 +67,10 @@
         </section>
         <section v-if="productData ? productData.function : false">
           <h3>{{ $t('pages.product_page.function') }}</h3>
-          <!--eslint-disable-next-line vue/no-v-html-->
           <div v-html="$t(`${path}.function`)"></div>
         </section>
         <section v-if="productData ? productData.principal_components : false">
           <h3>{{ $t('pages.product_page.principal_components') }}</h3>
-          <!--eslint-disable-next-line vue/no-v-html-->
           <div v-html="$t(`${path}.principal_components`)"></div>
         </section>
       </div>

@@ -57,14 +57,11 @@ export default {
       return this.$i18n.messages[this.$i18n.locale].products
     },
     title() {
-      return this.$i18n.messages.en.pages.series_page.series[this.id].name
+      return this.$i18n.messages[this.$i18n.locale].pages.series_page.series[this.id].name
     },
     bannerImgSrc() {
-      return this.$i18n.messages.en.pages.series_page.series[this.id].header_img
+      return this.$i18n.messages[this.$i18n.locale].pages.series_page.series[this.id].header_img
     },
-  },
-  mounted() {
-    // console.log(this.$i18n.messages)
   },
 }
 </script>
