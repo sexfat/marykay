@@ -137,6 +137,7 @@ export default {
         zh: '英文',
         en: 'chinese',
       },
+      MmenuLightClose: false,
     }
   },
   computed: {
@@ -148,26 +149,18 @@ export default {
     },
   },
   mounted() {
-    const mq = window.matchMedia('(min-width: 768px)')
-    if (mq.matches) {
-      console.log('>768 桌機版')
-    } else {
-      console.log('>767手機版')
-      this.mobileMeauInit()
-    }
-    console.log(this.$i18n)
+    this.resizeChangMenu()
+    window.addEventListener('resize', this.resizeChangMenu)
   },
   methods: {
     mobileMeauInit() {
       // eslint-disable-next-line no-undef
-      this.menu = new MmenuLight(this.$refs.navigation, 'all')
+      this.menu = new MmenuLight(this.$refs.navigation)
       this.drawer = this.menu.offcanvas({
         position: 'left',
       })
       this.menu.navigation({
-        // selectedClass: 'Selected',
         slidingSubmenus: true,
-        // theme: 'dark',
         title: 'Mary Kay',
       })
     },
@@ -185,6 +178,14 @@ export default {
         case 'zh':
           this.$i18n.setLocale('en')
           break
+      }
+    },
+    resizeChangMenu() {
+      if (window.innerWidth >= '768' && this.MmenuLightClose) {
+        window.location.reload()
+      } else if (window.innerWidth < '768') {
+        this.MmenuLightClose = true
+        this.mobileMeauInit()
       }
     },
   },
