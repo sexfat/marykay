@@ -152,6 +152,9 @@ export default {
     this.resizeChangMenu()
     window.addEventListener('resize', this.resizeChangMenu)
   },
+  beforeDestroy() {
+    window.removeEventListener('resize', this.resizeChangMenu)
+  },
   methods: {
     mobileMeauInit() {
       // eslint-disable-next-line no-undef
