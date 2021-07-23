@@ -8,4 +8,5 @@ dist.zip
 package/*
 *.mp4
 .nuxt
+img
 .eslintcache
