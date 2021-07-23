@@ -24,7 +24,7 @@ $ npm run generate
 
 ### 雲端檔案位置
 * [商品分類](https://docs.google.com/spreadsheets/d/1rWjCAO8fDey9V4xt_mycrFjTQ1LMAyc-/edit#gid=231340791)
-* [商品中英文檔 Excel](https://drive.google.com/drive/folders/1ml-QFVeOywaTi-ou1ak66e_9TjaupXBs)
+* [商品中英文檔 Excel](https://drive.google.com/drive/u/1/folders/156xKNs3C89Xb6FRGBIvfToB3M3LwadPy)
 * [影片檔](https://drive.google.com/drive/folders/1CE1GfwhF_mxcZgU5K-IUuIgvchI50nEp)
 
 ```bash
