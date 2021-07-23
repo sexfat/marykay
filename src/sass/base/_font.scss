@@ -84,11 +84,6 @@ body {
 
 }
 
-
-
-
-
-
 // 標楷體中文
 .font1 {
   font-family: 'Noto Serif TC', sans-serif;
@@ -113,6 +108,9 @@ body {
 h4 {
   font-family: 'Lato', sans-serif;
   font-size: 26px;
+  @include m(){
+   font-size: 23px;
+  }
 }
 
 h3 {
