@@ -381,7 +381,7 @@
         },
         "Face": {
           "name": "臉部系列",
-          "products": ["pd59", "pd60", "pd61", "pd62", "pd63", "pd64", "pd65", "pd66", "pd67", "pd68", "pd69"]
+          "products": ["pd59", "pd60", "pd61", "pd62", "pd19", "pd64", "pd65", "pd66", "pd67", "pd68", "pd69"]
         },
         "Eyes": {
           "name": "眼部系列",
@@ -415,11 +415,11 @@
         },
         "Reverse_Age": {
           "name": "逆齡專區",
-          "products": ["pd1", "pd9", "pd15"]
+          "products": ["pd113", "pd1", "pd9", "pd6", "pd15", "pd108", "pd105"]
         },
         "Oil_Control": {
           "name": "控油專區",
-          "products": ["pd38", "pd52", "pd55", "pd59"]
+          "products": ["pd38", "pd52", "pd55", "pd59", "pd114"]
         },
         "Relief": {
           "name": "舒壓專區",
@@ -427,7 +427,7 @@
         },
         "Slug": {
           "name": "懶人專區",
-          "products": ["pd12", "pd13", "pd36", "pd62"]
+          "products": ["pd115", "pd12", "pd13", "pd36", "pd62", "pd110"]
         }
       }
     }
@@ -660,7 +660,7 @@
       "principal_components": "Resveratrol Microcapsules-Provides triple anti-oxidant effects, helps promote even skin tone and protect the natural collagen of the skin.<br>•<br>Vitamin B3-has whitening and brightening effects and is also an antioxidant.<br>•<br>Anti-aging peptides-stimulate the production of collagen and elastin, making the skin younger and more elastic.",
       "usage": "Every morning and evening, take an appropriate amount of the product and massage it evenly on the wet face and neck. If necessary, add water and rub to increase the foam, and then rinse off with water",
       "price": "HK$288",
-      "video_source": "時光精靈3D系列.mp4",
+      "video_source": "pc.mp4",
       "normal_image": null,
       "small_images": {
         "img_01": "p/c/pc11.jpg"
@@ -679,7 +679,7 @@
       "principal_components": null,
       "usage": null,
       "price": "HK$358",
-      "video_source": "時光精靈3D系列.mp4",
+      "video_source": null,
       "normal_image": null,
       "small_images": {
         "img_01": "p/c/pc21.jpg"
@@ -698,7 +698,7 @@
       "principal_components": null,
       "usage": null,
       "price": "HK$298",
-      "video_source": "時光精靈3D系列.mp4",
+      "video_source": "pc.mp4",
       "normal_image": null,
       "small_images": {
         "img_01": "p/c/pc31.jpg"
@@ -736,7 +736,7 @@
       "principal_components": "Resveratrol Microcapsules-Provides triple anti-oxidant effects, helps promote even skin tone and protect the natural collagen of the skin.<br>•<br>Vitamin B3-has whitening and brightening effects and is also an antioxidant.<br>•<br>Anti-aging peptides-stimulate the production of collagen and elastin, making the skin younger and more elastic.",
       "usage": "Every morning, take an appropriate amount of the product and apply it evenly on the face and neck.",
       "price": "HK$428",
-      "video_source": "時光精靈3D系列.mp4",
+      "video_source": "pc.mp4",
       "normal_image": null,
       "small_images": {
         "img_01": "p/c/pc51.jpg"
@@ -755,7 +755,7 @@
       "principal_components": "Resveratrol Microcapsules-Provides triple anti-oxidant effects, helps promote even skin tone and protect the natural collagen of the skin.<br>•<br>Vitamin B3-has whitening and brightening effects and is also an antioxidant.<br>•<br>Anti-aging peptides-stimulate the production of collagen and elastin, making the skin younger and more elastic.",
       "usage": "Every night, take an appropriate amount of the product and apply it evenly on the face and neck.",
       "price": "HK$428",
-      "video_source": "時光精靈3D系列.mp4",
+      "video_source": "pc.mp4",
       "normal_image": null,
       "small_images": {
         "img_01": "p/c/pc61.jpg"
@@ -774,7 +774,7 @@
       "principal_components": "Resveratrol Microcapsules-Provides triple anti-oxidant effects, helps promote even skin tone and protect the natural collagen of the skin.<br>•<br>Vitamin B3-has whitening and brightening effects and is also an antioxidant.<br>•<br>Anti-aging peptides-stimulate the production of collagen and elastin, making the skin younger and more elastic.",
       "usage": "Every morning and evening, after cleansing and toning, take an appropriate amount with your ring finger and apply it evenly around the eyes. Press gently until it is completely absorbed.",
       "price": "HK$388",
-      "video_source": "時光精靈3D系列.mp4",
+      "video_source": "pc.mp4",
       "normal_image": null,
       "small_images": {
         "img_01": "p/c/pc71.jpg"
@@ -1212,7 +1212,7 @@
       "skin_suitable": "Designed for Asian skin type<br>Suitable for Asian skin type<br>Suitable for all skin types",
       "function": "Clinical test confirmation *<br>•After using the product 2 times a week for three weeks, the general skin texture is significantly improved:<br>86% of women witness the skin with brightened gloss<br>81% of women witness the skin looks brighter <br>81% of women witness the improvement in the dark yellow complexion<br><br>* Results from a China's independent clinical test, women in the test evaluate the results after using the product twice a week for three weeks.",
       "principal_components": "<br>• Tahitian Black Pearl: Protecting skin, brightens skin color, can also give skin energy, awaken skin vitality and enhance hydration and resistance.<br>• Opti-Bright™ Complex: Exclusively developed complex combines Angelica Acutiloba Root, plant-based amino acid and nicotine hyamine and produces synergies to target at a variety of complex skin factors, inhibit melanin and color spots, improve dullness, and help to minimize existing spots, so that the skin looks bright, smooth and flawless. <br>• Samphire: a magic plant growing in high salt-content coastlines, with specialwater storage and regulating capacity, can improve the skin moisture transmission channel, so that the skin stayed moisturized and crystal clear for a long time.",
-      "usage": "Apply the mask on a clean face. / Softly open the mask and cover your forehead and the cheek, so that it is fitted with the face contour. / Gently applied to both sides and flatten the mask to fit the lower jaw line. / Pay attention to the sides of the nose, so that it sticks to the nose. / Take off the mask after 15-20 minutes. Do not need to wipe away the remaining essence on the face, gently massage to the skin until its completely absorbed. / It is recommended to use 2-3 times a week.",
+      "usage": "Apply the mask on a clean face. Softly open the mask and cover your forehead and the cheek, so that it is fitted with the face contour. Gently applied to both sides and flatten the mask to fit the lower jaw line. Pay attention to the sides of the nose, so that it sticks to the nose. Take off the mask after 15-20 minutes. Do not need to wipe away the remaining essence on the face, gently massage to the skin until its completely absorbed. It is recommended to use 2-3 times a week.",
       "price": "HK$480",
       "video_source": "pg.mp4",
       "normal_image": null,
@@ -1323,7 +1323,7 @@
       "header_links": ["product_series", "product_features"],
       "description": "• The texture is gently clear. It can provide cleansing effect without irritating the skin, and quickly moisturize the skin.<br>• Restore the skin balance, feel fresh and soft, and improve the sensitive skin .",
       "capacity": "95g",
-      "skin_suitable": null,
+      "skin_suitable": "Suitable for sensitive  skin",
       "function": null,
       "principal_components": null,
       "usage": null,
@@ -1342,7 +1342,7 @@
       "header_links": ["product_series", "product_features"],
       "description": "• The texture is smooth and not sticky, can quickly moist the skin.<br>• Rich hydrolyzamer extracts can effectively reconstruct damaged sebum membranes.<br>• Continuous deep moisturizing effect to prevent water loss on the surface of the skin.",
       "capacity": "50ml",
-      "skin_suitable": null,
+      "skin_suitable": "Suitable for sensitive  skin",
       "function": null,
       "principal_components": null,
       "usage": null,
@@ -1361,7 +1361,7 @@
       "header_links": ["product_series", "product_features"],
       "description": "• Can help protect your skin from the external environment, improve redness and peeling, moisturize and balance the skin, and give the skin a thorough care.<br>• Repair skin moisturizing layer, restore teh skin water-locking usage, and nourish the skin.",
       "capacity": "50g",
-      "skin_suitable": null,
+      "skin_suitable": "Suitable for sensitive  skin",
       "function": null,
       "principal_components": null,
       "usage": null,
@@ -1380,7 +1380,7 @@
       "header_links": ["product_series", "product_features"],
       "description": "• The mild and clear texture provides second round of cleansing effect and can improve the absorption of follow-up skin care products.<br>• Restore the skin balance, feel fresh and soft, and improve the condition of sensitive and dry skin .<br>• Contains a variety of moisturizing and soothing ingredients , enhances skin antioxidation processes, and effectively soothes any discomfort.",
       "capacity": "100ml",
-      "skin_suitable": null,
+      "skin_suitable": "Suitable for sensitive  skin",
       "function": null,
       "principal_components": null,
       "usage": null,
@@ -1399,7 +1399,7 @@
       "header_links": ["product_series", "product_features", "skincare"],
       "description": "• Soothing skin sensitive state.<br>• Rapid hydration effect, making the skin softer.<br>• Help the skin restore health and balance.",
       "capacity": "29g",
-      "skin_suitable": null,
+      "skin_suitable": "Suitable for sensitive  skin",
       "function": null,
       "principal_components": null,
       "usage": null,
@@ -2578,7 +2578,7 @@
       "產品英文名稱": "Skinvigorate Sonic",
       "series": null,
       "header_links": ["product_features"],
-      "Product Description": "All you need is 60 seconds for a superior sonic clean! This rechargeable device removes four times more dirt, oil, impurities, makeup and pollutants – including tiny pollution particles known as PM2.5 – than hand cleansing.* It cleans hard-to-reach places and is suitable for twice-daily cleansing on all skin types, including sensitive skin.",
+      "description": "All you need is 60 seconds for a superior sonic clean! This rechargeable device removes four times more dirt, oil, impurities, makeup and pollutants – including tiny pollution particles known as PM2.5 – than hand cleansing.* It cleans hard-to-reach places and is suitable for twice-daily cleansing on all skin types, including sensitive skin.",
       "capacity": "1入",
       "skin_suitable": " Suitable for all skin types ",
       "usage": "Skinvigorate Sonic™ Skin Care System removes four times more dirt, oil, impurities, makeup and pollutants – including tiny pollution particles known as PM2.5 – than hand-cleansing!* With an oscillating brush head that can move back and forth over 12,000 times per minute, this device is designed to give you a deep clean that gently lifts away pore-clogging impurities.",
@@ -2597,7 +2597,7 @@
       "產品英文名稱": "Pink Clay Edition",
       "series": null,
       "header_links": null,
-      "Product Description": "This deep cleansing mask has a soft texture and a light scent. It cleans the skin, purifies the pores and removes the dirt without causing irritation and allergy to the skin. It has an anti-oxidant and skin repairing renewal function, effectively protecting the skin from free radicals and reducing dull-looking and tired face skin.",
+      "description": "This deep cleansing mask has a soft texture and a light scent. It cleans the skin, purifies the pores and removes the dirt without causing irritation and allergy to the skin. It has an anti-oxidant and skin repairing renewal function, effectively protecting the skin from free radicals and reducing dull-looking and tired face skin.",
       "capacity": "85g",
       "skin_suitable": "Good for dry and oily skins.",
       "usage": "Apply evenly on the face after cleaning. Leave it on the skin for 10 minutes. Then rinse thoroughly with warm water and pat dry. Recommended to use 1 or 2 times weekly.",
@@ -2606,11 +2606,7 @@
       "price": "HK$228",
       "video_source": "Skinvigorate Sonic 聲波活膚潔面儀.mp4",
       "normal_image": null,
-      "small_images": {
-        "img_01": "粉紅深層潔膚泥.png",
-        "img_02": "粉紅深層潔膚泥01.png",
-        "img_03": "粉紅深層潔膚泥02.png"
-      },
+      "small_images": null,
       "description_image": null
     },
     "pd112": {
@@ -2618,14 +2614,14 @@
       "產品英文名稱": "TimeWise® Age Minimize 3D™ Day Cream SPF30",
       "series": null,
       "header_links": null,
-      "Product Description": "The exclusive AGE MINIMIZE 3D® COMPLEX formula, which is composed of resveratrol microcapsules, anti-aging peptides and vitamin B3, provides a powerful synergy: DEFENDS, which protects against environmental aggressors; DELAYS, which delays the aging process; DELIVERS, which brings a 3D rejuvenating miracle to the skin.",
+      "description": "The exclusive AGE MINIMIZE 3D® COMPLEX formula, which is composed of resveratrol microcapsules, anti-aging peptides and vitamin B3, provides a powerful synergy: DEFENDS, which protects against environmental aggressors; DELAYS, which delays the aging process; DELIVERS, which brings a 3D rejuvenating miracle to the skin.",
       "capacity": "48g",
       "skin_suitable": "Available in 2 skin types - Normal to Dry formula and Combination to Oily formula",
       "usage": "Apply evenly to the face and neck in the morning.",
       "function": "•The broad-spectrum can protect your skin against UVA and UVA damage.<br>•Acts as an anti-oxidant for the skin that helps against the environmental stresses.<br>•Special cactus extract is added to enhance the skin's natural moisture barrier.<br>•Significantly improves the appearance of fine lines and wrinkles and increases skin elasticity.<br>•More even and brighter skin tone and rejuvenated skin<br>•When applied together with TimeWise® Age Minimize 3D™ Night Cream, the result is a double effect that makes the skin look younger, smoother and brighter.",
       "principal_components": "•Resveratrol microcapsules that provide triple anti-oxidant benefits, help promote even skin tone and protect the skin's natural collagen.<br>•Anti-aging peptides can stimulate the  production of collagen and elastin, resulting in younger, more elastic skin.<br>•Vitamin B3 provides whitening and brightening benefits to your skin; it is also an anti-oxidant.",
       "price": "HK$428",
-      "video_source": "時光精靈3D系列.mp4",
+      "video_source": "pc.mp4",
       "normal_image": null,
       "small_images": null,
       "description_image": null
@@ -2635,14 +2631,14 @@
       "產品英文名稱": "Luminous Set",
       "series": null,
       "header_links": ["skincare"],
-      "Product Description": "One Step to Make a Difference to Your Skin<br>Moisturizing and Nourishing Double Up<br>One step skin care solution for morning and evening",
+      "description": "One Step to Make a Difference to Your Skin<br>Moisturizing and Nourishing Double Up<br>One step skin care solution for morning and evening",
       "capacity": "29ml",
       "skin_suitable": "All Skin Types",
       "usage": "TimeWise Moisture Renewing Softener:<br>Hyaluronic Acid + Botanical Extract + Vitamin B3 + Acai Berry Extract<br><br><br>Naturally® Nourishing Oil:<br>•Sesame Seed Oil: Rich in vitamins, minerals and essential fatty acids, this oil provides antioxidant protection and helps against the free radicals, making this oil a great choice for moisturizing, hydrating and toning the skin. <br>•Olive Fruit Oil: Rich in vitamins A, E and polyphenols to maintain skin elasticity and moisture. Helps to soothe and moisturize the skin. It is also an anti-oxidant.<br>•Sweet Almond Oil: Easily absorbed, rich in vitamins; it has nourishing, moisturizing, soothing and anti-allergic effects, which helps to moisturize the skin and soothe the dry skin.<br>•Squalane: Skin-friendly with hydrating and moisturizing effect. It can slow down the evaporation of moisture from the skin and maintain the elasticity and fullness of the skin.<br>•Vitamin E (Tocopherol): An anti-oxidant ingredient derived from soybeans that is added to sunflower oil to protect the skin from the free radical damage.",
       "function": "Apply TimeWise Moisture Renewing Softener with 1-2 drops of essential oil in your palm, mix thoroughly and apply to elbows and ankles, hair ends, nail edges, lips and other dry areas. It helps to restore the softness of the skin!",
       "principal_components": "TimeWise Moisture Renewing Softener helps to replenish the skin's moisture barrier, and the highly effective water locking technology allows to strengthen the skin protection. Apply thoroughly to cleanse and moisturize the skin, and then apply again to reveal the skin's original beauty.<br>Certified by COSMOS-Natural, the Naturally® Nourishing Oil is an ultra-lightweight multi-purpose oil that absorbs instantly without stickiness. It is suitable for all skin types and contains a variety of natural oils that work together to leave the skin feeling moisturized and energized, giving it a healthy and glowing look.",
       "price": "HK$688",
-      "video_source": "時光精靈3D系列.mp4",
+      "video_source": null,
       "normal_image": null,
       "small_images": {
         "img_01": "c/b/cb11.jpg"
@@ -2654,7 +2650,7 @@
       "產品英文名稱": "Duo Mask Set",
       "series": null,
       "header_links": null,
-      "Product Description": "Mix and Match<br>MultiMasking<br>10 minutes to make your skin look better!",
+      "description": "Mix and Match<br>MultiMasking<br>10 minutes to make your skin look better!",
       "capacity": "85g",
       "skin_suitable": "All Skin Types",
       "usage": "•Activated Charcoal - Specially heated, this activated charcoal absorbs twice its weight in impurities. It helps to unclog the pores, making the skin appear clearer and healthier, and the pores look more refined.<br>•Kaolin & Bentonite Clays - Strongly absorbing, the activated carbon enhances its purifying effect, instantly absorbing the excess oil, dead skin and dirt, reducing shine and helping to minimize the visibility of the pores.<br>•Honeysuckle & Navy Bean Extracts - A combination of Honeysuckle and Navy Bean Extracts. Together, they can improve the uneven appearance of skin, help reduce the signs of acne, and provide effective antibacterial relief for inflammation and irritation.",
@@ -2673,7 +2669,7 @@
       "產品英文名稱": " CP Value Set",
       "series": null,
       "header_links": ["skincare"],
-      "Product Description": "Essential for Lazy People; Complete skin care in 3 minutes",
+      "description": "Essential for Lazy People; Complete skin care in 3 minutes",
       "capacity": "51g",
       "skin_suitable": "All Skin Types",
       "usage": "TimeWise® Age Minimize 3D™ 4-in-1 Cleanser<br>Resveratrol microcapsules that provide triple anti-oxidant benefits, help promote even skin tone and protect the skin's natural collagen.<br>•Vitamin B3 provides whitening and brightening benefits to your skin; it is also an anti-oxidant.<br>•Anti-aging peptides can stimulate the  production of collagen and elastin, resulting in younger, more elastic skin.<br>Oil-free Hydrating Gel<br>•The highly effective moisture locking formula contains multiple trace elements that quickly deliver and replenish the moisture deeply into the skin for up to 10 hours.",
@@ -2683,7 +2679,7 @@
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01": "c/c/cc11.jpg"
+        "img_01": "c/e/ce11.jpg"
       },
       "description_image": null
     }

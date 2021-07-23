@@ -1,8 +1,8 @@
 import gsap from 'gsap'
-// eslint-disable-next-line import/no-named-as-default
-import { ScrollToPlugin } from 'gsap/all'
+import { ScrollToPlugin } from 'gsap/ScrollToPlugin'
+import { ScrollTrigger } from 'gsap/ScrollTrigger'
 
-gsap.registerPlugin(ScrollToPlugin)
+gsap.registerPlugin(ScrollTrigger, ScrollToPlugin)
 
 export default function (ctx, inject) {
   ctx.gsap = gsap

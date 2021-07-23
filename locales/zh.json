@@ -381,7 +381,7 @@
         },
         "Face": {
           "name": "臉部系列",
-          "products": ["pd59", "pd60", "pd61", "pd62", "pd63", "pd64", "pd65", "pd66", "pd67", "pd68", "pd69"]
+          "products": ["pd59", "pd60", "pd61", "pd62", "pd19", "pd64", "pd65", "pd66", "pd67", "pd68", "pd69"]
         },
         "Eyes": {
           "name": "眼部系列",
@@ -415,11 +415,11 @@
         },
         "Reverse_Age": {
           "name": "逆齡專區",
-          "products": ["pd1", "pd9", "pd15"]
+          "products": ["pd113", "pd1", "pd9", "pd6", "pd15", "pd108", "pd105"]
         },
         "Oil_Control": {
           "name": "控油專區",
-          "products": ["pd38", "pd52", "pd55", "pd59"]
+          "products": ["pd38", "pd52", "pd55", "pd59", "pd114"]
         },
         "Relief": {
           "name": "舒壓專區",
@@ -427,7 +427,7 @@
         },
         "Slug": {
           "name": "懶人專區",
-          "products": ["pd12", "pd13", "pd36", "pd62"]
+          "products": ["pd115", "pd12", "pd13", "pd36", "pd62", "pd110"]
         }
       }
     }
@@ -659,7 +659,7 @@
       "function": "•一瓶四效，清潔肌膚，同時不會帶走天然水分。<br>•微泡性配方，與水揉搓起泡後能有效去除肌膚不潔物、多餘油脂、輕薄彩妝和老廢角質，用後肌膚舒適不感繃緊。<br>•肌膚更感柔嫩、清新、舒爽，更顯光潔亮白。<br>•肌膚顯得更年輕和健康。<br>•為吸收後續 TimeWise Miracle Set 3D™ 配方養分做好準備。<br>•配方溫和，適合每天早晚使用。",
       "principal_components": "白藜蘆醇微囊 - 提供三重抗氧化功效，有助促進膚色均匀及保護皮膚的天然膠原蛋白。<br>•<br>維他命B3 - 具有美白提亮功效，同屬抗氧化劑。<br>•<br>抗衰老胜肽 - 刺激膠原蛋白和彈力蛋白生成，讓肌膚更年輕，更富彈性。",
       "price": "HK$288",
-      "video_source": "時光精靈3D系列.mp4",
+      "video_source": "pc.mp4",
       "normal_image": null,
       "small_images": {
         "img_01": "p/c/pc11.jpg"
@@ -678,7 +678,7 @@
       "function": null,
       "principal_components": null,
       "price": "HK$358",
-      "video_source": "時光精靈3D系列.mp4",
+      "video_source": null,
       "normal_image": null,
       "small_images": {
         "img_01": "p/c/pc21.jpg"
@@ -697,7 +697,7 @@
       "function": null,
       "principal_components": null,
       "price": "HK$298",
-      "video_source": "時光精靈3D系列.mp4",
+      "video_source": null,
       "normal_image": null,
       "small_images": {
         "img_01": "p/c/pc31.jpg"
@@ -735,7 +735,7 @@
       "function": "•為肌膚擔當抗氧化劑角色，幫助抵禦環境壓力侵害。<br>•特別添加仙人掌萃取增強肌膚天然保濕屏障*。<br>•能顯著改善細紋及皺紋，提升肌膚彈性。<br>•膚色更均勻明亮，肌膚重拾活力。<br>•與時光精靈3D晚霜配搭使用，雙效加乘，肌膚顯得更年輕，柔滑，煥發青春光彩。",
       "principal_components": "•白藜蘆醇微囊 - 提供三重抗氧化功效，有助促進膚色均勻及保護皮膚的天然膠原蛋白。<br>•抗衰老胜肽 - 刺激膠原蛋白和彈力蛋白生成，讓肌膚更年輕，更富彈性。<br>•維他命B3 - 具有美白提亮功效，同屬抗氧化劑。",
       "price": "HK$428",
-      "video_source": "時光精靈3D系列.mp4",
+      "video_source": "pc.mp4",
       "normal_image": null,
       "small_images": {
         "img_01": "p/c/pc51.jpg"
@@ -754,7 +754,7 @@
       "function": "•高效修復面霜，結合日本杏萃取，有效促進膠原生成*，幫助減淡細紋和皺紋。<br>•同時幫助肌膚對抗自由基傷害，長效保濕12小時，並增強肌膚自然修復周期。<br>•配合時光精靈3D日霜使用，能顯著改善細紋及皺紋，提升肌膚緊實彈性。<br>•一覺醒來，肌膚重拾活力，膚質更顯健康柔滑，展現彈潤光澤。",
       "principal_components": "•白藜蘆醇微囊 - 提供三重抗氧化功效，有助促進膚色均勻及保護皮膚的天然膠原蛋白。<br>•抗衰老胜肽 - 刺激膠原蛋白和彈力蛋白生成，讓肌膚更年輕，更富彈性。<br>•維他命B3 - 具有美白提亮功效，同屬抗氧化劑。",
       "price": "HK$428",
-      "video_source": "時光精靈3D系列.mp4",
+      "video_source": "pc.mp4",
       "normal_image": null,
       "small_images": {
         "img_01": "p/c/pc61.jpg"
@@ -773,7 +773,7 @@
       "function": "•保養嬌嫩的眼部肌膚是保持年輕外觀的第一道防線。<br>•特別加入海藻萃取，能迅速滋潤保濕眼周肌膚12小時。<br>•蘊含獨家特有3D減齡複合物成分，幫助肌膚對抗自由基傷害，預防肌膚衰老現象。<br>•有效改善黑眼圈、眼部浮腫，減少幼紋及皺紋，提亮眼周肌膚。<br>•全方位呵護眼周肌膚，令眼部肌膚重獲彈性，更顯緊緻柔嫩光滑。",
       "principal_components": "•白藜蘆醇微囊 - 提供三重抗氧化功效，有助促進膚色均勻及保護皮膚的天然膠原蛋白。<br>•抗衰老胜肽 - 刺激膠原蛋白和彈力蛋白生成，讓肌膚更年輕，更富彈性。<br>•維他命B3 - 具有美白提亮功效，同屬抗氧化劑。",
       "price": "HK$388",
-      "video_source": "時光精靈3D系列.mp4",
+      "video_source": "pc.mp4",
       "normal_image": null,
       "small_images": {
         "img_01": "p/c/pc71.jpg"
@@ -1209,7 +1209,7 @@
       "description": "3D剪裁的高效備長炭纖維面膜精準貼合臉部輪廓，為肌膚注入高濃度活性精華，每塊30g面膜相當於一支LumiVie™亮采密集精華液的煥亮功效。通過對肌膚的密集護理，迅速滲透，喚醒肌膚活力，有效改善膚色不匀和色素沉澱，展現剔透無瑕的完美肌膚。同時密集保濕，使肌膚潤澤透亮，由內而外煥發亮采。",
       "capacity": "30g x 5片",
       "skin_suitable": "專為亞洲肌膚研製<br>適合亞洲人肌膚<br>適合所有膚質",
-      "usage": "將面膜敷在潔淨的面部。/輕柔地將面膜打開並撫平在額頭及面頰，讓其貼合面部輪廓。/輕柔地向兩側敷上並撫平面膜，使其貼合下顎線條。/注意撫平鼻翼兩側，使其貼合鼻翼。/待15-20分鐘後取下面膜。不用抹去面上剩餘的精華液，輕輕按摩至皮膚完全吸收。/建議每週使用 2-3 次。",
+      "usage": "將面膜敷在潔淨的面部。輕柔地將面膜打開並撫平在額頭及面頰，讓其貼合面部輪廓。輕柔地向兩側敷上並撫平面膜，使其貼合下顎線條。注意撫平鼻翼兩側，使其貼合鼻翼。待15-20分鐘後取下面膜。不用抹去面上剩餘的精華液，輕輕按摩至皮膚完全吸收。建議每週使用 2-3 次。",
       "function": "臨床測試證實*<br>•連續3星期每周使用產品2次，整體膚質顯著提升：<br>86%女性見證肌膚更透亮光澤<br>81%女性見證肌膚更顯明亮<br>81%女性見證肌膚暗黃膚色得到改善<br>*結果來自一項中國進行的獨立臨床測試，測試女性連續 3星期每周使用產品兩次後給予評價。",
       "principal_components": "•大溪地黑珍珠臻萃 (Tahitian Black Pearl)：保護肌膚、提亮膚色，還能賦予肌膚能量、喚醒肌膚活力和增強保水及抵抗能力。<br>•Opti-Bright™ 複合物 (Opti-Bright™ Complex)：獨家研發的複合物將東當歸根提取物、植物性胺基酸和菸鹼醯胺結合並產生協同作用，針對造成膚色不均的多種因素，抑制黑色素及色斑形成，對抗黯沉膚色，並幫助改善現有色斑，讓肌膚剔透亮白、勻淨無瑕。<br>•海蓬子萃取 (Samphire)：生長在高鹽分海岸線的神奇植物，具有特殊的儲存和調節水分能力，能提升肌膚水分傳輸通道，讓肌膚長時間保持水潤晶瑩。",
       "price": "HK$480",
@@ -2577,7 +2577,7 @@
       "產品英文名稱": "Skinvigorate Sonic",
       "series": null,
       "header_links": null,
-      "Product Description": "60秒微米級潔淨體驗，重現剔透注氧光感肌，以聲波科技，採用如蜜震動授粉時，高振頻而不傷花蕊的輕柔聲波震動，能溫柔振出毛孔深層髒污，而不拉扯柔軟的肌膚，更重要的是能有效清除毛孔內，被世界衛生組織介定為一級致癌物的  PM2.5。 實驗証明，聲波活膚潔面儀潔淨度對比用人手清潔去除污垢、油脂、雜質、化妝品和污染物高達4位。",
+      "description": "60秒微米級潔淨體驗，重現剔透注氧光感肌，以聲波科技，採用如蜜震動授粉時，高振頻而不傷花蕊的輕柔聲波震動，能溫柔振出毛孔深層髒污，而不拉扯柔軟的肌膚，更重要的是能有效清除毛孔內，被世界衛生組織介定為一級致癌物的  PM2.5。 實驗証明，聲波活膚潔面儀潔淨度對比用人手清潔去除污垢、油脂、雜質、化妝品和污染物高達4位。",
       "capacity": "1入",
       "skin_suitable": "1入",
       "usage": "可早晚使用，一次60秒，鼻及下巴15秒，左右面頰各15秒",
@@ -2596,7 +2596,7 @@
       "產品英文名稱": "Pink Clay Edition",
       "series": null,
       "header_links": null,
-      "Product Description": "深層清潔面膜，質地柔軟，散發清香。能清潔肌膚，潔淨毛孔，去除污垢，同時不會對肌膚造成刺激及過敏。具有抗氧化及肌膚修復的更新功能，有效保護肌膚免受自由基侵害，消除皮膚暗啞和疲態。",
+      "description": "深層清潔面膜，質地柔軟，散發清香。能清潔肌膚，潔淨毛孔，去除污垢，同時不會對肌膚造成刺激及過敏。具有抗氧化及肌膚修復的更新功能，有效保護肌膚免受自由基侵害，消除皮膚暗啞和疲態。",
       "capacity": "85g",
       "skin_suitable": "適合乾性至油性肌膚",
       "usage": null,
@@ -2605,11 +2605,7 @@
       "price": "HK$228",
       "video_source": "Skinvigorate Sonic 聲波活膚潔面儀.mp4",
       "normal_image": null,
-      "small_images": {
-        "img_01": "粉紅深層潔膚泥.png",
-        "img_02": "粉紅深層潔膚泥01.png",
-        "img_03": "粉紅深層潔膚泥02.png"
-      },
+      "small_images": null,
       "description_image": null
     },
     "pd112": {
@@ -2617,18 +2613,16 @@
       "產品英文名稱": "TimeWise® Age Minimize 3D™ Day Cream SPF30",
       "series": null,
       "header_links": null,
-      "Product Description": "特有獨家的3D減齡複合物配方 (AGE MINIMIZE 3D® COMPLEX) ，由白藜蘆醇微囊、抗衰老胜肽和維他命B3三大成分協力組成，發揮協同效應： DEFENDS 防禦外界環境侵害 l DELAYS 延緩衰老 l DELIVERS 實現年輕緊緻肌膚，為肌膚帶來3D逆轉年輕奇蹟功效。",
+      "description": "特有獨家的3D減齡複合物配方 (AGE MINIMIZE 3D® COMPLEX) ，由白藜蘆醇微囊、抗衰老胜肽和維他命B3三大成分協力組成，發揮協同效應： DEFENDS 防禦外界環境侵害 l DELAYS 延緩衰老 l DELIVERS 實現年輕緊緻肌膚，為肌膚帶來3D逆轉年輕奇蹟功效。",
       "capacity": "48g",
       "skin_suitable": "備有2種膚質配方選擇 - 中性至乾性配方及混合至油性配方",
       "usage": "每天早上，取適量產品均勻塗抹於面部和頸部。",
       "function": "•白藜蘆醇微囊 - 提供三重抗氧化功效，有助促進膚色均勻及保護皮膚的天然膠原蛋白。<br><br>•抗衰老胜肽 - 刺激膠原蛋白和彈力蛋白生成，讓肌膚更年輕，更富彈性。<br><br>•維他命B3 - 具有美白提亮功效，同屬抗氧化劑。",
       "principal_components": "•為肌膚提供廣譜防曬保護擔，幫助抵禦UVA 及UVA對肌膚的傷害。<br>•為肌膚擔當抗氧化劑角色，幫助抵禦環境壓力侵害。<br>•特別添加仙人掌萃取增強肌膚天然保濕屏障。<br>•能顯著改善細紋及皺紋，提升肌膚彈性。<br>•膚色更均勻明亮，肌膚重拾活力。<br>•與時光精靈3D晚霜配搭使用，雙效加乘，肌膚顯得更年輕，柔滑，煥發青春光彩。",
       "price": "HK$428",
-      "video_source": "時光精靈3D系列.mp4",
+      "video_source": "pc.mp4",
       "normal_image": null,
-      "small_images": {
-        "img_01": "時光精靈3D日霜.png"
-      },
+      "small_images": null,
       "description_image": null
     },
     "pd113": {
@@ -2636,17 +2630,17 @@
       "產品英文名稱": "Luminous Set",
       "series": null,
       "header_links": null,
-      "Product Description": "一步扭轉肌膚命運<br>保濕滋養 Double Up<br>早晚一步肌膚輕補品",
+      "description": "一步扭轉肌膚命運<br>保濕滋養 Double Up<br>早晚一步肌膚輕補品",
       "capacity": "時光精靈保濕柔膚水 147ml<br>天然淨活多效精華油 29ml",
       "skin_suitable": "全膚質",
       "usage": "取適量柔膚水於手掌心，添加1-2滴精華油，充分混合後，塗抹在手肘 / 腳肘，頭髮末端，指甲邊緣，嘴唇等<br>容易乾燥位置，一抹恢復柔軟！",
       "function": "補充肌膚飽滿水分 時光精靈保濕柔膚水補充肌膚所需，高效鎖水技術，強化肌膚屏障，一抹徹底清潔，二抹保濕瑩潤，盛放肌膚原生之美。COSMOS天然認證 天然淨活多效精華油超輕盈多效精華油，瞬間吸收不黏膩。所有膚質適用，含有多種天然油脂加乘作用，令皮膚倍感水潤滋潤，給予肌膚活力，散發健康光彩。",
       "principal_components": "時光精靈保濕柔膚水<br>透明質酸 + 植物草本萃取 + 維他命B3 + 巴西莓果萃取<br><br>天然淨活多效精華油<br>•芝麻油 (Sesame Seed Oil) ：富含豐富的維他命，礦物質和必需脂肪酸，提供抗氧化保護，幫助抵抗自由基的侵害。具有滋潤、保濕及調理肌膚的功效。<br>•橄欖果油 (Olive Fruit Oil)：含有豐富的維他命A，E及多酚等美肌成分，有效保持皮膚彈性和潤澤。有助舒緩和滋潤皮膚。具有抗氧化作用。<br>•甜杏仁油 (Sweet Almond Oil) ：易吸收，含豐富維他命，具有滋養、保濕、舒緩、抗過敏的功效，幫助滋潤皮膚和緩解乾燥。<br>•角鯊烷 (Squalane) ：親膚性高，發揮保濕、潤膚的效果。能減緩皮膚水分蒸發，維持皮膚彈性飽滿。<br>•維他命 E (Tocopherol)：抗氧化成分，萃取自大豆並添加至葵花籽油中，幫助抵禦自由基的侵害。",
       "price": "HK$688",
-      "video_source": "時光精靈3D系列.mp4",
+      "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01": "轉肌活膚組合.png"
+        "img_01": "c/b/cb11.jpg"
       },
       "description_image": null
     },
@@ -2655,7 +2649,7 @@
       "產品英文名稱": "Duo Mask Set",
       "series": null,
       "header_links": null,
-      "Product Description": "面膜混搭法<br>MultiMasking<br>10分鐘化危「肌」",
+      "description": "面膜混搭法<br>MultiMasking<br>10分鐘化危「肌」",
       "capacity": "淨顏活性碳面膜 114g<br>時光精靈晚間補濕修護面膜 85g",
       "skin_suitable": "全膚質",
       "usage": "均勻的塗抹活性碳面膜於清潔後的皮膚，面膜會由膠狀質地逐漸變乾以吸附皮膚髒汙，停留10-20分鐘，以溫水徹底沖洗乾淨、擦乾臉後，敷上晚間補濕修護面膜一層，鎖住所有養分睡覺！",
@@ -2665,7 +2659,7 @@
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01": "皇牌面膜組合.png"
+        "img_01": "c/c/cc51.jpg"
       },
       "description_image": null
     },
@@ -2674,7 +2668,7 @@
       "產品英文名稱": " CP Value Set",
       "series": null,
       "header_links": null,
-      "Product Description": "懶人必備 3分鐘保養完成<br>隨時維持肌膚水嫩無瑕",
+      "description": "懶人必備 3分鐘保養完成<br>隨時維持肌膚水嫩無瑕",
       "capacity": "時光精靈3D四效潔面乳/啫喱 127g<br>水妍保濕凝露 51g",
       "skin_suitable": "全膚質",
       "usage": "取適量四效潔面乳均勻按摩於濕潤的面部和頸部，如有需要可加水揉搓以增加泡沫，然後以清水沖洗乾淨後，擦上水妍保濕凝露 。",
@@ -2684,7 +2678,7 @@
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01": "CP值爆明星組合.png"
+        "img_01": "c/e/ce11.jpg"
       },
       "description_image": null
     }

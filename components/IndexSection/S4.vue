@@ -132,7 +132,6 @@ export default {
         scrub: 1.2,
       },
     })
-    console.log('gsap', this.$gsap)
   },
 }
 </script>
