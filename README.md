@@ -33,6 +33,16 @@ $ npm run generate
 
 
 ### 使用方式&資料夾說明
+### `i18n 更換文本範例`
+
+```html
+
+<p> 首頁 </p>
+     ||
+      V
+<p> $t('hmme') </p>
+```
+[參考](https://kazupon.github.io/vue-i18n/guide/formatting.html#named-formatting)
 
 ### `a連結更改`
 
