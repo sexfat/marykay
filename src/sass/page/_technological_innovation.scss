@@ -59,13 +59,17 @@
         text-align: center;
 
         .best {
-            width: 480px;
+    
             margin: 0 auto;
 
             .desc {
                 text-align: left;
                 width: 300px;
                 margin: 0 auto;
+               &.m35 {
+                 margin-top: 37px;
+                 text-align: center;
+               }
             }
 
         }

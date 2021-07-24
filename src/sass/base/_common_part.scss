@@ -21,6 +21,10 @@
     text-align: center;
 }
 
+.text_left {
+    text-align: left;
+}
+
 .flex {
     display: flex;
     justify-content: center;
@@ -33,15 +37,16 @@
 }
 
 
-
-
-
 .block {
     display: block
 }
 
 .hide {
     overflow: hidden;
+}
+
+.arrow_down img {
+  width: 12px;
 }
 
 .nomargin {
