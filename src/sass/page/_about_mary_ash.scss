@@ -61,8 +61,8 @@
 
         .text_body {
             margin-top: 50px;
-            width: 610px;
-
+            max-width: 610px;
+            width: 100%;
             .sign {
                 margin-top: 20px;
                 text-align: right;
