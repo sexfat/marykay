@@ -51,7 +51,8 @@
 
         .text_body {
             margin-top: 50px;
-            width: 690px;
+            max-width: 650px;
+            width: 100%;
             @include m(){
                 width: 100%;
                 max-width: 340px;
@@ -85,7 +86,7 @@
     }
 
     .tech_content {
-        margin: 100px 0 0;
+        margin: 100px auto 0;
         text-align: center;
     
 
