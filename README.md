@@ -33,6 +33,16 @@ $ npm run generate
 
 
 ### 使用方式&資料夾說明
+### `i18n 更換文本範例`
+
+```html
+
+<p> 首頁 </p>
+     ||
+      V
+<p> $t('hmme') </p>
+```
+[參考](https://kazupon.github.io/vue-i18n/guide/formatting.html#named-formatting)
 
 ### `a連結更改`
 
@@ -93,7 +103,7 @@ export default {
 
 
 ### `pages`
-頁面資料夾，以資料夾當作頁面，資寮夾下圍index.vue。
+頁面資料夾，以資料夾當作頁面，資料夾下新增index.vue。
 以 "_" 為開頭命為動態頁面，由參數決定頁面名 
 ```javascript
 // ex: 新增about 頁面
