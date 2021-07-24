@@ -1,0 +1,1996 @@
+{
+  "pages": {
+    "homepage": {
+      "more": "更多資訊",
+      "more_news": "更多報導",
+      "s1": {
+        "h3": "一支口紅的力量也能為世界帶來改變",
+        "body": "Mary Kay 創立於1963 年，我們使命始終如一：<br>豐富女性人生，讓女性感到快樂、美麗、自信。<br>我們提供優秀的產品和獨一無二的事業機會<br>賦予女性擁有自主事業的權利，並鼓勵女性追求自我價值<br>我們的目標一直是為每一個女性的成功做好準備，<br>而我們對於這個目標的堅持已經超過57年了<br>我們相信，一支口紅的力量也能為世界帶來改變<br>"
+      },
+      "s2": {
+        "h3": "品牌承諾",
+        "body": "MARY KAY 承諾將每一位顧客做為出發點，<br/>在產品質量和安全方面我們從不妥協， <br />不斷突破創新和技術的界限， <br/>並致力與打造創造獨一無二且能夠帶來真正的效果的產品 <br />不僅創造令顧客滿意的體驗， <br />更讓女性從內到外都散發美麗。"
+      },
+      "s3": {
+        "body": "除了品牌承諾<br />我們相信真正的優質產品還建立在實質成效上 <br />超過300位科學家的研發團隊與1,500項產品專利 <br />提供全方位美妝、護膚產品，創造專屬您的個人化完美肌膚體驗",
+        "small_title": "科學團隊與R3全球研發中心"
+      },
+      "s4": {
+        "h2": "粉紅讓世界更美好",
+        "body": "除了提倡女性平權<br />MARY KAY也同時致力於環境保護、社會關懷、慈善公益等議題",
+        "slide_1": {
+          "h3": "環境永續與保護",
+          "content_footer": "包括改良社區水資源包括灌溉系統、基質研究和作物生產多樣性。並減輕海洋污染、保護生物多樣性和海洋資源"
+        },
+        "slide_2": {
+          "h3": "品牌成就與獲獎",
+          "content_footer": "玫琳凱與聯合國六大機構 合作推出女性創業加速器計畫 (Women's Entrepreneurship Accelerator)"
+        },
+        "slide_3": {
+          "h3": "社會公益與慈善",
+          "content_footer": "首位Pink Changing Lives Honoree得主 Monique Coleman"
+        }
+      }
+    },
+    "series_page": {
+      "series": {
+        "Youthfinity": {
+          "name": "澄淨甦活系列",
+          "header_links": "product_series",
+          "header_img": "series.jpg"
+        },
+        "TimeWise_Repair": {
+          "name": "時光精靈Repair系列",
+          "cn": "時光精靈Repair系列",
+          "header_links": "product_series",
+          "header_img": "series.jpg"
+        },
+        "TimeWise3D": {
+          "name": "時光精靈/ 時光精靈3D系列",
+          "cn": "時光精靈/ 時光精靈3D系列",
+          "header_links": "product_series",
+          "header_img": "series.jpg"
+        },
+        "Naturally": {
+          "name": "天然淨活系列",
+          "cn": "天然淨活系列",
+          "header_links": "product_series",
+          "header_img": "series.jpg"
+        },
+        "Botanical_Effects": {
+          "name": "植物肌密系列",
+          "cn": "植物肌密系列",
+          "header_links": "product_series",
+          "header_img": "series.jpg"
+        },
+        "Supplementary": {
+          "name": "補充性保養系列",
+          "cn": "補充性保養系列",
+          "header_links": "product_series",
+          "header_img": "series.jpg"
+        },
+        "LumiVie": {
+          "name": "亮采系列",
+          "cn": "亮采系列",
+          "header_links": "product_series",
+          "header_img": "series.jpg"
+        },
+        "Calming_Influence": {
+          "name": "舒顏系列",
+          "cn": "舒顏系列",
+          "header_links": "product_series",
+          "header_img": "series.jpg"
+        },
+        "Clear_Proof": {
+          "name": "淨顏系列",
+          "cn": "淨顏系列",
+          "header_links": "product_series",
+          "header_img": "series.jpg"
+        },
+        "MK_Men": {
+          "name": "男士系列",
+          "cn": "男士系列",
+          "header_links": "product_series",
+          "header_img": "series.jpg"
+        },
+        "Body": {
+          "name": "美體系列",
+          "cn": "美體系列",
+          "header_links": "product_series",
+          "header_img": "series.jpg"
+        },
+        "Remover": {
+          "name": "卸妝",
+          "cn": "卸妝",
+          "header_links": "product_features",
+          "header_img": "series.jpg"
+        },
+        "Cleansing": {
+          "name": "潔顏",
+          "cn": "潔顏",
+          "header_links": "product_features",
+          "header_img": "series.jpg"
+        },
+        "Lotion": {
+          "name": "化妝水",
+          "cn": "化妝水",
+          "header_links": "product_features",
+          "header_img": "series.jpg"
+        },
+        "Lotion_Cream": {
+          "name": "乳液/乳霜",
+          "cn": "乳液/乳霜",
+          "header_links": "product_features",
+          "header_img": "series.jpg"
+        },
+        "Mask": {
+          "name": "面膜",
+          "cn": "面膜",
+          "header_links": "product_features",
+          "header_img": "series.jpg"
+        },
+        "Serum_Oil": {
+          "name": "精華液/油",
+          "cn": "精華液/油",
+          "header_links": "product_features",
+          "header_img": "series.jpg"
+        },
+        "Sun_Care": {
+          "name": "身體防曬/保養",
+          "cn": "身體防曬/保養",
+          "header_links": "product_features",
+          "header_img": "series.jpg"
+        },
+        "Eye_Lips_Care": {
+          "name": "眼唇保養",
+          "cn": "眼唇保養",
+          "header_links": "product_features",
+          "header_img": "series.jpg"
+        },
+        "Targeted_Solutions": {
+          "name": "特殊護理",
+          "cn": "特殊護理",
+          "header_links": "product_features",
+          "header_img": "series.jpg"
+        },
+        "Skin_Care_Tools": {
+          "name": "美容儀器",
+          "cn": "美容儀器",
+          "header_links": "product_features",
+          "header_img": "series.jpg"
+        },
+        "Lips": {
+          "name": "唇部系列",
+          "cn": "唇部系列",
+          "header_links": "makeup",
+          "header_img": "series.jpg"
+        },
+        "Face": {
+          "name": "臉部系列",
+          "cn": "臉部系列",
+          "header_links": "makeup",
+          "header_img": "series.jpg"
+        },
+        "Eyes": {
+          "name": "眼部系列",
+          "cn": "眼部系列",
+          "header_links": "makeup",
+          "header_img": "series.jpg"
+        },
+        "Tools": {
+          "name": "彩妝工具",
+          "cn": "彩妝工具",
+          "header_links": "makeup",
+          "header_img": "series.jpg"
+        },
+        "Fragrance": {
+          "name": "香氛系列",
+          "cn": "香氛系列",
+          "header_links": "makeup",
+          "header_img": "series.jpg"
+        },
+        "Nutrition": {
+          "name": "食物補充品",
+          "cn": "食物補充品",
+          "header_links": "Nutrition",
+          "header_img": "series.jpg"
+        },
+        "Hydrophilic": {
+          "name": "親水專區",
+          "cn": "親水專區",
+          "header_links": "skincare",
+          "header_img": "series.jpg"
+        },
+        "Reverse_Age": {
+          "name": "逆齡專區",
+          "cn": "逆齡專區",
+          "header_links": "skincare",
+          "header_img": "series.jpg"
+        },
+        "Oil_Control": {
+          "name": "控油專區",
+          "cn": "控油專區",
+          "header_links": "skincare",
+          "header_img": "series.jpg"
+        },
+        "Relief": {
+          "name": "舒壓專區",
+          "cn": "舒壓專區",
+          "header_links": "skincare",
+          "header_img": "series.jpg"
+        },
+        "Slug": {
+          "name": "懶人專區",
+          "cn": "懶人專區",
+          "header_links": "skincare",
+          "header_img": "series.jpg"
+        }
+      }
+    },
+    "product_page": {
+      "home": "首頁",
+      "skin_suitable": "適用膚質",
+      "usage": "使用方法",
+      "video": "影片",
+      "function": "功能",
+      "principal_components": "主要成分"
+    },
+    "footer": {
+      "follow": "關注我們",
+      "contact_us": "與我們聯繫",
+      "customer_service_tel": "玫琳凱服務專線",
+      "tel": "(02) 2735-8088",
+      "contact_style": "免付費服務專線",
+      "contact_way": "0800-033690",
+      "related_links": {
+        "name": "相關連結",
+        "links": {
+          "link_1": "美容顧問登入",
+          "link_2": "全球分公司",
+          "link_3": "​商德約法"
+        }
+      },
+      "shopping_instructions": {
+        "name": "購物說明",
+        "links": {
+          "link_1": "產品滿意保證",
+          "link_2": "全球隱私權聲明",
+          "link_3": "消費者隱私群方針",
+          "link_4": "​使用者規範及協議"
+        }
+      }
+    }
+  },
+  "header_links": {
+    "maintenance": {
+      "name": "保養"
+    },
+    "dm": {
+      "name": "線上DM"
+    },
+    "about": {
+      "name": "關於玫琳凱",
+      "series": {
+        "concept": { "name": "品牌理念" },
+        "story": { "name": "創辦人故事" },
+        "charitable": { "name": "粉紅公益" },
+        "innovation": { "name": "科研創新" }
+      }
+    },
+    "product_series": {
+      "name": "產品系列",
+      "series": {
+        "Youthfinity": {
+          "name": "澄淨甦活系列",
+          "products": ["pd1","pd3","pd2"]
+        },
+        "TimeWise_Repair": {
+          "name": "時光3D系列",
+          "products": ["pd6","pd4","pd5","pd7"]
+        },
+        "TimeWise3D": {
+          "name": "植物肌密系列",
+          "products": ["pd8","pd9","pd10","pd11"]
+        },
+        "Naturally": {
+          "name": "幻時能量系列",
+          "products": ["pd12","pd13","pd14","pd15","pd16","pd17","pd18"]
+        },
+        "Botanical_Effects": {
+          "name": "時光精靈系列",
+          "products": ["pd19","pd20","pd21","pd22","pd23","pd24","pd25"]
+        },
+        "LumiVie": {
+          "name": "亮采黑能亮系列",
+          "products": ["pd26","pd27"]
+        },
+        "Clear_Proof": {
+          "name": "淨顏系列",
+          "products": ["pd28","pd29","pd30","pd31"]
+        },
+        "Calming_Influence": {
+          "name": "乳木果系列",
+          "products": ["pd34","pd35","pd37","pd32","pd33","pd36"]
+        },
+        "MK_Men": {
+          "name": "男士系列",
+          "products": ["pd46"]
+        }
+      }
+    },
+    "product_features": {
+      "name": "產品功能",
+      "series": {
+        "Remover": {
+          "name": "卸妝",
+          "products": ["pd44","pd39"]
+        },
+        "Cleansing": {
+          "name": "潔顏",
+          "products": ["pd3","pd4","pd8","pd46"]
+        },
+        "Lotion": {
+          "name": "化妝水",
+          "products": ["pd9","pd21"]
+        },
+        "Lotion_Cream": {
+          "name": "乳液/乳霜",
+          "products": ["pd6","pd5","pd11","pd41","pd27","","pd17","pd18"]
+        },
+        "Mask": {
+          "name": "面膜",
+          "products": ["pd10","pd24","pd28","pd14","pd16","pd45"]
+        },
+        "Serum_Oil": {
+          "name": "精華液/油",
+          "products": ["pd1","pd7","pd12","pd22","pd23","pd26","pd30"]
+        },
+        "Sun_Care": {
+          "name": "身體防曬/保養",
+          "products": ["","pd85","pd86","pd84","pd34","pd35","pd37"]
+        },
+        "Eye_Lips_Care": {
+          "name": "眼唇保養",
+          "products": ["pd38","pd43","","pd32","pd33","pd13"]
+        },
+        "Targeted_Solutions": {
+          "name": "特殊護理",
+          "products": ["pd29","pd40","pd42","pd15","pd2"]
+        },
+        "Skin_Care_Tools": {
+          "name": "美容儀器",
+          "products": ["pd47","pd48","pd49","pd50"]
+        }
+      }
+    },
+    "makeup": {
+      "name": "底妝/彩妝",
+      "series": {
+        "Face": {
+          "name": "臉部彩妝",
+          "products": ["pd60","pd58","pd54","pd55","pd57","pd51","pd53","pd56","pd52","pd59"]
+        },
+        "Eyes": {
+          "name": "眼妝彩妝",
+          "products": ["pd65","pd71","pd64","pd67","pd68","pd69","pd70","pd66","pd72"]
+        },
+        "Lips": {
+          "name": "唇彩系列",
+          "products": ["pd61","pd62","pd63"]
+        },
+        "Fragrance": {
+          "name": "香水",
+          "products": ["pd83"]
+        },
+        "Tools": {
+          "name": "彩妝工具",
+          "products": ["pd82","pd73","pd74","pd75","pd76","pd77","pd78","pd79","pd80","pd81"]
+        }
+      }
+    },
+    "Nutrition": {
+      "name": "調養品",
+      "series": {
+        "Nutrition": {
+          "name": "調養品",
+          "products": ["pd88","pd90","pd91","pd92","pd89"]
+        }
+      }
+    },
+    "skincare": {
+      "name": "護膚專區",
+      "series": {
+        "Hydrophilic": {
+          "name": "親水專區",
+          "products": ["pd21","","pd24","pd43","pd51","pd87","pd38"]
+        },
+        "Reverse_Age": {
+          "name": "養膚專區",
+          "products": ["pd93","pd1","pd94","pd23","pd92"]
+        },
+        "Oil_Control": {
+          "name": "掃油專區",
+          "products": ["pd28","","pd54","pd42","pd84"]
+        },
+        "Relief": {
+          "name": "舒壓專區",
+          "products": ["pd26","pd27","pd43","pd13"]
+        },
+        "Slug": {
+          "name": "懶人專區",
+          "products": ["pd95","","pd44","pd24","pd53","pd2"]
+        },
+        "skin": {
+          "name": "肌膚檢測",
+          "products": []
+        }
+      }
+    }
+  },
+  "products": {
+    "pd1": {
+      "name": "澄淨甦活 全能養膚精華油",
+      "series": "澄淨甦活系列",
+      "description": "＃澄淨甦活 重新開肌。歐盟ECO認證、99%天然原料、100%無添加。<br>一瓶養出全身純淨肌<br>全能養膚精華油 <br>極大修護 X 極大保濕 X 極大光澤<br>集天然香氛油脂之大成 橄欖油 甜杏仁油 芝麻籽油 葵花籽油 <br>及多重保濕精華等保養成分 角鯊烷 迷迭香 香草萃取",
+      "capacity": "29ml",
+      "skin_suitable": "全膚質",
+      "usage": "單獨使用可以依據膚質及喜好一次使用2~4滴 ，加在保養品中使用可以加1~3滴 <br>1. 單獨使用：用在精華液步驟，稍加按摩吸收<br>2. 加入保養品中使用：可以加入化妝水，精華 液，乳液，粉底液等保養及底妝產品使用<br>3. 用於全身容易乾燥處：指緣，手肘，腳跟等<br>4. 用於頭髮：可以塗抹髮尾增加柔順度",
+      "function": "滋潤，修護，保濕",
+      "price": 2500,
+      "principal_components": null,
+      "video_source": "pa11.mp4",
+      "small_images": {
+        "img_01": "p/a/pa11.jpg",
+        "img_02": "p/a/pa12.jpg",
+        "img_03": "p/a/pa13.jpg",
+        "img_04": "p/a/pa14.jpg"
+      },
+      "description_image": "全能養膚精華油03.jpg<br>澄淨甦活.jpg"
+    },
+    "pd2": {
+      "name": "澄淨甦活 全能精華棒",
+      "series": "澄淨甦活系列",
+      "description": "ECO認證 100%純天然 一抹平皮屑紋路浮粉 柔滑細緻膚觸 健康新生 <br>-- 天然有機蜂蠟 + 小燭樹蠟+向日葵花籽蠟+巴西棕梠樹蠟 溫暖潤澤，四重全護鎖水<br>-- 天然植萃角鯊烷，補水，撫平紋路",
+      "capacity": "10.8g",
+      "skin_suitable": "全膚質",
+      "usage": "塗抹在任何乾燥部位，例如:鼻翼，臉頰，指緣，足根，手部等",
+      "function": "修護，保濕",
+      "price": 1200,
+      "principal_components": null,
+      "video_source": "pa21.mp4",
+      "small_images": {
+        "img_01": "p/a/pa21.jpg",
+        "img_02": "p/a/pa22.jpg",
+        "img_03": "p/a/pa23.jpg"
+      },
+      "description_image": "澄淨甦活.jpg"
+    },
+    "pd3": {
+      "name": "澄淨甦活 矢車菊養膚潔顏乳",
+      "series": "澄淨甦活系列",
+      "description": "＃澄淨甦活 重新開肌<br>歐盟ECO認證 99%天然原料 100%無添加<br><br>用最純淨的水 不起泡的溫柔 <br>撫觸臉龐的每一寸美好 洗臉的每個片刻都是享受<br>矢車菊養膚潔顏乳 洗卸合一<br>矢車菊 維他命E 甜杏仁油 <br>溫和洗淨的同時修護肌膚，不留殘妝髒汙，只留水嫩美好肌膚。",
+      "capacity": "127g",
+      "skin_suitable": "全膚質",
+      "usage": "1. 可直接塗抹於臉部，加些許水畫圓後洗去<br>即可<br>2. 想要達到更好的卸妝效果，可將臉部肌膚<br>打濕後，使用化妝棉沾取適量，於臉部肌<br>膚畫圓擦拭後，用清水沖洗即可完美卸除<br>臉部底妝同時完成臉部清潔",
+      "function": "清潔臉部肌膚",
+      "price": 1000,
+      "principal_components": null,
+      "video_source": "pa31.mp4",
+      "small_images": {
+        "img_01": "p/a/pa31.jpg",
+        "img_02": "p/a/pa32.jpg",
+        "img_03": "p/a/pa33.jpg"
+      },
+      "description_image": "澄淨甦活.jpg"
+    },
+    "pd4": {
+      "name": "時光3D四效潔面乳",
+      "series": "時光3D系列",
+      "description": "全方位對抗環境傷害<br>極簡保養，少一點繁瑣，多一點魅力!<br>懶人激推!一瓶全搞定<br>卸妝 、清潔、去角質、化妝水四效合一<br>>清潔同時調理肌膚，一步驟完整基礎保養<br>>溫和促進角質更新，洗後舒適水潤",
+      "capacity": "127g",
+      "skin_suitable": "滋潤：中性/乾性/或依照季節變換及喜好質地選擇<br>清爽：中性/混合/油性/或依照季節變換及喜好質地選擇",
+      "usage": "取適量加少許水分由下往上以輕輕畫圓方式推開後用清水洗淨",
+      "function": "卸妝/洗臉/去角質/化妝水 四效合一",
+      "price": 1000,
+      "principal_components": null,
+      "video_source": null,
+      "small_images": {
+        "img_01": "p/b/pb21.jpg"
+      },
+      "description_image": null
+    },
+    "pd5": {
+      "name": "時光3D日間防護乳SPF30",
+      "series": "時光3D系列",
+      "description": "全方位對抗環境傷害<br>極簡保養，少一點繁瑣，多一點魅力! <br>讓太陽公公都投降的\"broad-spectrum寬頻防曬\"UVA，UVB全面防護 防曬，保濕、明亮，隔離一瓶搞定!<br>睡醒可以擦完立刻出門。",
+      "capacity": "48g",
+      "skin_suitable": "滋潤：中性/乾性/或依照季節變換及喜好質地選擇<br>清爽：中性/混合/油性/或依照季節變換及喜好質地選擇",
+      "usage": "白天取適量均勻塗抹於臉部肌膚",
+      "function": "SPF30寬頻防曬/隔離/保濕/亮白",
+      "price": 1500,
+      "principal_components": null,
+      "video_source": null,
+      "small_images": {
+        "img_01": "p/b/pb31.jpg"
+      },
+      "description_image": null
+    },
+    "pd6": {
+      "name": "時光3D夜間修護霜",
+      "series": "時光3D系列",
+      "description": "給肌膚深度睡眠般的全面舒緩，一覺醒來像為肌膚重新開機!<br>>修護白天外在環境傷害，預防夜間水分快速流失<br>>強化肌膚保濕成分，提升肌膚修護力",
+      "capacity": "48g",
+      "skin_suitable": "滋潤：中性/乾性/或依照季節變換及喜好質地選擇<br>清爽：中性/混合/油性/或依照季節變換及喜好質地選擇",
+      "usage": "夜晚取適量均勻塗抹於臉部肌膚",
+      "function": "抗老/保濕/修護",
+      "price": 1500,
+      "principal_components": null,
+      "video_source": null,
+      "small_images": {
+        "img_01": "p/b/pb11.jpg"
+      },
+      "description_image": null
+    },
+    "pd7": {
+      "name": "時光3D眼部精華乳",
+      "series": "時光3D系列",
+      "description": "專為現代人科技藍光傷害所設計，滑手機除了補眼也要顧眼周<br>>海藻多醣精華:長效保濕<br>>寡胜肽: 肌膚彈力飽滿<br>>維他命B3: 淡化黑眼圈，眼神亮起來",
+      "capacity": "14g",
+      "skin_suitable": "全膚質",
+      "usage": "取適量均勻塗抹於眼周",
+      "function": "淡化皺紋/淡化黑眼圈",
+      "price": 1200,
+      "principal_components": null,
+      "video_source": null,
+      "small_images": {
+        "img_01": "p/b/pb41.jpg"
+      },
+      "description_image": null
+    },
+    "pd8": {
+      "name": "植物肌密潔顏乳",
+      "series": "植物肌密系列",
+      "description": "肌膚要健康，清潔一定要天然<br>天然植化素成分帶走髒污不傷肌膚，<br>洗臉+ 卸妝，第一步就打好健康基礎。",
+      "capacity": "113g",
+      "skin_suitable": "1號：乾性膚質<br>2號：中性/混合性膚質",
+      "usage": "植物肌密完整步驟：清潔→調整→保濕→滋潤，持續使用肌膚保持健康明亮光澤。<br>1.潔顏乳:每日早晚<br>2.面膜:每週一∼兩次<br>3.神奇修護噴霧:每日早晚＋隨身攜帶隨時噴<br>4.乳液:每日早晚 ",
+      "function": "清潔臉部肌膚",
+      "price": 780,
+      "principal_components": null,
+      "video_source": null,
+      "small_images": {
+        "img_01": "p/c/pc11.jpg",
+        "img_02": "p/c/pc12.jpg"
+      },
+      "description_image": null
+    },
+    "pd9": {
+      "name": "植物肌密神奇修護噴霧",
+      "series": "植物肌密系列",
+      "description": "一分鐘賣出一支的超熱銷植化素噴霧 <br>一支兩用，妝前妝後都可以噴 <br>隨身攜帶隨時保濕 一噴明亮緊緻 <br>亦可噴於化妝棉，再次清潔保濕，幫助後續保養品吸收",
+      "capacity": "147 ml",
+      "skin_suitable": "1號：乾性膚質<br>2號：中性/混合性膚質",
+      "usage": "植物肌密完整步驟：清潔→調整→保濕→滋潤，持續使用肌膚保持健康明亮光澤。<br>1.潔顏乳:每日早晚<br>2.面膜:每週一∼兩次<br>3.神奇修護噴霧:每日早晚＋隨身攜帶隨時噴<br>4.乳液:每日早晚 ",
+      "function": "化妝水：再次清潔，調理肌膚，保濕<br>神奇噴霧: 隨身攜帶保濕修護",
+      "price": 880,
+      "principal_components": null,
+      "video_source": null,
+      "small_images": {
+        "img_01": "p/c/pc21.jpg",
+        "img_02": "p/c/pc22.jpg",
+        "img_03": "p/c/pc23.jpg"
+      },
+      "description_image": "植物肌密神奇修護噴霧02.jpg"
+    },
+    "pd10": {
+      "name": "植物肌密面膜",
+      "series": "植物肌密系列",
+      "description": "用一次就會愛上的天然面膜<br>每週1~2 次為肌膚敷上滿滿植化素，打開肌膚通道，將精華完全吸收，敷完後肌膚明顯亮起來！",
+      "capacity": "113g",
+      "skin_suitable": "1號：乾性膚質<br>2號：中性/混合性膚質",
+      "usage": "植物肌密完整步驟：清潔→調整→保濕→滋潤，持續使用肌膚保持健康明亮光澤。<br>1.潔顏乳:每日早晚<br>2.面膜:每週一∼兩次<br>3.神奇修護噴霧:每日早晚＋隨身攜帶隨時噴<br>4.乳液:每日早晚 ",
+      "function": "調整肌膚紋理，溫和去角質，植化素成分完整吸收",
+      "price": 980,
+      "principal_components": null,
+      "video_source": null,
+      "small_images": {
+        "img_01": "p/c/pc31.jpg",
+        "img_02": "p/c/pc32.jpg"
+      },
+      "description_image": null
+    },
+    "pd11": {
+      "name": "植物肌密乳液",
+      "series": "植物肌密系列",
+      "description": "鎖住精華形成 <br>天然保護膜 <br>光澤力提升再提升！ <br>質地綿密細緻、 <br>清透不黏膩，輕輕一擦 <br>在肌膚形成保護膜， <br>將珍貴植化素精華完整 <br>鎖住，水潤光澤更加倍！",
+      "capacity": "88 ml",
+      "skin_suitable": "1號：乾性膚質<br>2號：中性/混合性膚質",
+      "usage": "植物肌密完整步驟：清潔→調整→保濕→滋潤，持續使用肌膚保持健康明亮光澤。<br>1.潔顏乳:每日早晚<br>2.面膜:每週一∼兩次<br>3.神奇修護噴霧:每日早晚＋隨身攜帶隨時噴<br>4.乳液:每日早晚 ",
+      "function": "滋潤，完整鎖住水分",
+      "price": 1080,
+      "principal_components": null,
+      "video_source": null,
+      "small_images": {
+        "img_01": "p/c/pc41.jpg",
+        "img_02": "p/c/pc42.jpg"
+      },
+      "description_image": null
+    },
+    "pd12": {
+      "name": "幻時能量 超V肌底精華",
+      "series": "幻時能量系列",
+      "description": "超V、超緊、超彈力，以植物精華+多重胜肽，超乎想像重揚臉部黃金三角，為肌膚注入超young活力。",
+      "capacity": "29ml",
+      "skin_suitable": "全膚質",
+      "usage": "取適量於化妝水之後，乳液之前，順著肌膚紋理由<br>下往上塗抹",
+      "function": "緊實臉部線條，恢復肌膚彈性",
+      "price": 2500,
+      "principal_components": null,
+      "video_source": "pd11.mp4",
+      "small_images": {
+        "img_01": "p/d/pd11.jpg"
+      },
+      "description_image": null
+    },
+    "pd13": {
+      "name": "幻時能量眼霜",
+      "series": "幻時能量系列",
+      "description": "植物精萃、多重胜肽、玻尿酸等精華成分為眼周肌膚注入緊實彈力，搭配鋅合金按摩頭按摩紓緩眼周，恢復眼周活力",
+      "capacity": "14ml",
+      "skin_suitable": "全膚質",
+      "usage": "每日早晚於清潔後，擠出適量，用按摩頭輕點、均勻塗抹於眼周肌膚。",
+      "function": "保濕. 緊實彈力. 撫平細紋",
+      "price": 1800,
+      "principal_components": null,
+      "video_source": null,
+      "small_images": {
+        "img_01": "p/d/pd21.jpg"
+      },
+      "description_image": null
+    },
+    "pd14": {
+      "name": "幻時能量酵素煥膚面膜",
+      "series": "幻時能量系列",
+      "description": "保養新概念 高效護角質 輕果酸 + 海洋酵素 + 海藻精華 <br>只要10分鐘，溫和代謝老廢角質，照顧健康角質層，肌膚淨透明亮",
+      "capacity": "#REF!",
+      "skin_suitable": "全膚質",
+      "usage": "每週使用1~2次、於清潔後的臉上取適量均勻塗抹，約8~10分鐘後洗掉，接續後續保養程<br>序",
+      "function": "去角質",
+      "price": 1800,
+      "principal_components": null,
+      "video_source": null,
+      "small_images": {
+        "img_01": "p/d/pd31.jpg"
+      },
+      "description_image": null
+    },
+    "pd15": {
+      "name": "幻時能量撫紋霜",
+      "series": "幻時能量系列",
+      "description": "跟全臉的紋路說掰掰 <br>‧ 彈性填紋分子+玻尿酸 撫平細紋<br>‧ 微脂囊A醇 彈力緊實",
+      "capacity": "14g",
+      "skin_suitable": "全膚質",
+      "usage": "精華液後，用指尖取適量塗抹於皺紋細紋處，順著紋路方向塗抹輕點直到吸收。",
+      "function": "改善六大區紋路、淡化皺紋",
+      "price": 1500,
+      "principal_components": null,
+      "video_source": null,
+      "small_images": {
+        "img_01": "p/d/pd41.jpg"
+      },
+      "description_image": null
+    },
+    "pd16": {
+      "name": "幻時能量 蘭花生物纖維面膜",
+      "series": "幻時能量系列",
+      "description": "蘭花菁萃+生物纖維面膜 讓臉蛋維持完美線條 <br>豐富多醣體+花青素 修護，水潤，彈力<br>生物纖維面膜: 緊密貼合肌膚，大大提升吸收率，精華成分一滴不浪費。",
+      "capacity": "24g",
+      "skin_suitable": "全膚質",
+      "usage": "面膜在兩層保護膜當中，沒有分正反面。先撕去一層保護膜，貼在乾淨的臉龐後再撕去另一片保護膜，將面膜推勻貼合肌膚20-30分鐘後撕去面膜，可將剩餘的精華液再度輕輕按摩臉部肌膚至吸收。",
+      "function": "增加修護. 讓肌膚擁有彈性水潤. 提升肌膚明亮度. 淡化撫平細紋",
+      "price": 3000,
+      "principal_components": null,
+      "video_source": null,
+      "small_images": {
+        "img_01": "p/d/pd51.jpg"
+      },
+      "description_image": null
+    },
+    "pd17": {
+      "name": "幻時能量日霜 SPF30",
+      "series": "幻時能量系列",
+      "description": "保持肌膚年輕，改善膚色不均，有助於鎮靜肌膚，阻隔UVA/UVB傷害，保濕柔嫩，防止肌膚老化",
+      "capacity": "48g",
+      "skin_suitable": "全膚質",
+      "usage": "於日間使用，取適量於精華液之後，順著肌膚紋 理由下往上塗抹",
+      "function": "防曬，增進肌膚彈性",
+      "price": 2800,
+      "principal_components": null,
+      "video_source": null,
+      "small_images": {
+        "img_01": "p/d/pd61.jpg"
+      },
+      "description_image": null
+    },
+    "pd18": {
+      "name": "幻時能量晚霜",
+      "series": "幻時能量系列",
+      "description": "修復、促進彈力，恢復肌膚光彩，改善粗糙、使肌膚光滑細緻，滋潤保濕、防止夜間肌膚水分快速流失，一覺醒來，重現年輕緊實臉龐。",
+      "capacity": "48g",
+      "skin_suitable": "全膚質",
+      "usage": "於晚間使用，取適量於精華液之後，順著肌<br>膚紋理由下往上塗抹",
+      "function": "滋潤，增進肌膚彈性",
+      "price": 2800,
+      "principal_components": null,
+      "video_source": null,
+      "small_images": {
+        "img_01": "p/d/pd71.jpg"
+      },
+      "description_image": null
+    },
+    "pd19": {
+      "name": "煥顏肌活精華",
+      "series": "時光精靈系列",
+      "description": "恢復肌膚彈性,緊緻毛孔、修護肌表面,油水平衡",
+      "capacity": "29ml",
+      "skin_suitable": "全膚質",
+      "usage": "於清潔化妝水後，直接塗抹於臉部肌膚; 於煥顏微晶柔膚霜之後使用效果更佳",
+      "function": "修護，緊緻毛孔",
+      "price": 1800,
+      "principal_components": null,
+      "video_source": null,
+      "small_images": {
+        "img_01": "p/e/pe11.jpg"
+      },
+      "description_image": null
+    },
+    "pd20": {
+      "name": "煥顏微晶柔膚霜",
+      "series": "時光精靈系列",
+      "description": "三段式打造肌膚光譜，顛覆你對肌膚亮度的想像<br>皮膚科專用去角質成分：柔膚煥光<br>椰子油複合物＋甘油：滋潤造光<br>咖啡因配方：有氧發光<br><br>全新配方帶來新轉肌<br>獨特「三重茶素」：鎮靜舒緩<br>花果精萃配方：迅速收斂<br>波斯綢樹皮萃取及水解大豆精華：加倍吸收",
+      "capacity": "70g",
+      "skin_suitable": "全膚質",
+      "usage": "沾取適量，避免眼、唇周，在臉上輕輕按摩約2分鐘，即可以用清水洗淨\u000b建議依膚況每週使用1-2次",
+      "function": "溫和有效去除老廢角質使肌膚細緻明亮",
+      "price": 1600,
+      "principal_components": null,
+      "video_source": null,
+      "small_images": {
+        "img_01": "p/e/pe21.jpg"
+      },
+      "description_image": null
+    },
+    "pd21": {
+      "name": "肌晶露",
+      "series": "時光精靈系列",
+      "description": "肌晶浸潤 綻放盛美<br>肌晶露 補肌膚的底氣<br>高保濕甘醇 + 天然植萃，熬製出的肌膚之露~~~<br>純原肌膚所需，高能鎖水技術<br>一抹瞬效保濕、二抹彈潤綻放、三抹光彩萬分<br>盛放肌膚原生之美。",
+      "capacity": "147ml",
+      "skin_suitable": "全膚質",
+      "usage": "於清潔後取適量擦拭或輕拍臉部肌膚至吸收",
+      "function": "保濕，補水",
+      "price": 1200,
+      "principal_components": null,
+      "video_source": null,
+      "small_images": {
+        "img_01": "p/e/pe31.jpg"
+      },
+      "description_image": null
+    },
+    "pd22": {
+      "name": "靚亮精華",
+      "series": "時光精靈系列",
+      "description": "零雜質 寶石肌<br>還原肌膚淨度，散發頂級寶石光采<br>完美靓亮複合物 核心成分--白腎豆精華 <br>十年研發 獨家專利 均勻膚色 淡化斑點<br>-- 四重植物配方 舒緩肌膚: 植物胺基酸，海岸松，高山火絨草，白樺葉",
+      "capacity": "29ml",
+      "skin_suitable": "全膚質",
+      "usage": "於清潔化妝水後，直接塗抹於臉部肌膚",
+      "function": "亮白，均勻膚色",
+      "price": 1500,
+      "principal_components": null,
+      "video_source": null,
+      "small_images": {
+        "img_01": "p/e/pe41.jpg"
+      },
+      "description_image": null
+    },
+    "pd23": {
+      "name": "VCE精華",
+      "series": "時光精靈系列",
+      "description": "保養新加法 <br>C+E =彈潤，緊緻，透亮，白皙 <br>擦的維他命 養肌 不 “氧”肌<br>氧化使妳膠原流失、肌膚暗沉、細紋浮現。。。<br>年紀輕輕就顯老就是因為肌膚氧化<br>一起用C+E為肌膚打底，肌膚不氧化，養出透亮美肌。",
+      "capacity": "44ml",
+      "skin_suitable": "全膚質",
+      "usage": "於清潔化妝水後，直接塗抹於臉部肌膚",
+      "function": "抗老化，亮白，緊實",
+      "price": 2000,
+      "principal_components": null,
+      "video_source": "pe51.mp4",
+      "small_images": {
+        "img_01": "p/e/pe51.jpg"
+      },
+      "description_image": null
+    },
+    "pd24": {
+      "name": "時光精靈 肌晶晚安面膜",
+      "series": "時光精靈系列",
+      "description": "啟動美肌復甦術<br>一夜美敷 晨醒晶透<br>巴西莓果源源注入 深度潤補全天活力<br>#深夜美敷時肌<br>運用肌膚黃金修復期 補水修護肌膚<br>-- 滋潤，柔軟，有彈性<br>-- 從肌底散出自然光采<br>",
+      "capacity": "85g",
+      "skin_suitable": "全膚質",
+      "usage": "1. 做急救保濕面膜: 十分鐘及時補水，清潔後的臉部敷上面膜十分鐘後洗掉<br>2. 睡前保養最後一道程序: 在所有保養步驟後敷上一層鎖住所有養分睡覺",
+      "function": "補水，保濕，鎖水，修護",
+      "price": 1200,
+      "principal_components": null,
+      "video_source": null,
+      "small_images": {
+        "img_01": "p/e/pe61.jpg"
+      },
+      "description_image": null
+    },
+    "pd25": {
+      "name": "神奇亮采眼霜",
+      "series": "時光精靈系列",
+      "description": "含胺基酸及多種胜肽，使眼周肌膚緊實、明亮有彈性。<br>特別添加蘆薈、維生素B5、維生素E，甘菊萃取成分能舒緩眼部肌膚。",
+      "capacity": "#REF!",
+      "skin_suitable": "全膚質",
+      "usage": "輕抹於眼睛肌膚部位",
+      "function": "更升一級的配方，一次滿 足眼部肌膚的需求，全面 解決眼周肌膚的問題 <br>˙更加緊實有彈性：多種胜 肽成分 <br>˙保濕滋潤：蘆薈、維他 命B5、維他命E <br>˙淡化細紋",
+      "price": 1650,
+      "principal_components": null,
+      "video_source": null,
+      "small_images": {
+        "img_01": "p/e/pe71.jpg"
+      },
+      "description_image": null
+    },
+    "pd26": {
+      "name": "亮采黑能亮精華液",
+      "series": "亮采黑能亮系列",
+      "description": "頂級黑珍珠亮白精華，抹開瞬間舒緩芬芳，看見透亮。<br>高濃度大溪地黑珍珠原液+紓壓香氛\"依蘭\" ，白得淨透持久",
+      "capacity": "#REF!",
+      "skin_suitable": "全膚質",
+      "usage": "每日早晚於清潔爽膚後，取適量均勻塗抹於臉部及頸部。",
+      "function": "亮白滋潤臉部肌膚",
+      "price": 2800,
+      "principal_components": null,
+      "video_source": "pf.mp4",
+      "small_images": {
+        "img_01": "p/f/pf11.jpg"
+      },
+      "description_image": null
+    },
+    "pd27": {
+      "name": "亮采黑能亮乳霜",
+      "series": "亮采黑能亮系列",
+      "description": "頂級黑珍珠亮白精華 + 依蘭香氛，抹開瞬間舒緩芬芳，看見透亮，潤澤保濕 ，白得淨透持久",
+      "capacity": "#REF!",
+      "skin_suitable": "全膚質",
+      "usage": "化妝水後取適量用指腹將乳霜推勻於臉部及頸部，輕輕按摩至肌膚吸收，避開眼周，每日早晚使用。",
+      "function": "亮白滋潤臉部肌膚",
+      "price": 2000,
+      "principal_components": null,
+      "video_source": "pf.mp4",
+      "small_images": {
+        "img_01": "p/f/pf21.jpg"
+      },
+      "description_image": null
+    },
+    "pd28": {
+      "name": "淨顏活性碳面膜",
+      "series": "淨顏系列",
+      "description": "現代人抗空汙必備! <br>通勤族，夏日油光肌前所未有的清爽舒暢感，毛孔終於能呼吸! <br>．淨化活性碳: 吸附髒污，深層淨化毛孔。<br>．礦物泥: 掃除老廢角質及多於油光<br>．金銀花: 長效防護 <br>可搭配\"晚安美人水嫩面膜\"使用加強保濕度",
+      "capacity": "#REF!",
+      "skin_suitable": "油性肌",
+      "usage": "均勻的塗抹於清潔後的皮膚，面膜會由膠狀質地逐漸變乾以吸附皮膚髒汙，停留10-20分鐘，以溫水徹底沖洗乾淨、擦乾臉後抹保濕霜，接著後續保養。每週可使用2至3次。<br><br>全套使用步驟：時光3D四效潔面乳(清爽型) / 植物肌密3號潔顏乳→淨顏活性碳面膜→淨顏爽膚水→淨顏精華露→ 淨顏無油乳液 ( 淨顏集中修護凝露請依膚質狀況使用）",
+      "function": "再次清潔及調理肌膚，控油，使臉部清爽",
+      "price": 900,
+      "principal_components": null,
+      "video_source": null,
+      "small_images": {
+        "img_01": "p/g/pg11.jpg"
+      },
+      "description_image": null
+    },
+    "pd29": {
+      "name": "淨顏集中修護凝露",
+      "series": "淨顏系列",
+      "description": "加一帖 隨時急救<br>上火肌火山爆發忙著找出口，痘痘冒出來怎辦？<br>化妝包必備 肌膚上火救星、改善痘痘兼淡疤，不留痕跡。<br>．2% 溫和水楊酸：大自然的智慧，植物的最佳自我保護成分，清除多餘皮脂及角質，改<br>善痘痘。<br>．牛蒡萃取：含多種人體必需的胺基酸及微量元素，且富含多酚類，提升肌膚修復力，痘<br>疤速速淡化!",
+      "capacity": "#REF!",
+      "skin_suitable": "油性肌",
+      "usage": "視需要直接塗抹於瑕疵部位。<br>全套使用步驟：時光3D四效潔面乳(清爽型) / 植物肌密3號潔顏乳→淨顏活性碳面膜→淨顏爽膚水→淨顏精華露→ 淨顏無油乳液 ( 淨顏集中修護凝露請依膚質狀況使用）",
+      "function": "軟化角質、預防面皰",
+      "price": 750,
+      "principal_components": null,
+      "video_source": null,
+      "small_images": {
+        "img_01": "p/g/pg21.jpg"
+      },
+      "description_image": null
+    },
+    "pd30": {
+      "name": "淨顏精華露",
+      "series": "淨顏系列",
+      "description": "肌膚上火狂出油，內更乾。<br>微酸去油淨白精華、維持肌膚油水平衡。<br>．柳樹萃取- 水楊酸：溫和的水楊酸以及不飽和脂肪酸能幫助肌膚去角質，通暢毛孔，同時修復肌膚。<br>．海石楠 - 熊果素A：淨白調理、修護肌膚。",
+      "capacity": "#REF!",
+      "skin_suitable": "油性肌",
+      "usage": "取適量塗抹於全臉肌膚。<br>全套使用步驟：時光3D四效潔面乳(清爽型) / 植物肌密3號潔顏乳→淨顏活性碳面膜→淨顏爽膚水→淨顏精華露→ 淨顏無油乳液 ( 淨顏集中修護凝露請依膚質狀況使用）",
+      "function": "預防面皰，維持肌膚油水平衡",
+      "price": 980,
+      "principal_components": null,
+      "video_source": null,
+      "small_images": {
+        "img_01": "p/g/pg31.jpg"
+      },
+      "description_image": null
+    },
+    "pd31": {
+      "name": "淨顏潔面露",
+      "series": "淨顏系列",
+      "description": "洗後清爽保濕、油水平衡、不油不乾",
+      "capacity": "127g",
+      "skin_suitable": "油性肌",
+      "usage": "取適量加少許水分由下往上以輕輕畫圓方式推開後用清水洗淨",
+      "function": "清潔臉部肌膚",
+      "price": 800,
+      "principal_components": null,
+      "video_source": null,
+      "small_images": {
+        "img_01": "p/g/pg41.jpg"
+      },
+      "description_image": null
+    },
+    "pd32": {
+      "name": "乳木果去角質唇霜",
+      "series": "乳木果系列",
+      "description": "糖霜去角質，方形結晶，正好可帶走表面老廢角質與毛孔間的髒污。<br>溫和：糖的溶解速度快，不用擔心會因去角質過久造成肌膚傷害！<br>保濕：糖溶化後，對於肌膚保濕能力良好，另外添加乳油木果油及葵花籽油，去角質同時保濕潤澤，內含維他命E抗老化。",
+      "capacity": "#REF!",
+      "skin_suitable": "全膚質",
+      "usage": "塗抹於雙唇，輕輕按摩後，以清水洗淨即可。",
+      "function": "高效溫和去除唇部角質: 砂糖的結晶為正立方體 ，最適用於人體毛細孔大小以及角度，正好可 帶走表面老廢角質與毛孔間的髒污，糖的溶解 速度快，不用擔心會因去角質過久造成肌膚傷 害 保濕: 糖溶化後，對於肌膚保濕能力良好",
+      "price": 600,
+      "principal_components": null,
+      "video_source": null,
+      "small_images": {
+        "img_01": "p/h/ph41.jpg"
+      },
+      "description_image": null
+    },
+    "pd33": {
+      "name": "乳木果護唇脂",
+      "series": "乳木果系列",
+      "description": "甜葉菊萃取－修護肌膚；芒果萃取－抗老化， 形成隱形保護膜，嘴唇ㄉㄨㄞ ㄉㄨㄞ 唇紋BYE BYE。",
+      "capacity": "8g",
+      "skin_suitable": "全膚質",
+      "usage": "塗抹於雙唇部。",
+      "function": "長效保濕 滋潤唇部肌膚，不黏膩 唇部肌膚有彈性",
+      "price": 600,
+      "principal_components": null,
+      "video_source": null,
+      "small_images": {
+        "img_01": "p/h/ph51.jpg"
+      },
+      "description_image": null
+    },
+    "pd34": {
+      "name": "乳木果護手霜",
+      "series": "乳木果系列",
+      "description": "乳木果油-- 珍貴的黃金般油脂<br>含豐富維他命，容易被皮膚吸收，分子細小，清爽不油膩，含有“非皂化成分＂，不容易被水或肥皂洗掉，可以在皮膚上停留更長的時間，形成完整保護膜，長效保濕。",
+      "capacity": "#REF!",
+      "skin_suitable": "全膚質",
+      "usage": "適量塗抹於雙手與手指 部位，輕輕地按摩，能 提供高效保濕滋養效果， 讓手部肌膚立即恢復細緻 柔嫩。",
+      "function": "質地細緻易吸收、快速的 滋潤手部肌膚、能提供長 時間鎖水，提供高效保濕 效果",
+      "price": 480,
+      "principal_components": null,
+      "video_source": null,
+      "small_images": {
+        "img_01": "p/h/ph11.jpg"
+      },
+      "description_image": null
+    },
+    "pd35": {
+      "name": "乳木果煥活沐浴露",
+      "series": "乳木果系列",
+      "description": "天天洗出白玉肌<br>幸福氛圍全開的沐浴時光<br>乳木果-潤澤保濕<br>白茶-舒緩香氛，清新煥活<br>柑橘檸檬酸-溫和煥膚，促進角質代謝",
+      "capacity": "#REF!",
+      "skin_suitable": "全膚質",
+      "usage": "將身體肌膚濕潤，取 適量於手心或洗澡海 棉上，以畫圓圈方式 按摩之後沖洗乾淨。",
+      "function": "˙ 洗出白玉肌",
+      "price": 800,
+      "principal_components": null,
+      "video_source": null,
+      "small_images": {
+        "img_01": "p/h/ph21.jpg"
+      },
+      "description_image": null
+    },
+    "pd36": {
+      "name": "乳木果煥活去角質霜",
+      "series": "乳木果系列",
+      "description": "溫和細緻，可天天使用的去角質<br>幸福氛圍全開的沐浴時光<br>乳木果-潤澤保濕<br>白茶-舒緩香氛，清新煥活<br>柑橘檸檬酸-溫和煥膚，促進角質代謝",
+      "capacity": "#REF!",
+      "skin_suitable": "全膚質",
+      "usage": "每天在洗澡時打濕身體，取適量塗抹於全身以畫圓方式輕輕揉搓，可局部加強於關節或是腳跟等角質較厚處。",
+      "function": "˙ 溫和細緻、光滑肌膚",
+      "price": 800,
+      "principal_components": null,
+      "video_source": null,
+      "small_images": {
+        "img_01": "p/h/ph61.jpg"
+      },
+      "description_image": null
+    },
+    "pd37": {
+      "name": "乳木果煥活身體乳",
+      "series": "乳木果系列",
+      "description": "打造柔滑潤澤的白玉肌<br>幸福氛圍全開的沐浴時光<br>乳木果-潤澤保濕<br>白茶-舒緩香氛，清新煥活<br>柑橘檸檬酸-溫和煥膚，促進角質代謝",
+      "capacity": "#REF!",
+      "skin_suitable": "全膚質",
+      "usage": "取適量均勻塗抹於全 身肌膚，並且輕輕地 按摩直到吸收；應加 強手肘、膝蓋及後腳跟特別容易乾燥的地 方。",
+      "function": "˙ 打造柔滑潤澤的白玉肌",
+      "price": 1000,
+      "principal_components": null,
+      "video_source": null,
+      "small_images": {
+        "img_01": "p/h/ph31.jpg"
+      },
+      "description_image": null
+    },
+    "pd38": {
+      "name": "玫琳凱眼膜膠",
+      "series": "特殊護理",
+      "description": "以小黃瓜、金縷梅、綠茶及甘菊萃取液，幫眼周補水，提升眼部肌膚滋潤度。",
+      "capacity": "11g",
+      "skin_suitable": "全膚質",
+      "usage": "取適量均勻塗抹於眼周",
+      "function": "˙ 改善泡泡眼<br>˙ 高效保濕成分提供眼部立的保濕、滋潤效果",
+      "price": 1050,
+      "principal_components": null,
+      "video_source": null,
+      "small_images": {
+        "img_01": "f/h/fh11.jpg"
+      },
+      "description_image": null
+    },
+    "pd39": {
+      "name": "眼部卸粧液",
+      "series": "特殊護理",
+      "description": "眼科醫師認證，溫和高效，一般性及防水性彩粧都能卸得乾乾淨淨。",
+      "capacity": "110ml",
+      "skin_suitable": "通過眼科醫生測試及肌膚刺激性和過敏性臨床試驗，戴隱形眼鏡者和敏感性膚質皆可使用。",
+      "usage": "1.先上下搖晃將液體混合均勻<br>2.再用化妝棉沾取卸去臉部彩妝即可",
+      "function": "晶瑩剔透，二層式獨特配方，溫和且高效的眼部卸妝品，徹底卸除一般及防水性眼部彩妝。",
+      "price": 800,
+      "principal_components": null,
+      "video_source": null,
+      "small_images": {
+        "img_01": "f/a/fa21.jpg",
+        "img_02": "f/a/fa22.jpg"
+      },
+      "description_image": null
+    },
+    "pd40": {
+      "name": "水妍保濕凝露(清爽型)",
+      "series": "特殊護理",
+      "description": "永遠的經典熱銷No.1 神級保濕 一試成主顧<br>海藻、綠茶萃取，維生素E、胺基酸<br>在肌膚上一抹化開，彷彿沙漠遇到綠洲爆水出來。",
+      "capacity": "51g",
+      "skin_suitable": "所有膚質均適用<br>（推薦混合／油性肌膚）",
+      "usage": "潔膚調理後，取適量輕擦於全臉即可。<br><br>全套保養步驟:<br>日／夜：清潔→調理→爽膚→維他命C精華→水妍保濕凝露→滋潤",
+      "function": "˙ 保水：10種高效保濕因子：親膚性極佳，保<br>濕鎖水<br>˙ 代謝：添加多元卵磷脂體、海藻及綠茶萃取<br>液，促進新陳代謝<br>˙ 修護：8種胺基酸",
+      "price": 1700,
+      "principal_components": null,
+      "video_source": null,
+      "small_images": {
+        "img_01": "f/i/fi21.jpg",
+        "img_02": "f/i/fi22.jpg",
+        "img_03": "f/i/fi23.jpg"
+      },
+      "description_image": "水妍保濕凝露02.jpg"
+    },
+    "pd41": {
+      "name": "水妍保濕修護霜(滋潤型)",
+      "series": "特殊護理",
+      "description": "含有海藻萃取液、維生素E衍生物、植物油與微量元素複合物(銅、鎂、鋅)等，不僅提供保濕效果、舒緩因乾燥而引起的不適感，更能使肌膚擁有活力與防護力，展現水嫩光采。",
+      "capacity": "#REF!",
+      "skin_suitable": "中、乾性膚質適用 （推薦乾性肌膚）",
+      "usage": "潔膚調理後，取適量輕擦於全臉即可。<br><br>使用步驟： 日／夜：清潔→調理→爽膚→維他命C精華→水妍保濕凝露→滋潤 日／夜：清潔→調理→爽膚→滋潤或維他命C精華→水妍保濕修護霜",
+      "function": "˙促進肌膚本身新陳代謝與保水能力 ˙將有效滋養成分滲入乾燥的肌膚表層，提供 水嫩光采呵護 ˙海藻萃取液、山梨糖醇、微晶蜂蠟……等高效 保濕因子迅速輸送水分到肌膚表皮層 ˙維生素E、乳木油果、酪梨油……⋯等，提升 保水力 ˙集中修護：3種活化微量元素複合物──銅、 鎂、鋅",
+      "price": 1700,
+      "principal_components": null,
+      "video_source": null,
+      "small_images": {
+        "img_01": "f/d/fd41.jpg",
+        "img_02": "f/d/fd42.jpg",
+        "img_03": "f/d/fd43.jpg"
+      },
+      "description_image": "水妍保濕修護霜02.jpg"
+    },
+    "pd42": {
+      "name": "T字控油涼露",
+      "series": "特殊護理",
+      "description": "含多種矽化合物(Silica)所組成的「矽質吸油網」，立即吸附臉部多餘油光，還可以維持毛孔舒暢。",
+      "capacity": "#REF!",
+      "skin_suitable": "全膚質",
+      "usage": "上粉底前使用或單獨使用；如須加強效果，也可在上完粉底後或補粧（不需卸粧）時使用 。",
+      "function": "含多種矽化合物形成的「矽質吸油網」，收斂臉部油光，它的分子細小、質地清爽精純 ，用後皮膚就像上了一層薄粉般地細緻光滑，使皮膚自然達到油水平衡效果，不會堵塞毛 孔，男女均可適用",
+      "price": 720,
+      "principal_components": null,
+      "video_source": null,
+      "small_images": {
+        "img_01": "f/i/fi31.jpg"
+      },
+      "description_image": null
+    },
+    "pd43": {
+      "name": "粉紅膜力 爆水眼膜",
+      "series": "眼唇保養",
+      "description": "肌膚的高溫危機 就靠冰涼爆水凍膜來解 <br>特殊形狀符合每個邊邊角角<br>眼周，法令紋，想貼哪就貼哪<br>貼過就水 貼過就嫩 貼過就平",
+      "capacity": "60片/盒",
+      "skin_suitable": "全膚質",
+      "usage": "清潔肌膚後，貼在任何想要補水的位置，例如: 眼周，法令紋。可敷20分鐘再取下。",
+      "function": "補水，撫紋",
+      "price": 1500,
+      "principal_components": null,
+      "video_source": "fh21.mp4",
+      "small_images": {
+        "img_01": "f/h/fh21.jpg",
+        "img_02": "f/h/fh22.jpg",
+        "img_03": "f/h/fh23.jpg"
+      },
+      "description_image": "粉紅膜力 爆水眼膜02.jpg"
+    },
+    "pd44": {
+      "name": "水氧淨妝露",
+      "series": "卸妝",
+      "description": "你隨身的肌膚管理師 <br>即淨 保水 補氧 好妝容好膚質<br>保養從溫和淨膚開始 <br>隨時隨地輕輕一抹 卸妝清潔保濕都到位<br><br>溫柔卸淨: Micellar Water科技: 特殊磁力球吸附式卸妝體驗，輕輕一抹即帶走髒污<br>高效方便: 獨特免洗配方，卸妝後不需沖洗，出門在外、運動、旅行、換妝、倒頭就睡前。。。一抹清新秒卸妝。<br>保濕舒適: 甘油添加: 在肌膚表層鎖住水分，使用後不緊繃、不乾澀，賦予肌膚最佳舒適度<br>",
+      "capacity": "147 ml",
+      "skin_suitable": "全膚質",
+      "usage": "用化妝棉沾取並擦拭臉部肌膚即可卸除彩妝髒污，無須沖水",
+      "function": "卸妝，清潔，保濕",
+      "price": 680,
+      "principal_components": null,
+      "video_source": "fa11.mp4",
+      "small_images": {
+        "img_01": "f/a/fa11.jpg"
+      },
+      "description_image": null
+    },
+    "pd45": {
+      "name": "靓亮面膜",
+      "series": "面膜",
+      "description": "靚亮面膜．5分鐘粉紅「膜」法<br>雞蛋花萃取x新型礦物泥<br>深層清潔．喚醒肌膚活力<br>均勻膚色．散發靚亮光澤<br>享受置身花海般的清甜香氛<br>五分鐘讓你的肌膚由內而外「淨．透．亮」",
+      "capacity": "88ml",
+      "skin_suitable": "全膚質（正在過敏者不建議使用）",
+      "usage": "•雞蛋花花萃取物 （Plumeria Alba Flower Extract）: 明亮細緻肌膚<br>•微量水楊酸<br>•高嶺土: 豐富的礦物質，潔淨毛孔，吸附髒污油脂，同時不會對肌膚造成刺激及過敏，令肌膚保持天然清新光澤。<br>• 散發淡淡清香的露水牡丹和茶花香氣，有助減壓令人放鬆心情。",
+      "function": "洗臉後在臉上均勻塗抹。留在皮膚上10分鐘。用溫水徹底沖洗，然後抹乾。建議每週使用 1 至 2 次。",
+      "price": 800,
+      "principal_components": null,
+      "video_source": null,
+      "small_images": {
+        "img_01": "f/e/fe61.jpg",
+        "img_02": "f/e/fe62.jpg",
+        "img_03": "f/e/fe63.jpg"
+      },
+      "description_image": null
+    },
+    "pd46": {
+      "name": "男士潔面乳",
+      "series": "男士系列",
+      "description": "給注重肌膚清潔的男性多一種選擇。透明凝膠的質地，可以徹底清潔並幫助去除臉上老廢角質，使肌膚舒適、平滑，看起來更明亮，也是對抗老化現象非常重要的第一步！",
+      "capacity": "#REF!",
+      "skin_suitable": "全膚質",
+      "usage": "取適量於掌心，搓揉起泡後塗 抹于臉部稍加按摩，用清水洗 淨即可。",
+      "function": "˙深入毛孔清潔髒污，洗淨多餘 油脂，洗後清爽光滑不緊繃 ˙延緩老化，恢復肌膚年輕光采",
+      "price": 650,
+      "principal_components": null,
+      "video_source": null,
+      "small_images": {
+        "img_01": "p/i/pi11.jpg"
+      },
+      "description_image": null
+    },
+    "pd47": {
+      "name": "玫琳凱 滾輪按摩儀",
+      "series": "美容儀器",
+      "description": "比擬真人按摩手技- 揉捏，上推，輕彈，每部位3分鐘，彷彿去做了全身按摩，彈力緊實，達到想要的V跟S。",
+      "capacity": "1入",
+      "skin_suitable": null,
+      "usage": null,
+      "function": "按摩臉部",
+      "price": 3980,
+      "principal_components": null,
+      "video_source": "fj11.mp4",
+      "small_images": {
+        "img_01": "f/j/fj11.jpg"
+      },
+      "description_image": null
+    },
+    "pd48": {
+      "name": "音波極淨SPA儀",
+      "series": "美容儀器",
+      "description": "超柔軟纖維刷毛 + 每秒200次音波微震，極度溫和卻能徹底清潔毛孔髒汙，多餘油脂，把臉洗乾淨保養事半功倍!",
+      "capacity": "1入",
+      "skin_suitable": null,
+      "usage": null,
+      "function": "清潔/按摩臉部",
+      "price": 4200,
+      "principal_components": null,
+      "video_source": "fj21.mp4",
+      "small_images": {
+        "img_01": "f/j/fj21.jpg"
+      },
+      "description_image": null
+    },
+    "pd49": {
+      "name": "音波極淨SPA儀按摩頭",
+      "series": "美容儀器",
+      "description": "音波按摩，居家SPA，自己在家也能做臉，舒緩緊緻，讓保養品吸收度更好。",
+      "capacity": "1入",
+      "skin_suitable": null,
+      "usage": null,
+      "function": "按摩臉部",
+      "price": 980,
+      "principal_components": null,
+      "video_source": null,
+      "small_images": {
+        "img_01": "f/j/fj31.jpg"
+      },
+      "description_image": null
+    },
+    "pd50": {
+      "name": "音波極淨SPA儀刷頭",
+      "series": "美容儀器",
+      "description": "超柔軟纖維刷毛",
+      "capacity": "1入",
+      "skin_suitable": null,
+      "usage": null,
+      "function": "清潔臉部肌膚",
+      "price": 880,
+      "principal_components": null,
+      "video_source": null,
+      "small_images": {
+        "img_01": "f/j/fj41.jpg"
+      },
+      "description_image": null
+    },
+    "pd51": {
+      "name": "裸光肌蜜美顏霜",
+      "series": "臉部彩妝",
+      "description": "肌膚用力放閃!! 一瓶集聚七大功效: 修飾，持妝，光澤，保濕，防曬，潤色，隔離。 號稱液體黃金的蜂蜜精萃，高效保濕，牡丹萃取給你透潤好氣色，SPF35防護，鑽光微粒+防汗透氣配方 輕盈 舒適 讓你自帶濾鏡般展現零瑕疵美肌。",
+      "capacity": "40ml",
+      "skin_suitable": "全膚質",
+      "usage": "於保養後，底妝前取適量均勻塗 抹於臉部肌膚",
+      "function": "修飾、持妝、光 澤、保濕、潤色 、防曬、 隔離 1. 單擦: 明亮+防 曬，素顏好氣色 2. 當作底妝前飾 底: 底妝透出光澤 ，肌膚更加透亮",
+      "price": 1500,
+      "principal_components": null,
+      "video_source": null,
+      "small_images": {
+        "img_01": "m/a/ma61.jpg"
+      },
+      "description_image": null
+    },
+    "pd52": {
+      "name": "3D奇肌粉底液",
+      "series": "臉部彩妝",
+      "description": "智慧校色 – 完美與膚色融合<br>智慧校色粉體粒子是經過全球超過1000位受試者測試及3000張肌膚照片比對不斷調整，精密切割，混合校色才創造出來的，可以完美貼膚，彷彿第二層肌膚般自然無瑕<br>3D精華成分添加– 白藜蘆醇，寡肽，維他命B3<br>是粉底液也是精華液，明亮肌膚，增進肌膚彈力<br>特殊海綿粉體-- 控油防汗保濕 <br>輕盈薄透，可以吸附油脂並長效保濕不卡紋 不脫妝 不乾燥<br>經過眼科醫師及皮膚科醫師測試 溫和安全<br>無油無香料添加",
+      "capacity": "30ml",
+      "skin_suitable": "紫特霧-為霧面質感. 較為清爽<br>粉保濕-為光澤質感, 較為保濕",
+      "usage": "於完成保養程序後，取適量以指尖或搭配粉底刷沾取，均勻塗抹於臉部肌膚。",
+      "function": "將細紋. 毛孔. 膚色不均的肌膚問題瞬間藏得不痕肌",
+      "price": 980,
+      "principal_components": null,
+      "video_source": "ma91.mp4",
+      "small_images": {
+        "img_01": "m/a/ma91.jpg",
+        "img_02": "m/a/ma92.jpg",
+        "img_03": "m/a/ma93.jpg"
+      },
+      "description_image": null
+    },
+    "pd53": {
+      "name": "保濕隔離修顏霜",
+      "series": "臉部彩妝",
+      "description": "是防曬是底妝也是保養!<br>防曬、保濕、隔離：添加 維他命C , E、維他命B3、牛奶薊等精華成分，保護肌膚、上妝同時保養。",
+      "capacity": "29ml",
+      "skin_suitable": "全膚質",
+      "usage": "外出前，取適量均 勻塗抹於臉部肌膚",
+      "function": "看起來健康、年輕 的底妝。明亮、自 然、容光煥發 每個女人夢想中的 肌膚 宛如天生膚 色的裸妝感 ˙肌膚質感大升級 ：無油礦物微光 粉末，遮毛孔、 蓋細紋 ˙保水無油配方， 保濕，肌膚舒適 水潤一整天 ˙讓膚色均勻、好 得很自然！",
+      "price": 1200,
+      "principal_components": null,
+      "video_source": null,
+      "small_images": {
+        "img_01": "m/a/ma71.jpg",
+        "img_02": "m/a/ma72.jpg"
+      },
+      "description_image": null
+    },
+    "pd54": {
+      "name": "玫琳凱妝前飾底凝露",
+      "series": "臉部彩妝",
+      "description": "一抹遮掩細紋與毛孔，使粉妝更均勻好推！讓粉底緊緊地服貼在臉上！更棒的是，玫琳凱妝前飾底凝<br>露無香料、不易生粉刺配方，適合所有膚質。<br>使用方式：利用指腹以畫圓的方式，塗抹在全臉，以達到立即的柔嫩效果。妝前、妝後皆可使用。<br>衛署粧輸字第019180號",
+      "capacity": "#REF!",
+      "skin_suitable": "全膚質",
+      "usage": "上粉底前／後， 皆可使用",
+      "function": "視覺幫助撫平皮 膚的細紋，緊緻 毛孔，呈現完美 的膚質，為粉底 提供一個完美無 瑕的底妝並使底 妝更持久、服貼 、滑",
+      "price": 750,
+      "principal_components": null,
+      "video_source": null,
+      "small_images": {
+        "img_01": "m/a/ma31.jpg"
+      },
+      "description_image": null
+    },
+    "pd55": {
+      "name": "高感光透明白蜜粉",
+      "series": "臉部彩妝",
+      "description": "生命力的光感肌<br>給妳想要的健康光澤， 掃除妳不想要的油光，<br>神奇珍珠白粉末，高透明、高感光，多角度打<br>光科技，精準控油，細紋隱形，創造柔焦效果<br>，遇到肌膚的水氣會馬上 變得透明服貼，完美<br>融入任何膚色，完全不會有粉感，讓肌膚像打<br>柔焦一般透出健康明亮光澤，一瞬間整個人都<br>亮了起來!!!",
+      "capacity": "11g",
+      "skin_suitable": "全膚質",
+      "usage": "˙輕搖高感光透明白蜜粉罐（ 栓緊蓋子），充分搖勻 ˙打開蓋子後用蜜粉底刷沾取 少量蜜粉底 ˙刷具在蓋子上垂直旋轉，讓 粉均勻的分佈在刷子上 ˙輕輕的敲打刷子，抖掉多餘 的粉末 ˙以臉部中心開始往外（臉頰 →額頭→下額）順序使用， 再在鼻翼及眼部周圍輕拂即 可",
+      "function": "˙高透明、高感光 ˙多角度打光科技 ˙控油 ˙創造柔焦效果 ˙完美融入任何膚色 ˙直接當粉底使用，呈現自然 妝感 ˙不易脫粧，妝效持久 ˙不會卡粉、清透光滑質感",
+      "price": 750,
+      "principal_components": null,
+      "video_source": null,
+      "small_images": {
+        "img_01": "m/a/ma41.jpg"
+      },
+      "description_image": null
+    },
+    "pd56": {
+      "name": "玫琳凱礦妍晶透粉餅",
+      "series": "臉部彩妝",
+      "description": "純粹天然礦物粉餅，粉質柔細且能吸附<br>臉龐多餘油脂，隨身攜帶，隨處補妝，<br>臉龐隨時完美遮瑕！",
+      "capacity": "9g",
+      "skin_suitable": "全膚質",
+      "usage": "˙使用粉餅刷沾取適量蜜粉餅 ，撢掉餘粉。於粉底液後使 用或於上彩妝前於肌膚刷上 薄透的礦妍晶透粉餅 ˙輕 輕 均 勻 刷 於 臉 頸 部 肌 膚 ，後續再上彩粧即可呈現有 如絲綢般的柔滑妝感",
+      "function": "˙呈現自然粧感 ˙高彩度 ˙自然原色 ˙不易脫妝、妝效持久 ˙礦物質為主要成分 ˙含維生素A、C、E ˙不卡粉、輕透質感像絲一般 光滑 ˙化粧時容易均勻推展開來",
+      "price": 580,
+      "principal_components": null,
+      "video_source": null,
+      "small_images": null,
+      "description_image": null
+    },
+    "pd57": {
+      "name": "12H透氣抗汙粉凝霜",
+      "series": "臉部彩妝",
+      "description": "超透氣隔離膜 + 輕盈保濕粉體，肌表面舒適到你感覺不到有擦粉，長達12小時持妝，一直維持剛上妝般的好臉色。<br>結合粉霜+遮瑕+粉餅，無敵方便的上妝夢幻逸品。<br>●超透氣隔離膜—抗濕抗污妝保鮮<br>●輕盈保濕粉體--抗汗抗油高保濕<br>●粉霧複合配方—完美修飾毛孔",
+      "capacity": "10g",
+      "skin_suitable": "全膚質",
+      "usage": "用手指或化妝海棉，均勻的塗 抹在臉部肌膚上",
+      "function": "˙長效持妝，特殊『超透氣隔 離膜』讓粉體一直維持像剛 上妝一樣新鮮，不脫妝不暗 沉 ˙輕盈保濕粉體，吸附空氣中 水氣達到長效保濕，高透氣 不悶不黏，肌表面光滑舒適 ˙粉體接觸肌膚即化為輕盈粉 末，服貼肌膚，打柔焦般的 霧化表面，完美修飾毛孔",
+      "price": 800,
+      "principal_components": null,
+      "video_source": null,
+      "small_images": {
+        "img_01": "m/a/ma51.jpg"
+      },
+      "description_image": null
+    },
+    "pd58": {
+      "name": "玫琳凱遮瑕膏",
+      "series": "臉部彩妝",
+      "description": "像\" 美圖\" 一樣簡單就讓瑕疵隱形，五官立體！高延展度，薄透自然，斑點瑕疵膚色不均的地方，選擇貼近自己膚色大片推開。較白皙者適用",
+      "capacity": "6g",
+      "skin_suitable": "全膚質",
+      "usage": "˙粉斑斑，米斑斑：斑點瑕 疵處，薄薄的大片推開 <br>˙黑眼圈通常是帶灰藍色，必須用橘色調才能調和成與膚 色接近的黃，微細光澤還能同時讓細紋隱形。",
+      "function": "遮蓋瑕疵，五官立體 !高 保濕!高延展度!不卡粉!",
+      "price": 680,
+      "principal_components": null,
+      "video_source": null,
+      "small_images": {
+        "img_01": "m/a/ma21.jpg",
+        "img_02": "m/a/ma22.jpg"
+      },
+      "description_image": null
+    },
+    "pd59": {
+      "name": "玫琳凱腮紅",
+      "series": "臉部彩妝",
+      "description": "礦物粉體，絕美色調，顯現自然紅暈般的好氣色",
+      "capacity": "4.8g",
+      "skin_suitable": "全膚質",
+      "usage": "以腮紅刷平均地從腮 紅餅掃過，輕拍掉多 餘粉末，先由太陽穴 下方往下刷到臉頰笑 肌處，然後再往上刷 ，也可配合臉妝有不 同表現方式。",
+      "function": "˙ 含天然純礦物質， 帶來輕盈舒適感覺 <br>˙ 含維他命A、C、E <br>˙妝容可持久亮麗",
+      "price": 500,
+      "principal_components": null,
+      "video_source": null,
+      "small_images": {
+        "img_01": "m/a/ma101.jpg",
+        "img_02": "m/a/ma102.jpg"
+      },
+      "description_image": null
+    },
+    "pd60": {
+      "name": "天使光立體修容餅",
+      "series": "臉部彩妝",
+      "description": "輕刷在鼻樑，眼周等想要明亮立體處",
+      "capacity": "4.8g",
+      "skin_suitable": "全膚質",
+      "usage": "以手指或刷具沾取適量，輕輕刷拭想要打亮加強的任何臉部或身體部位。",
+      "function": "美化、修飾容貌",
+      "price": 500,
+      "principal_components": null,
+      "video_source": null,
+      "small_images": {
+        "img_01": "m/a/ma11.jpg"
+      },
+      "description_image": null
+    },
+    "pd61": {
+      "name": "氣墊緞光蜜唇膏",
+      "series": "唇部彩妝",
+      "description": "氣墊科技再升級 <br>“雙層”空氣球氣墊粒子 <br><br>外層緞光色彩精華 <br>多焦點立體光科技，瑕疵紋路視覺隱形， <br>讓唇絲緞般光滑飽滿透亮。 <br>內層保濕精華 <br>葵花籽油 + 荷荷芭油 持久長效潤澤。",
+      "capacity": "3.6g",
+      "skin_suitable": null,
+      "usage": "好人緣微笑唇畫法TIP: Step1 愛心唇峰 : 在唇峰處畫一個愛心 ，讓唇珠豐盈欲滴， 做出翹翹的甜美唇峰 Step2找到微笑光圈 : 在嘴角上下往上描繪 做出微笑線，讓嘴角 看起來自然上揚",
+      "function": "唇蜜般流動閃耀質地 唇膏的長效穩定顯色 絲緞動人光澤舒適擁 抱你的雙唇 用光澤雕塑唇部微笑 曲線 讓你擁有隨時隨地看 起來都像在笑的好人 緣微笑唇 氣墊科技再升級“雙 層”空氣球氣墊粒子 •外層緞光色彩精華 多焦點立體光科技 ，瑕疵紋路視覺隱 形，讓唇絲緞般水 潤透亮 •內層保濕精華 葵花籽油 + 荷荷芭 油 持久長效潤澤",
+      "price": 880,
+      "principal_components": null,
+      "video_source": null,
+      "small_images": {
+        "img_01": "m/c/mc11.jpg",
+        "img_02": "m/c/mc12.jpg"
+      },
+      "description_image": null
+    },
+    "pd62": {
+      "name": "氣墊霧光唇膏",
+      "series": "唇部彩妝",
+      "description": "讓唇部ㄉㄨㄢㄉㄨㄢ的氣墊科技<br>前所未有的舒適感，顛覆你對霧面唇的想像<br><br>‧空氣球氣墊粒子：<br>空心球狀微分子在唇表面形成綿密彈力網，包覆唇肌，徹底解決霧面唇容易乾燥<br>產生唇紋的問題，保持唇肌柔軟彈性，飽滿色澤。<br>‧STAY-TRUE 長效真實色彩，持久服貼<br>‧葵花子油+荷荷芭油 深度長效保濕滋潤",
+      "capacity": "3.6g",
+      "skin_suitable": null,
+      "usage": "好人緣微笑唇畫法TIP: Step1 愛心唇峰 : 在唇峰處畫一個愛心 ，讓唇珠豐盈欲滴， 做出翹翹的甜美唇峰 Step2找到微笑光圈 : 在嘴角上下往上描繪 做出微笑線，讓嘴角 看起來自然上揚",
+      "function": "運用氣墊科技給唇部 前所未有的舒適感， 打造服貼豐潤的霧面 唇 ˙空氣球氣墊粒子: 在 唇表面形成綿密彈力 網，包覆唇肌，保持 唇部柔軟彈性 ˙STAY-TRUE 長效真實 色彩，持久顯色 ˙葵花子油+荷荷芭油 深度長效保濕滋潤",
+      "price": 580,
+      "principal_components": null,
+      "video_source": null,
+      "small_images": {
+        "img_01": "m/c/mc21.jpg",
+        "img_02": "m/c/mc22.jpg",
+        "img_03": "m/c/mc23.jpg"
+      },
+      "description_image": null
+    },
+    "pd63": {
+      "name": "寶石蜜唇彩",
+      "series": "唇部彩妝",
+      "description": "不黏膩水潤光澤，絲緞般柔滑<br>寶石般細緻閃爍光彩 X 玻璃晶透光感<br>高保濕專利配方，持久潤澤<br>專為唇部設計完美貼合刷頭，一刷鮮明上色",
+      "capacity": "3.9ml",
+      "skin_suitable": "全膚質",
+      "usage": "直接塗抹於唇部",
+      "function": "美化唇部",
+      "price": 800,
+      "principal_components": null,
+      "video_source": "mc31.mp4",
+      "small_images": {
+        "img_01": "m/c/mc31.jpg",
+        "img_02": "m/c/mc32.jpg",
+        "img_03": "m/c/mc33.jpg",
+        "img_04": "m/c/mc34.jpg",
+        "img_05": "m/c/mc35.jpg"
+      },
+      "description_image": null
+    },
+    "pd64": {
+      "name": "旋轉眉筆",
+      "series": "眼部彩妝",
+      "description": "●柔霧筆芯軟硬適中，好延展、一畫顯色! <br>●超上手!橢圓形筆蕊，各種角度都能創造完美線條不失手 <br>●伸縮旋轉設計，免削筆芯，好貼心~",
+      "capacity": "0.09g",
+      "skin_suitable": null,
+      "usage": "根據自己的頭髮顏色和眼影的顏色搭配使用。",
+      "function": "可畫出完美俐落眉型 的眉筆，含防水及持 久配方，不易脫色暈染 ，眉型加倍自然，並可 搭配髮色。",
+      "price": 350,
+      "principal_components": null,
+      "video_source": null,
+      "small_images": {
+        "img_01": "m/b/mb31.jpg",
+        "img_02": "m/b/mb32.jpg",
+        "img_03": "m/b/mb33.jpg",
+        "img_04": "m/b/mb34.jpg"
+      },
+      "description_image": null
+    },
+    "pd65": {
+      "name": "輕羽絨眼影",
+      "series": "眼部彩妝",
+      "description": "12小時長效顯色粒子<br>絲緞般色彩外膜包裹乳霜精華<br>輕盈服貼細緻 一抹上色<br>色色精彩 漂亮眼妝就這麼簡單",
+      "capacity": "1.4g",
+      "skin_suitable": "全膚質",
+      "usage": "以眼影棒或眼影刷， 將顏色層疊擦上眼部 ，也可多色重疊搭配 。輕掃眼部即可創造 出極薄均勻、呈現出 自然光澤。",
+      "function": "˙呈現自然妝感<br>˙高彩度 <br>˙自然原色 <br>˙不易脫粧 <br>˙粧效持久 <br>˙礦物質為主要成分 <br>˙ 含維生素ACE <br>˙ 化妝時容易均勻推展開來",
+      "price": 300,
+      "principal_components": null,
+      "video_source": null,
+      "small_images": {
+        "img_01": "m/b/mb11.jpg",
+        "img_02": "m/b/mb12.jpg"
+      },
+      "description_image": null
+    },
+    "pd66": {
+      "name": "亮眼顯色打底霜",
+      "series": "眼部彩妝",
+      "description": "讓眼妝服貼顯色的秘密武器，一抹貼膚，保濕控油，再也不用擔心眼影髒掉或是暈成熊貓眼囉!",
+      "capacity": "8.5g",
+      "skin_suitable": "全膚質",
+      "usage": "在眼影前，以手指沾 取適量直接塗抹上眼皮。",
+      "function": "˙服貼眼部肌膚，平滑鎖水，改善出油<br>˙眼影服貼顯色 <br>˙不上眼影也可以當作修飾，提亮眼眸 ，創造完美裸眼妝",
+      "price": 550,
+      "principal_components": null,
+      "video_source": null,
+      "small_images": {
+        "img_01": "m/b/mb81.jpg"
+      },
+      "description_image": null
+    },
+    "pd67": {
+      "name": "綻爆胺基酸睫毛膏",
+      "series": "眼部彩妝",
+      "description": "纖長+濃密<br>胺基酸精華: 睫毛保濕。維他命B5：保護滋養，讓睫毛又黑又有彈性，充滿光澤。 維他命E：抗老化保護睫毛，強韌健康，不易斷裂",
+      "capacity": "9g",
+      "skin_suitable": null,
+      "usage": "1. 短毛端(濃密刷頭)：刷在睫毛 根部，讓睫毛濃密。 <br>2. 長毛端（纖長刷頭）：Z字型 往上刷拉出纖維達到纖長效果 。",
+      "function": "雙效刷頭＋胺基酸<br>濃密＋纖長",
+      "price": 880,
+      "principal_components": null,
+      "video_source": null,
+      "small_images": {
+        "img_01": "m/b/mb41.jpg",
+        "img_02": "m/b/mb42.jpg"
+      },
+      "description_image": null
+    },
+    "pd68": {
+      "name": "愛戀濃密纖長睫毛膏",
+      "series": "眼部彩妝",
+      "description": "獨特彈性刷頭及長短刷毛設計，能使睫毛根根分明，泛醇複合物配方因子，使睫毛柔軟不易斷裂，濃密又不會過於沉重。",
+      "capacity": "8g",
+      "skin_suitable": null,
+      "usage": "1. 以旋轉方式將刷頭滑進 瓶內，然後再慢慢將刷 子轉抽出來。 <br>2. 特殊的刷毛設計，不需任 何技巧，就能輕易沾附在 睫毛上，不會糾結。 <br>3. 特別加強睫毛拉長尾端 ，就能擁有如同洋娃娃 般的睫毛效果。",
+      "function": "˙ 彈性靈活的刷頭設計， 能均勻包覆每根睫毛。 <br>˙ 輕輕一刷即可刷出4倍濃 密的效果。 <br>˙ 睫毛根根分明、不結塊 、不暈染。",
+      "price": 600,
+      "principal_components": null,
+      "video_source": null,
+      "small_images": {
+        "img_01": "m/b/mb51.jpg"
+      },
+      "description_image": null
+    },
+    "pd69": {
+      "name": "玫琳凱全效睫毛膏",
+      "series": "眼部彩妝",
+      "description": "特效配方，提供睫毛驚艷的濃密，創造驚人豐盈捲翹的效果。",
+      "capacity": "8g",
+      "skin_suitable": null,
+      "usage": "1. 以旋轉的方式將刷頭滑進瓶內，然後再慢慢地將刷子轉抽出來。 <br>2. 獨家特殊刷頭技術，創造出極滑 順質地不易糾結不用任何技巧，就能輕易沾附在睫毛上。 <br>3. 特別加強睫毛拉長尾端，就能擁 有如同洋娃娃般的睫毛效果。 <br>4. 若想再加強效果可以等睫毛膏乾後再上一層。",
+      "function": "˙ 輕易梳整睫毛，展現睫毛根根 分明且濃密效果。 <br>˙ 高度的附著力，超輕巧質地， 睫毛捲翹一整天也不塌陷。 <br>˙ 使睫毛由根部捲翹、根根分明 且濃密，使眼妝層次分明、眼 神深邃。",
+      "price": 720,
+      "principal_components": null,
+      "video_source": null,
+      "small_images": {
+        "img_01": "m/b/mb61.jpg"
+      },
+      "description_image": null
+    },
+    "pd70": {
+      "name": "防水抗暈眼線筆-黑",
+      "series": "眼部彩妝",
+      "description": "化妝包中沒帶到會慌的必備單品，不易脫妝、不退色、 <br>長時間清晰顯色的線條，滑順好畫，不拉扯眼皮，新手 <br>老手都可以一用上手。",
+      "capacity": "0.28g",
+      "skin_suitable": null,
+      "usage": "直接旋轉出來描繪眼部。",
+      "function": null,
+      "price": 420,
+      "principal_components": null,
+      "video_source": null,
+      "small_images": {
+        "img_01": "m/b/mb71.jpg"
+      },
+      "description_image": null
+    },
+    "pd71": {
+      "name": "極黑流線眼線液筆",
+      "series": "眼部彩妝",
+      "description": "細緻滑順，漆黑持久，手殘人也能畫出完美眼線。",
+      "capacity": "1.5g",
+      "skin_suitable": null,
+      "usage": "沿著睫毛根部描繪眼部輪廓，並於眼尾向上延伸，細緻描繪眼線",
+      "function": "美化、修飾眼型",
+      "price": 550,
+      "principal_components": null,
+      "video_source": "mb21.mp4",
+      "small_images": {
+        "img_01": "m/b/mb21.jpg",
+        "img_02": "m/b/mb22.jpg",
+        "img_03": "m/b/mb23.jpg"
+      },
+      "description_image": "極黑流線眼線液筆02.png"
+    },
+    "pd72": {
+      "name": "廣角激長睫毛膏",
+      "series": "眼部彩妝",
+      "description": "刷一個全景模式 開啟廣角電眼<br>超拉提S狀新型刷頭 — 包覆每根睫毛，連細軟幼毛都能根根包覆提拉，瞬間放大眼神視線！ <br>獨家廣角延伸複合物添加 — 滋養、強化睫毛， 睫毛柔軟不易斷裂～<br>長效防水卷翹配方 — 防水、卷翹，玩水下海、看電影哭點超低也很可以！",
+      "capacity": "9g",
+      "skin_suitable": "全膚質",
+      "usage": "以Z字型由下往上刷塗於睫毛",
+      "function": "美化眼部睫毛",
+      "price": 880,
+      "principal_components": null,
+      "video_source": null,
+      "small_images": {
+        "img_01": "m/b/mb91.jpg",
+        "img_02": "m/b/mb92.jpg"
+      },
+      "description_image": null
+    },
+    "pd73": {
+      "name": "時尚大師刷具組",
+      "series": "彩妝工具",
+      "description": "大師欽點 紐約時裝周指定刷具<br>軟硬適中刷毛 精準完美角度<br>最容易上手 輕鬆畫出大師級妝感<br><br>五支實用又時尚的刷具+高質感皮套<br>蜜粉刷 – 精密設計的刷毛弧度，易沾粉，不易掉粉，輕鬆平均的將蜜粉服貼臉龐，創造乾淨完美妝感。沾取蜜粉，輕敲刷子去除多餘粉末，均勻刷於全臉各部位。<br><br>全方位眼影刷– 彈性刷毛可以吻合眼周的各個角度，讓眼影完全服貼，眼褶眼角都能均勻顯色。<br><br>腮紅刷– 特殊毛刷頭設計，能夠滿足三種功能—腮紅, 修容, 打亮，精準完美的將腮紅修容粉末上在臉部各個角落。<br>-- 尖端能夠精準細緻修容—鼻樑，眉骨等<br>-- 斜長端能夠修出俐落線條 – 臉頰修容<br>-- 整支大片使用—腮紅<br><br>眼線刷– 彈性尖端刷毛，能夠輕易描繪出滑順完美的線條，修飾眼型。可用來描繪眼線並修飾眉型。<br><br>煙燻眼影刷– 密集彈力刷毛能夠將眼線或眼影輕鬆做出想要的煙燻效果，創造不同妝感。可沾取較深色眼影，由外往內刷至眼褶，創造深邃妝感。",
+      "capacity": "5支刷具＋一只收納包",
+      "skin_suitable": null,
+      "usage": "˙蜜粉刷 – 精密設計的刷毛弧度，易沾粉，不易掉粉，輕鬆平均的將蜜粉服貼臉龐，創造乾 淨完美妝感 <br>˙全方位眼影刷– 彈性刷毛可以吻合眼周的各個角度，讓眼影完全服貼，眼褶眼角都能均勻顯色 <br>˙腮紅刷– 特殊毛刷頭設計，能夠滿足三種功能—腮紅, 修容, 打亮，精準完美的將腮紅修容粉末上在臉部各個角落。<br>-- 尖端能夠精準細緻修容—鼻樑，眉骨等<br>-- 斜長端能夠修出俐落線條 – 臉頰修容<br>-- 整支大片使用—腮紅<br><br>˙眼線刷– 彈性尖端刷毛，能夠輕易描繪出滑順完美的線條，修飾眼型 ˙煙燻眼影刷– 密集彈力刷毛能夠將眼線或眼影輕鬆做出想要的煙燻效果，創造不同妝感",
+      "function": "內含五支高品質的刷具，柔軟適中、讓你淋漓盡致地發揮並搭配玫琳凱彩妝品，創造完美的彩 妝",
+      "price": 2000,
+      "principal_components": null,
+      "video_source": null,
+      "small_images": {
+        "img_01": "m/e/me21.jpg",
+        "img_02": "m/e/me22.jpg"
+      },
+      "description_image": "時尚大師刷具組01.jpg"
+    },
+    "pd74": {
+      "name": "時尚訂製彩妝盤",
+      "series": "彩妝工具",
+      "description": "精巧方便，隨心所欲搭配自己喜愛的腮紅、眼影，每天都可以變<br>換的眼彩盤，天天好眼色好心情。",
+      "capacity": "1入",
+      "skin_suitable": null,
+      "usage": null,
+      "function": null,
+      "price": 980,
+      "principal_components": null,
+      "video_source": null,
+      "small_images": {
+        "img_01": "m/e/me31.jpg"
+      },
+      "description_image": null
+    },
+    "pd75": {
+      "name": "玫琳凱迷你眼彩盒",
+      "series": "彩妝工具",
+      "description": "精巧方便，隨心所欲搭配自己喜愛的腮紅、眼影，每天都可以變<br>換的眼彩盤，天天好眼色好心情。",
+      "capacity": "1入",
+      "skin_suitable": null,
+      "usage": "裝填-打開盒蓋，將產品置入具磁性的凹槽。<br>取出-從凹槽兩側半圓弧形處以手指輕輕將產品撥起即可。",
+      "function": null,
+      "price": 550,
+      "principal_components": null,
+      "video_source": null,
+      "small_images": {
+        "img_01": "m/e/me41.jpg"
+      },
+      "description_image": null
+    },
+    "pd76": {
+      "name": "玩色迷你彩盒",
+      "series": "彩妝工具",
+      "description": "精巧方便，隨心所欲搭配自己喜愛的四色眼影，每天都可以變<br>換的眼彩盤，天天好眼色好心情。",
+      "capacity": "1入",
+      "skin_suitable": null,
+      "usage": "裝填-將眼影直接置入凹槽，單色眼影最多可放四個。<br>取出-用手指從弧形凹槽直接取出",
+      "function": null,
+      "price": 380,
+      "principal_components": null,
+      "video_source": null,
+      "small_images": {
+        "img_01": "m/e/me51.jpg"
+      },
+      "description_image": null
+    },
+    "pd77": {
+      "name": "腮紅刷",
+      "series": "彩妝工具",
+      "description": "山羊毛材質；使雙頰可表現自然服貼的色彩質感。",
+      "capacity": "1入",
+      "skin_suitable": null,
+      "usage": "沾取適量腮紅，於兩頰笑肌部位上平行往後刷即可。",
+      "function": null,
+      "price": 60,
+      "principal_components": null,
+      "video_source": null,
+      "small_images": {
+        "img_01": "m/e/me61.jpg"
+      },
+      "description_image": null
+    },
+    "pd78": {
+      "name": "蜜粉底刷",
+      "series": "彩妝工具",
+      "description": null,
+      "capacity": "1入",
+      "skin_suitable": null,
+      "usage": "沾取蜜粉刷於全臉",
+      "function": null,
+      "price": 90,
+      "principal_components": null,
+      "video_source": null,
+      "small_images": {
+        "img_01": "m/e/me71.jpg"
+      },
+      "description_image": null
+    },
+    "pd79": {
+      "name": "化粧海棉",
+      "series": "彩妝工具",
+      "description": "完美均勻粉底產品於臉部，呈現完美的底妝",
+      "capacity": "2入",
+      "skin_suitable": null,
+      "usage": null,
+      "function": null,
+      "price": 80,
+      "principal_components": null,
+      "video_source": null,
+      "small_images": {
+        "img_01": "m/e/me81.jpg"
+      },
+      "description_image": null
+    },
+    "pd80": {
+      "name": "眼影棒",
+      "series": "彩妝工具",
+      "description": "造型輕巧，易上色",
+      "capacity": "2入",
+      "skin_suitable": null,
+      "usage": null,
+      "function": null,
+      "price": 60,
+      "principal_components": null,
+      "video_source": null,
+      "small_images": {
+        "img_01": "m/e/me91.jpg"
+      },
+      "description_image": null
+    },
+    "pd81": {
+      "name": "3D零死角粉底刷",
+      "series": "彩妝工具",
+      "description": "刷毛緊密細緻到猶如海綿，因此兼具海綿與粉刷之優勢<br>特殊橢圓型刷頭，零死角將粉底均勻服貼於臉上<br>特殊握柄，上妝快速容易<br>刷毛不沾粉，粉底絲毫不浪費",
+      "capacity": "1入",
+      "skin_suitable": null,
+      "usage": null,
+      "function": "更顯無瑕精緻妝容 緊密細緻刷毛, 特殊圓型刷頭, 能將粉底輕薄均勻服貼於臉上",
+      "price": 680,
+      "principal_components": null,
+      "video_source": null,
+      "small_images": {
+        "img_01": "m/e/me101.jpg"
+      },
+      "description_image": null
+    },
+    "pd82": {
+      "name": "蜜粉撲",
+      "series": "彩妝工具",
+      "description": null,
+      "capacity": "1入",
+      "skin_suitable": null,
+      "usage": "沾取蜜粉撲於臉部",
+      "function": null,
+      "price": 90,
+      "principal_components": null,
+      "video_source": null,
+      "small_images": {
+        "img_01": "m/e/me11.jpg"
+      },
+      "description_image": null
+    },
+    "pd83": {
+      "name": "相幸香水",
+      "series": "香水",
+      "description": "相幸香水設計師Marypierre Julien,Givaudan Paris<br>我的靈感來自於黑暗交界處的神秘力量，<br>從黑暗到光明的中間是魔幻的、神秘的、<br>需要勇氣、需要香氣，就好像我用守候幸福的<br>鈴蘭花香做為中調襯出前味鮮明的柑橘香氣與<br>後味溫暖的木質調。",
+      "capacity": "60ml",
+      "skin_suitable": null,
+      "usage": "相幸香水設計師Marypierre Julien,Givaudan Paris<br>我的靈感來自於黑暗交界處的神秘力量，<br>從黑暗到光明的中間是魔幻的、神秘的、<br>需要勇氣、需要香氣，就好像我用守候幸福的<br>鈴蘭花香做為中調襯出前味鮮明的柑橘香氣與<br>後味溫暖的木質調。<br><br>前味：清新柑橘果香、意大利青檸、佛手柑、油桃、蘋果花<br>中味：：溫柔細緻花香、小蒼蘭、紫羅蘭葉、粉紅鈴蘭<br>後味：：持久溫暖木香、麝香、夜光琥珀、雪松、檀香油",
+      "function": null,
+      "price": 1800,
+      "principal_components": null,
+      "video_source": null,
+      "small_images": {
+        "img_01": "m/d/md11.jpg",
+        "img_02": "m/d/md12.jpg"
+      },
+      "description_image": "相幸香水01.jpg"
+    },
+    "pd84": {
+      "name": "極致曲線霜",
+      "series": "身體保養/防曬",
+      "description": "重新定義身體曲線 緊實線條<br>保水，極致光滑<br>咖啡因+6種植物精華 喚醒肌膚活力<br>保水不間斷 打造柔軟光滑肌膚",
+      "capacity": "236 ml",
+      "skin_suitable": "全膚質",
+      "usage": "取適量塗抹於身體肌膚，搭配按摩效果更佳",
+      "function": "滋潤，緊實身體肌膚",
+      "price": 1500,
+      "principal_components": null,
+      "video_source": null,
+      "small_images": {
+        "img_01": "f/g/fg41.jpg"
+      },
+      "description_image": null
+    },
+    "pd85": {
+      "name": "逆光潤透防護乳SPF50+/PA+++",
+      "series": "身體保養/防曬",
+      "description": "裸膚色清爽防曬質地，完美融入肌膚<br>強大的紫外線防禦力，是你外出，妝前最佳打底隱形防護。",
+      "capacity": "60ml",
+      "skin_suitable": "全膚質",
+      "usage": "取適量於臉部及頸部肌膚，由下而上塗抹。",
+      "function": null,
+      "price": 1200,
+      "principal_components": null,
+      "video_source": "fg.mp4",
+      "small_images": {
+        "img_01": "f/g/fg21.jpg",
+        "img_02": "f/g/fg22.jpg",
+        "img_03": "f/g/fg23.jpg"
+      },
+      "description_image": "逆光潤透防護乳01jpg<br>逆光潤透防護乳02jpg"
+    },
+    "pd86": {
+      "name": "逆光全護水凝乳SPF50+/PA+++",
+      "series": "身體保養/防曬",
+      "description": "防曬同時補水，保濕度絕佳！<br>滋潤卻不粘膩的水感防曬，提供從頭到腳的完美保護。",
+      "capacity": "80ml",
+      "skin_suitable": "全膚質",
+      "usage": "取適量於臉部，頸部及身體肌膚，均勻塗抹。",
+      "function": null,
+      "price": 1200,
+      "principal_components": null,
+      "video_source": "fg.mp4",
+      "small_images": {
+        "img_01": "f/g/fg31.jpg",
+        "img_02": "f/g/fg32.jpg",
+        "img_03": "f/g/fg33.jpg"
+      },
+      "description_image": "水感輕透防曬乳01.jpg<br>水感輕透防曬乳02.jpg"
+    },
+    "pd87": {
+      "name": "紅景天曬後修護凝膠",
+      "series": "親水專區",
+      "description": "居家必備，人手一瓶的萬用修護凝露。萃取自生長在嚴峻冰原的「不老之花」紅景天精華，富含胺基酸、微量元素，強大補水力及修護力，不論曬後，蚊蟲叮咬，肌膚不適都可以達到修護效果。",
+      "capacity": "192ml",
+      "skin_suitable": "全膚質",
+      "usage": "1. 在使用高機能身體防曬乳SPF50前，可先在欲<br>塗抹部位先塗上一層紅景天曬後修護凝膠。<br>2. 清潔皮膚後，均勻塗抹在曝曬後的部位上；<br>亦能使用在強風吹過或過度受刺激(過冷或過<br>熱)的肌膚上。若有需要可重覆塗抹多次。塗<br>抹於臉部時，請避開眼周。",
+      "function": "˙ 含植物萃取精華，有效舒緩曬後肌膚，提供肌膚保濕、清涼及鎮靜效果。<br>˙ 清爽不油膩，能讓肌膚吸收快速、不阻塞毛孔。",
+      "price": 750,
+      "principal_components": null,
+      "video_source": null,
+      "small_images": null,
+      "description_image": null
+    },
+    "pd88": {
+      "name": "怡日健粉妍片",
+      "series": "調養品",
+      "description": "4+重賦活力 守護年輕美 你營養補充品的最佳選擇！ 四重賦活成分: 含EGCG（源自綠茶抽出物）、葉黃素（源自金盞花抽出物）、維生素C.E 高科技研發、黃金比例複方配方，符合人體每日吸收率！ 1. 兩項高品質專利成分 :『自由態』精萃葉黃素，高效好吸收 2. 專利萃取高純度94% 的EGCG 3. 維生素C 與維生素E 聯手保護 •歐洲百年製藥帝斯曼DSM 研發，台灣GMP 大廠生產 •原料來自歐洲，高標準把關最嚴格，成分安全精純 •通過符合國家標準安全測試 •不含激素/ 防腐劑/ 人工香料",
+      "capacity": "60錠",
+      "skin_suitable": "18歲以上，年輕美麗的尋求者",
+      "usage": "每天早晚飯後食用一顆",
+      "function": "維持健康，養顏美容，青春美麗",
+      "price": 2550,
+      "principal_components": null,
+      "video_source": null,
+      "small_images": {
+        "img_01": "s/a/sa11.jpg"
+      },
+      "description_image": null
+    },
+    "pd89": {
+      "name": "酵母葡聚糖粉末",
+      "series": "調養品",
+      "description": "啤酒酵母萃取葡聚醣<br>調整體質，健康維持<br>食用方式:<br>一日一包，加入水溶解，建議早餐後食⽤ ",
+      "capacity": "60g",
+      "skin_suitable": "體質虛弱者，想要健康者",
+      "usage": "建議一日一包，早上食用 將一包粉末混合約100毫 升水，果汁或其他飲料食 用，也可混合熱湯食用",
+      "function": "調整體質，健康維持",
+      "price": 2150,
+      "principal_components": null,
+      "video_source": null,
+      "small_images": {
+        "img_01": "s/a/sa51.jpg"
+      },
+      "description_image": null
+    },
+    "pd90": {
+      "name": "膳食纖維粉末",
+      "series": "調養品",
+      "description": "幫助維持消化道機能，促進腸道蠕動，排便順暢 <br>食用方式 :<br>一日一包，建議加水溶解後食用<br>建議每日補充約2000cc以上水分",
+      "capacity": "150g",
+      "skin_suitable": "想要消化順暢的人",
+      "usage": "建議一日一包 將一包粉末混合約100毫升 水，果汁或其他飲料食用， 也可混合熱湯食用",
+      "function": "幫助維持消化道機能 改變細菌叢生態，排便順暢",
+      "price": 2150,
+      "principal_components": null,
+      "video_source": null,
+      "small_images": {
+        "img_01": "s/a/sa21.jpg"
+      },
+      "description_image": null
+    },
+    "pd91": {
+      "name": "白腎豆粉末",
+      "series": "調養品",
+      "description": "促進代謝 食用方式:依照需求，加入水溶解後餐前食用<br>建議每日補充約2000cc以上的開水",
+      "capacity": "150g",
+      "skin_suitable": "想要身型美麗的人",
+      "usage": "建議一日一包，飯前食用 將一包粉末混合約100毫 升水，果汁或其他飲料食 用，也可混合熱湯食用",
+      "function": "青春美麗，促進新陳代謝 幫助消化",
+      "price": 2450,
+      "principal_components": null,
+      "video_source": null,
+      "small_images": {
+        "img_01": "s/a/sa31.jpg"
+      },
+      "description_image": null
+    },
+    "pd92": {
+      "name": "膠原蛋白肽",
+      "series": "調養品",
+      "description": "小分子膠原蛋白肽，內含超過21種型態膠原蛋白胜肽，添加彈性蛋白<br>及刺梨，巴西莓果，紅甜菜根等植物菁萃成分。<br>讓膠原蛋白肽發揮極大作用",
+      "capacity": "8g/包/，12包/盒。30包/盒",
+      "skin_suitable": null,
+      "usage": "建議空腹，餐前或睡前飲用，讓吸收力達到最佳狀態，建議食用量是一天一包，若要增量食用建議一天最多兩包，可以早晚各一包，讓吸收力及利用率可以達到最佳狀態<br>懷孕或哺乳女行建議諮詢後醫師後在食用",
+      "function": "補充膠原蛋白",
+      "price": "1000-2150",
+      "principal_components": null,
+      "video_source": null,
+      "small_images": {
+        "img_01": "s/a/sa41.jpg",
+        "img_02": "s/a/sa42.jpg"
+      },
+      "description_image": null
+    },
+    "pd93": {
+      "name": "好命精華組",
+      "series": "保養美學",
+      "description": "剛剛好的肌膚輕補品，佐入天然好油<br>早晚一帖，翻轉肌膚命運，再造新轉肌<br>肌膚需要補充水份，不只是水，是『水精華』<br>肌膚的水交給【肌晶露】 萃取高濃縮花果精萃<br>加上高保濕玻尿酸鈉及甘醇配方 給肌膚直達肌底的水份<br>補充肌膚底氣，為肌膚穩固打底<br>現在開始，擁有不變的健康肌膚",
+      "capacity": "全能養膚精華油 29ml<br>肌晶露 147ml",
+      "skin_suitable": "全膚質",
+      "usage": "取適量肌晶露於手掌心，添加1-2滴澄淨甦活 全能養膚精華油，再升級『精華中的精華』！<br>從此改寫乾燥無光、泛紅脫皮、紋路粗糙肌膚命運。",
+      "function": "滋潤，修護，保濕",
+      "price": 1980,
+      "principal_components": null,
+      "video_source": null,
+      "small_images": {
+        "img_01": "c/b/cb11.jpg"
+      },
+      "description_image": null
+    },
+    "pd94": {
+      "name": "王牌面膜組",
+      "series": "保養美學",
+      "description": "一夜美敷，晨醒晶透！<br>肌晶晚安面膜<br>保濕鎖水，為肌膚注入活力<br>從肌膚底層散發出自然光采<br>T字大掃除「肌」器，毛孔一掃淨亮！<br>淨顏活性碳面膜<br>活性碳面膜深層吸附毛孔油脂、髒污、殘妝、零污點！",
+      "capacity": "活性碳面膜 114g<br>肌晶晚安面膜 85g",
+      "skin_suitable": "全膚質",
+      "usage": "均勻的塗抹活性碳面膜於清潔後的皮膚，面膜會由膠狀質地逐漸變乾以吸附皮膚髒汙，停留10-20分鐘，以溫水徹底沖洗乾淨、擦乾臉後，敷上肌晶晚安面膜一層，鎖住所有養分睡覺！",
+      "function": "抗老化、減少細紋、皺紋、肌膚淨化透亮",
+      "price": 1500,
+      "principal_components": null,
+      "video_source": null,
+      "small_images": {
+        "img_01": "c/b/cb31.jpg"
+      },
+      "description_image": null
+    },
+    "pd95": {
+      "name": "明星必BUY組",
+      "series": "保養美學",
+      "description": "可以很懶也很美! 你一定要嘗試的懶美人保養聖品<br>四效潔面乳，一瓶搞定卸妝，洗臉，去角質，化妝品，基礎保養洗完臉已經完成。<br>神奇修護噴霧，滿滿植化素精華，一噴明亮，秒補水，隨身攜帶超方便，妝前妝後都可以使用。",
+      "capacity": "四效潔面乳 127g<br>神奇修護噴霧 147ml",
+      "skin_suitable": "全膚質",
+      "usage": "取適量四效潔面乳加少許水分由下往上以輕輕畫圓方式推開後用清水洗淨後噴上神奇修護噴霧，秒補水，隨時維持肌膚水嫩無瑕",
+      "function": "清潔，修護，保濕",
+      "price": 1500,
+      "principal_components": null,
+      "video_source": null,
+      "small_images": {
+        "img_01": "c/e/ce11.jpg"
+      },
+      "description_image": null
+    }
+  }
+}
