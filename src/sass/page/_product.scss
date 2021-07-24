@@ -1,9 +1,12 @@
 .product {
     .product_banner {
-        height: 245px;
+        height: 560px;
         width: 100%;
         overflow: hidden;
         position: relative;
+        @include m(){
+          height: 200px;
+        }
 
         .title {
             @include positionauto(45%);
@@ -15,7 +18,11 @@
 
         img {
             object-fit: cover;
-            height: 245px;
+            height: 560px;
+             @include m(){
+          height: 200px;
+        }
+            
         }
 
     }
