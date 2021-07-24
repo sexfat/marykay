@@ -103,7 +103,7 @@ export default {
 
 
 ### `pages`
-頁面資料夾，以資料夾當作頁面，資寮夾下圍index.vue。
+頁面資料夾，以資料夾當作頁面，資料夾下新增index.vue。
 以 "_" 為開頭命為動態頁面，由參數決定頁面名 
 ```javascript
 // ex: 新增about 頁面
