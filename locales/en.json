@@ -254,10 +254,10 @@
       "shopping_instructions": {
         "name": "Shopping Instructions",
         "links": {
-          "link_1": "Customer Satisfaction Guarantee",
-          "link_2": "Global Privacy Statement",
-          "link_3": "Consumer Privacy Policy",
-          "link_4": "Terms of Use of Mary Kay HK’s Website"
+          "customer": "Customer Satisfaction Guarantee",
+          "global_privacy": "Global Privacy Statement",
+          "privacy": "Consumer Privacy Policy",
+          "webhk_privacy": "Terms of Use of Mary Kay HK’s Website"
         }
       }
     },
@@ -782,10 +782,10 @@
     "about": {
       "name": "About Mary Kay",
       "series": {
-        "concept": { "name": "Brand Concept" },
-        "story": { "name": "About Mary Kay Ash" },
-        "charitable": { "name": "Social Corporate Responsibility" },
-        "innovation": { "name": "Scientific Research Innovation" }
+        "about_mary": { "name": "Brand Concept" },
+        "about_mary_ash": { "name": "About Mary Kay Ash" },
+        "social": { "name": "Social Corporate Responsibility" },
+        "technological_innovation": { "name": "Scientific Research Innovation" }
       }
     },
     "product_series": {

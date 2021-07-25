@@ -24,7 +24,7 @@
                   <span>{{ $t('header_links.about.name') }}</span>
                   <ul>
                     <li v-for="(item, index) in Object.entries(linkData.about.series)" :key="index">
-                      <nuxt-link to="/">
+                      <nuxt-link :to="localePath(`${item[0]}`)">
                         {{ $t(`header_links.about.series.${item[0]}.name`) }}
                       </nuxt-link>
                     </li>

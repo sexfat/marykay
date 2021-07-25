@@ -1,9 +1,11 @@
 <template>
+  <!-- eslint-disable vue/no-v-html -->
   <div class="about_social">
     <div class="container-xxl">
       <div class="row">
         <div class="breadcrumbs margin-top_20">
-          <a href="">{{ $t(`pages.social.Breadcrumb.home`) }}</a> {{ $t(`pages.social.Breadcrumb.pageName`) }}
+          <nuxt-link :to="localePath('/')">{{ $t('pages.product_page.home') }}</nuxt-link>
+          {{ $t(`pages.social.Breadcrumb.pageName`) }}
         </div>
       </div>
     </div>
@@ -15,10 +17,7 @@
       <div class="row">
         <div class="col-xs-6 col-md-6 text_head">
           <img style="width: 70px" src="~assets/images/com_colorLine.png" alt="" />
-          <h2 class="h2 font1 margin-top_20">
-            {{ $t(`pages.social.Banner.h2`) }}
-          </h2>
-
+          <h2 class="h2 font1 margin-top_20" v-html="$t(`pages.social.Banner.h2`)"></h2>
           <div class="text_body">
             {{ $t(`pages.social.Banner.content`) }}
           </div>
@@ -46,9 +45,7 @@
           {{ $t(`pages.social.bottom_content.h3`) }}
           <div class="w3">{{ $t(`pages.social.bottom_content.h3_content`) }}</div>
         </h3>
-        <div class="subtitles">
-          {{ $t(`pages.social.bottom_content.content`) }}
-        </div>
+        <div class="subtitles" v-html="$t(`pages.social.bottom_content.content`)"></div>
         <img class="heart" src="~assets/images/icon_heart.jpg" alt="" />
         <h4 class="w4">{{ $t(`pages.social.bottom_content.h4`) }}</h4>
       </div>

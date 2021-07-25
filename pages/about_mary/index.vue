@@ -3,7 +3,8 @@
     <div class="container-xxl">
       <div class="row">
         <div class="breadcrumbs margin-top_20">
-          <a href="">{{ $t(`pages.about_mary.Breadcrumb.home`) }}</a> {{ $t(`pages.about_mary.Breadcrumb.pageName`) }}
+          <nuxt-link :to="localePath('/')">{{ $t('pages.product_page.home') }}</nuxt-link>
+          {{ $t(`pages.about_mary.Breadcrumb.pageName`) }}
         </div>
       </div>
     </div>
@@ -51,10 +52,8 @@
         <h1 class="showcase">
           <b>{{ $t(`pages.about_mary.bottom_content.h1`) }}</b>
         </h1>
-
-        <div class="subtitles">
-          {{ $t(`pages.about_mary.bottom_content.content`) }}
-        </div>
+        <!-- eslint-disable-next-line vue/no-v-html -->
+        <div class="subtitles" v-html="$t(`pages.about_mary.bottom_content.content`)"></div>
       </div>
       <div class="container-fluid margin-top_60 margin-bottom_100">
         <div class="row gx-3">

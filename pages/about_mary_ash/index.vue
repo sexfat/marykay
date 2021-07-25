@@ -3,8 +3,8 @@
     <div class="container-xxl">
       <div class="row">
         <div class="breadcrumbs margin-top_20">
-          <a href="">{{ $t(`pages.about_mary_ash.Breadcrumb.home`) }}</a
-          >{{ $t(`pages.about_mary_ash.Breadcrumb.pageName`) }}
+          <nuxt-link :to="localePath('/')">{{ $t('pages.product_page.home') }}</nuxt-link>
+          {{ $t(`pages.about_mary_ash.Breadcrumb.pageName`) }}
         </div>
       </div>
     </div>
@@ -36,7 +36,7 @@
       <div class="container-fluid">
         <div class="row">
           <div class="col-xs-12 col-md-6 col-lg-6 nomargin">
-            <img src="~assets/images/com_colorLine.png" alt="logo" />
+            <img src="~assets/images/HK_layoutA/mary-kay-MKA-100th-BDay-milestone2.jpg" alt="logo" />
           </div>
           <div class="col-xs-12 col-md-6 col-lg-6 flex">
             <div class="spec_inner">
