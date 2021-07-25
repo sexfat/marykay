@@ -261,87 +261,87 @@
         }
       }
     },
-    "about_mary_ash":{
-      "Breadcrumb":{
-        "home":"home",
-        "pageName":"/ About Mary Kay ASh"
+    "about_mary_ash": {
+      "Breadcrumb": {
+        "home": "home",
+        "pageName": "/ About Mary Kay ASh"
       },
-      "Banner":{
-        "h2":"Founder of Mary Kay, a Pioneer of the Times!",
-        "content":"“Sometimes we feel incapable enough and doubt whether we can make our own part to change the world. Trust me! You Can Do It!” Mary Kay Ash"
+      "Banner": {
+        "h2": "Founder of Mary Kay, a Pioneer of the Times!",
+        "content": "“Sometimes we feel incapable enough and doubt whether we can make our own part to change the world. Trust me! You Can Do It!” Mary Kay Ash"
       },
-      "dark":{
-        "h4":"Mary Kay Ash, an outstanding leader who started her own business more than 50 years ago with US$ 5,000 savings and built a “dream company” subverting the business cultures and working environment dominated by males, thereby creating more opportunities for women in the workplace",
-        "content":"Her unswerving belief and golden rules have inspired millions of women. Mary Kay didn’t believe that there is so-called iron lady but “everyone is the dark horse as long as he/she holds on”. By doing so, all your dreams will come true! Mary Kay Ash’s most proudest legacy is that there are nearly 40 countries around the world so far committed to empowering women to create their own businesses, thus helping thousands of women all over the world to sparkle and shine."
+      "dark": {
+        "h4": "Mary Kay Ash, an outstanding leader who started her own business more than 50 years ago with US$ 5,000 savings and built a “dream company” subverting the business cultures and working environment dominated by males, thereby creating more opportunities for women in the workplace",
+        "content": "Her unswerving belief and golden rules have inspired millions of women. Mary Kay didn’t believe that there is so-called iron lady but “everyone is the dark horse as long as he/she holds on”. By doing so, all your dreams will come true! Mary Kay Ash’s most proudest legacy is that there are nearly 40 countries around the world so far committed to empowering women to create their own businesses, thus helping thousands of women all over the world to sparkle and shine."
       },
-      "spec":{
-        "t1_h4":"Grow with the People with You",
-        "t1_p":"Mary Kay Ash has been holding that the right values will lead you to success. She is committed to guiding herself by the Golden Rule, ensuring that she leads by example and grows with those she travels with. She often told others, “Never, never compromise on your principles.” Her unswerving belief has inspired millions of women, making her one of the world’s greatest entrepreneurs and leaders.",
-        "t2_h4":"Make Myself Important to Others",
-        "t2_p":"When Mary Kay Ash was a young girl, her mother always told her, “You can do it, Mary Kay!” From the on-stage recognition from to inspiring speeches, Mary Kay Ash shared the same encouragement with millions of women. She imagined that everyone was labeled with “Make Myself Important to Others”. Incorporating this belief into her everyday life and simple actions, Mary Kay Ash connected every woman who gained confidence by her encouragement and grew it into a global business empire."
+      "spec": {
+        "t1_h4": "Grow with the People with You",
+        "t1_p": "Mary Kay Ash has been holding that the right values will lead you to success. She is committed to guiding herself by the Golden Rule, ensuring that she leads by example and grows with those she travels with. She often told others, “Never, never compromise on your principles.” Her unswerving belief has inspired millions of women, making her one of the world’s greatest entrepreneurs and leaders.",
+        "t2_h4": "Make Myself Important to Others",
+        "t2_p": "When Mary Kay Ash was a young girl, her mother always told her, “You can do it, Mary Kay!” From the on-stage recognition from to inspiring speeches, Mary Kay Ash shared the same encouragement with millions of women. She imagined that everyone was labeled with “Make Myself Important to Others”. Incorporating this belief into her everyday life and simple actions, Mary Kay Ash connected every woman who gained confidence by her encouragement and grew it into a global business empire."
       },
-      "content":{
-        "title":"Mary Kay Ash: the Most Inspiring Achievement",
-        "list":{
-          "box1":{
-            "year":"1963:",
-            "story":"on September 13, Ms. Mary Kay Ash started Mary Kay Cosmetics Company with a 46.28-square-meter store in Dallas, US."
+      "content": {
+        "title": "Mary Kay Ash: the Most Inspiring Achievement",
+        "list": {
+          "box1": {
+            "year": "1963:",
+            "story": "on September 13, Ms. Mary Kay Ash started Mary Kay Cosmetics Company with a 46.28-square-meter store in Dallas, US."
           },
-          "box2":{
-            "year":"1978:",
-            "story":"won THE HORATIO ALGER Award for The Most Accomplished Leader in America"
+          "box2": {
+            "year": "1978:",
+            "story": "won THE HORATIO ALGER Award for The Most Accomplished Leader in America"
           },
-          "box3":{
-            "year":"1984:",
-            "story":"Mary Kay’s first book The Mary Kay Way: Timeless Principles from America’s Greatest Woman Entrepreneur was published and was highly praised by the Wall Street Journal, the nation’s leading business newspaper"
+          "box3": {
+            "year": "1984:",
+            "story": "Mary Kay’s first book The Mary Kay Way: Timeless Principles from America’s Greatest Woman Entrepreneur was published and was highly praised by the Wall Street Journal, the nation’s leading business newspaper"
           },
-          "box4":{
-            "year":"1985:",
-            "story":"Mary Kay Ash was named “One of the 25 Most Influential Women in America” by THE WORLD ALMANAC AND BOOK OF FACTS."
+          "box4": {
+            "year": "1985:",
+            "story": "Mary Kay Ash was named “One of the 25 Most Influential Women in America” by THE WORLD ALMANAC AND BOOK OF FACTS."
           },
-          "box5":{
-            "year":"1991:",
-            "story":"Mary Kay set up its first branch in Asia in Taiwan"
+          "box5": {
+            "year": "1991:",
+            "story": "Mary Kay set up its first branch in Asia in Taiwan"
           },
-          "box6":{
-            "year":"1993:",
-            "story":"Mary Kay created the Mary Kay Ash Charitable Foundation committed to helping cancer research organizations and women’ organizations; Mary Kay was named to the Fortune 500 for the first time and, for the second time, to the “The100 Best Companies to Work For in America”."
+          "box6": {
+            "year": "1993:",
+            "story": "Mary Kay created the Mary Kay Ash Charitable Foundation committed to helping cancer research organizations and women’ organizations; Mary Kay was named to the Fortune 500 for the first time and, for the second time, to the “The100 Best Companies to Work For in America”."
           },
-          "box7":{
-            "year":"1995:",
-            "story":"Fortune magazine named Mary Kay the “America’s Most Admired Company”."
+          "box7": {
+            "year": "1995:",
+            "story": "Fortune magazine named Mary Kay the “America’s Most Admired Company”."
           },
-          "box8":{
-            "year":"1999:",
-            "story":"Recognized as Outstanding Woman of the Century Texas Women’ Chamber of Commerce"
+          "box8": {
+            "year": "1999:",
+            "story": "Recognized as Outstanding Woman of the Century Texas Women’ Chamber of Commerce"
           },
-          "box9":{
-            "year":"2000:",
-            "story":"Life TV named Mary Kay as the most outstanding woman in business of the 20th century"
+          "box9": {
+            "year": "2000:",
+            "story": "Life TV named Mary Kay as the most outstanding woman in business of the 20th century"
           },
-          "box10":{
-            "year":"2003:",
-            "story":"Rated as The Greatest Women Entrepreneur in American History by the famous Baylor University in the United States"
+          "box10": {
+            "year": "2003:",
+            "story": "Rated as The Greatest Women Entrepreneur in American History by the famous Baylor University in the United States"
           },
-          "box11":{
-            "year":"2004:",
-            "story":"Mary Kay Foundation, founded by Mary Kay, received the Humanitarian Rose Award from Kensington Palace in London"
+          "box11": {
+            "year": "2004:",
+            "story": "Mary Kay Foundation, founded by Mary Kay, received the Humanitarian Rose Award from Kensington Palace in London"
           },
-          "box12":{
-            "year":"2011:",
-            "story":"Mary Kay was the only makeup brand to make the top 10, ranking No. 10 in Forbes magazine’s brand loyalty survey for consumers"
+          "box12": {
+            "year": "2011:",
+            "story": "Mary Kay was the only makeup brand to make the top 10, ranking No. 10 in Forbes magazine’s brand loyalty survey for consumers"
           },
-          "box13":{
-            "year":"2017:",
-            "story":"Listed in the top 100 enterprises by Direct Selling News - the world’s top five direct selling brands"
+          "box13": {
+            "year": "2017:",
+            "story": "Listed in the top 100 enterprises by Direct Selling News - the world’s top five direct selling brands"
           },
-          "box14":{
-            "year":"2019:",
-            "story":"Mary Kay was ranked 42nd in the World’s Best Employers to Work For in the 2019 by Global Workplace 100 Study"
+          "box14": {
+            "year": "2019:",
+            "story": "Mary Kay was ranked 42nd in the World’s Best Employers to Work For in the 2019 by Global Workplace 100 Study"
           },
-          "box15":{
-            "year":null,
-            "story":"Mary Kay cooperated with the United Nations to launch the Women’ Entrepreneurship Accelerator Program to actively promote women’ entrepreneurship around the world"
+          "box15": {
+            "year": null,
+            "story": "Mary Kay cooperated with the United Nations to launch the Women’ Entrepreneurship Accelerator Program to actively promote women’ entrepreneurship around the world"
           }
         }
       }
@@ -494,283 +494,284 @@
       }
     },
     "global_privacy": {
-      "page_name":"MARY KAY Global Privacy Statement",
-      "text_inner":"At Mary Kay, we are aware of the importance of personal privacy. Protecting, collecting and using personal data provided to us in accordance with the most important founding principle of the Company, the Golden Rule, is our most important goal. We use and maintain the information only in the way you allow. Therefore, we do not trade, sell or rent out the personal data we hold. The Global Privacy Statement has hereby elaborates on how we maintain such trust.<br>We are committed to achieving global and consistent privacy protection. Our Privacy Policy is designed to comply with the legal requirements of each country in which we operate and applies to:<br><br>1. Everyone who provides personal data to us, such as independent beauty consultants, consumers, clients, research subjects, business partners, shareholders, job seekers, employees, retirees, etc.;<br>2. Every country where our company operates, even if there are no relevant local regulations;<br>3. All means of contact, such as the online contact means, direct mail, telephone and mobile phone numbers, and other emerging technologies and methods that may be tested.<br><br>Mary Kay manages personal privacy through its Mary Kay Global Privacy Team, which represents all the geographical areas of our business and business processes, such as independent beauty consultants, consumer promotions and employee schemes, involved in collecting personal data. Mary Kay intends to promote and take advantage of the industry best practices to ensure that personal privacy and data are properly protected.<br>Our Privacy Policy is in line with the following policies and regulations:<br><br>• The EU Data Protection Directive implemented under Safe Harbor Program initiated by U.S. Department of Commerce<br>• Equitable Information Principles established by the Organization for Economic Cooperation and Development<br>• APEC Privacy Framework<br>• Data protection laws applicable to the corresponding countries and regions<br>• According to the law of some countries, the specific requirements of that country shall be indicated in the privacy statement. Please click <a target=\"_blank\"href=\"https://www.marykay.com/en-US/Pages/CountrySelector.aspx\">here</a> to read the privacy policies of relevant countries.<br><br>We believe that privacy protection is about more than complying with the legislation for privacy in each country. It’s also about doing the right thing for the millions of people whose lives have been exposed by the use of personal data. Our Privacy Policy follows internationally recognized privacy principles, or principles of fair use of data, such as those proposed in the EU Data Protection Directive and the US-EU Safe Harbor Privacy Principle proposed by the US Department of Commerce.<br>Mary Kay engages in and always complies with the Safe Harbor Privacy Principles of notification, selection, forwarding, security, data integrity, access and enforcement. To learn more about the Safe Harbor Privacy Program, or to view Mary Kay’s certification, please go to <a target=\"_blank\"href=\"http://www.export.gov/safeharbor/\">http://www.export.gov/safeharbor/</a>. Here’s what those principles say and how Mary Kay applies them:<br><br>",
-      "contents":{
-        "content-1":{
-          "name":"Why Does Mary Kay Collect Data",
-          "text":"Mary Kay collects and uses personal data to provide full business opportunities, rich quality products and quality services to independent beauty consultants and their clients, users of our products and services, employees, and others keeping in touch with Mary Kay. The personal data we collect is only for the purpose of assisting the company to provide better service quality, product value and opportunities. For example, we provide information via email at the request of independent beauty consultants, clients, employees and job seekers. Feedback from independent beauty consultants, clients and employees will be used to make improvements to products and services."
+      "page_name": "MARY KAY Global Privacy Statement",
+      "text_inner": "At Mary Kay, we are aware of the importance of personal privacy. Protecting, collecting and using personal data provided to us in accordance with the most important founding principle of the Company, the Golden Rule, is our most important goal. We use and maintain the information only in the way you allow. Therefore, we do not trade, sell or rent out the personal data we hold. The Global Privacy Statement has hereby elaborates on how we maintain such trust.<br>We are committed to achieving global and consistent privacy protection. Our Privacy Policy is designed to comply with the legal requirements of each country in which we operate and applies to:<br><br>1. Everyone who provides personal data to us, such as independent beauty consultants, consumers, clients, research subjects, business partners, shareholders, job seekers, employees, retirees, etc.;<br>2. Every country where our company operates, even if there are no relevant local regulations;<br>3. All means of contact, such as the online contact means, direct mail, telephone and mobile phone numbers, and other emerging technologies and methods that may be tested.<br><br>Mary Kay manages personal privacy through its Mary Kay Global Privacy Team, which represents all the geographical areas of our business and business processes, such as independent beauty consultants, consumer promotions and employee schemes, involved in collecting personal data. Mary Kay intends to promote and take advantage of the industry best practices to ensure that personal privacy and data are properly protected.<br>Our Privacy Policy is in line with the following policies and regulations:<br><br>• The EU Data Protection Directive implemented under Safe Harbor Program initiated by U.S. Department of Commerce<br>• Equitable Information Principles established by the Organization for Economic Cooperation and Development<br>• APEC Privacy Framework<br>• Data protection laws applicable to the corresponding countries and regions<br>• According to the law of some countries, the specific requirements of that country shall be indicated in the privacy statement. Please click <a target=\"_blank\"href=\"https://www.marykay.com/en-US/Pages/CountrySelector.aspx\">here</a> to read the privacy policies of relevant countries.<br><br>We believe that privacy protection is about more than complying with the legislation for privacy in each country. It’s also about doing the right thing for the millions of people whose lives have been exposed by the use of personal data. Our Privacy Policy follows internationally recognized privacy principles, or principles of fair use of data, such as those proposed in the EU Data Protection Directive and the US-EU Safe Harbor Privacy Principle proposed by the US Department of Commerce.<br>Mary Kay engages in and always complies with the Safe Harbor Privacy Principles of notification, selection, forwarding, security, data integrity, access and enforcement. To learn more about the Safe Harbor Privacy Program, or to view Mary Kay’s certification, please go to <a target=\"_blank\"href=\"http://www.export.gov/safeharbor/\">http://www.export.gov/safeharbor/</a>. Here’s what those principles say and how Mary Kay applies them:<br><br>",
+      "contents": {
+        "content-1": {
+          "name": "Why Does Mary Kay Collect Data",
+          "text": "Mary Kay collects and uses personal data to provide full business opportunities, rich quality products and quality services to independent beauty consultants and their clients, users of our products and services, employees, and others keeping in touch with Mary Kay. The personal data we collect is only for the purpose of assisting the company to provide better service quality, product value and opportunities. For example, we provide information via email at the request of independent beauty consultants, clients, employees and job seekers. Feedback from independent beauty consultants, clients and employees will be used to make improvements to products and services."
         },
-        "content-2":{
-          "name":"Notification",
-          "text":"We notify individuals of the data we collect, the way we use such data and whether we will temporarily transfer them to the provider of a particular product or service, and the way to contact the Mary Kay Privacy Team to make a request. A link to our Privacy Policy is available at our website, and we will provide information in different areas of privacy that users may need on our website at the appropriate time."
+        "content-2": {
+          "name": "Notification",
+          "text": "We notify individuals of the data we collect, the way we use such data and whether we will temporarily transfer them to the provider of a particular product or service, and the way to contact the Mary Kay Privacy Team to make a request. A link to our Privacy Policy is available at our website, and we will provide information in different areas of privacy that users may need on our website at the appropriate time."
         },
-        "content-3":{
-          "name":"Selection",
-          "text":"Those who provide data for us can choose whether to receive our relevant information afterwards and only at the request by you or your beauty consultant, will we send you our emails or service messages. We will inform you of the way to cancel or refuse to further receive our information. We will ask you whether you wish to participate in our market survey and only contact you when we receive your  consent."
+        "content-3": {
+          "name": "Selection",
+          "text": "Those who provide data for us can choose whether to receive our relevant information afterwards and only at the request by you or your beauty consultant, will we send you our emails or service messages. We will inform you of the way to cancel or refuse to further receive our information. We will ask you whether you wish to participate in our market survey and only contact you when we receive your  consent."
         },
-        "content-4":{
-          "name":"Techniques",
-          "text":"The techniques employed by Mary Kay are to provide better services for independent beauty consultants, clients, employees and other personnel. We will notify these individuals of the technologies we use concerning privacy. In accordance with the laws of your country, we will not use web cookies to collect and store personal information unless we have obtained your permission or  have notified you."
+        "content-4": {
+          "name": "Techniques",
+          "text": "The techniques employed by Mary Kay are to provide better services for independent beauty consultants, clients, employees and other personnel. We will notify these individuals of the technologies we use concerning privacy. In accordance with the laws of your country, we will not use web cookies to collect and store personal information unless we have obtained your permission or  have notified you."
         },
-        "content-5":{
-          "name":"Access",
-          "text":"Mary Kay will take measures to keep your personal data correct. We will provide appropriate means for individuals who submit data to us to access or change their data, or to ask us to stop using their personal data."
+        "content-5": {
+          "name": "Access",
+          "text": "Mary Kay will take measures to keep your personal data correct. We will provide appropriate means for individuals who submit data to us to access or change their data, or to ask us to stop using their personal data."
         },
-        "content-6":{
-          "name":"Security",
-          "text":"Mary Kay applies the industry safety standard operating procedures and practices to the Company’s monitoring equipment to protect personal data from loss, misuse, unauthorized access, disclosure, or tampering. We restrict access to personal data only for business purposes. We keep the access to personal data no longer than necessary for business purposes, unless the relevant contracts, laws and regulations require us not to delete such personal data within a specified period."
+        "content-6": {
+          "name": "Security",
+          "text": "Mary Kay applies the industry safety standard operating procedures and practices to the Company’s monitoring equipment to protect personal data from loss, misuse, unauthorized access, disclosure, or tampering. We restrict access to personal data only for business purposes. We keep the access to personal data no longer than necessary for business purposes, unless the relevant contracts, laws and regulations require us not to delete such personal data within a specified period."
         },
-        "content-7":{
-          "name":"Data Transfer",
-          "text":"We may transfer personal data to Mary Kay databases outside the area in which the data are provided. Our Global Privacy Initiative requires the same high standards of personal data security and protection in different parts of the world, and we have procedures and contracts in place to facilitate the achievement of this. For the purpose of providing services in connection with Mary Kay and/or independent beauty consultants, information may also be temporarily transmitted to our suppliers or business partners who are required to protect and manage personal data according to the same high standards as Mary Kay, and required not to use them for any purpose other than the services required by you, Mary Kay or your independent beauty consultant."
+        "content-7": {
+          "name": "Data Transfer",
+          "text": "We may transfer personal data to Mary Kay databases outside the area in which the data are provided. Our Global Privacy Initiative requires the same high standards of personal data security and protection in different parts of the world, and we have procedures and contracts in place to facilitate the achievement of this. For the purpose of providing services in connection with Mary Kay and/or independent beauty consultants, information may also be temporarily transmitted to our suppliers or business partners who are required to protect and manage personal data according to the same high standards as Mary Kay, and required not to use them for any purpose other than the services required by you, Mary Kay or your independent beauty consultant."
         },
-        "content-8":{
-          "name":"Protection of Children’s Privacy",
-          "text":"Mary Kay does not collect personal data on children under the age of 14 or the age limit set by law in certain countries. In order to avoid collecting personal data on children, we require age confirmation on the website before collecting personal data."
+        "content-8": {
+          "name": "Protection of Children’s Privacy",
+          "text": "Mary Kay does not collect personal data on children under the age of 14 or the age limit set by law in certain countries. In order to avoid collecting personal data on children, we require age confirmation on the website before collecting personal data."
         },
-        "content-9":{
-          "name":"Responsibilities",
-          "text":"Mary Kay expects our employees and business partners to maintain the trust that personal data providers place in us. We have trained our employees on privacy protection and highlighted the importance of privacy rights in our global business activities. Managers of personal data will ensure that such data are closely protected by completing a privacy protection self-assessment. We will review its compliance on a regular basis. <br><br>Mary Kay’s Privacy Policy and data protection measures will be extended to our suppliers and business partners by means of contracts. We support industrial self-regulation as an adaptive complement to address new privacy rights issues.<br><br>Click <a href=\"https://www.marykay.com.hk/main/consumer.aspx\">here</a> to learn more about or review Mary Kay’s Consumer Privacy Policy.<br>Click <a target=\"_blank\"href=\"https://mk.marykayintouch.com.hk/s/login/?ec=302&inst=1&startURL=%2Fsetup%2Fsecur%2FRemoteAccessAuthorizationPage.apexp%3Fsource%3DCAAAAXrdH_a9MDAwMDAwMDAwMDAwMDAwAAAA6KNeK3gxVCJ6cFaatjjri1LM3A5UgHzwMo-F_N-uFehrcX6tAYpM9lcCarDAJ18k0n-4GDK4-6iZLOxu8-Mbxnv2ShNxVoplrvi0qEQh_mN45SaqlV7-cXYv1HphU0J3zkjawq8u25xrTA4dPbgO0oj98wYZcjUyeloanXJci-zBQli3WXN55wEBIgzW6efzv4xqZkMzwTww9JHNWOwFY2N7RbyZQA1KKFfXfrQPCsP1daQIweGqMy5wLa7kX3O_CztxXTxeTvTNn0g6TgfyjL3BbqZ9BoyKUbK3Z-17w3kMLQ2N7LMm5prUikXgzU39zOx0lMhyy9bSJwffWclVAWVWelCBpaO4wBh22FBWuHQB-Dnd7i-1SQAXX0r5gdMOYU4le734rjsxQhkyppS7FKsVyat6F81ODwp0s4-xuhV_h4OFus1R-OU52F-Y7zFrSjyUak7NiawBtU6Id4JjhsoKjwnLVlEzfTOToOJlSy_qdtIfco3r6bRo7q-m9lxUDv3JjjlMkDMno0Uhz4tkevL-EFkYz4m2orqKemloaSlM_bKVUO1XtkOXEVmjqXvwDXgYqjmVEyXab07nXdace9V9-YVXd8kxeVNWrlUfxIjTqiisdH7RIfTVKkcgx3gJ8SmVRZVtVGtox3ePuk5uzQg6LETak__fcAzlwJwT_2kdsiy2S-di9XmB0qONgc57jShQgPEmXWfC3NzLmvn-hZUms84dcZSXBVi-Bx80n_TYghamvFsszqfyDkfFxkbsjPJrkyQvlxs9XvrBZry3UCl8uDkKjtJCAZtvFxXOW0XivsgA_YJWMuWr8PUdd8CGP_vbTmbNhDchtlYebw_TAw3F3VbAhSxKKQTkNej-56KCSKFjOSi6f9uAe0P4zXb5gxJaMPl1hJhZT_v_-jEH1Y8BYkyukWJ8vTNlKhDW3IbtZROsmF24wK1UFaFtyFLp1FlcKSjqXCvWCUhUaiBgnQNTzGbghNf3yFbjntZnPdDkGqQ-zyIoCqaOM4vGprasAjrqI8UAtDS7r1hb5gdOgKb7lhe8xfFG-2STinxXZRyKaOiVle1fOzcfoUOkYumAbmD_7EaLfr_Qci-hFUbQpn9DzdC0wQqC7uIdESrAbbjX6IJMElSQ6sK2G_rlVXU79tj-ZxABNHuBAqy25lnTIUYF4bn4bMffAIxNLVVS3PY0_mR7N4JfOum45CzIA1-ZklwhCHmo1Gm-y0v-7m4C65WzOlDlFZ-jMwXHnIVQJfsCe1rp9kY_dSOGrbMN6jrV6VuQuOOOq2a0jzUSByXQzGH1UaVGjUFxOSyNLR2mtfH0iy5y5rBlmNdEMY10DLfVeA902YY4o6JtHWaLR1b6m6-GwtgkFB1Dw__ymgDZHTokJ8CzoEYiIlt4HoLJ36UYOJWhz9qeLnBRNOuG-ybgyCB_T9fTCRlkFhqfrdv3EVGdUBfpXzv7ckU7rRP8yEtz_6_7rhi0e1xmdC6Xr9f4n8SkAjEv2bYK_AwH7_PwD3lb7OAYEK8Ydw0MqRhIoaLYX-VG2sLorU-xKRcY4FDl6cIV0-UXJ8fakwBTc3xgbM2D503QbOwIlA1qIx1vVEVgMg%253D%253D\">here</a> if you are a beauty consultant of Mary Kay and expect to learn more information about privacy rights."
+        "content-9": {
+          "name": "Responsibilities",
+          "text": "Mary Kay expects our employees and business partners to maintain the trust that personal data providers place in us. We have trained our employees on privacy protection and highlighted the importance of privacy rights in our global business activities. Managers of personal data will ensure that such data are closely protected by completing a privacy protection self-assessment. We will review its compliance on a regular basis. <br><br>Mary Kay’s Privacy Policy and data protection measures will be extended to our suppliers and business partners by means of contracts. We support industrial self-regulation as an adaptive complement to address new privacy rights issues.<br><br>Click <a href=\"https://www.marykay.com.hk/main/consumer.aspx\">here</a> to learn more about or review Mary Kay’s Consumer Privacy Policy.<br>Click <a target=\"_blank\"href=\"https://mk.marykayintouch.com.hk/s/login/?ec=302&inst=1&startURL=%2Fsetup%2Fsecur%2FRemoteAccessAuthorizationPage.apexp%3Fsource%3DCAAAAXrdH_a9MDAwMDAwMDAwMDAwMDAwAAAA6KNeK3gxVCJ6cFaatjjri1LM3A5UgHzwMo-F_N-uFehrcX6tAYpM9lcCarDAJ18k0n-4GDK4-6iZLOxu8-Mbxnv2ShNxVoplrvi0qEQh_mN45SaqlV7-cXYv1HphU0J3zkjawq8u25xrTA4dPbgO0oj98wYZcjUyeloanXJci-zBQli3WXN55wEBIgzW6efzv4xqZkMzwTww9JHNWOwFY2N7RbyZQA1KKFfXfrQPCsP1daQIweGqMy5wLa7kX3O_CztxXTxeTvTNn0g6TgfyjL3BbqZ9BoyKUbK3Z-17w3kMLQ2N7LMm5prUikXgzU39zOx0lMhyy9bSJwffWclVAWVWelCBpaO4wBh22FBWuHQB-Dnd7i-1SQAXX0r5gdMOYU4le734rjsxQhkyppS7FKsVyat6F81ODwp0s4-xuhV_h4OFus1R-OU52F-Y7zFrSjyUak7NiawBtU6Id4JjhsoKjwnLVlEzfTOToOJlSy_qdtIfco3r6bRo7q-m9lxUDv3JjjlMkDMno0Uhz4tkevL-EFkYz4m2orqKemloaSlM_bKVUO1XtkOXEVmjqXvwDXgYqjmVEyXab07nXdace9V9-YVXd8kxeVNWrlUfxIjTqiisdH7RIfTVKkcgx3gJ8SmVRZVtVGtox3ePuk5uzQg6LETak__fcAzlwJwT_2kdsiy2S-di9XmB0qONgc57jShQgPEmXWfC3NzLmvn-hZUms84dcZSXBVi-Bx80n_TYghamvFsszqfyDkfFxkbsjPJrkyQvlxs9XvrBZry3UCl8uDkKjtJCAZtvFxXOW0XivsgA_YJWMuWr8PUdd8CGP_vbTmbNhDchtlYebw_TAw3F3VbAhSxKKQTkNej-56KCSKFjOSi6f9uAe0P4zXb5gxJaMPl1hJhZT_v_-jEH1Y8BYkyukWJ8vTNlKhDW3IbtZROsmF24wK1UFaFtyFLp1FlcKSjqXCvWCUhUaiBgnQNTzGbghNf3yFbjntZnPdDkGqQ-zyIoCqaOM4vGprasAjrqI8UAtDS7r1hb5gdOgKb7lhe8xfFG-2STinxXZRyKaOiVle1fOzcfoUOkYumAbmD_7EaLfr_Qci-hFUbQpn9DzdC0wQqC7uIdESrAbbjX6IJMElSQ6sK2G_rlVXU79tj-ZxABNHuBAqy25lnTIUYF4bn4bMffAIxNLVVS3PY0_mR7N4JfOum45CzIA1-ZklwhCHmo1Gm-y0v-7m4C65WzOlDlFZ-jMwXHnIVQJfsCe1rp9kY_dSOGrbMN6jrV6VuQuOOOq2a0jzUSByXQzGH1UaVGjUFxOSyNLR2mtfH0iy5y5rBlmNdEMY10DLfVeA902YY4o6JtHWaLR1b6m6-GwtgkFB1Dw__ymgDZHTokJ8CzoEYiIlt4HoLJ36UYOJWhz9qeLnBRNOuG-ybgyCB_T9fTCRlkFhqfrdv3EVGdUBfpXzv7ckU7rRP8yEtz_6_7rhi0e1xmdC6Xr9f4n8SkAjEv2bYK_AwH7_PwD3lb7OAYEK8Ydw0MqRhIoaLYX-VG2sLorU-xKRcY4FDl6cIV0-UXJ8fakwBTc3xgbM2D503QbOwIlA1qIx1vVEVgMg%253D%253D\">here</a> if you are a beauty consultant of Mary Kay and expect to learn more information about privacy rights."
         },
-        "content-10":{
-          "name":"Contact Us",
-          "text":"If you have any questions or concerns regarding your privacy, please do not hesitate to contact us. Please click here to select your country, address and email address, or use the postal address below. Please feel free to express your questions or comments in your native language.<br><br>In addition, you can also contact us through the following ways<br><br>Mary Kay Global Privacy Team <br><br>16251 Dallas Parkway <br>Addison, TX 75001 U.S.A. <br>privacy.global@mkcorp.com <br>1-800-453-1140 <br><br>We are committed to working with you to resolve your privacy complaint or concerns in a fair manner. We will also cooperate with local personal data protection authorities where they deem that there are privacy rights issues.<br><br>We’ve joined the Accredited Business Program initiated by U.S. Council of Better Business Bureau's. Further information about the Program and its dispute resolution procedures can be found at <a target=\"_blank\"href=\"http://www.bbb.org/\">http://www.bbb.org/</a>."
+        "content-10": {
+          "name": "Contact Us",
+          "text": "If you have any questions or concerns regarding your privacy, please do not hesitate to contact us. Please click here to select your country, address and email address, or use the postal address below. Please feel free to express your questions or comments in your native language.<br><br>In addition, you can also contact us through the following ways<br><br>Mary Kay Global Privacy Team <br><br>16251 Dallas Parkway <br>Addison, TX 75001 U.S.A. <br>privacy.global@mkcorp.com <br>1-800-453-1140 <br><br>We are committed to working with you to resolve your privacy complaint or concerns in a fair manner. We will also cooperate with local personal data protection authorities where they deem that there are privacy rights issues.<br><br>We’ve joined the Accredited Business Program initiated by U.S. Council of Better Business Bureau's. Further information about the Program and its dispute resolution procedures can be found at <a target=\"_blank\"href=\"http://www.bbb.org/\">http://www.bbb.org/</a>."
         },
-        "content-11":{
-          "name":"Privacy Complaints from EU Citizens",
-          "text":"In order to comply with the Safe Harbor Privacy Policy, Mary Kay is committed to resolving your privacy rights and your claims against our collection and use of personal data. EU citizens who have questions or wish to complain about this Privacy Policy should contact the aforementioned Mary Kay Global Privacy Team first.<br><br>Mary Kay is also committed to referring outstanding privacy rights claims under the Safe Harbor Privacy Policy to an independent dispute resolution mechanism, BBB EU Safe Harbor operated by the Better Business Bureau Council. If you did not receive prompt confirmation of your complaint, or you are not satisfied with the way Mary Kay resolved your complaint, you can access the website of Safe Harbor BBB EU at <a target=\"_blank\"href=\"http://www.bbb.org/us/safe-harbor-complaints\">http://www.bbb.org/us/safe-harbor-complaints</a> to get more information and to lodge a complaint."
+        "content-11": {
+          "name": "Privacy Complaints from EU Citizens",
+          "text": "In order to comply with the Safe Harbor Privacy Policy, Mary Kay is committed to resolving your privacy rights and your claims against our collection and use of personal data. EU citizens who have questions or wish to complain about this Privacy Policy should contact the aforementioned Mary Kay Global Privacy Team first.<br><br>Mary Kay is also committed to referring outstanding privacy rights claims under the Safe Harbor Privacy Policy to an independent dispute resolution mechanism, BBB EU Safe Harbor operated by the Better Business Bureau Council. If you did not receive prompt confirmation of your complaint, or you are not satisfied with the way Mary Kay resolved your complaint, you can access the website of Safe Harbor BBB EU at <a target=\"_blank\"href=\"http://www.bbb.org/us/safe-harbor-complaints\">http://www.bbb.org/us/safe-harbor-complaints</a> to get more information and to lodge a complaint."
         }
       }
     },
     "about_mary": {
-      "Breadcrumb":{
-        "home":"home",
-        "pageName":"/ About Mary Kay"
+      "Breadcrumb": {
+        "home": "home",
+        "pageName": "/ About Mary Kay"
       },
-      "Banner":{
-        "h2":"“We can’t change the length of life, but we can infinitely expand the breadth of our life”",
-        "content":"Women are like water, ever-changing but unparalleled. We are expected to break through and break the routines as a woman; at the same time, we expect women to spread love to the world, to be unarmed, and to do their best makeup with a soft attitude. It is absolutely up to you to choose what you want to be and what you want to look like."
+      "Banner": {
+        "h2": "“We can’t change the length of life, but we can infinitely expand the breadth of our life”",
+        "content": "Women are like water, ever-changing but unparalleled. We are expected to break through and break the routines as a woman; at the same time, we expect women to spread love to the world, to be unarmed, and to do their best makeup with a soft attitude. It is absolutely up to you to choose what you want to be and what you want to look like."
       },
-      "spec":{
-        "h4":"Mary Kay is one of the world’s largest direct sellers of skin care and make-up products.",
-        "p":"Founded by Ms. Mary Kay Ash in 1963, the Company is headquartered in the United States. It operates in nearly 40 markets worldwide and has more than 4 million independent professional beauty consultants on a global scale. Established in 1991, Mary Kay Hong Kong is one of the 11 member companies of the Hong Kong Direct Selling Association to provide customers with free skin care and beauty solutions, personalized makeup guidance, suggestions for make-up design under different occasions, free product trial and delivery service, At Mary Kay, we not only can provide you with perfect skin care solutions, but also make beautiful changes to your image. We believe that only when women are balanced and satisfied in all eight aspects, including, beauty & confidence, harmonious family, interpersonal relationship, learning & growth, financial independence, healthy & leisure, achievements & glory and spiritual harmony can they be truly successful and truly happy deep down."
+      "spec": {
+        "h4": "Mary Kay is one of the world’s largest direct sellers of skin care and make-up products.",
+        "p": "Founded by Ms. Mary Kay Ash in 1963, the Company is headquartered in the United States. It operates in nearly 40 markets worldwide and has more than 4 million independent professional beauty consultants on a global scale. Established in 1991, Mary Kay Hong Kong is one of the 11 member companies of the Hong Kong Direct Selling Association to provide customers with free skin care and beauty solutions, personalized makeup guidance, suggestions for make-up design under different occasions, free product trial and delivery service, At Mary Kay, we not only can provide you with perfect skin care solutions, but also make beautiful changes to your image. We believe that only when women are balanced and satisfied in all eight aspects, including, beauty & confidence, harmonious family, interpersonal relationship, learning & growth, financial independence, healthy & leisure, achievements & glory and spiritual harmony can they be truly successful and truly happy deep down."
       },
-      "about_marykay_content":{
-        "h4":"Love, the core culture of Mary Kay",
-        "p":"Mary Kay guides you to discover what you love and know more about yourself, thereby creating a richer and better life."
+      "about_marykay_content": {
+        "h4": "Love, the core culture of Mary Kay",
+        "p": "Mary Kay guides you to discover what you love and know more about yourself, thereby creating a richer and better life."
       },
-      "bottom_content":{
-        "h1":"Opportunity is what we create Beauty is what we sell Hope is what we give back",
-        "content":"Women who know how to choose are happier: to be a woman with bright outside and free inside<br>Enjoy a personalized beauty experience<br>Enjoy a personalized health & beauty solution"
+      "bottom_content": {
+        "h1": "Opportunity is what we create Beauty is what we sell Hope is what we give back",
+        "content": "Women who know how to choose are happier: to be a woman with bright outside and free inside<br>Enjoy a personalized beauty experience<br>Enjoy a personalized health & beauty solution"
       },
-      "card":{
-        "box1":{
-          "title":"Skin Care Solutions",
-          "content":"The individualized and all-rounded health & beauty solutions are carefully crafted for each customer according to different skin types and personal health needs. We’re by your side to guard your youth and beauty from within."
+      "card": {
+        "box1": {
+          "title": "Skin Care Solutions",
+          "content": "The individualized and all-rounded health & beauty solutions are carefully crafted for each customer according to different skin types and personal health needs. We’re by your side to guard your youth and beauty from within."
         },
-        "box2":{
-          "title":"Personalized Makeup Guidance",
-          "content":"In view of the needs on different occasions, we provide you with professional personalized makeup guidance and change different makeup looks with model shows so as to add brilliance to your beauty at every moment."
+        "box2": {
+          "title": "Personalized Makeup Guidance",
+          "content": "In view of the needs on different occasions, we provide you with professional personalized makeup guidance and change different makeup looks with model shows so as to add brilliance to your beauty at every moment."
         },
-        "box3":{
-          "title":"Suggestions for Styling",
-          "content":"We provide you with the latest and personalized styling suggestions for you to strike a pose on the important stage and carefully create the makeup and styling suits you best so that you can show your confidence and beauty with your every posture."
+        "box3": {
+          "title": "Suggestions for Styling",
+          "content": "We provide you with the latest and personalized styling suggestions for you to strike a pose on the important stage and carefully create the makeup and styling suits you best so that you can show your confidence and beauty with your every posture."
         },
-        "box4":{
-          "title":"Delivery Service",
-          "content":"We are here for you when you need us. We not only provide you with product delivery service but also intimate services. Get a step closer to you and feel free to share your experience of use and exchange your beauty secrets."
+        "box4": {
+          "title": "Delivery Service",
+          "content": "We are here for you when you need us. We not only provide you with product delivery service but also intimate services. Get a step closer to you and feel free to share your experience of use and exchange your beauty secrets."
         }
       }
     },
     "social": {
-      "Breadcrumb":{
-        "home":"home",
-        "pageName":"/ social"
+      "Breadcrumb": {
+        "home": "home",
+        "pageName": "/ social"
       },
-      "Banner":{
-        "h2":"Pink Changing Lives<br>Our Commitment to Women",
-        "content":"Go-Give is our core spirit that promotes us to enrich women and their families around the world. Through this consistent philosophy, we take the initiative to respond to local communities in nearly 40 markets throughout the world, bringing change to women all over the world, allowing them and their children to have brand-new beautiful lives."
+      "Banner": {
+        "h2": "Pink Changing Lives<br>Our Commitment to Women",
+        "content": "Go-Give is our core spirit that promotes us to enrich women and their families around the world. Through this consistent philosophy, we take the initiative to respond to local communities in nearly 40 markets throughout the world, bringing change to women all over the world, allowing them and their children to have brand-new beautiful lives."
       },
-      "spec":{
-        "h4":"Untamed Beauty  Women Empowered  Era of Girl Power!",
-        "ulList":{
-          "list1":{
-            "li":"Global charity projects to give back to society"
+      "spec": {
+        "h4": "Untamed Beauty  Women Empowered  Era of Girl Power!",
+        "ulList": {
+          "list1": {
+            "li": "Global charity projects to give back to society"
           },
-          "list2":{
-            "li":"Helping women and children around the world"
+          "list2": {
+            "li": "Helping women and children around the world"
           },
-          "list3":{
-            "li":"Building libraries to help children in need"
+          "list3": {
+            "li": "Building libraries to help children in need"
           },
-          "list4":{
-            "li":"Funding the education of girls from underprivileged families"
+          "list4": {
+            "li": "Funding the education of girls from underprivileged families"
           },
-          "list5":{
-            "li":"Providing life-saving medical services"
+          "list5": {
+            "li": "Providing life-saving medical services"
           },
-          "list6":{
-            "li":"Supporting anti-trafficking organizations"
+          "list6": {
+            "li": "Supporting anti-trafficking organizations"
           },
-          "list7":{
-            "li":"Helping disabled children"
+          "list7": {
+            "li": "Helping disabled children"
           },
-          "list8":{
-            "li":"Inculcating awareness about breast cancer"
+          "list8": {
+            "li": "Inculcating awareness about breast cancer"
           },
-          "list9":{
-            "li":"Helping end domestic violence"
+          "list9": {
+            "li": "Helping end domestic violence"
           }
         }
       },
-      "bottom_content":{
-        "h3":"Pink Doing Green",
-        "h3_content":"Our Commitment to the Earth",
-        "content":"A penny saved is a penny earned will be the first step of changing the earth: implementing the environmental protection concept Whether it is the use of renewable energy, green planting afforestation, the use of biodegradable packing materials, products packed in an environmentally-friendly manner, a simple green action will not only care for your skin, preserve the earth but also improve life quality! Promote our happiness and joy ❤",
-        "h4":"Our green attitude, follow us to be kind to the earth"
+      "bottom_content": {
+        "h3": "Pink Doing Green",
+        "h3_content": "Our Commitment to the Earth",
+        "content": "A penny saved is a penny earned will be the first step of changing the earth: implementing the environmental protection concept Whether it is the use of renewable energy, green planting afforestation, the use of biodegradable packing materials, products packed in an environmentally-friendly manner, a simple green action will not only care for your skin, preserve the earth but also improve life quality! Promote our happiness and joy ❤",
+        "h4": "Our green attitude, follow us to be kind to the earth"
       },
-      "container":{
-        "box1":{
-          "h3":"WORLDWIDE RECYCLING PROGRAM",
-          "content":"Mary Kay is the first company in the world to develop a recycling program. Mary Kay’s global manufacturing facilities recycle packaging, paper, plastic and other products through a recycling program every day."
+      "container": {
+        "box1": {
+          "h3": "WORLDWIDE RECYCLING PROGRAM",
+          "content": "Mary Kay is the first company in the world to develop a recycling program. Mary Kay’s global manufacturing facilities recycle packaging, paper, plastic and other products through a recycling program every day."
         },
-        "box2":{
-          "h3":"100% BIO-DEGRADABLE PACKING MATERIALS",
-          "content":"Biodegradable packing materials are materials that can degrade in the nature. The biodegradable packing materials made from renewable corn and potato starch made into packing fillers are used to ship Mary Kay’s product."
+        "box2": {
+          "h3": "100% BIO-DEGRADABLE PACKING MATERIALS",
+          "content": "Biodegradable packing materials are materials that can degrade in the nature. The biodegradable packing materials made from renewable corn and potato starch made into packing fillers are used to ship Mary Kay’s product."
         },
-        "box3":{
-          "h3":"ZERO LANDFILL SITES",
-          "content":"Mary Kay’s manufacturing facilities in the United States have achieved zero landfill status. A wastewater treatment station capable of treating 150 tons has been established in Asia-Pacific manufacturing facilities. Implement the environmental goals of “waste water discharge” and “zero solid waste landfill”"
+        "box3": {
+          "h3": "ZERO LANDFILL SITES",
+          "content": "Mary Kay’s manufacturing facilities in the United States have achieved zero landfill status. A wastewater treatment station capable of treating 150 tons has been established in Asia-Pacific manufacturing facilities. Implement the environmental goals of “waste water discharge” and “zero solid waste landfill”"
         },
-        "box4":{
-          "h3":"SUSTAINABLE PRODUCT PACKAGING",
-          "content":"Mary Kay offers innovative and environmentally friendly products and packaging and adopts reusable product designs including the reusable magnet design in Mary Kay’s makeup kit, so that any makeup products can be put inside at random combination to reduce waste arising from change"
+        "box4": {
+          "h3": "SUSTAINABLE PRODUCT PACKAGING",
+          "content": "Mary Kay offers innovative and environmentally friendly products and packaging and adopts reusable product designs including the reusable magnet design in Mary Kay’s makeup kit, so that any makeup products can be put inside at random combination to reduce waste arising from change"
         },
-        "box5":{
-          "h3":"100% RENEWABLE ENERGY",
-          "content":"The Mary Kay world headquarters and global manufacturing facility are powered by 100 percent renewable energy."
+        "box5": {
+          "h3": "100% RENEWABLE ENERGY",
+          "content": "The Mary Kay world headquarters and global manufacturing facility are powered by 100 percent renewable energy."
         },
-        "box6":{
-          "h3":"1 MILLION TREES PLANTED",
-          "content":"Mary Kay has planted more than 1 million trees around the world in the activities organized by the global branches."
+        "box6": {
+          "h3": "1 MILLION TREES PLANTED",
+          "content": "Mary Kay has planted more than 1 million trees around the world in the activities organized by the global branches."
         }
       }
     },
     "webhk_privacy": {
-      "page_name":"Terms of Use of Mary Kay HK’s Website",
-      "text_inner":"Please read over the Terms of Use before using the Website.The use of the Website indicates that you have agreed to be unconditionally bound by the Terms of Use. If you do not accept the Terms of Use, please do not use the Website.",
-      "contents":{
-        "content-1":{
-          "name":"Restrictions on Data Use",
-          "text":"The content, structure and page design of the Website (hereinafter referred to as the “Site”) and any other website owned, operated, licensed or controlled by Mary Kay (Hong Kong) Ltd. (hereinafter referred to as “Mary Kay”) are copyrighted. The copyright of all materials are owned by Mary Kay. No material may be copied, reproduced, reprinted, uploaded, posted, transmitted or distributed in any manner other than as specified in these Terms of Use. Unauthorized use of any material may violate Copyright Law, Trademark Law and other laws, and Mary Kay reserves all right to exercise any rights or remedies conferred by law or provided hereunder."
+      "page_name": "Terms of Use of Mary Kay HK’s Website",
+      "text_inner": "Please read over the Terms of Use before using the Website.The use of the Website indicates that you have agreed to be unconditionally bound by the Terms of Use. If you do not accept the Terms of Use, please do not use the Website.",
+      "contents": {
+        "content-1": {
+          "name": "Restrictions on Data Use",
+          "text": "The content, structure and page design of the Website (hereinafter referred to as the “Site”) and any other website owned, operated, licensed or controlled by Mary Kay (Hong Kong) Ltd. (hereinafter referred to as “Mary Kay”) are copyrighted. The copyright of all materials are owned by Mary Kay. No material may be copied, reproduced, reprinted, uploaded, posted, transmitted or distributed in any manner other than as specified in these Terms of Use. Unauthorized use of any material may violate Copyright Law, Trademark Law and other laws, and Mary Kay reserves all right to exercise any rights or remedies conferred by law or provided hereunder."
         },
-        "content-2":{
-          "name":"Mary Kay Internet Guidelines",
-          "text":"If you are an independent beauty consultant of Mary Kay, in addition to the Terms of Use, you also agree to observe and follow the Mary Kay Internet Guidelines."
+        "content-2": {
+          "name": "Mary Kay Internet Guidelines",
+          "text": "If you are an independent beauty consultant of Mary Kay, in addition to the Terms of Use, you also agree to observe and follow the Mary Kay Internet Guidelines."
         },
-        "content-3":{
-          "name":"Applicable Laws",
-          "text":"The Site is controlled and operated by Mary Kay through its Hong Kong office. Mary Kay makes no representation, whether express or implied, that the materials on the Site are suitable or available for use, or that access to the Site will be continuous, uninterrupted, or safe. Visitors to the Site are proactive and are responsible for abiding by applicable local laws. Any claim against the Site or the use of the Site shall be subject to the laws of the Hong Kong Special Administrative Region of the People’s Republic of China (hereinafter referred to as “Hong Kong”) and the principle of conflict of law is null and void."
+        "content-3": {
+          "name": "Applicable Laws",
+          "text": "The Site is controlled and operated by Mary Kay through its Hong Kong office. Mary Kay makes no representation, whether express or implied, that the materials on the Site are suitable or available for use, or that access to the Site will be continuous, uninterrupted, or safe. Visitors to the Site are proactive and are responsible for abiding by applicable local laws. Any claim against the Site or the use of the Site shall be subject to the laws of the Hong Kong Special Administrative Region of the People’s Republic of China (hereinafter referred to as “Hong Kong”) and the principle of conflict of law is null and void."
         },
-        "content-4":{
-          "name":"No Warranty and Disclaimer",
-          "text":"The information on the Site is provided “as is”. Mary Kay does not guarantee the accuracy, validity, timeliness, or integrity of any of the information, or its suitability for any particular purpose despite that Mary Kay uses due care in managing the information and operating the Site. Mary Kay shall not bear any direct or indirect loss or damage suffered by anyone arising from the use of the Site as far as laws permit."
+        "content-4": {
+          "name": "No Warranty and Disclaimer",
+          "text": "The information on the Site is provided “as is”. Mary Kay does not guarantee the accuracy, validity, timeliness, or integrity of any of the information, or its suitability for any particular purpose despite that Mary Kay uses due care in managing the information and operating the Site. Mary Kay shall not bear any direct or indirect loss or damage suffered by anyone arising from the use of the Site as far as laws permit."
         },
-        "content-5":{
-          "name":"Trademark",
-          "text":"Unless otherwise specified, any trademarks, service marks and company logos (hereinafter referred to as “trademarks”) used or shown on the Site are the exclusive property of Mary Kay or used by Mary Kay under licensed or applicable law. No content on the Site should be construed to grant any license or right to use any trademark by implication, non-repudiation or otherwise."
+        "content-5": {
+          "name": "Trademark",
+          "text": "Unless otherwise specified, any trademarks, service marks and company logos (hereinafter referred to as “trademarks”) used or shown on the Site are the exclusive property of Mary Kay or used by Mary Kay under licensed or applicable law. No content on the Site should be construed to grant any license or right to use any trademark by implication, non-repudiation or otherwise."
         },
-        "content-6":{
-          "name":"Link",
-          "text":"The Site may provide you with the link to third-party website for your convenience. You will leave the Site if you use such link. Mary Kay does not review, control, or be responsible for any third-party websites or their contents. Mary Kay makes no endorsement or representation with respect to these websites, any information or materials on them, or any results arising from the use of these websites. You do so at your own risk if you visit any third-party website connected to the Site. Please fax ((852) 2519-8686) us your request to connect to the Site. If you wish to connect to the Site, the following guidelines apply:<br />The websites connected to the Site<br /><br />• No direct or indirect implication of Mary Kay’s endorsement for its products;<br />• No use of any trademarks (such as Mary Kay’s company logo);<br />• No content or material that can be interpreted as offensive, controversial or disgusting should be included and only the contents suitable for all ages shall be included;<br />• Mary Kay or its products shall not be belittled in any way, nor shall Mary Kay’s reputation and goodwill be adversely affected or damaged in any other way.<br />• No incorrect or misleading information about Mary Kay or Mary Kay career opportunities shall be published;<br />• No misrepresentation on any relationship with Mary Kay shall be made;<br />• No copy of any content on the Site in any way; and<br />• No browser or boundary environment is allowed around the materials on the Site.<br /> "
+        "content-6": {
+          "name": "Link",
+          "text": "The Site may provide you with the link to third-party website for your convenience. You will leave the Site if you use such link. Mary Kay does not review, control, or be responsible for any third-party websites or their contents. Mary Kay makes no endorsement or representation with respect to these websites, any information or materials on them, or any results arising from the use of these websites. You do so at your own risk if you visit any third-party website connected to the Site. Please fax ((852) 2519-8686) us your request to connect to the Site. If you wish to connect to the Site, the following guidelines apply:<br />The websites connected to the Site<br /><br />• No direct or indirect implication of Mary Kay’s endorsement for its products;<br />• No use of any trademarks (such as Mary Kay’s company logo);<br />• No content or material that can be interpreted as offensive, controversial or disgusting should be included and only the contents suitable for all ages shall be included;<br />• Mary Kay or its products shall not be belittled in any way, nor shall Mary Kay’s reputation and goodwill be adversely affected or damaged in any other way.<br />• No incorrect or misleading information about Mary Kay or Mary Kay career opportunities shall be published;<br />• No misrepresentation on any relationship with Mary Kay shall be made;<br />• No copy of any content on the Site in any way; and<br />• No browser or boundary environment is allowed around the materials on the Site.<br /> "
         },
-        "content-7":{
-          "name":"User Transmission",
-          "text":"Except for the personal data collected and managed by Mary Kay according to the Privacy Statement on the Site, any material, information, idea or other communication (hereinafter referred to as “communications”) transmitted to or posted on the Site by you in any way will be deemed as non-confidential and non-exclusive, and may be distributed or used by Mary Kay and/or its designee for any purpose, including but not limited to the development and manufacture of products. Mary Kay has no obligation with respect to such communications. Mary Kay and its designee may reproduce, disclose, distribute, incorporate or otherwise use such communications and all data, images, audio, text and other content contained therein at their own discretion for any and all commercial and non-commercial purposes. You shall not post or transmit any illegal, threatening, slanderous, defamatory, obscene, maliciously libelous, seditious, pornographic or blasphemous material on the Site, or any other material which may result in civil or criminal liability in violation of the law."
+        "content-7": {
+          "name": "User Transmission",
+          "text": "Except for the personal data collected and managed by Mary Kay according to the Privacy Statement on the Site, any material, information, idea or other communication (hereinafter referred to as “communications”) transmitted to or posted on the Site by you in any way will be deemed as non-confidential and non-exclusive, and may be distributed or used by Mary Kay and/or its designee for any purpose, including but not limited to the development and manufacture of products. Mary Kay has no obligation with respect to such communications. Mary Kay and its designee may reproduce, disclose, distribute, incorporate or otherwise use such communications and all data, images, audio, text and other content contained therein at their own discretion for any and all commercial and non-commercial purposes. You shall not post or transmit any illegal, threatening, slanderous, defamatory, obscene, maliciously libelous, seditious, pornographic or blasphemous material on the Site, or any other material which may result in civil or criminal liability in violation of the law."
         },
-        "content-8":{
-          "name":"Amendments and Modifications to the Terms of Use",
-          "text":"Mary Kay may amend the Terms of Use at any time. The use of the Site indicates that you agree to be governed by any such amendments. Therefore, you should check this page on a regular basis to determine the current Terms of Use that govern you. Certain Terms of Use may be modified or superseded by expressly specified legal notices or terms posted on specific pages of the Site.• Mary Kay (Hong Kong) Co., Ltd. All rights reserved.No part may be reproduced without written permission of Mary Kay (Hong Kong) Co., Ltd."
+        "content-8": {
+          "name": "Amendments and Modifications to the Terms of Use",
+          "text": "Mary Kay may amend the Terms of Use at any time. The use of the Site indicates that you agree to be governed by any such amendments. Therefore, you should check this page on a regular basis to determine the current Terms of Use that govern you. Certain Terms of Use may be modified or superseded by expressly specified legal notices or terms posted on specific pages of the Site.• Mary Kay (Hong Kong) Co., Ltd. All rights reserved.No part may be reproduced without written permission of Mary Kay (Hong Kong) Co., Ltd."
         }
       }
     },
     "privacy": {
-      "page_name":"Mary Kay Consumer Privacy Policy",
-      "contents":{
-        "content-1":{
-          "name":"Scope ",
-          "text":"The Consumer Privacy Policy explains that Mary Kay (HK) Ltd. (“Mary Kay”) collects your data. The Consumer Privacy Policy will elaborate how we use such data and options you have for data use. The data contained in the Policy and <a href=\"global_privacy\">Mary Kay Global Privacy Statement</a> include those obtained by our website, Mary Kay’s independent beauty consultants for providing special offers and services, or from the third parties as described in this Policy. <br>Please click <a href=\"#\">here</a> if you are an independent beauty consultant with Mary Kay and would like to receive more information about your privacy rights specifically. <br>Our privacy operation is consistent with the following requirements: <br>We are committed to working with you to resolve your privacy complaint or concerns in a fair manner. We will also cooperate with local personal data protection authorities where they deem that there are privacy rights issues."
+      "page_name": "Mary Kay Consumer Privacy Policy",
+      "contents": {
+        "content-1": {
+          "name": "Scope ",
+          "text": "The Consumer Privacy Policy explains that Mary Kay (HK) Ltd. (“Mary Kay”) collects your data. The Consumer Privacy Policy will elaborate how we use such data and options you have for data use. The data contained in the Policy and <a href=\"global_privacy\">Mary Kay Global Privacy Statement</a> include those obtained by our website, Mary Kay’s independent beauty consultants for providing special offers and services, or from the third parties as described in this Policy. <br>Please click <a href=\"#\">here</a> if you are an independent beauty consultant with Mary Kay and would like to receive more information about your privacy rights specifically. <br>Our privacy operation is consistent with the following requirements: <br>We are committed to working with you to resolve your privacy complaint or concerns in a fair manner. We will also cooperate with local personal data protection authorities where they deem that there are privacy rights issues."
         },
-        "content-2":{
-          "name":"Contact Us",
-          "text":"Please feel free to contact us if you have any questions or concerns regarding your privacy.<br>Mary Kay (HK) Ltd. <br>Privacy Coordinator<br>Room 1202-03, 12 / F, Wing On Kowloon Centre, 345 Nathan Road, Kowloon<br>Email: <a href=\"mailto:info.hk@mkcorp.com\">info.hk@mkcorp.com</a><br>Tel.: 800-906-833<br><br>Or you can directly contact Mary Kay Global Privacy Team<br>Email: <a href=\"mailto:privacy.global@mkcorp.com\">privacy.global@mkcorp.com</a><br>Tel.: 1-800-453-1140"
+        "content-2": {
+          "name": "Contact Us",
+          "text": "Please feel free to contact us if you have any questions or concerns regarding your privacy.<br>Mary Kay (HK) Ltd. <br>Privacy Coordinator<br>Room 1202-03, 12 / F, Wing On Kowloon Centre, 345 Nathan Road, Kowloon<br>Email: <a href=\"mailto:info.hk@mkcorp.com\">info.hk@mkcorp.com</a><br>Tel.: 800-906-833<br><br>Or you can directly contact Mary Kay Global Privacy Team<br>Email: <a href=\"mailto:privacy.global@mkcorp.com\">privacy.global@mkcorp.com</a><br>Tel.: 1-800-453-1140"
         },
-        "content-3":{
-          "name":"Data We Collect",
-          "text":"We may collect your personal data from all sources, including from you directly; we can collect your data when you visit our website or view Mary Kay online ads; we may also obtain your data from other sources (in accordance with laws and regulations).<br>Data collected directly from you<br>We will collect data directly from you when you choose to join our special offers or plans or directly provide us with your data. The following is examples of data directly collected from you:<br><br>• Name, email address, mailing address<br>• Name and password of the user<br>• Telephone number or mobile phone number<br>• Age<br>• Birthday<br>• Name of your independent beauty consultant<br>• Other information about you and your families, such as gender, product preference and / or behavior<br>• Group data<br>• Preferences for future communication<br>• The friends you would like us or your independent beauty consultant to contact and their contact information. When you provide information about your friends, we will only use the information to send the message you requested.<br><br>Data collected when you visit our website, use our services or watch our online ads.<br>We will take advantage of cookie and other technologies to collect your data when you visit our website, use our services or watch our online ads. The following are examples of data collected by means of foregoing technologies:<br><br>• Your browser type and operating system<br>• The web page you view<br>• The web link you clicked on<br>• IP address<br>• Websites that you visited prior to entering the Site<br>• Mary Kay emails you opened or forwarded<br>• The offer or contact of Mary Kay enabling you to enter the site by email<br>• Information about your visit to an independent beauty consultant’s personal website<br>• Product choices and preferences for browsing convenience"
+        "content-3": {
+          "name": "Data We Collect",
+          "text": "We may collect your personal data from all sources, including from you directly; we can collect your data when you visit our website or view Mary Kay online ads; we may also obtain your data from other sources (in accordance with laws and regulations).<br>Data collected directly from you<br>We will collect data directly from you when you choose to join our special offers or plans or directly provide us with your data. The following is examples of data directly collected from you:<br><br>• Name, email address, mailing address<br>• Name and password of the user<br>• Telephone number or mobile phone number<br>• Age<br>• Birthday<br>• Name of your independent beauty consultant<br>• Other information about you and your families, such as gender, product preference and / or behavior<br>• Group data<br>• Preferences for future communication<br>• The friends you would like us or your independent beauty consultant to contact and their contact information. When you provide information about your friends, we will only use the information to send the message you requested.<br><br>Data collected when you visit our website, use our services or watch our online ads.<br>We will take advantage of cookie and other technologies to collect your data when you visit our website, use our services or watch our online ads. The following are examples of data collected by means of foregoing technologies:<br><br>• Your browser type and operating system<br>• The web page you view<br>• The web link you clicked on<br>• IP address<br>• Websites that you visited prior to entering the Site<br>• Mary Kay emails you opened or forwarded<br>• The offer or contact of Mary Kay enabling you to enter the site by email<br>• Information about your visit to an independent beauty consultant’s personal website<br>• Product choices and preferences for browsing convenience"
         },
-        "content-4":{
-          "name":"How We Use the Data Collected",
-          "text":"We will provide offers, products and services for you with the data collected. Such data facilitate us in connecting you with the independent beauty consultant from whom you can buy products, informing you of the chance to be Mary Kay’s independent beauty consultant and managing our website and service, including providing services for independent beauty consultant. <br>The following are possible ways in which we can use the data we collect:<br><br>• Send samples, giveaways, products and information upon request<br>• Develop new or better products and services<br>• Include you in a contest, program or offer at your or your independent beauty consultant’s request<br>• We provide you with services related to independent beauty consultant<br>• Create and manage accounts for yourself and/or your independent beauty consultant<br>• Deal with payment issues for purchases or other services for or on behalf of your independent beauty consultant<br>• Prevent or identify potential fraudulent transactions<br>• Provide you with customer offers and information regarding Mary Kay products and services as far as laws permit, including services provided to your independent beauty consultant by email<br>• Develop and serve ads you’re interested in<br>• Analyze the usage of our products, services and website<br>• Learn how you come to our website and how you use our website so that we can make improvements.<br>• Judge the effectiveness of our ads<br>• Execute contract terms and other operational management matters"
+        "content-4": {
+          "name": "How We Use the Data Collected",
+          "text": "We will provide offers, products and services for you with the data collected. Such data facilitate us in connecting you with the independent beauty consultant from whom you can buy products, informing you of the chance to be Mary Kay’s independent beauty consultant and managing our website and service, including providing services for independent beauty consultant. <br>The following are possible ways in which we can use the data we collect:<br><br>• Send samples, giveaways, products and information upon request<br>• Develop new or better products and services<br>• Include you in a contest, program or offer at your or your independent beauty consultant’s request<br>• We provide you with services related to independent beauty consultant<br>• Create and manage accounts for yourself and/or your independent beauty consultant<br>• Deal with payment issues for purchases or other services for or on behalf of your independent beauty consultant<br>• Prevent or identify potential fraudulent transactions<br>• Provide you with customer offers and information regarding Mary Kay products and services as far as laws permit, including services provided to your independent beauty consultant by email<br>• Develop and serve ads you’re interested in<br>• Analyze the usage of our products, services and website<br>• Learn how you come to our website and how you use our website so that we can make improvements.<br>• Judge the effectiveness of our ads<br>• Execute contract terms and other operational management matters"
         },
-        "content-5":{
-          "name":"When, Where, Whom and How the Personal Data Are Used",
-          "text":"We will make use of the data we collect in Hong Kong or in other countries and territories within the duration of existence for which the personal data are collected for a particular commercial purpose, or within the period of retention prescribed by law or contract. Your personal data will be used by us, our service providers, your independent beauty consultants, and Mary Kay’s affiliated companies. We will collect, process, use and transfer your personal data internationally by automated machines or other non-automated means."
+        "content-5": {
+          "name": "When, Where, Whom and How the Personal Data Are Used",
+          "text": "We will make use of the data we collect in Hong Kong or in other countries and territories within the duration of existence for which the personal data are collected for a particular commercial purpose, or within the period of retention prescribed by law or contract. Your personal data will be used by us, our service providers, your independent beauty consultants, and Mary Kay’s affiliated companies. We will collect, process, use and transfer your personal data internationally by automated machines or other non-automated means."
         },
-        "content-6":{
-          "name":"Your Right of Choice and Access to Your Personal Data",
-          "text":"•Communicate in Digital and Electronic Manner <br>We will only send you promotional newsletters or emails at your or your beauty consultant’s request.<br>You can always ask to stop receiving promotional text messages or emails from Mary Kay. To find out how you can let us know if you do not wish to receive any more information, you can follow the instructions in our message about not joining or discontinuing your subscription or contact the consultant service.<br>If you provide information to an independent beauty consultant, please let him/her know if you would like to receive any information from him/her that is not processed on Mary Kay’s website or system.<br>Attention: We respect your choice if you choose not to receive any of our promotional messages. However, we will continue to send communications related to the service as permitted by law. In addition, we will retain the data we have collected about you for documentation, analysis or other purposes as far as laws permit.<br><br>•Access<br>We will take relevant measures to keep your personal data correct. You may request copies, queries, views and corrections or supplements to the personal data you provided to Mary Kay. The ways for online query or modification of personal data are available at certain Mary Kay systems. Please find out where you registered to learn whether you can enquire or modify your data there. If you provide your personal data for your independent beauty consultant, please directly contact him/her to update your personal data. You may also request to cease the collection, processing, use and deletion of your personal data. However, we may reject your request in accordance with the law or in order to carry out our business.<br>You can choose whether to provide your personal data at your discretion. But if you fail to provide relevant personal data, we may not introduce you or contact independent beauty consultant to provide you with the products or services you need."
+        "content-6": {
+          "name": "Your Right of Choice and Access to Your Personal Data",
+          "text": "•Communicate in Digital and Electronic Manner <br>We will only send you promotional newsletters or emails at your or your beauty consultant’s request.<br>You can always ask to stop receiving promotional text messages or emails from Mary Kay. To find out how you can let us know if you do not wish to receive any more information, you can follow the instructions in our message about not joining or discontinuing your subscription or contact the consultant service.<br>If you provide information to an independent beauty consultant, please let him/her know if you would like to receive any information from him/her that is not processed on Mary Kay’s website or system.<br>Attention: We respect your choice if you choose not to receive any of our promotional messages. However, we will continue to send communications related to the service as permitted by law. In addition, we will retain the data we have collected about you for documentation, analysis or other purposes as far as laws permit.<br><br>•Access<br>We will take relevant measures to keep your personal data correct. You may request copies, queries, views and corrections or supplements to the personal data you provided to Mary Kay. The ways for online query or modification of personal data are available at certain Mary Kay systems. Please find out where you registered to learn whether you can enquire or modify your data there. If you provide your personal data for your independent beauty consultant, please directly contact him/her to update your personal data. You may also request to cease the collection, processing, use and deletion of your personal data. However, we may reject your request in accordance with the law or in order to carry out our business.<br>You can choose whether to provide your personal data at your discretion. But if you fail to provide relevant personal data, we may not introduce you or contact independent beauty consultant to provide you with the products or services you need."
         },
-        "content-7":{
-          "name":"Cookie, Web Beacons and Other Technologies",
-          "text":"We use such technologies to provide you with richer and more individualized consuming experience. We do not store personal data in your computer, such as cookies, web beacons or other technologies, unless you are aware of that and consent to it. <br><br>•Cookie<br>A cookie is a small file folder installed on your computer by the website intended to store the information of your use of the website. We use cookies to monitor how our website is used and help you enjoy more personalized online experience. For example, at the time of website registration, we may install a cookie with special code on your computer so that we can identify you through our server next time you visit our website with the same computer. With the information you provided at the time of registration and your activities on our website, we will provide you with better website use experience.You can either accept or refuse cookies. Most of browsers will automatically accept cookies. Please click the following links to learn more about cookies and how to refuse the use of cookies on your computer:• Users of Microsoft’s Internet Explorer browser:  <a href=\"http://www.microsoft.com/info/tw/cookies.mspx\" target=\"_blank\">http://www.microsoft.com/info/tw/cookies.mspx</a><br>• <a href=\"http://www.microsoft.com/info/tw/cookies.mspx\" target=\"_blank\">http://www.microsoft.com/info/tw/cookies.mspx</a><br>• <a href=\"https://support.google.com/chrome/bin/answer.py?hl=b5&answer=95647\" target=\"_blank\">https://support.google.com/chrome/bin/answer.py?hl=b5&answer=95647</a><br><br>•Web Beacons A web beacon is a small piece of code embedded in a web page or email. We may transmit or communicate with cookies through web beacons in order to calculate our web page visitors and traffic and learn visitors’ usage patterns. We may also place web beacons in an email to determine whether the message has been opened, replied or forwarded.<br>You may refuse to use cookies as described above to remove the function of retrieving information from the web beacon.<br><br>•Other Technologies<br>The following are examples of other technologies that we may use to provide you with better service:<br>• Web Session Variables: Data that is transmitted from one Internet address (URL) to another Internet address as you browse.<br>• Browser plug-ins/add-ons: the network plug-ins to be installed to use some functions of our website. You can choose not to install them."
+        "content-7": {
+          "name": "Cookie, Web Beacons and Other Technologies",
+          "text": "We use such technologies to provide you with richer and more individualized consuming experience. We do not store personal data in your computer, such as cookies, web beacons or other technologies, unless you are aware of that and consent to it. <br><br>•Cookie<br>A cookie is a small file folder installed on your computer by the website intended to store the information of your use of the website. We use cookies to monitor how our website is used and help you enjoy more personalized online experience. For example, at the time of website registration, we may install a cookie with special code on your computer so that we can identify you through our server next time you visit our website with the same computer. With the information you provided at the time of registration and your activities on our website, we will provide you with better website use experience.You can either accept or refuse cookies. Most of browsers will automatically accept cookies. Please click the following links to learn more about cookies and how to refuse the use of cookies on your computer:• Users of Microsoft’s Internet Explorer browser:  <a href=\"http://www.microsoft.com/info/tw/cookies.mspx\" target=\"_blank\">http://www.microsoft.com/info/tw/cookies.mspx</a><br>• <a href=\"http://www.microsoft.com/info/tw/cookies.mspx\" target=\"_blank\">http://www.microsoft.com/info/tw/cookies.mspx</a><br>• <a href=\"https://support.google.com/chrome/bin/answer.py?hl=b5&answer=95647\" target=\"_blank\">https://support.google.com/chrome/bin/answer.py?hl=b5&answer=95647</a><br><br>•Web Beacons A web beacon is a small piece of code embedded in a web page or email. We may transmit or communicate with cookies through web beacons in order to calculate our web page visitors and traffic and learn visitors’ usage patterns. We may also place web beacons in an email to determine whether the message has been opened, replied or forwarded.<br>You may refuse to use cookies as described above to remove the function of retrieving information from the web beacon.<br><br>•Other Technologies<br>The following are examples of other technologies that we may use to provide you with better service:<br>• Web Session Variables: Data that is transmitted from one Internet address (URL) to another Internet address as you browse.<br>• Browser plug-ins/add-ons: the network plug-ins to be installed to use some functions of our website. You can choose not to install them."
         },
-        "content-8":{
-          "name":"Ads of Third-party",
-          "text":"We may authorize the third party, including our business partners to place ads on our website. Some companies may install cookies on your computer to facilitate their identification of your computer each time they send ads to you, which makes them learn about where you or your computer users are viewing the ads and sending them ads that they think you will be interested in. We do not control the use of cookies by these companies."
+        "content-8": {
+          "name": "Ads of Third-party",
+          "text": "We may authorize the third party, including our business partners to place ads on our website. Some companies may install cookies on your computer to facilitate their identification of your computer each time they send ads to you, which makes them learn about where you or your computer users are viewing the ads and sending them ads that they think you will be interested in. We do not control the use of cookies by these companies."
         },
-        "content-9":{
-          "name":"Information Sharing",
-          "text":"Our business success relies on your trust and we will not sell your personal data to salespersons other than those of Mary Kay without inquiring you and obtaining your consent. We share your personal data only within Mary Kay and among people listed below."
+        "content-9": {
+          "name": "Information Sharing",
+          "text": "Our business success relies on your trust and we will not sell your personal data to salespersons other than those of Mary Kay without inquiring you and obtaining your consent. We share your personal data only within Mary Kay and among people listed below."
         },
-        "content-10":{
-          "name":"Third Party Service Provider",
-          "text":"We rely on third-party service provides to provide diversified services on our behalf, which, therefore, requires us to share your personal data with them. Please note that we only offer the service providers the data necessary for service provision and ask them to protect such personal data and not to use them for other purposes."
+        "content-10": {
+          "name": "Third Party Service Provider",
+          "text": "We rely on third-party service provides to provide diversified services on our behalf, which, therefore, requires us to share your personal data with them. Please note that we only offer the service providers the data necessary for service provision and ask them to protect such personal data and not to use them for other purposes."
         },
-        "content-11":{
-          "name":"For example, we may rely on service providers to provide following services:",
-          "text":"• To meet your requirements for products and services, and respond to your questions <br>• To maintain our website and delivers our email and SMS messages<br>• Mail product samples, contact winners, manage payments or take other actions on our behalf<br>• In some cases, data analysis is conducted with other sources in order to send a message that better meets your needs<br>• Conduct research and analyze data to improve our products, services and website<br>We provide the foregoing companies with the data necessary for service provision on our behalf and ask them to protect such personal data without using them for other purposes."
+        "content-11": {
+          "name": "For example, we may rely on service providers to provide following services:",
+          "text": "• To meet your requirements for products and services, and respond to your questions <br>• To maintain our website and delivers our email and SMS messages<br>• Mail product samples, contact winners, manage payments or take other actions on our behalf<br>• In some cases, data analysis is conducted with other sources in order to send a message that better meets your needs<br>• Conduct research and analyze data to improve our products, services and website<br>We provide the foregoing companies with the data necessary for service provision on our behalf and ask them to protect such personal data without using them for other purposes."
         },
-        "content-12":{
-          "name":"Other Circumstances in Which We May Disclose Your Personal Data",
-          "text":"• To protect and defend Mary Kay’s rights and property as far as laws permit (including enforcing the terms of our contract).<br>• As required by laws or governmental authorities"
+        "content-12": {
+          "name": "Other Circumstances in Which We May Disclose Your Personal Data",
+          "text": "• To protect and defend Mary Kay’s rights and property as far as laws permit (including enforcing the terms of our contract).<br>• As required by laws or governmental authorities"
         },
-        "content-13":{
-          "name":"General Rather Than Personal Data",
-          "text":"For general commercial analysis purpose, we may share the general data, with which, your identify can not be identified. For example, we may disclose the visitors visiting Mary Kay’s website or the quantity of service."
+        "content-13": {
+          "name": "General Rather Than Personal Data",
+          "text": "For general commercial analysis purpose, we may share the general data, with which, your identify can not be identified. For example, we may disclose the visitors visiting Mary Kay’s website or the quantity of service."
         },
-        "content-14":{
-          "name":"Information Security",
-          "text":"We are committed to safeguarding the safety of personal data. We have proper technological programs, management programs and physical programs to prevent the loss, misuse or tempering of personal data.<br>We restrict access to personal data only for business purposes. We retain personal data for a reasonable period as required by law. When we provide your personal data to third party service providers, we require these companies to protect such personal data and not to use them for other purposes.<br>We will protect relevant data used when we are collect or transmit sensitive data, such as credit card number according to the industrial standard methods."
+        "content-14": {
+          "name": "Information Security",
+          "text": "We are committed to safeguarding the safety of personal data. We have proper technological programs, management programs and physical programs to prevent the loss, misuse or tempering of personal data.<br>We restrict access to personal data only for business purposes. We retain personal data for a reasonable period as required by law. When we provide your personal data to third party service providers, we require these companies to protect such personal data and not to use them for other purposes.<br>We will protect relevant data used when we are collect or transmit sensitive data, such as credit card number according to the industrial standard methods."
         },
-        "content-15":{
-          "name":"Data Transmission",
-          "text":"Your personal data may be transmitted to regions, including US and other countries and regions other than Hong Kong for storage, processing or use. In case of such situations, we will transmit the personal data in according with laws related to personal data protection.<br>We take appropriate measures to protect personal data. We have procedures and controls in place to ensure that your personal data are protected regardless of where it is stored or transmitted to.<br>We may transfer personal data to Mary Kay’s databases outside the area in which the data is provided. Our Global Privacy Initiative requires the same high standards of personal data security and protection in different parts of the world, and we have procedures and contracts in place to facilitate the achievement of this. Data may also be temporarily transmitted to our suppliers or business partners for the purpose of providing Mary Kay with related services such as sending specific emails, mailing materials or samples for Mary Kay. Such providers and business partners are required to protect and manage personal data according to the same high standards as Mary Kay, and required not to use them for any purpose other than the services required by Mary Kay."
+        "content-15": {
+          "name": "Data Transmission",
+          "text": "Your personal data may be transmitted to regions, including US and other countries and regions other than Hong Kong for storage, processing or use. In case of such situations, we will transmit the personal data in according with laws related to personal data protection.<br>We take appropriate measures to protect personal data. We have procedures and controls in place to ensure that your personal data are protected regardless of where it is stored or transmitted to.<br>We may transfer personal data to Mary Kay’s databases outside the area in which the data is provided. Our Global Privacy Initiative requires the same high standards of personal data security and protection in different parts of the world, and we have procedures and contracts in place to facilitate the achievement of this. Data may also be temporarily transmitted to our suppliers or business partners for the purpose of providing Mary Kay with related services such as sending specific emails, mailing materials or samples for Mary Kay. Such providers and business partners are required to protect and manage personal data according to the same high standards as Mary Kay, and required not to use them for any purpose other than the services required by Mary Kay."
         },
-        "content-16":{
-          "name":"Children’s Online Privacy Protection",
-          "text":"We think it's of great importance to provide more online protection for children. Parents and guardians are encouraged to spend time with their children in online activities to make themselves be more involved while also keeping an eye on their children’s online activities.<br>Mary Kay does not collect personal data on children under the age of 14 or the age limit set by law in certain countries. In order to avoid collecting personal data on children, we require age confirmation on the website before collecting personal data."
+        "content-16": {
+          "name": "Children’s Online Privacy Protection",
+          "text": "We think it's of great importance to provide more online protection for children. Parents and guardians are encouraged to spend time with their children in online activities to make themselves be more involved while also keeping an eye on their children’s online activities.<br>Mary Kay does not collect personal data on children under the age of 14 or the age limit set by law in certain countries. In order to avoid collecting personal data on children, we require age confirmation on the website before collecting personal data."
         },
-        "content-17":{
-          "name":"Amendments to the Privacy Policy",
-          "text":"When this Privacy Policy or the Global Privacy Statement is updated, we will announce the amendment and the date on which the Privacy Policy takes effect. In case of major amendment, we will notify you of the change by emailing you to your latest email address or by announcing the change on the website."
+        "content-17": {
+          "name": "Amendments to the Privacy Policy",
+          "text": "When this Privacy Policy or the Global Privacy Statement is updated, we will announce the amendment and the date on which the Privacy Policy takes effect. In case of major amendment, we will notify you of the change by emailing you to your latest email address or by announcing the change on the website."
         }
       }
     },
     "customer": {},
-    "technological_innovation": {}
-    
+    "technological_innovation": {
+      "title": "Scientific Research Innovation"
+    }
   },
   "header_links": {
     "maintenance": {
