@@ -500,37 +500,37 @@
         "pageName":"/ About Mary Kay"
       },
       "Banner":{
-        "h2":"人生的長度無法改變，但是我們可以無限 拓展生命的寬度",
-        "content":"女人似水，能千變萬化，卻又是獨一無二的，我們期待作為女性追求自我突破，打破規則；同時對這個世界散播關愛，卸下武裝，以柔軟的態度做自己最美麗的妝容，你想成為什麼樣子，想塑形成什麼樣貌，絕對是自己可以做的選擇。"
+        "h2":"“We can’t change the length of life, but we can infinitely expand the breadth of our life”",
+        "content":"Women are like water, ever-changing but unparalleled. We are expected to break through and break the routines as a woman; at the same time, we expect women to spread love to the world, to be unarmed, and to do their best makeup with a soft attitude. It is absolutely up to you to choose what you want to be and what you want to look like."
       },
       "spec":{
-        "h4":"Mary Kay是全球最大的護膚品和彩妝品直銷企業之一",
-        "p":"Mary Kay Ash女士於1963年創辦，總公司設於美國，業務遍佈全球近40個市場，在全球擁有超過400萬位專業的獨立美容顧問。Mary Kay香港於1999年成立，是香港直銷協會的11間成員公司之一，為顧客提供免費的護膚美容方案、個人彩妝指導，不同場合的妝容造型設計建議，以及免費產品試用及送遞服務。 在Mary Kay我們不僅可以為你提供完善的護膚方案，帶給你形象上的美麗改變。我們認為，女性唯有在八個方面都均衡發展、得到滿足的時候，才算是真正的成功，也才會真正發自內心的感到快樂，那就是美麗自信、家庭和諧、人際關係、學習成長、財務獨立、健康休閒、成就榮耀以及心靈和諧。"
+        "h4":"Mary Kay is one of the world’s largest direct sellers of skin care and make-up products.",
+        "p":"Founded by Ms. Mary Kay Ash in 1963, the Company is headquartered in the United States. It operates in nearly 40 markets worldwide and has more than 4 million independent professional beauty consultants on a global scale. Established in 1991, Mary Kay Hong Kong is one of the 11 member companies of the Hong Kong Direct Selling Association to provide customers with free skin care and beauty solutions, personalized makeup guidance, suggestions for make-up design under different occasions, free product trial and delivery service, At Mary Kay, we not only can provide you with perfect skin care solutions, but also make beautiful changes to your image. We believe that only when women are balanced and satisfied in all eight aspects, including, beauty & confidence, harmonious family, interpersonal relationship, learning & growth, financial independence, healthy & leisure, achievements & glory and spiritual harmony can they be truly successful and truly happy deep down."
       },
       "about_marykay_content":{
-        "h4":"「LOVE-作為Mary Kay的核心文化」",
-        "p":"由Mary Kay引領你發覺心中所愛，更了解自己！隨愛而行！從而成就更豐富美好的人生。"
+        "h4":"Love, the core culture of Mary Kay",
+        "p":"Mary Kay guides you to discover what you love and know more about yourself, thereby creating a richer and better life."
       },
       "bottom_content":{
         "h1":"Opportunity is what we create Beauty is what we sell Hope is what we give back",
-        "content":"懂選擇的女人更幸福：做一個外在明亮，內在自由的女子<br>Enjoy a personalized beauty experience<br>享受專屬於你的健康美容方案"
+        "content":"Women who know how to choose are happier: to be a woman with bright outside and free inside<br>Enjoy a personalized beauty experience<br>Enjoy a personalized health & beauty solution"
       },
       "card":{
         "box1":{
-          "title":"護膚方案",
-          "content":"  根據不同護質及個人健康需求，為每個人精心製定個性化的全方位健康美容方案，與你並肩，守護內外年輕美。"
+          "title":"Skin Care Solutions",
+          "content":"The individualized and all-rounded health & beauty solutions are carefully crafted for each customer according to different skin types and personal health needs. We’re by your side to guard your youth and beauty from within."
         },
         "box2":{
-          "title":"彩妝指導",
-          "content":"針對不同場合的需要，為你提供專業的個人彩妝指導，變幻不同的妝容，並親臨演繹，為你每一刻的美麗再添光彩。"
+          "title":"Personalized Makeup Guidance",
+          "content":"In view of the needs on different occasions, we provide you with professional personalized makeup guidance and change different makeup looks with model shows so as to add brilliance to your beauty at every moment."
         },
         "box3":{
-          "title":"造型建議",
-          "content":"應對重要場合，為你帶來時尚得體的造型建議，悉心打造最適合你的妝容造型，讓你在舉手投足間展現自信與美麗。"
+          "title":"Suggestions for Styling",
+          "content":"We provide you with the latest and personalized styling suggestions for you to strike a pose on the important stage and carefully create the makeup and styling suits you best so that you can show your confidence and beauty with your every posture."
         },
         "box4":{
-          "title":"美麗到家",
-          "content":"在你需要的時候來到你的身邊，不僅有產品專送，更有貼心服務。 近一步拉近你我距離，盡情分享使用感受和交流美麗心得。"
+          "title":"Delivery Service",
+          "content":"We are here for you when you need us. We not only provide you with product delivery service but also intimate services. Get a step closer to you and feel free to share your experience of use and exchange your beauty secrets."
         }
       }
     },
