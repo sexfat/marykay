@@ -996,8 +996,8 @@
       "normal_image": null,
       "small_images": {
         "img_01": "p/e/pe31.jpg",
-        "img_02": "p/e/pe32.jpg",
-        "img_03": "p/e/pe33.jpg"
+        "img_02": "p/e/pe33.jpg",
+        "img_03": "p/e/pe32.jpg"
       },
       "description_image": null
     },
@@ -2604,7 +2604,7 @@
       "function": null,
       "principal_components": "•Plumeria Alba Flower Extract has anti-oxidant properties that can effectively protect the skin from damage caused by the free radicals.<br><br>• Rich in minerals, it can effectively cleanse the skin, purify pores and remove the dirt without causing irritation and allergies, leaving the skin with a natural fresh glow.<br>• The light fragrance from the dewy on the peony and camellia helps reduce the stress and relax the mood.",
       "price": "HK$228",
-      "video_source": "Skinvigorate Sonic 聲波活膚潔面儀.mp4",
+      "video_source": null,
       "normal_image": null,
       "small_images": null,
       "description_image": null
