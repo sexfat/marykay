@@ -1,4 +1,7 @@
 .tech {
+   @include m() {
+        overflow-x: hidden;
+    }
     .breadcrumbs {
         margin-bottom: 20px;
     }
@@ -8,27 +11,55 @@
         width: 100%;
         overflow: hidden;
         position: relative;
+        @include t() {
+            height: auto;
+        }
+
+        @include m() {
+            width: 180%;
+            height: initial;
+        }
 
         img {
             object-fit: cover;
             height: 560px;
+             @include t() {
+                height: auto;
+                width: 100%;
+            }
         }
     }
 
     .tech_inner {
         position: relative;
         height: 0;
+          @include t() {
+            height: auto;
+        }
 
         .text_head {
             position: absolute;
             left: 50%;
             top: -460px;
+             @include t() {
+                position: relative;
+                left: initial;
+                top: 28px;
+            }
 
         }
 
         .text_body {
             margin-top: 50px;
-            width: 690px;
+            max-width: 650px;
+            width: 100%;
+            @include m(){
+                width: 100%;
+                max-width: 340px;
+                padding-left: 10px;
+                margin: 50px auto 0;
+                
+            }
 
             ul li {
                 list-style: disc;
@@ -55,17 +86,23 @@
     }
 
     .tech_content {
-        padding: 100px 0 0;
+        margin: 100px auto 0;
         text-align: center;
+    
 
         .best {
-            width: 480px;
-            margin: 0 auto;
+    
+            margin: 0 auto 60px;
+
 
             .desc {
                 text-align: left;
                 width: 300px;
                 margin: 0 auto;
+               &.m35 {
+                 margin-top: 37px;
+                 text-align: center;
+               }
             }
 
         }

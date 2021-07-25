@@ -1,0 +1,109 @@
+.bigeye {
+    @include m() {
+        overflow-x: hidden;
+    }
+
+    .breadcrumbs {
+        margin-bottom: 20px;
+    }
+
+    .banner {
+        width: 100%;
+        overflow: hidden;
+        position: relative;
+
+        video {
+            width: 100%;
+        }
+
+        @include t() {
+            height: auto;
+        }
+
+        @include m() {
+            width: 100%;
+            height: initial;
+        }
+
+        img {
+            object-fit: cover;
+            height: 560px;
+
+            @include t() {
+                height: auto;
+                width: 100%;
+            }
+        }
+    }
+
+    .spec {
+        margin-top: -10px;
+        height: auto;
+
+        img {
+            object-fit: cover;
+        }
+        .m {
+         display: none;
+        }
+        @include m(){
+           .d{
+           display: none;          
+           }
+           .m{
+             display: block;
+           }
+        }
+    }
+
+    .bottom_content {
+       padding-bottom: 100px;
+        h4 {
+            text-align: center;
+            margin: 60px 0px;
+        }
+
+        .inner {
+            display: flex;
+            justify-content: space-around;
+            margin-bottom: 50px;
+
+            .left {
+                img {
+                    width: 120px;
+
+                    @include m() {
+                        width: 80px;
+                    }
+                }
+            }
+
+            .right {
+                position: relative;
+                width: 70%;
+                font-size: .9rem;
+                transform: translateY(27%);
+
+                &::after {
+                    content: '';
+                    width: 2px;
+                    height: 60px;
+                    display: block;
+                    background-color: rgb(227, 227, 227);
+                    position: absolute;
+                    right: -30px;
+                    top: -10px;
+                    ;
+                }
+            }
+
+            .none {
+                &::after {
+                    display: none;
+                }
+            }
+        }
+    }
+
+
+}

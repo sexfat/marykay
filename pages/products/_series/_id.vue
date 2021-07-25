@@ -1,4 +1,5 @@
 <template>
+  <!--eslint-disable vue/no-v-html-->
   <div class="product_item">
     <div class="product_inner white">
       <ul class="row">
@@ -7,7 +8,7 @@
           >/
           <nuxt-link :to="localePath(`/products/${series}`)">
             {{ $t(`pages.series_page.series.${series}.name`) }}</nuxt-link
-          >/ {{ $t(`products.${id}.name`) }}
+          >/ <nuxt-link to="">{{ $t(`products.${id}.name`) }}</nuxt-link>
         </div>
         <!-- 左邊欄  -->
         <li class="col-lg-7 col-md-12">
@@ -36,10 +37,9 @@
           <div class="product_desc">
             <h2>{{ $t(`${path}.name`) }}</h2>
             <div class="total">
-              <span class="weight"> {{ $t(`${path}.capacity`) }}</span> /
+              <span class="weight" v-html="$t(`${path}.capacity`)"></span> /
               <span class="prices">{{ $t(`${path}.price`) }}</span>
             </div>
-            <!--eslint-disable vue/no-v-html-->
             <div class="desc" v-html="$t(`${path}.description`)"></div>
             <!-- <div class="btn_buy">如何購買</div> -->
             <div class="detail">
