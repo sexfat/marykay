@@ -1,0 +1,104 @@
+<template>
+  <div class="privacy">
+    <div class="container-xxl">
+      <div class="row">
+        <div class="breadcrumbs margin-top_20"><a href="">首頁</a> / 玫琳凱香港網站使用條款</div>
+      </div>
+    </div>
+    <div class="container white">
+      <h3 class="h3">玫琳凱香港網站使用條款</h3>
+
+      <div class="privacy_inner">
+        <div class="text_inner margin-bottom_50">
+          在使用本網站前請仔細閱讀本使用條款。<br />
+          閣下若使用本網站，即表示閣下同意無條件地受本使用條款約束。<br />
+          若閣下不接受本使用條款，請勿使用本網站。
+        </div>
+        <div v-for="(item, index) in 10" :key="index">
+          <a href="#content-1" class="accordion-toggle"
+            >資料使用限制 <span class="arrow_down"><img src="~assets/images/down-arrow.svg" alt="" /></span
+          ></a>
+          <div id="content-1" class="accordion-content">
+            本網站（下稱「網站」）和玫琳凱（香港）有限公司（下稱「玫琳凱」）擁有、運作、許可或控制的其他任何網站之內容、結構和網頁設計（合稱「材料」）均受版權保護。所有材料的版權均為玫琳凱擁有。除本使用條款所述者外，不得以任何方式拷貝、複製、轉載、上載、登載、傳送或分發任何材料。擅自使用任何材料可能違反版權法、商標法和其他法律，且玫琳凱保留其行使法律賦予之或本使用條款項下規定之任何權利或補救方法的一切權利。
+          </div>
+        </div>
+        <!-- <a href="#content-2" class="accordion-toggle"
+          >玫琳凱互聯網指引<span class="arrow_down"><img src="~assets/images/down-arrow.svg" alt="" /></span
+        ></a>
+        <div id="content-2" class="accordion-content">
+          若閣下乃玫琳凱的獨立美容顧問，閣下同意除遵守本使用條款外，亦遵守及遵循玫琳凱互聯網指引。
+        </div>
+        <a href="#content-3" class="accordion-toggle"
+          >適用法律<span class="arrow_down"><img src="~assets/images/down-arrow.svg" alt="" /></span
+        ></a>
+        <div id="content-3" class="accordion-content">
+          本網站由玫琳凱通過其香港辦事處控制及運作。玫琳凱未作出任何明確或默示的聲明，表示本網站上的資料適合使用或可供使用，<br />
+          或者對本網站的訪問將是連續的、不會中斷的或安全的。選擇訪問本網站的人士均是主動的，須負責遵守適用的當地法律。<br />
+          有關本網站或本網站之使用的任何索償受中華人民共和國香港特別行政區（下稱「香港」）法例管轄，且法律衝突原則無效。<br />
+        </div>
+        <a href="#content-4" class="accordion-toggle"
+          >不保證及免責聲明
+
+          <span class="arrow_down"><img src="~assets/images/down-arrow.svg" alt="" /></span
+        ></a>
+        <div id="content-4" class="accordion-content">
+          本網站上的資料是「按原狀」提供的。雖然玫琳凱會適當審慎地管理資料及運作網站，但不保證任何資料的準確性、<br />
+          有效性、及時性或完整性，且不保證該等資料適合任何特定用途。玫琳凱在法律許可的最大範圍內不承擔任何<br />
+          人因使用本網站而遭受之任何直接或間接的損失或損害。
+        </div>
+        <a href="#content-5" class="accordion-toggle"
+          >商標 <span class="arrow_down"><img src="~assets/images/down-arrow.svg" alt="" /></span
+        ></a>
+        <div id="content-5" class="accordion-content">
+          除另行注明者外，本網站上使用或顯示的任何商標、服務標誌和公司標識（下稱「商標」）均為玫琳凱的<br />
+          獨有財產或由玫琳凱根據許可或適用法律使用。本網站上無任何內容應解釋為以默示方式、不容否認的<br />
+          方式或其他方式授予使用任何商標的任何許可或權利。
+        </div>
+        <a href="#content-6" class="accordion-toggle">
+          連接
+          <span class="arrow_down"><img src="~assets/images/down-arrow.svg" alt="" /></span
+        ></a>
+        <div id="content-6" class="accordion-content">
+          本網站可提供與第三方網站的連接。提供連接的目的是為了閣下使用方便。若閣下使用這些連接，將會離開本網站。<br />
+          玫琳凱未審查一切第三方網站，未控制任何該等網站或其內容，也不對任何該等網站或其內容負責。<br />
+          玫琳凱未就該等網站、其上的任何資料或材料或者使用該等網站取得的任何結果作出任何認可或聲明。<br />
+          若閣下訪問與本網站連接的任何第三方網站，風險由閣下自負。<br />
+          請通過傳真（號碼(852)2519-8686）提交閣下連接本網站的要求。<br />
+          如果閣下希望與本網站連接，則下列指引適用：<br />
+          連接到本網站的網站<br /><br />
+
+          • 不得直接或間接暗示玫琳凱認可其產品；<br />
+          • 不得使用任何商標（例如玫琳凱公司標識）；<br />
+          • 不得包含可被解釋為攻擊性的、引起爭論的或令人厭惡的內容或材料，且應只包含適合所有年齡段的內容；<br />
+          • 不得以任何方式貶低玫琳凱或其產品，也不得以其他方式負面地影響或損害玫琳凱的信譽及商譽；<br />
+          • 不得就玫琳凱或玫琳凱事業機會刊載錯誤或具誤導性的資料；<br />
+          • 不得就與玫琳凱的任何關係作出失實陳述；<br />
+          • 不得以任何方式複制本網站上的任何內容；<br />
+          • 不得在本網站材料周圍設立瀏覽器或邊界環境。<br />
+        </div>
+        <a href="#content-7" class="accordion-toggle"
+          >使用者傳送 <span class="arrow_down"><img src="~assets/images/down-arrow.svg" alt="" /></span
+        ></a>
+        <div id="content-7" class="accordion-content">
+          除玫琳凱根據本網站上的私隱權聲明收集及管理的個人資料外，閣下以任何方式傳送至本網站或者<br />
+          在本網站上登載的任何材料、資料、意念或其他通訊（下稱「通訊」）將被視為非保密性的、<br />
+          非專有的，且可由玫琳凱及/或其指定者為任何目的散播或使用，包括但不限於開發及製造產品。<br />
+          玫琳凱就該等通訊無任何義務。玫琳凱及由其指定者將為任何及一切商業及非商業目的自由地複製、披露、分發、納入及<br />
+          以其他方式使用該等通訊以及其中包含的所有數據、圖像、音響、文字和其他內容。<br />
+          閣下不得將任何非法的、威脅性的、誹謗性的、破壞名譽的、誨淫的、惡意中傷性的、煽動性的、色情的或褻瀆的材料，<br />
+          或者可能違反法律造成民事或刑事責任的其他任何材料，在本網站上登載或傳入傳出。
+        </div>
+        <a href="#content-8" class="accordion-toggle"
+          >本使用條款的修訂和修改<span class="arrow_down"><img src="~assets/images/down-arrow.svg" alt="" /></span
+        ></a>
+        <div id="content-8" class="accordion-content">
+          玫琳凱可隨時修訂本使用條款。閣下若使用本網站，即表示閣下同意受任何該等修訂的約束。<br />
+          因此，閣下應定期查看本網頁，確定當時約束閣下的使用條款。<br />
+          若干使用條款可由刊載於本網站特定網頁上的明確指定之合法通知或條款修改或取代。<br />
+          • 玫琳凱（香港）有限公司版權所有。<br />
+          未經玫琳凱（香港）有限公司書面許可不得複製任何部分。
+        </div> -->
+      </div>
+    </div>
+  </div>
+</template>
