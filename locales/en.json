@@ -402,7 +402,7 @@
       "series": {
         "Nutrition": {
           "name": "食物補充品",
-          "products": ["pd105", "pd106", "pd107", "pd108"]
+          "products": ["pd105", "pd106", "pd107", "pd108","pd109"]
         }
       }
     },
@@ -2477,7 +2477,7 @@
       "description_image": null
     },
     "pd105": {
-      "產品中文名稱": ">怡日健®粉妍片",
+      "產品中文名稱": "怡日健®粉妍片",
       "name": "DailyBenefits® Antioxidant",
       "series": "tn01",
       "header_links": "tonic",
