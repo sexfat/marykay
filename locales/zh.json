@@ -493,7 +493,56 @@
         }
       }
     },
-    "global_privacy": {},
+    "global_privacy": {
+      "page_name":"玫琳凱全球私隱權聲明",
+      "text_inner":"在玫琳凱，我們了解個人私隱的重要性。根據公司最重要的創立原則──黃金法則來保護、收集及使用提供給我們的個人資料是我們最重要的目標。<br>我們只採用您允許的方式來使用和維護資料。因此，我們絕不交易、出售或出租我們持有的個人資料。此全球私隱權聲明對我們如何維持此等信任作了詳細描述。<br>我們致力於實現私隱保護的全球化及一致性。我們的私隱保護政策政策旨在符合每一個業務所在國的法律規定並適用於：<br><br>1. 每一位向我們提供個人資料的人，如獨立美容顧問，消費者，客戶，研究人物，業務夥伴，股東，求職者，員工，退休人員等；<br>2. 我公司的每一個業務所在國，即使當地還未制定相關規定；<br>3. 所有的聯絡方式，諸如網路，直接郵件，電話和手機，以及其他新興的可能會被測試的技術及方法。<br>玫琳凱通過全球私隱團隊 (Mary Kay Global Privacy Team)<br>來管理個人私隱，該團隊代表所有我們開展業務的地理區域以及涉及收集個人資料的業務流程──例如獨立美容顧問、消費者促銷和員工計劃。<br>玫琳凱旨在促進和利用行業最佳實務以確保個人私隱及資料受到妥善保護。<br><br>我們的私隱政策與以下政策法規相一致：<br><br>• 透過美國商務部安全港 (Safe Harbour) 計劃實施的歐盟資料暨私隱保護綱領<br>• 經濟合作暨發展組織所建立的公平資訊原則<br>• 亞太經濟合作會議私隱保護綱領<br>• 相應國家及地區所適用的資料保護法律<br>• 某些國家法律規定在私隱權聲明中指出該國特定要求。請點<a target=\"_blank\"href=\"https://www.marykay.com/en-US/Pages/CountrySelector.aspx\">此處</a>以閱讀相關國家的私隱權政策。<br><br>我們相信，私隱保護不僅僅是遵照各國關於私隱的立法。還包括對因使用個人資料而觸及其生活的數以百萬計的人做正確的事。<br>我們的私隱權政策遵照國際公認的私隱權原則，或公平的資料使用原則，如由歐盟資料保護綱領及由美國商務部提出的美國-歐盟安全港計劃私隱保護原則。<br>玫琳凱參與並始終遵守安全港 (Safe Harbour)<br>私隱保護原則中的通知、選擇、轉送、安全性、資料完整性、訪問和執行原則。<br>如需了解更多關於安全港私隱保護計劃，或需查看玫琳凱的證書，請至 <a target=\"_blank\" href=\"http://www.export.gov/safeharbor/\">http://www.export.gov/safeharbor/</a><br><br>下述是這些原則的內容以及玫琳凱是如何應用它們的：<br><br>",
+      "contents":{
+        "content-1":{
+          "name":"為何要收集資料",
+          "text":"玫琳凱收集並使用個人資料為獨立美容顧問及其客戶、我們產品及服務的使用者、員工、和其他與玫琳凱聯繫的人員提供充分的商業機會<br>、豐富優質的產品和高品質的服務。我們收集的個人資料僅限於達成公司為提供更優秀的服務品質、產品價值及機會的目的。<br>例如，我們依獨立美容顧問、客戶、員工及求職者的請求而發送電子郵件所提供相關資料。獨立美容顧問、客戶和員工的回饋<br>將被用來對產品和服務進行改善。"
+        },
+        "content-2":{
+          "name":"通知",
+          "text":"我們告知個人我們收集哪些資料，如何使用這些資料，是否會暫時性地將資料傳輸給特定產品或服務的提供者以<br>及如何聯繫玫琳凱私隱權團隊提出請求。在我們的網站上提供了私隱權政策的連結，我們也將在適當的時候在網站上<br>提供使用者可能需要的不同領域關於私隱權的訊息。<br>"
+        },
+        "content-3":{
+          "name":"選擇",
+          "text":"那些向我們提供資料的個人可以選擇是否希望繼續收到我們的相關資料。<br>唯有您或您的美容顧問要求我們發送時，我們才會發送給您我們的電子郵件或服務資訊。<br>我們將告知您如何取消或拒絕繼續接受我們的資訊。<br>我們將會詢問個人是否希望參與我們的市場調查，並僅在得到許可時與之聯繫。<br>"
+        },
+        "content-4":{
+          "name":"技術方法",
+          "text":"玫琳凱使用技術方法為獨立美容顧問、客戶、員工和其他人員提供更好的服務。<br>我們將告知個人我們所使用的與私隱權相關的技術。依據您所在國的法律，<br>除非得到您的許可或已向您發送通知，我們將不會使用網路 cookies 收集、存儲個人資料。<br>"
+        },
+        "content-5":{
+          "name":"存取",
+          "text":"玫琳凱將採取相關措施以保持您個人資料的正確性。我們將為向我們提交資料的個人提供合適的方式查詢或更改資料，或者要求我們停止使用其個人資料"
+        },
+        "content-6":{
+          "name":"安全",
+          "text":"玫琳凱在公司監控中使用行業安全標準作業流程和措施來保護個人資料，以防止其滅失<br>、誤用、非經授權獲取、洩露或篡改。我們限制僅業務所需者方可接觸個人資料。<br>我們保留個人資料的期間將不會長於滿足商業目的需要，除非相關合約、法律法規要求<br>我們在特定期限內不得刪除該個人資料。"
+        },
+        "content-7":{
+          "name":"資料傳輸",
+          "text":"我們可能將個人資料傳輸至資料提供地區以外的玫琳凱資料庫。我們的“全球私隱權計劃”在各地<br>要求同樣高規格的個人資料安全及保護，並以有相關程式及合約協助我們達到此目的。<br>為了提供玫琳凱和/或獨立美容顧問的相關服務，資料也可能暫時傳輸給我們的供應商或商業夥伴。<br>這些供應商及商業夥伴皆被要求依據與玫琳凱同樣高規格的標準，來進行個人資料的保護及管理，<br>且不可使用於您、玫琳凱或您的獨立美容顧問所要求服務以外的其他用途。"
+        },
+        "content-8":{
+          "name":"兒童私隱權保護",
+          "text":"玫琳凱不會收集未滿14歲或特定國家法律所定年齡限制的兒童的個人資料。<br>我們在收集個人資料前，會先在網站上要求確認年齡，以避免收集到兒童的個人資料。"
+        },
+        "content-9":{
+          "name":"責任",
+          "text":"玫琳凱期望我們的員工與業務夥伴維護提供個人資料者對我們的信任。我們對員工進行了保護私隱權的培訓，<br>並且在全球範圍內的商務活動中強調私隱權的重要性。個人資料的管理者將通過填寫私隱權保護自我評估來<br>保證這些個人資料被嚴密保護。我們將定期對其遵守情況進行審查。玫琳凱私隱權政策和資料保護措施將通過合約擴展適用於我們的供應商及業務夥伴。<br>我們支持行業自律規定作為一項適應性補充措施以應對新的私隱權問題。<br><br>了解更多資訊或查閱玫琳凱消費者私隱權政策，請點擊<a href=\"https://www.marykay.com.hk/main/consumer.aspx\">此處</a>。<br>若您是玫琳凱獨立美容顧問，希望獲取更多與您相關的私隱權資訊，請點擊<a target=\"_blank\"href=\"https://mk.marykayintouch.com.hk/s/login/?ec=302&inst=1&startURL=%2Fsetup%2Fsecur%2FRemoteAccessAuthorizationPage.apexp%3Fsource%3DCAAAAXrdH_a9MDAwMDAwMDAwMDAwMDAwAAAA6KNeK3gxVCJ6cFaatjjri1LM3A5UgHzwMo-F_N-uFehrcX6tAYpM9lcCarDAJ18k0n-4GDK4-6iZLOxu8-Mbxnv2ShNxVoplrvi0qEQh_mN45SaqlV7-cXYv1HphU0J3zkjawq8u25xrTA4dPbgO0oj98wYZcjUyeloanXJci-zBQli3WXN55wEBIgzW6efzv4xqZkMzwTww9JHNWOwFY2N7RbyZQA1KKFfXfrQPCsP1daQIweGqMy5wLa7kX3O_CztxXTxeTvTNn0g6TgfyjL3BbqZ9BoyKUbK3Z-17w3kMLQ2N7LMm5prUikXgzU39zOx0lMhyy9bSJwffWclVAWVWelCBpaO4wBh22FBWuHQB-Dnd7i-1SQAXX0r5gdMOYU4le734rjsxQhkyppS7FKsVyat6F81ODwp0s4-xuhV_h4OFus1R-OU52F-Y7zFrSjyUak7NiawBtU6Id4JjhsoKjwnLVlEzfTOToOJlSy_qdtIfco3r6bRo7q-m9lxUDv3JjjlMkDMno0Uhz4tkevL-EFkYz4m2orqKemloaSlM_bKVUO1XtkOXEVmjqXvwDXgYqjmVEyXab07nXdace9V9-YVXd8kxeVNWrlUfxIjTqiisdH7RIfTVKkcgx3gJ8SmVRZVtVGtox3ePuk5uzQg6LETak__fcAzlwJwT_2kdsiy2S-di9XmB0qONgc57jShQgPEmXWfC3NzLmvn-hZUms84dcZSXBVi-Bx80n_TYghamvFsszqfyDkfFxkbsjPJrkyQvlxs9XvrBZry3UCl8uDkKjtJCAZtvFxXOW0XivsgA_YJWMuWr8PUdd8CGP_vbTmbNhDchtlYebw_TAw3F3VbAhSxKKQTkNej-56KCSKFjOSi6f9uAe0P4zXb5gxJaMPl1hJhZT_v_-jEH1Y8BYkyukWJ8vTNlKhDW3IbtZROsmF24wK1UFaFtyFLp1FlcKSjqXCvWCUhUaiBgnQNTzGbghNf3yFbjntZnPdDkGqQ-zyIoCqaOM4vGprasAjrqI8UAtDS7r1hb5gdOgKb7lhe8xfFG-2STinxXZRyKaOiVle1fOzcfoUOkYumAbmD_7EaLfr_Qci-hFUbQpn9DzdC0wQqC7uIdESrAbbjX6IJMElSQ6sK2G_rlVXU79tj-ZxABNHuBAqy25lnTIUYF4bn4bMffAIxNLVVS3PY0_mR7N4JfOum45CzIA1-ZklwhCHmo1Gm-y0v-7m4C65WzOlDlFZ-jMwXHnIVQJfsCe1rp9kY_dSOGrbMN6jrV6VuQuOOOq2a0jzUSByXQzGH1UaVGjUFxOSyNLR2mtfH0iy5y5rBlmNdEMY10DLfVeA902YY4o6JtHWaLR1b6m6-GwtgkFB1Dw__ymgDZHTokJ8CzoEYiIlt4HoLJ36UYOJWhz9qeLnBRNOuG-ybgyCB_T9fTCRlkFhqfrdv3EVGdUBfpXzv7ckU7rRP8yEtz_6_7rhi0e1xmdC6Xr9f4n8SkAjEv2bYK_AwH7_PwD3lb7OAYEK8Ydw0MqRhIoaLYX-VG2sLorU-xKRcY4FDl6cIV0-UXJ8fakwBTc3xgbM2D503QbOwIlA1qIx1vVEVgMg%253D%253D\">此處</a>。"
+        },
+        "content-10":{
+          "name":"與我們聯繫",
+          "text":"倘若就您的私隱有任何問題與疑慮，請直接與我們聯繫。請點擊<a target=\"_blank\"href=\"https://www.marykay.com/en-US/Pages/CountrySelector.aspx\">此處</a>選擇您所在的國家以及相應位址和電子郵件信箱，或使用下方的郵政位址。<br>您可以放心使用您的本國語言表述問題或評論。<br>此外，您還可以通過以下方式與我們聯繫<br>玫琳凱全球私隱團隊 (Mary Kay Global Privacy Team)<br>16251 Dallas Parkway<br>Addison, TX 75001 U.S.A.<br>privacy.global@mkcorp.com<br>1-800-453-1140<br>我們將致力於與您合作，以使私隱權相關申訴或疑慮得以公正解決。<br>若當地國家的個人資料保護主管機關認為有私隱權相關問題時，我們也會與該機關配合。<br>我們已經參加美國商務促進局委員會 (the U.S. Council of Better Business Bureau's) 的認證企業計劃 <br>(Accredited Business Program) 關於本計劃及其爭議解決程式的進一步資訊，請參見<a target=\"_blank\"href=\"http://www.bbb.org/\">http://www.bbb.org/</a>。"
+        },
+        "content-11":{
+          "name":"歐盟公民的私隱權申訴",
+          "text":"為遵守安全港原則，玫琳凱承諾將解決關於您私隱權及我們對個人資料收集和使用行為的申訴。<br>就本私隱權政策有疑問或欲申訴的歐盟公民，應先與上述玫琳凱全球私隱團隊聯繫。<br>玫琳凱同時也承諾將安全港原則下未解決的私隱權申訴，轉交至一個獨立爭議解決機制，<br>即由美國商務促進局委員會負責運作的 BBB 歐盟安全港 (BBB EU Safe<br>Harbor)。若您沒有及時收到關於您申訴的確認通知，或您對於玫琳凱解決申訴的方式不滿意，<br>您可以訪問 BBB 歐盟安全港的網站<a target=\"_blank\"              href=\"http://www.bbb.org/us/safe-harbor-complaints\">http://www.bbb.org/us/safe-harbor-complaints</a>，以獲取更多資訊並提出申訴。"
+        }
+      }
+    },
     "about_mary": {
       "Breadcrumb":{
         "home":"首頁",
