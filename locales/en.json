@@ -496,7 +496,44 @@
     "privacy": {},
     "about_mary": {},
     "social": {},
-    "webhk_privacy": {},
+    "webhk_privacy": {
+      "page_name":"Terms of Use of Mary Kay HK’s Website",
+      "text_inner":"Please read over the Terms of Use before using the Website.The use of the Website indicates that you have agreed to be unconditionally bound by the Terms of Use. If you do not accept the Terms of Use, please do not use the Website.",
+      "contents":{
+        "content-1":{
+          "name":"Restrictions on Data Use",
+          "text":"The content, structure and page design of the Website (hereinafter referred to as the “Site”) and any other website owned, operated, licensed or controlled by Mary Kay (Hong Kong) Ltd. (hereinafter referred to as “Mary Kay”) are copyrighted. The copyright of all materials are owned by Mary Kay. No material may be copied, reproduced, reprinted, uploaded, posted, transmitted or distributed in any manner other than as specified in these Terms of Use. Unauthorized use of any material may violate Copyright Law, Trademark Law and other laws, and Mary Kay reserves all right to exercise any rights or remedies conferred by law or provided hereunder."
+        },
+        "content-2":{
+          "name":"Mary Kay Internet Guidelines",
+          "text":"If you are an independent beauty consultant of Mary Kay, in addition to the Terms of Use, you also agree to observe and follow the Mary Kay Internet Guidelines."
+        },
+        "content-3":{
+          "name":"Applicable Laws",
+          "text":"The Site is controlled and operated by Mary Kay through its Hong Kong office. Mary Kay makes no representation, whether express or implied, that the materials on the Site are suitable or available for use, or that access to the Site will be continuous, uninterrupted, or safe. Visitors to the Site are proactive and are responsible for abiding by applicable local laws. Any claim against the Site or the use of the Site shall be subject to the laws of the Hong Kong Special Administrative Region of the People’s Republic of China (hereinafter referred to as “Hong Kong”) and the principle of conflict of law is null and void."
+        },
+        "content-4":{
+          "name":"No Warranty and Disclaimer",
+          "text":"The information on the Site is provided “as is”. Mary Kay does not guarantee the accuracy, validity, timeliness, or integrity of any of the information, or its suitability for any particular purpose despite that Mary Kay uses due care in managing the information and operating the Site. Mary Kay shall not bear any direct or indirect loss or damage suffered by anyone arising from the use of the Site as far as laws permit."
+        },
+        "content-5":{
+          "name":"Trademark",
+          "text":"Unless otherwise specified, any trademarks, service marks and company logos (hereinafter referred to as “trademarks”) used or shown on the Site are the exclusive property of Mary Kay or used by Mary Kay under licensed or applicable law. No content on the Site should be construed to grant any license or right to use any trademark by implication, non-repudiation or otherwise."
+        },
+        "content-6":{
+          "name":"Link",
+          "text":"The Site may provide you with the link to third-party website for your convenience. You will leave the Site if you use such link. Mary Kay does not review, control, or be responsible for any third-party websites or their contents. Mary Kay makes no endorsement or representation with respect to these websites, any information or materials on them, or any results arising from the use of these websites. You do so at your own risk if you visit any third-party website connected to the Site. Please fax ((852) 2519-8686) us your request to connect to the Site. If you wish to connect to the Site, the following guidelines apply:<br />The websites connected to the Site<br /><br />• No direct or indirect implication of Mary Kay’s endorsement for its products;<br />• No use of any trademarks (such as Mary Kay’s company logo);<br />• No content or material that can be interpreted as offensive, controversial or disgusting should be included and only the contents suitable for all ages shall be included;<br />• Mary Kay or its products shall not be belittled in any way, nor shall Mary Kay’s reputation and goodwill be adversely affected or damaged in any other way.<br />• No incorrect or misleading information about Mary Kay or Mary Kay career opportunities shall be published;<br />• No misrepresentation on any relationship with Mary Kay shall be made;<br />• No copy of any content on the Site in any way; and<br />• No browser or boundary environment is allowed around the materials on the Site.<br /> "
+        },
+        "content-7":{
+          "name":"User Transmission",
+          "text":"Except for the personal data collected and managed by Mary Kay according to the Privacy Statement on the Site, any material, information, idea or other communication (hereinafter referred to as “communications”) transmitted to or posted on the Site by you in any way will be deemed as non-confidential and non-exclusive, and may be distributed or used by Mary Kay and/or its designee for any purpose, including but not limited to the development and manufacture of products. Mary Kay has no obligation with respect to such communications. Mary Kay and its designee may reproduce, disclose, distribute, incorporate or otherwise use such communications and all data, images, audio, text and other content contained therein at their own discretion for any and all commercial and non-commercial purposes. You shall not post or transmit any illegal, threatening, slanderous, defamatory, obscene, maliciously libelous, seditious, pornographic or blasphemous material on the Site, or any other material which may result in civil or criminal liability in violation of the law."
+        },
+        "content-8":{
+          "name":"Amendments and Modifications to the Terms of Use",
+          "text":"Mary Kay may amend the Terms of Use at any time. The use of the Site indicates that you agree to be governed by any such amendments. Therefore, you should check this page on a regular basis to determine the current Terms of Use that govern you. Certain Terms of Use may be modified or superseded by expressly specified legal notices or terms posted on specific pages of the Site.• Mary Kay (Hong Kong) Co., Ltd. All rights reserved.No part may be reproduced without written permission of Mary Kay (Hong Kong) Co., Ltd."
+        }
+      }
+    },
     "customer": {},
     "technological_innovation": {}
   },
