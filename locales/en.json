@@ -494,7 +494,46 @@
       }
     },
     "privacy": {},
-    "about_mary": {},
+    "about_mary": {
+      "Breadcrumb":{
+        "home":"home",
+        "pageName":"/ About Mary Kay"
+      },
+      "Banner":{
+        "h2":"“We can’t change the length of life, but we can infinitely expand the breadth of our life”",
+        "content":"Women are like water, ever-changing but unparalleled. We are expected to break through and break the routines as a woman; at the same time, we expect women to spread love to the world, to be unarmed, and to do their best makeup with a soft attitude. It is absolutely up to you to choose what you want to be and what you want to look like."
+      },
+      "spec":{
+        "h4":"Mary Kay is one of the world’s largest direct sellers of skin care and make-up products.",
+        "p":"Founded by Ms. Mary Kay Ash in 1963, the Company is headquartered in the United States. It operates in nearly 40 markets worldwide and has more than 4 million independent professional beauty consultants on a global scale. Established in 1991, Mary Kay Hong Kong is one of the 11 member companies of the Hong Kong Direct Selling Association to provide customers with free skin care and beauty solutions, personalized makeup guidance, suggestions for make-up design under different occasions, free product trial and delivery service, At Mary Kay, we not only can provide you with perfect skin care solutions, but also make beautiful changes to your image. We believe that only when women are balanced and satisfied in all eight aspects, including, beauty & confidence, harmonious family, interpersonal relationship, learning & growth, financial independence, healthy & leisure, achievements & glory and spiritual harmony can they be truly successful and truly happy deep down."
+      },
+      "about_marykay_content":{
+        "h4":"Love, the core culture of Mary Kay",
+        "p":"Mary Kay guides you to discover what you love and know more about yourself, thereby creating a richer and better life."
+      },
+      "bottom_content":{
+        "h1":"Opportunity is what we create Beauty is what we sell Hope is what we give back",
+        "content":"Women who know how to choose are happier: to be a woman with bright outside and free inside<br>Enjoy a personalized beauty experience<br>Enjoy a personalized health & beauty solution"
+      },
+      "card":{
+        "box1":{
+          "title":"Skin Care Solutions",
+          "content":"The individualized and all-rounded health & beauty solutions are carefully crafted for each customer according to different skin types and personal health needs. We’re by your side to guard your youth and beauty from within."
+        },
+        "box2":{
+          "title":"Personalized Makeup Guidance",
+          "content":"In view of the needs on different occasions, we provide you with professional personalized makeup guidance and change different makeup looks with model shows so as to add brilliance to your beauty at every moment."
+        },
+        "box3":{
+          "title":"Suggestions for Styling",
+          "content":"We provide you with the latest and personalized styling suggestions for you to strike a pose on the important stage and carefully create the makeup and styling suits you best so that you can show your confidence and beauty with your every posture."
+        },
+        "box4":{
+          "title":"Delivery Service",
+          "content":"We are here for you when you need us. We not only provide you with product delivery service but also intimate services. Get a step closer to you and feel free to share your experience of use and exchange your beauty secrets."
+        }
+      }
+    },
     "social": {},
     "webhk_privacy": {
       "page_name":"Terms of Use of Mary Kay HK’s Website",
@@ -536,6 +575,7 @@
     },
     "customer": {},
     "technological_innovation": {}
+    
   },
   "header_links": {
     "maintenance": {
