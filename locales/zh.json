@@ -346,11 +346,157 @@
         }
       }
     },
-    "global_company":{},
-    "privacy":{},
-    "about_mary":{},
-    "social":{},
-    "technological_innovation":{}
+    "global_company": {
+      "global_branches": "全球分公司",
+      "global_operating_stations": "全球營運據點",
+      "description": "玫琳凱總公司設於美國德州達拉斯，擁有350萬名獨立美容顧問，遍佈於世界35個國家，讓世界各地的女性們都擁有更多的機會。",
+      "branches": {
+        "gc1": {
+          "location": "阿根廷",
+          "links": "http://www.marykay.com.ar/"
+        },
+        "gc2": {
+          "location": "亞美尼亞",
+          "links": "http://www.marykay.am/"
+        },
+        "gc3": {
+          "location": "白俄羅斯",
+          "links": "http://www.marykay.com.br/"
+        },
+        "gc4": {
+          "location": "加拿大",
+          "links": "http://www.marykay.ca/"
+        },
+        "gc5": {
+          "location": "中國",
+          "links": "http://www.marykay.com.cn/"
+        },
+        "gc6": {
+          "location": "哥倫比亞",
+          "links": "http://www.marykay.com.co/"
+        },
+        "gc7": {
+          "location": "捷克",
+          "links": "http://www.marykay.cz/"
+        },
+        "gc8": {
+          "location": "薩爾瓦多",
+          "links": "e-mail: masdel@terra.com.gt"
+        },
+        "gc9": {
+          "location": "芬蘭",
+          "links": "http://www.marykay.se/"
+        },
+        "gc10": {
+          "location": "德國",
+          "links": "http://www.marykay.de/"
+        },
+        "gc11": {
+          "location": "瓜地馬拉",
+          "links": "http://www.marykay.com.gt/"
+        },
+        "gc12": {
+          "location": "香港",
+          "links": "https://www.marykay.com.hk/"
+        },
+        "gc13": {
+          "location": "哈薩克斯坦",
+          "links": "http://www.marykay.kz/"
+        },
+        "gc14": {
+          "location": "立陶宛",
+          "links": "http://marykay.lt/"
+        },
+        "gc15": {
+          "location": "馬來西亞",
+          "links": "http://www.marykay.com.my/"
+        },
+        "gc16": {
+          "location": "墨西哥",
+          "links": "http://www.marykay.com.mx/"
+        },
+        "gc17": {
+          "location": "摩爾多瓦",
+          "links": "http://www.marykay.md/"
+        },
+        "gc18": {
+          "location": "荷蘭",
+          "links": "http://www.marykay.nl/"
+        },
+        "gc19": {
+          "location": "紐西蘭",
+          "links": "http://www.marykay.com.au/"
+        },
+        "gc20": {
+          "location": "挪威",
+          "links": "http://www.marykay.se/"
+        },
+        "gc21": {
+          "location": "菲律賓",
+          "links": "http://www.marykay.com.ph/"
+        },
+        "gc22": {
+          "location": "波蘭",
+          "links": "http://www.marykay.com.pl/"
+        },
+        "gc23": {
+          "location": "秘魯",
+          "links": "http://www.marykay.com.pe/"
+        },
+        "gc24": {
+          "location": "葡萄牙",
+          "links": "http://www.marykay.pt/"
+        },
+        "gc25": {
+          "location": "俄國",
+          "links": "http://www.marykay.ru/"
+        },
+        "gc26": {
+          "location": "新加坡",
+          "links": "http://www.marykay.com.sg/"
+        },
+        "gc27": {
+          "location": "斯洛伐克",
+          "links": "http://www.marykay.sk/"
+        },
+        "gc28": {
+          "location": "西班牙",
+          "links": "http://www.marykay.es/"
+        },
+        "gc29": {
+          "location": "瑞典",
+          "links": "http://www.marykay.se/"
+        },
+        "gc30": {
+          "location": "瑞士",
+          "links": "http://www.marykay.ch/"
+        },
+        "gc31": {
+          "location": "台灣",
+          "links": "https://www.marykay.com.tw/"
+        },
+        "gc32": {
+          "location": "烏克蘭",
+          "links": "https://www.marykay.com.tw/?PageID=11583#u"
+        },
+        "gc33": {
+          "location": "英國",
+          "links": "http://www.marykay.co.uk/"
+        },
+        "gc34": {
+          "location": "美國",
+          "links": "http://www.marykay.com/"
+        },
+        "gc35": {
+          "location": "烏拉圭",
+          "links": "https://www.marykay.com.tw/?PageID=11583#u"
+        }
+      }
+    },
+    "global_privacy": {},
+    "about_mary": {},
+    "social": {},
+    "technological_innovation": {}
   },
   "header_links": {
     "maintenance": {
@@ -492,7 +638,7 @@
       "series": {
         "Nutrition": {
           "name": "食物補充品",
-          "products": ["pd105", "pd106", "pd107", "pd108","pd109"]
+          "products": ["pd105", "pd106", "pd107", "pd108", "pd109"]
         }
       }
     },
