@@ -1,4 +1,7 @@
  .about_social {
+  @include m() {
+        overflow-x: hidden;
+    }
      .breadcrumbs {
          margin-bottom: 20px;
      }
@@ -8,27 +11,52 @@
          width: 100%;
          overflow: hidden;
          position: relative;
+         @include t() {
+            height: auto;
+        }
+
+        @include m() {
+            width: 150%;
+            height: initial;
+        }
 
          img {
              object-fit: cover;
              height: 560px;
+              @include t() {
+                height: auto;
+                width: 100%;
+            }
          }
      }
 
      .about_social_inner {
          position: relative;
          height: 0;
+         @include m(){
+            padding: 0 15px;
+        }
+          @include t() {
+            height: auto;
+        }
 
          .text_head {
              position: absolute;
              left: 50%;
              top: -460px;
+              @include t() {
+                padding-bottom: 80px;
+                position: relative;
+                left: initial;
+                top: 28px;
+            }
 
          }
 
          .text_body {
              margin-top: 50px;
-             width: 690px;
+             max-width: 650px;
+             width: 100%;
 
              ul li {
                  list-style: disc;
@@ -57,6 +85,13 @@
          max-width: 1380px;
          margin: 0 auto;
          margin-top: 80px;
+          @include m(){
+            padding: 0 15px;
+        }
+         .so_icon {
+          max-width: 260px;
+          width: 100%;
+         }
 
 
          .titles {
@@ -71,6 +106,10 @@
              font-size: initial;
              margin-top: 40px;
              line-height: 1.5rem;
+            @include m(){
+              width: 340px;
+              margin: 30px auto 0;
+            }
          }
 
          .heart {
@@ -87,11 +126,15 @@
              .left {  
                  img {
                      width: 120px;
+                     @include m(){
+                        width: 80px;
+                     }
                  }
              }
              .right {
                position: relative;
                width: 70%;
+               font-size: .9rem;
                &::after {
                content: '';
                width: 2px;

@@ -2,14 +2,15 @@
   <div class="product">
     <!-- 上方banner -->
     <div class="product_banner container-fluid gx-0">
-      <img :src="require(`~/assets/images/series/${bannerImgSrc}`)" alt="" />
-      <h1 class="title showcase">
-        <b> {{ $t(`pages.series_page.series.${id}.name`) }} </b>
-      </h1>
+      <img :src="require(`~/assets/images/HK_prodBanner/${bannerImgSrc}`)" alt="" />
     </div>
     <!-- 底下產品 -->
     <div class="product_content container-xl">
       <ul class="row">
+        <div class="breadcrumbs">
+          <nuxt-link :to="localePath('/')">{{ $t('pages.product_page.home') }}</nuxt-link> /
+          <nuxt-link to="">{{ $t(`pages.series_page.series.${id}.name`) }}</nuxt-link>
+        </div>
         <li
           v-for="(item, index) in productData.products"
           :key="index"

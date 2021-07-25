@@ -48,6 +48,7 @@
   font-weight: normal;
   // src: local("Arial"),
 }
+
 @font-face {
   font-family: 'marykay-light';
   src: url('../fonts/MaryKaySans-Light.otf') format('otf');
@@ -64,9 +65,9 @@ body {
 }
 
 #en {
-  font-family: 'marykay' , sans-serif !important; 
+  font-family: 'marykay', sans-serif !important;
   font-size: 14px;
- }
+}
 
 
 
@@ -83,11 +84,6 @@ body {
   line-height: 2.8rem;
 
 }
-
-
-
-
-
 
 // 標楷體中文
 .font1 {
@@ -113,10 +109,25 @@ body {
 h4 {
   font-family: 'Lato', sans-serif;
   font-size: 26px;
+
+  @include m() {
+    font-size: 23px;
+  }
 }
 
 h3 {
   font-size: 24px;
+}
+
+footer {
+  h4 {
+    font-size: 1.2rem;
+
+    @include m() {
+      font-size: 1.7rem;
+
+    }
+  }
 }
 
 .bold {
@@ -138,16 +149,20 @@ dt {
   font-size: .92rem;
 }
 
+.s_font {
 
-$all :(
-'1' : 100,
-'2' : 200,
-'3' : 300,
-'4' : 400,
-'5' : 500,
-'6' : 600,
-'7' : 800,
-'9' : 800,
+color: #FF395D;
+}
+
+
+$all :('1' : 100,
+  '2' : 200,
+  '3' : 300,
+  '4' : 400,
+  '5' : 500,
+  '6' : 600,
+  '7' : 800,
+  '9' : 800,
 
 );
 
@@ -155,9 +170,15 @@ $all :(
 @each $class,
 $weight in $all {
   .w#{$class} {
-    font-weight: $weight!important;
+    font-weight: $weight !important;
   }
 }
+
+// @include m() {
+//   .showcase b {
+//     font-size: 3rem;
+//   }
+// }
 
 
 

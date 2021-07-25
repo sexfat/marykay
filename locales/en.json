@@ -38,151 +38,151 @@
           "name": "Youthfinity",
           "cn": "臻時粹顏系列",
           "header_links": "product_series",
-          "header_img": "series.jpg"
+          "header_img": "pa.jpg"
         },
         "TimeWise_Repair": {
           "name": "TimeWise Repair",
           "cn": "時光精靈Repair系列",
           "header_links": "product_series",
-          "header_img": "series.jpg"
+          "header_img": "pb.jpg"
         },
         "TimeWise3D": {
           "name": "TimeWise Moisture Renewing/TimeWise® Age Minimize 3D™",
           "cn": "時光精靈/ 時光精靈3D系列",
           "header_links": "product_series",
-          "header_img": "series.jpg"
+          "header_img": "pc.jpg"
         },
         "Naturally": {
           "name": "Naturally",
           "cn": "天然淨活系列",
           "header_links": "product_series",
-          "header_img": "series.jpg"
+          "header_img": "pd.jpg"
         },
         "Botanical_Effects": {
           "name": "Botanical Effects",
           "cn": "植物肌密系列",
           "header_links": "product_series",
-          "header_img": "series.jpg"
+          "header_img": "pe.jpg"
         },
         "Supplementary": {
           "name": "Supplementary maintenance",
           "cn": "補充性保養系列",
           "header_links": "product_series",
-          "header_img": "series.jpg"
+          "header_img": "pf.jpg"
         },
         "LumiVie": {
           "name": "LumiVie™",
           "cn": "亮采系列",
           "header_links": "product_series",
-          "header_img": "series.jpg"
+          "header_img": "pg.jpg"
         },
         "Calming_Influence": {
           "name": "Calming Influence",
           "cn": "舒顏系列",
           "header_links": "product_series",
-          "header_img": "series.jpg"
+          "header_img": "ph.jpg"
         },
         "Clear_Proof": {
           "name": "Clear Proof ® ",
           "cn": "淨顏系列",
           "header_links": "product_series",
-          "header_img": "series.jpg"
+          "header_img": "pi.jpg"
         },
         "MK_Men": {
           "name": "MK Men",
           "cn": "男士系列",
           "header_links": "product_series",
-          "header_img": "series.jpg"
+          "header_img": "pj.jpg"
         },
         "Body": {
           "name": "Body",
           "cn": "美體系列",
           "header_links": "product_series",
-          "header_img": "series.jpg"
+          "header_img": "pk.jpg"
         },
         "Remover": {
           "name": "Remover",
           "cn": "卸妝",
           "header_links": "product_features",
-          "header_img": "series.jpg"
+          "header_img": "fa.jpg"
         },
         "Cleansing": {
           "name": "Cleansing",
           "cn": "潔顏",
           "header_links": "product_features",
-          "header_img": "series.jpg"
+          "header_img": "fb.jpg"
         },
         "Lotion": {
           "name": "Lotion",
           "cn": "化妝水",
           "header_links": "product_features",
-          "header_img": "series.jpg"
+          "header_img": "fc.jpg"
         },
         "Lotion_Cream": {
           "name": "Lotion&Cream",
           "cn": "乳液/乳霜",
           "header_links": "product_features",
-          "header_img": "series.jpg"
+          "header_img": "fd.jpg"
         },
         "Mask": {
           "name": "Mask",
           "cn": "面膜",
           "header_links": "product_features",
-          "header_img": "series.jpg"
+          "header_img": "fe.jpg"
         },
         "Serum_Oil": {
           "name": "Serum & Oil",
           "cn": "精華液/油",
           "header_links": "product_features",
-          "header_img": "series.jpg"
+          "header_img": "ff.jpg"
         },
         "Sun_Care": {
           "name": "Sun Care",
           "cn": "身體防曬/保養",
           "header_links": "product_features",
-          "header_img": "series.jpg"
+          "header_img": "fg.jpg"
         },
         "Eye_Lips_Care": {
           "name": "Eye&Lips Care",
           "cn": "眼唇保養",
           "header_links": "product_features",
-          "header_img": "series.jpg"
+          "header_img": "fh.jpg"
         },
         "Targeted_Solutions": {
           "name": "Targeted Solutions",
           "cn": "特殊護理",
           "header_links": "product_features",
-          "header_img": "series.jpg"
+          "header_img": "fi.jpg"
         },
         "Skin_Care_Tools": {
           "name": "Skin Care Tools",
           "cn": "美容儀器",
           "header_links": "product_features",
-          "header_img": "series.jpg"
+          "header_img": "fj.jpg"
         },
         "Lips": {
           "name": "Lips",
           "cn": "唇部系列",
           "header_links": "makeup",
-          "header_img": "series.jpg"
+          "header_img": "ma.jpg"
         },
         "Face": {
           "name": "Face",
           "cn": "臉部系列",
           "header_links": "makeup",
-          "header_img": "series.jpg"
+          "header_img": "mb.jpg"
         },
         "Eyes": {
           "name": "Eyes",
           "cn": "眼部系列",
           "header_links": "makeup",
-          "header_img": "series.jpg"
+          "header_img": "mc.jpg"
         },
         "Tools": {
           "name": "Tools",
           "cn": "彩妝工具",
           "header_links": "makeup",
-          "header_img": "series.jpg"
+          "header_img": "md.jpg"
         },
         "Fragrance": {
           "name": "Fragrance",
@@ -194,25 +194,25 @@
           "name": "Nutrition",
           "cn": "食物補充品",
           "header_links": "Nutrition",
-          "header_img": "series.jpg"
+          "header_img": "sa.jpg"
         },
         "Hydrophilic": {
           "name": "Hydrophilic",
           "cn": "親水專區",
           "header_links": "skincare",
-          "header_img": "series.jpg"
+          "header_img": "ca.jpg"
         },
         "Reverse_Age": {
           "name": "Reverse Age",
           "cn": "逆齡專區",
           "header_links": "skincare",
-          "header_img": "series.jpg"
+          "header_img": "cb.jpg"
         },
         "Oil_Control": {
           "name": "Oil Control",
           "cn": "控油專區",
           "header_links": "skincare",
-          "header_img": "series.jpg"
+          "header_img": "cc.jpg"
         },
         "Relief": {
           "name": "Relief",
@@ -224,7 +224,7 @@
           "name": "Slug",
           "cn": "懶人專區",
           "header_links": "skincare",
-          "header_img": "series.jpg"
+          "header_img": "ce.jpg"
         }
       }
     },

@@ -1,0 +1,143 @@
+.global {
+
+    @include m() {
+        overflow-x: hidden;
+    }
+
+    .breadcrumbs {
+        margin-bottom: 20px;
+    }
+
+    .banner {
+        height: 560px;
+        width: 100%;
+        overflow: hidden;
+        position: relative;
+
+        @include t() {
+            height: auto;
+        }
+
+        @include m() {
+            width: 180%;
+            height: initial;
+        }
+
+        img {
+            object-fit: cover;
+            height: 560px;
+
+            @include t() {
+                height: auto;
+                width: 100%;
+            }
+        }
+    }
+
+    .global_inner {
+        position: relative;
+        min-height: 600px;
+        max-width: 900px;
+        width: 100%;
+        padding: 70px 0 100px;
+
+        .w900 {
+            padding-left: 12px;
+            @include t(){
+             width: 80%;
+            margin: 0 auto;
+            }
+            @include m(){
+             padding-left: 26px;
+            }
+        }
+
+        @include t() {
+            margin-bottom: 78px;
+        }
+
+        @include m() {
+            padding: 0 15px;
+        }
+
+        .item {
+            text-align: center;
+            border: 1px solid rgb(216, 216, 216);
+            padding: 30px 5px 40px;
+            max-width: 160px;
+            margin-right: 15px;
+            margin-top: 20px;
+            justify-content: center;
+            position: relative;
+
+            &:nth-child(5n) {
+                margin-right: 0;
+
+            }
+
+            @include m() {
+                &:nth-child(2n) {
+                    margin-right: 0;
+
+                }
+                &:nth-child(5n) {
+                margin-right: 15px;
+
+            }
+            }
+
+            transition: .3s all ease;
+            box-shadow: 1px 1px 10px rgb(195, 195, 195);
+
+            &:hover {
+                box-shadow: 0px 2px 20px rgb(164, 164, 164);
+            }
+
+            width: 20%;
+
+            @include m() {
+                width: 50%;
+                width: 150px;
+            }
+
+            cursor: pointer;
+
+            a {
+                position: absolute;
+                width: 100%;
+                height: 100%;
+                top: 0;
+                left: 0;
+            }
+
+            .text {
+                line-height: 30px;
+                height: 30px;
+
+                &::after {
+                    content: '';
+                    width: 40px;
+                    height: 2px;
+                    display: block;
+                    background-color: rgb(216, 216, 216);
+                    margin: 10px auto 10px;
+
+                }
+            }
+
+            img {
+                width: 40px;
+            }
+
+            .link {
+                img {
+                    display: block;
+                    width: 32px;
+                    margin: 40px auto 0;
+                }
+
+
+            }
+        }
+    }
+}
