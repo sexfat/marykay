@@ -534,7 +534,80 @@
         }
       }
     },
-    "social": {},
+    "social": {
+      "Breadcrumb":{
+        "home":"home",
+        "pageName":"/ social"
+      },
+      "Banner":{
+        "h2":"Pink Changing Lives<br>Our Commitment to Women",
+        "content":"Go-Give is our core spirit that promotes us to enrich women and their families around the world. Through this consistent philosophy, we take the initiative to respond to local communities in nearly 40 markets throughout the world, bringing change to women all over the world, allowing them and their children to have brand-new beautiful lives."
+      },
+      "spec":{
+        "h4":"Untamed Beauty  Women Empowered  Era of Girl Power!",
+        "ulList":{
+          "list1":{
+            "li":"Global charity projects to give back to society"
+          },
+          "list2":{
+            "li":"Helping women and children around the world"
+          },
+          "list3":{
+            "li":"Building libraries to help children in need"
+          },
+          "list4":{
+            "li":"Funding the education of girls from underprivileged families"
+          },
+          "list5":{
+            "li":"Providing life-saving medical services"
+          },
+          "list6":{
+            "li":"Supporting anti-trafficking organizations"
+          },
+          "list7":{
+            "li":"Helping disabled children"
+          },
+          "list8":{
+            "li":"Inculcating awareness about breast cancer"
+          },
+          "list9":{
+            "li":"Helping end domestic violence"
+          }
+        }
+      },
+      "bottom_content":{
+        "h3":"Pink Doing Green",
+        "h3_content":"Our Commitment to the Earth",
+        "content":"A penny saved is a penny earned will be the first step of changing the earth: implementing the environmental protection concept Whether it is the use of renewable energy, green planting afforestation, the use of biodegradable packing materials, products packed in an environmentally-friendly manner, a simple green action will not only care for your skin, preserve the earth but also improve life quality! Promote our happiness and joy ❤",
+        "h4":"Our green attitude, follow us to be kind to the earth"
+      },
+      "container":{
+        "box1":{
+          "h3":"WORLDWIDE RECYCLING PROGRAM",
+          "content":"Mary Kay is the first company in the world to develop a recycling program. Mary Kay’s global manufacturing facilities recycle packaging, paper, plastic and other products through a recycling program every day."
+        },
+        "box2":{
+          "h3":"100% BIO-DEGRADABLE PACKING MATERIALS",
+          "content":"Biodegradable packing materials are materials that can degrade in the nature. The biodegradable packing materials made from renewable corn and potato starch made into packing fillers are used to ship Mary Kay’s product."
+        },
+        "box3":{
+          "h3":"ZERO LANDFILL SITES",
+          "content":"Mary Kay’s manufacturing facilities in the United States have achieved zero landfill status. A wastewater treatment station capable of treating 150 tons has been established in Asia-Pacific manufacturing facilities. Implement the environmental goals of “waste water discharge” and “zero solid waste landfill”"
+        },
+        "box4":{
+          "h3":"SUSTAINABLE PRODUCT PACKAGING",
+          "content":"Mary Kay offers innovative and environmentally friendly products and packaging and adopts reusable product designs including the reusable magnet design in Mary Kay’s makeup kit, so that any makeup products can be put inside at random combination to reduce waste arising from change"
+        },
+        "box5":{
+          "h3":"100% RENEWABLE ENERGY",
+          "content":"The Mary Kay world headquarters and global manufacturing facility are powered by 100 percent renewable energy."
+        },
+        "box6":{
+          "h3":"1 MILLION TREES PLANTED",
+          "content":"Mary Kay has planted more than 1 million trees around the world in the activities organized by the global branches."
+        }
+      }
+    },
     "webhk_privacy": {},
     "customer": {},
     "technological_innovation": {}
