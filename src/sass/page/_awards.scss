@@ -1,0 +1,96 @@
+// 品牌成就與獲獎
+.awards {
+@include m() {
+        overflow-x: hidden;
+    }
+    .breadcrumbs {
+        margin-bottom: 20px;
+    }
+
+    .banner {
+        height: 600px;
+        width: 100%;
+        overflow: hidden;
+        position: relative;
+        @include t() {
+            height: auto;
+        }
+
+        @include m() {
+            width: 100%;
+            height: initial;
+        }
+
+        img {
+            object-fit: cover;
+            height: 1380px;
+
+             @include t() {
+                height: auto;
+                width: 100%;
+            }
+        }
+    }
+
+    .awards_inner {
+        position: relative;
+         @include m() {
+            padding: 0 15px;
+        }
+
+        .text_head {
+            width: 100%;
+            max-width: 996px;
+            margin: 50px auto 0px; 
+        }
+        .text_body {
+            margin-top: 50px;
+        }
+    }
+
+    .spec {
+        padding: 100px 0;
+        text-align: center;
+        img {
+           width: 100%;
+           max-width: 580px;
+           margin: 0 auto;
+        }
+
+
+        img.logo {
+            position: relative;
+            top: 40%;
+            width: 280px;
+            @include t(){
+             top: 0px;
+              width: 200px;
+              margin-bottom: 20px;
+            }
+        }
+        h4 {
+         width: 300px;
+         margin: 0 auto 30px;
+        }
+    }
+
+    .tech_content {
+        padding: 100px 0 0;
+        text-align: center;
+
+        .best {
+            width: 480px;
+            margin: 0 auto;
+
+            .desc {
+                text-align: left;
+                width: 300px;
+                margin: 0 auto;
+            }
+
+        }
+    }
+    
+
+
+}
