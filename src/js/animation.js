@@ -131,6 +131,7 @@ const swiper_ig = new Swiper('.silder_ig', {
 });
 
 
+
 // gsap goto anchor
 
 function getSamePageAnchor (link) {

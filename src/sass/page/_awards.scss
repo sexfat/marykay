@@ -1,8 +1,9 @@
 // 品牌成就與獲獎
 .awards {
-@include m() {
+    @include m() {
         overflow-x: hidden;
     }
+
     .breadcrumbs {
         margin-bottom: 20px;
     }
@@ -12,6 +13,7 @@
         width: 100%;
         overflow: hidden;
         position: relative;
+
         @include t() {
             height: auto;
         }
@@ -25,7 +27,7 @@
             object-fit: cover;
             height: 1380px;
 
-             @include t() {
+            @include t() {
                 height: auto;
                 width: 100%;
             }
@@ -34,15 +36,17 @@
 
     .awards_inner {
         position: relative;
-         @include m() {
+
+        @include m() {
             padding: 0 15px;
         }
 
         .text_head {
             width: 100%;
             max-width: 996px;
-            margin: 50px auto 0px; 
+            margin: 50px auto 0px;
         }
+
         .text_body {
             margin-top: 50px;
         }
@@ -51,46 +55,293 @@
     .spec {
         padding: 100px 0;
         text-align: center;
+
         img {
-           width: 100%;
-           max-width: 580px;
-           margin: 0 auto;
-        }
-
-
-        img.logo {
-            position: relative;
-            top: 40%;
-            width: 280px;
-            @include t(){
-             top: 0px;
-              width: 200px;
-              margin-bottom: 20px;
-            }
-        }
-        h4 {
-         width: 300px;
-         margin: 0 auto 30px;
+            width: 100%;
+            max-width: 580px;
+            margin: 0 auto;
         }
     }
 
-    .tech_content {
-        padding: 100px 0 0;
+    .awward_content {
+        margin-bottom: 100px;
+
+        @include m() {
+            padding: 0 15px;
+        }
+    }
+}
+
+
+// 社會公益
+
+
+.social_awards {
+    @include m() {
+        overflow-x: hidden;
+    }
+
+    .breadcrumbs {
+        margin-bottom: 20px;
+    }
+
+    .banner {
+        height: auto;
+        width: 100%;
+        max-width: 996px;
+        overflow: hidden;
+        position: relative;
+
+        // @include t() {
+        //     height: auto;
+        // }
+
+        // @include m() {
+        //     width: 100%;
+        //     height: initial;
+        // }
+
+        img {
+            // object-fit: cover;
+
+            @include t() {
+                height: auto;
+                width: 100%;
+            }
+        }
+    }
+
+    .social_awards_inner {
+        position: relative;
+
+        @include m() {
+            padding: 0 15px;
+        }
+
+        .text_head {
+            width: 100%;
+            max-width: 996px;
+            margin: 50px auto 0px;
+        }
+
+        .text_body {
+            margin-top: 50px;
+        }
+    }
+
+    .spec {
+        padding: 100px 0 30px;
         text-align: center;
 
-        .best {
-            width: 480px;
+        img {
+            width: 100%;
+            max-width: 580px;
+            margin: 0 auto;
+        }
+    }
+
+    .awards_content {
+        margin-bottom: 60px;
+
+        @include m() {
+
+            padding: 0 15px;
+            margin-bottom: 20px;
+        }
+    }
+
+    .bottom_video {
+        margin-bottom: 100px;
+
+        video {
+            width: 100%;
+        }
+    }
+}
+
+
+
+//環境保護
+
+
+.environmental_protection {
+    @include m() {
+        overflow-x: hidden;
+    }
+
+    .breadcrumbs {
+        margin-bottom: 20px;
+    }
+
+    .banner {
+        height: 600px;
+        width: 100%;
+        overflow: hidden;
+        position: relative;
+
+
+        @include t() {
+            height: auto;
+        }
+
+        @include m() {
+            width: 100%;
+            height: initial;
+        }
+
+        img {
+            object-fit: cover;
+            height: 600px;
+            object-position: center;
+
+
+            @include t() {
+                height: auto;
+                width: 100%;
+            }
+        }
+    }
+
+    .awards_inner {
+        position: relative;
+
+        @include m() {
+            padding: 0 15px;
+        }
+
+        .text_head {
+            width: 100%;
+            max-width: 996px;
+            margin: 50px auto 0px;
+        }
+
+        .text_body {
+            margin-top: 50px;
+        }
+    }
+
+    .spec {
+        padding: 100px 0;
+
+        .img {
+            position: relative;
+            width: 100%;
+            max-width: 1020px;
             margin: 0 auto;
 
-            .desc {
-                text-align: left;
-                width: 300px;
+            img {
+                width: 100%;
+                max-width: 1020px;
                 margin: 0 auto;
+
+                @include m() {
+                    max-width: 120%;
+                    width: 120%;
+                }
+            }
+
+            .title {
+                color: white;
+                position: absolute;
+                font-family: 'Lato', sans-serif;
+                font-size: 24px;
+                font-weight: 800;
+                width: 400px;
+                left: 80px;
+                display: block;
+                line-height: 1.1rem;
+                top: 60px;
+
+                @include m() {
+                    left: 30px;
+                    top: 30px;
+                    font-size: 15px;
+
+                    .text_small {
+                        font-size: 10px;
+                    }
+                }
+
             }
 
         }
+
+
+        .box {
+            box-sizing: border-box;
+            background-color: rgb(7, 7, 7);
+            padding: 30px 60px;
+            width: 100%;
+            max-width: 996px;
+            margin: -10px auto 0;
+
+            @include m() {
+                padding: 20px 40px;
+
+            }
+
+        }
+
     }
-    
+
+    .awward_content {
+        margin-bottom: 30px;
+
+        @include m() {
+            padding: 0 15px;
+        }
+    }
+
+    .bottom {
+        padding-bottom: 100px;
+        min-height: 400px;
+          @include m() {
+            padding: 0 15px;
+        }
+
+        .silder_ev {
+            .item {
+                position: relative;
+
+                &::after {
+                    content: '';
+                    display: block;
+                    background-color: rgba(0, 0, 0, 0.45);
+                    position: absolute;
+                    top: 0;
+                    left: 0;
+                    z-index: 3;
+                    width: 100%;
+                    height: 98.5%;
+                }
+
+                .text {
+                    position: absolute;
+                    z-index: 4;
+                    color: white;
+                    width: 60%;
+                    top:50%;
+                    left: 50%;
+                    transform: translate(-50% , -50%);
+                    @include m(){
+                       font-size: .92rem;
+                    }
 
 
+                }
+
+                img {
+                    width: 100%;
+                    object-fit: cover;
+                    height: 400px;
+                    position: relative;
+                    z-index: 1;
+                    @include m(){
+                       height: 300px;
+                    }
+                }
+            }
+        }
+
+    }
 }
