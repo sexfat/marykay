@@ -2,7 +2,10 @@
   <div class="about_marykay_ash">
     <div class="container-xxl">
       <div class="row">
-        <div class="breadcrumbs margin-top_20"><a href="">首頁</a> / 關於Mary Kay ASh</div>
+        <div class="breadcrumbs margin-top_20">
+          <a href="">{{ $t(`pages.about_mary_ash.Breadcrumb.home`) }}</a
+          >{{ $t(`pages.about_mary_ash.Breadcrumb.pageName`) }}
+        </div>
       </div>
     </div>
     <div class="banner container-fluid gx-0">
