@@ -345,7 +345,12 @@
           }
         ]
       }
-    }
+    },
+    "global_company":{},
+    "privacy":{},
+    "about_mary":{},
+    "social":{},
+    "technological_innovation":{}
   },
   "header_links": {
     "maintenance": {
