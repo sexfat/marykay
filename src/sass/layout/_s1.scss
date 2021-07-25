@@ -26,3 +26,12 @@
         text-align: center;
     }
 }
+
+#en {
+ .s1 {
+    padding: 48px 0 100px;
+    @include m(){
+       padding: 150px 0 100px;
+    }
+ }
+}
