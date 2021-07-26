@@ -31,40 +31,40 @@
           "content_footer": "First winner of Pink Changing Lives Honoree Monique Coleman Monique Coleman"
         }
       },
-      "s5":{
-        "search_more":"More",
-        "learn_more":"More",
-        "text":"Moments of uncontrollable love Make your skin lovable today Make yourself radiant and gorgeous in 5 minutes Make your skin rosy, delicate and shiny from within",
-        "slides":{
-          "slide_1":{
-            "img":"b_01.png",
-            "title":"Water-loving Zone",
-            "path":"/products/Water_loving_Zone",
-            "description":"Do you know no matter dry or oily skin, it takes three steps of water replenishment, water retention, and water locking to complete skin moisturizing? The most complete moisturizing products are available at Water-loving Zone. Come and hydrate your skin!"
+      "s5": {
+        "search_more": "More",
+        "learn_more": "More",
+        "text": "Moments of uncontrollable love Make your skin lovable today Make yourself radiant and gorgeous in 5 minutes Make your skin rosy, delicate and shiny from within",
+        "slides": {
+          "slide_1": {
+            "img": "b_01.png",
+            "title": "Water-loving Zone",
+            "path": "/products/Water_loving_Zone",
+            "description": "Do you know no matter dry or oily skin, it takes three steps of water replenishment, water retention, and water locking to complete skin moisturizing? The most complete moisturizing products are available at Water-loving Zone. Come and hydrate your skin!"
           },
-          "slide_2":{
-            "img":"b_02.png",
-            "title":"Reverse_Age",
-            "path":"/products/Reverse_Age",
-            "description":"港版缺少該專區內容幫忙補上英文翻譯"
+          "slide_2": {
+            "img": "b_02.png",
+            "title": "Reverse_Age",
+            "path": "/products/Reverse_Age",
+            "description": "港版缺少該專區內容幫忙補上英文翻譯"
           },
-          "slide_3":{
-            "img":"b_03.png",
-            "title":"Oil-controlling Zone",
-            "path":"/products/Oil_controlling_Zone",
-            "description":"It takes you only 8 minutes to say goodbye to acne and pimples by using our masks. Here, you can find primers making your foundation smooth and comfortable as well as all the solutions to oily skin."
+          "slide_3": {
+            "img": "b_03.png",
+            "title": "Oil-controlling Zone",
+            "path": "/products/Oil_controlling_Zone",
+            "description": "It takes you only 8 minutes to say goodbye to acne and pimples by using our masks. Here, you can find primers making your foundation smooth and comfortable as well as all the solutions to oily skin."
           },
-          "slide_4":{
-            "img":"b_05.png",
-            "title":"Stress-relieving Zone",
-            "path":"/products/Stress_relieving_Zone",
-            "description":"Give yourself several precious hours of skin care each day with our therapeutic fragrance and soothing cream to relieve yourself from tiredness throughout the day and revitalize your skin!"
+          "slide_4": {
+            "img": "b_05.png",
+            "title": "Stress-relieving Zone",
+            "path": "/products/Stress_relieving_Zone",
+            "description": "Give yourself several precious hours of skin care each day with our therapeutic fragrance and soothing cream to relieve yourself from tiredness throughout the day and revitalize your skin!"
           },
-          "slide_5":{
-            "img":"b_06.png",
-            "title":"Lazy Girls’ Favorite Zone",
-            "path":"/products/Lazy_Girls_Favorite_Zone",
-            "description":"Have no time for skin care? Wanna go to bed as soon as you go home? Wanna lie down on the sofa at the time of arriving home? The skincare products available at Lazy Gail’s Favorite Zone will be your best helper. With various amazing nourishment, multiple effects will be achieved just in one step so that your skill will be cared when you are sleeping. Who says it’s impossible for lazy girls to be beautiful?"
+          "slide_5": {
+            "img": "b_06.png",
+            "title": "Lazy Girls’ Favorite Zone",
+            "path": "/products/Lazy_Girls_Favorite_Zone",
+            "description": "Have no time for skin care? Wanna go to bed as soon as you go home? Wanna lie down on the sofa at the time of arriving home? The skincare products available at Lazy Gail’s Favorite Zone will be your best helper. With various amazing nourishment, multiple effects will be achieved just in one step so that your skill will be cared when you are sleeping. Who says it’s impossible for lazy girls to be beautiful?"
           }
         }
       }
@@ -827,73 +827,73 @@
     },
     "technological_innovation": {
       "title": "Scientific Research Innovation",
-      "li_1":"More than 200 quality products, including skin care products, cosmetics, body care products, sunscreen products, perfumes and dietary supplements.",
-      "li_2":"The R & D team composed of more than 200 scientists from all walks of life",
-      "li_3":"Annual investment of millions of dollars in R & D. Possession of more than 1,500 patented items .",
-      "li_4":"More than half a million tests a year to ensure product safety and effects.",
-      "li_5":"Investment of more than $100 million in the construction of the R3 Global Manufacturing and R&D Center covering an area of more than 42,000 square meters; possession of the most advanced R & D labs, cutting-edge manufacturing technologies and brand-new modern zero-pollution landfill facilities.",
-      "tech_1":"Richard R. Rogers (R3) Manufacturing",
-      "tech_2":"Has won #Beauty 20 Award, an international beauty award, for more than 10 times and recognized as the most innovative brand",
-      "tech_3":"possession of the most advanced R & D labs, cutting-edge manufacturing technologies and brand-new modern zero-pollution landfill facilities."
+      "li_1": "More than 200 quality products, including skin care products, cosmetics, body care products, sunscreen products, perfumes and dietary supplements.",
+      "li_2": "The R & D team composed of more than 200 scientists from all walks of life",
+      "li_3": "Annual investment of millions of dollars in R & D. Possession of more than 1,500 patented items .",
+      "li_4": "More than half a million tests a year to ensure product safety and effects.",
+      "li_5": "Investment of more than $100 million in the construction of the R3 Global Manufacturing and R&D Center covering an area of more than 42,000 square meters; possession of the most advanced R & D labs, cutting-edge manufacturing technologies and brand-new modern zero-pollution landfill facilities.",
+      "tech_1": "Richard R. Rogers (R3) Manufacturing",
+      "tech_2": "Has won #Beauty 20 Award, an international beauty award, for more than 10 times and recognized as the most innovative brand",
+      "tech_3": "possession of the most advanced R & D labs, cutting-edge manufacturing technologies and brand-new modern zero-pollution landfill facilities."
     },
-    "environmental_protection":{
+    "environmental_protection": {
       "page_name": "Environmental Protection",
       "h2": "<div class=\"text_small\">Mary Kay Chief Operating Officer Deborah Gibbins said:</div>We are a multinational company, <br>and we know that the area that needs support<br>goes far beyond the Gulf of Mexico.",
       "text_body": "Corporate social responsibility and global leader Mary Kay last year announced a partnership with The Nature<br> Conservancy (The Nature Conservancy), the protection of fisheries and Texas Gulf of Mexico. Today, <br>Mary Kay is proud to announce that the company has further expanded its cooperation with The Nature <br>Conservancy to have a positive impact on global waters and native species.",
       "box_content": "Mary Kay Chief Operating Officer Deborah Gibbins said: Mary Kay Chief Operating Officer Deborah Gibbins said: \"All life on earth originates from the ocean and depends on the ocean. Water is the most precious resource on the earth. We must do our best to protect it.",
       "awward_content": "<h2 class=\"h2 font1 margin-bottom_20\">Actively invest in the protection of global oceans ,<br>natural environment and biodiversity</h2>The conservation plan aims to protect the rich and diverse marine life. <br>Mary Kay will support the work of The Nature Conservancy through the following projects:",
-      "sliders":{
-        "slide_1":{
-          "text":"<h5>New Zealand</h5>In New Zealand, Mary Kay and The Nature Conservancy will work with the aborigines to promote sustainable fish farming, including support for the restoration of the Hauraki Gulf in Auckland to restore the number of wild shellfish. And launch a challenge fund to encourage people to provide greater charitable support for wildlife restoration.",
-          "img":"zw.jpg"
+      "sliders": {
+        "slide_1": {
+          "text": "<h5>New Zealand</h5>In New Zealand, Mary Kay and The Nature Conservancy will work with the aborigines to promote sustainable fish farming, including support for the restoration of the Hauraki Gulf in Auckland to restore the number of wild shellfish. And launch a challenge fund to encourage people to provide greater charitable support for wildlife restoration.",
+          "img": "zw.jpg"
         },
-        "slide_2":{
-          "text":"<h5>Australia</h5>In northern Australia, Mary Kay will work with Aboriginal communities to strengthen women’s role in conservation work, including improving the development of community-based health spaces, working with government and non-government partners to increase the adoption rate of conservation tools, and in the Northern Territory A women’s camp was established at the 445,000-acre Fish River Station.",
-          "img":"au.jpg"
+        "slide_2": {
+          "text": "<h5>Australia</h5>In northern Australia, Mary Kay will work with Aboriginal communities to strengthen women’s role in conservation work, including improving the development of community-based health spaces, working with government and non-government partners to increase the adoption rate of conservation tools, and in the Northern Territory A women’s camp was established at the 445,000-acre Fish River Station.",
+          "img": "au.jpg"
         },
-        "slide_3":{
-          "text":"<h5>Mexico</h5>In Mexico, Mary Kay and The Nature Conservancy will work with Monterrey Water Fund, which will improve the waters in the area and support local women. These improvements include irrigation systems, substrate research and crop production diversity.",
-          "img":"mx.jpg"
+        "slide_3": {
+          "text": "<h5>Mexico</h5>In Mexico, Mary Kay and The Nature Conservancy will work with Monterrey Water Fund, which will improve the waters in the area and support local women. These improvements include irrigation systems, substrate research and crop production diversity.",
+          "img": "mx.jpg"
         },
-        "slide_4":{
-          "text":"<h5>China</h5>In China, Mary Kay and The Nature Conservancy will work hard to protect rural water sources so as to provide clean drinking water for millions of people in China. By 2021, the team will establish five water source production demonstration projects in Zhejiang, Fujian, Guangdong and another province.",
-          "img":"china.jpg"
+        "slide_4": {
+          "text": "<h5>China</h5>In China, Mary Kay and The Nature Conservancy will work hard to protect rural water sources so as to provide clean drinking water for millions of people in China. By 2021, the team will establish five water source production demonstration projects in Zhejiang, Fujian, Guangdong and another province.",
+          "img": "china.jpg"
         },
-        "slide_5":{
-          "text":"<h5>General Oceans</h5>The partnership will also alleviate plastic pollution in tuna fisheries in the Indo-Pacific Ocean. The two parties will work together with first-class plastic researchers to determine which fishing grounds are the biggest sources of marine pollution, so as to launch high-impact pilot projects to reduce pollution and clean our oceans.",
-          "img":"oversea.jpg"
+        "slide_5": {
+          "text": "<h5>General Oceans</h5>The partnership will also alleviate plastic pollution in tuna fisheries in the Indo-Pacific Ocean. The two parties will work together with first-class plastic researchers to determine which fishing grounds are the biggest sources of marine pollution, so as to launch high-impact pilot projects to reduce pollution and clean our oceans.",
+          "img": "oversea.jpg"
         },
-        "slide_6":{
-          "text":"<h5>Solomon Islands</h5>In the Solomon Islands, the two sides will protect sea turtles through ecotourism in the South Pacific led by women. Mary Kay’s donation will help establish a viable and locally operating eco-tourism venture on Arnavon Island, which will strengthen sea turtle conservation and create fair and sustainable financial returns for communities that have the most favorable conditions for protecting endangered soecies.",
-          "img":"so.jpg"
+        "slide_6": {
+          "text": "<h5>Solomon Islands</h5>In the Solomon Islands, the two sides will protect sea turtles through ecotourism in the South Pacific led by women. Mary Kay’s donation will help establish a viable and locally operating eco-tourism venture on Arnavon Island, which will strengthen sea turtle conservation and create fair and sustainable financial returns for communities that have the most favorable conditions for protecting endangered soecies.",
+          "img": "so.jpg"
         },
-        "slide_7":{
-          "text":"<h5>Colombia</h5>Through the Bogota Water Fund, both parties will improve water safety for millions of people in Colombia.",
-          "img":"cob.jpg"
+        "slide_7": {
+          "text": "<h5>Colombia</h5>Through the Bogota Water Fund, both parties will improve water safety for millions of people in Colombia.",
+          "img": "cob.jpg"
         },
-        "slide_8":{
-          "text":"<h5>Canada</h5>In Canada, Mary Kay and The Nature Conservancy will support current and future community leaders in traditional fields and strengthen the capabilities of Aboriginal managers. This investment will create a healthy future for these communities and protect their land and water resources for future generations.",
-          "img":"ca.jpg"
+        "slide_8": {
+          "text": "<h5>Canada</h5>In Canada, Mary Kay and The Nature Conservancy will support current and future community leaders in traditional fields and strengthen the capabilities of Aboriginal managers. This investment will create a healthy future for these communities and protect their land and water resources for future generations.",
+          "img": "ca.jpg"
         },
-        "slide_9":{
-          "text":"<h5>Europe</h5>In the UK and Germany, as the two countries introduce native European oysters, the partnership will work to protect biodiversity and marine resources. In Spain, the two sides will establish a water resource fund-Spain currently faces some of the most severe challenges in terms of water scarcity and water quality.",
-          "img":"eu.jpg"
+        "slide_9": {
+          "text": "<h5>Europe</h5>In the UK and Germany, as the two countries introduce native European oysters, the partnership will work to protect biodiversity and marine resources. In Spain, the two sides will establish a water resource fund-Spain currently faces some of the most severe challenges in terms of water scarcity and water quality.",
+          "img": "eu.jpg"
         }
       }
     },
-    "social_welfare":{
-      "page_name":"Social Welfare",
-      "h2":"Mary Kay Company Announces Actress<br>and Philanthropist Monique Coleman Becomes <br>the First \"Pink Changes Life\" Award Winner<br>",
-      "text_body":"Mary Kay Inc., a long-time global leader in women's empowerment, proudly announces that Monique <br>Coleman has become the brand's first \"Pink Change Life\" award winner ( Pink Changing Lives Honoree)<br>. \"Pink changes lives\" is Mary Kay's global commitment. It celebrates individuals and <br>organizations that strive to improve the lives of women and girls around the world. Through <br>cooperation with more than 2,000 organizations and donated more than 15 million U.S. dollars, <br>\"Pink Changes Lives\" has benefited more than 3 million. Women and their families.",
-      "contents":{
-        "content-1":"Mary Kay’s \"Pink Changes Lives\" charity empowerment program donates to organizations dedicated to supporting cancer research, helping to eradicate hunger, protecting survivors of domestic violence, beautifying communities, and participating in many other empowerment efforts for women and girls. In 2020, Mary Kay created the \"Pink Change Life\" award program to recognize influential women around the world who changed their lives, changed history, and made them better.",
-        "content-2":"Long before Monique Coleman made her debut on the big screen with the role of Taylor McKessie in Disney's High School Musical, when she was a young girl, she dreamed of changing the world. Coleman actively promotes the improvement of the social and economic welfare of young people. Most notably, she was appointed as the first \"UN Youth Defender\" in 2010. As a \"defender of youth,\" Coleman makes people more aware of the most serious challenges faced by young women around the world, including poverty, domestic violence, sexual assault, and lack of educational resources.",
-        "content-3":"Mary Kay Chief Marketing Officer Sheryl Adkins-Green said: \"Nearly 16% of the world’s population is between 15 and 24 years old*. When choosing our first \"Pink Change Life\" award winner, we hope to find a way to help A group of 1.2 billion people—especially young people—speakers. Ms. Coleman is a pioneer and a dedicated youth advocate, and undoubtedly fully reflects our mission.”",
-        "content-4":"Over the years, Coleman has been actively supporting various charitable organizations and projects, including Thirst Project, She's The First, Global Kids, Lollipop Theater, Better Youth, WeDay, Playworks, Allstate Foundation, and UN Foundation's Girl Up campaign, etc. Wait. While serving as the \"UN Youth Defender\", she traveled spontaneously to 24 countries, encouraging people to take action on the most pressing issues facing young people today.",
-        "content-5":"Coleman said: \"Today's young girls, especially girls living in underserved communities, are facing unprecedented challenges and at the same time they have unparalleled opportunities. I think the most important job I do is to help others, so I am very It’s an honor to be the first Mary Kay winner of the \"Pink Change Life\" award. I hope that organizations like Mary Kay can continue to help girls around the world realize their potential and embrace a better future.\""
+    "social_welfare": {
+      "page_name": "Social Welfare",
+      "h2": "Mary Kay Company Announces Actress<br>and Philanthropist Monique Coleman Becomes <br>the First \"Pink Changes Life\" Award Winner<br>",
+      "text_body": "Mary Kay Inc., a long-time global leader in women's empowerment, proudly announces that Monique <br>Coleman has become the brand's first \"Pink Change Life\" award winner ( Pink Changing Lives Honoree)<br>. \"Pink changes lives\" is Mary Kay's global commitment. It celebrates individuals and <br>organizations that strive to improve the lives of women and girls around the world. Through <br>cooperation with more than 2,000 organizations and donated more than 15 million U.S. dollars, <br>\"Pink Changes Lives\" has benefited more than 3 million. Women and their families.",
+      "contents": {
+        "content-1": "Mary Kay’s \"Pink Changes Lives\" charity empowerment program donates to organizations dedicated to supporting cancer research, helping to eradicate hunger, protecting survivors of domestic violence, beautifying communities, and participating in many other empowerment efforts for women and girls. In 2020, Mary Kay created the \"Pink Change Life\" award program to recognize influential women around the world who changed their lives, changed history, and made them better.",
+        "content-2": "Long before Monique Coleman made her debut on the big screen with the role of Taylor McKessie in Disney's High School Musical, when she was a young girl, she dreamed of changing the world. Coleman actively promotes the improvement of the social and economic welfare of young people. Most notably, she was appointed as the first \"UN Youth Defender\" in 2010. As a \"defender of youth,\" Coleman makes people more aware of the most serious challenges faced by young women around the world, including poverty, domestic violence, sexual assault, and lack of educational resources.",
+        "content-3": "Mary Kay Chief Marketing Officer Sheryl Adkins-Green said: \"Nearly 16% of the world’s population is between 15 and 24 years old*. When choosing our first \"Pink Change Life\" award winner, we hope to find a way to help A group of 1.2 billion people—especially young people—speakers. Ms. Coleman is a pioneer and a dedicated youth advocate, and undoubtedly fully reflects our mission.”",
+        "content-4": "Over the years, Coleman has been actively supporting various charitable organizations and projects, including Thirst Project, She's The First, Global Kids, Lollipop Theater, Better Youth, WeDay, Playworks, Allstate Foundation, and UN Foundation's Girl Up campaign, etc. Wait. While serving as the \"UN Youth Defender\", she traveled spontaneously to 24 countries, encouraging people to take action on the most pressing issues facing young people today.",
+        "content-5": "Coleman said: \"Today's young girls, especially girls living in underserved communities, are facing unprecedented challenges and at the same time they have unparalleled opportunities. I think the most important job I do is to help others, so I am very It’s an honor to be the first Mary Kay winner of the \"Pink Change Life\" award. I hope that organizations like Mary Kay can continue to help girls around the world realize their potential and embrace a better future.\""
       }
     },
-    "brand_awards":{
+    "brand_awards": {
       "page_name": "Brand Awards",
       "h2": "Mary Kay joins hands with UN agencies to launch women's entrepreneurship<br> accelerator program<br>Actively promote global female entrepreneurship",
       "text_body": "<p>Women's Empowerment and Women's Entrepreneurship Leader Mary Kay launched Women's Entrepreneurship Accelerator<br>in collaboration with UN Women. This multi-partner project aims to motivate and educate entrepreneurial <br>women around the world and help them enhance their power.</p><p>This pioneering project is a strategic cooperation project established in consultation with <br>the six major United Nations agencies, including: UN Women (UN Women), United Nations Partnership Office (UNOP), <br>International Labor Organization (ILO), International Trade Center (ITC), <br>United Nations Global Covenant Organization (UNGC) and United Nations Development Program (UNDP).</p>",
@@ -929,7 +929,7 @@
         },
         "TimeWise3D": {
           "name": "時光精靈/ 時光精靈3D系列",
-          "products": ["pd12", "pd13", "pd14", "pd15", "pd16", "pd17", "pd18", "pd19", "pd20", "pd21", "pd22"]
+          "products": ["pd12", "pd13", "pd14", "pd15", "pd16", "pd17", "pd18", "pd19", "pd20", "pd21", "pd22","pd112"]
         },
         "Naturally": {
           "name": "天然淨活系列",
@@ -941,7 +941,7 @@
         },
         "Supplementary": {
           "name": "補充性保養系列",
-          "products": ["pd31", "pd32", "pd33", "pd34", "pd35", "pd36", "pd37", "pd38"]
+          "products": ["pd31", "pd32", "pd33", "pd34", "pd35", "pd36", "pd37", "pd38","pd111"]
         },
         "LumiVie": {
           "name": "亮采系列",
@@ -982,11 +982,11 @@
         },
         "Lotion_Cream": {
           "name": "乳液/乳霜",
-          "products": ["pd10", "pd11", "pd16", "pd17", "pd22", "pd30", "pd31", "pd32", "pd37", "pd48", "pd56"]
+          "products": ["pd10", "pd11", "pd16", "pd17", "pd22", "pd30", "pd31", "pd32", "pd37", "pd48", "pd56","pd112"]
         },
         "Mask": {
           "name": "面膜",
-          "products": ["pd5", "pd6", "pd13", "pd28", "pd47", "pd52"]
+          "products": ["pd5", "pd6", "pd13", "pd28", "pd47", "pd52","pd111"]
         },
         "Serum_Oil": {
           "name": "精華液/油",
@@ -1434,7 +1434,8 @@
       "video_source": "pc81.mp4",
       "normal_image": null,
       "small_images": {
-        "img_01": "p/c/pc81.jpg"
+        "img_01": "p/c/pc81.jpg",
+        "img_02": "p/c/pc82.jpg"
       },
       "description_image": null
     },
@@ -3244,7 +3245,9 @@
       "price": "HK$228",
       "video_source": null,
       "normal_image": null,
-      "small_images": null,
+      "small_images": {
+        "img_01": "p/f/pf91.jpg"
+      },
       "description_image": null
     },
     "pd112": {
@@ -3261,7 +3264,9 @@
       "price": "HK$428",
       "video_source": "pc.mp4",
       "normal_image": null,
-      "small_images": null,
+      "small_images": {
+        "img_01": "p/c/pc51.jpg"
+      },
       "description_image": null
     },
     "pd113": {
