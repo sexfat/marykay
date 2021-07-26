@@ -121,7 +121,7 @@
 
 <script>
 export default {
-  name: 'AboutMaryAsh',
+  name: 'Social',
   computed: {
     ulList() {
       return this.$i18n.messages[this.$i18n.locale].pages.social.spec.ulList

@@ -36,9 +36,11 @@
                 </div>
                 <div class="content_footer">
                   <p v-html="$t('pages.homepage.s4.slide_1.content_footer')"></p>
-                  <a class="btn-default btn-outline marginauto margin-top_20" href="#">{{
-                    $t('pages.homepage.more_news')
-                  }}</a>
+                  <nuxt-link
+                    :to="localePath('/environmental_protection')"
+                    class="btn-default btn-outline marginauto margin-top_20"
+                    >{{ $t('pages.homepage.more_news') }}</nuxt-link
+                  >
                 </div>
               </div>
               <div class="hoverbox"></div>
@@ -56,9 +58,11 @@
                 </div>
                 <div class="content_footer">
                   <p v-html="$t('pages.homepage.s4.slide_2.content_footer')"></p>
-                  <a class="btn-default btn-outline marginauto margin-top_20" href="#">{{
-                    $t('pages.homepage.more_news')
-                  }}</a>
+                  <nuxt-link
+                    :to="localePath('/brand_awards')"
+                    class="btn-default btn-outline marginauto margin-top_20"
+                    >{{ $t('pages.homepage.more_news') }}</nuxt-link
+                  >
                 </div>
               </div>
               <div class="hoverbox"></div>
@@ -76,9 +80,11 @@
                 </div>
                 <div class="content_footer">
                   <p v-html="$t('pages.homepage.s4.slide_3.content_footer')"></p>
-                  <a class="btn-default btn-outline marginauto margin-top_20" href="#">{{
-                    $t('pages.homepage.more_news')
-                  }}</a>
+                  <nuxt-link
+                    :to="localePath('/social_welfare')"
+                    class="btn-default btn-outline marginauto margin-top_20"
+                    >{{ $t('pages.homepage.more_news') }}</nuxt-link
+                  >
                 </div>
               </div>
               <div class="hoverbox"></div>
