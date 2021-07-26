@@ -835,6 +835,51 @@
       "tech_1":"Richard R. Rogers (R3) Manufacturing",
       "tech_2":"Has won #Beauty 20 Award, an international beauty award, for more than 10 times and recognized as the most innovative brand",
       "tech_3":"possession of the most advanced R & D labs, cutting-edge manufacturing technologies and brand-new modern zero-pollution landfill facilities."
+    },
+    "environmental_protection":{
+      "page_name": "environmental protection",
+      "h2": "<div class=\"text_small\">Mary Kay Chief Operating Officer Deborah Gibbins said:</div>We are a multinational company, <br>and we know that the area that needs support<br>goes far beyond the Gulf of Mexico.",
+      "text_body": "Corporate social responsibility and global leader Mary Kay last year announced a partnership with The Nature<br> Conservancy (The Nature Conservancy), the protection of fisheries and Texas Gulf of Mexico. Today, <br>Mary Kay is proud to announce that the company has further expanded its cooperation with The Nature <br>Conservancy to have a positive impact on global waters and native species.",
+      "box_content": "Mary Kay Chief Operating Officer Deborah Gibbins said: Mary Kay Chief Operating Officer Deborah Gibbins said: \"All life on earth originates from the ocean and depends on the ocean. Water is the most precious resource on the earth. We must do our best to protect it.",
+      "awward_content": "<h2 class=\"h2 font1 margin-bottom_20\">Actively invest in the protection of global oceans ,<br>natural environment and biodiversity</h2>The conservation plan aims to protect the rich and diverse marine life. <br>Mary Kay will support the work of The Nature Conservancy through the following projects:",
+      "sliders":{
+        "slide_1":{
+          "text":"<h5>New Zealand</h5>In New Zealand, Mary Kay and The Nature Conservancy will work with the aborigines to promote sustainable fish farming, including support for the restoration of the Hauraki Gulf in Auckland to restore the number of wild shellfish. And launch a challenge fund to encourage people to provide greater charitable support for wildlife restoration.",
+          "img":"zw.jpg"
+        },
+        "slide_2":{
+          "text":"<h5>Australia</h5>In northern Australia, Mary Kay will work with Aboriginal communities to strengthen women’s role in conservation work, including improving the development of community-based health spaces, working with government and non-government partners to increase the adoption rate of conservation tools, and in the Northern Territory A women’s camp was established at the 445,000-acre Fish River Station.",
+          "img":"au.jpg"
+        },
+        "slide_3":{
+          "text":"<h5>Mexico</h5>In Mexico, Mary Kay and The Nature Conservancy will work with Monterrey Water Fund, which will improve the waters in the area and support local women. These improvements include irrigation systems, substrate research and crop production diversity.",
+          "img":"mx.jpg"
+        },
+        "slide_4":{
+          "text":"<h5>China</h5>In China, Mary Kay and The Nature Conservancy will work hard to protect rural water sources so as to provide clean drinking water for millions of people in China. By 2021, the team will establish five water source production demonstration projects in Zhejiang, Fujian, Guangdong and another province.",
+          "img":"china.jpg"
+        },
+        "slide_5":{
+          "text":"<h5>General Oceans</h5>The partnership will also alleviate plastic pollution in tuna fisheries in the Indo-Pacific Ocean. The two parties will work together with first-class plastic researchers to determine which fishing grounds are the biggest sources of marine pollution, so as to launch high-impact pilot projects to reduce pollution and clean our oceans.",
+          "img":"oversea.jpg"
+        },
+        "slide_6":{
+          "text":"<h5>Solomon Islands</h5>In the Solomon Islands, the two sides will protect sea turtles through ecotourism in the South Pacific led by women. Mary Kay’s donation will help establish a viable and locally operating eco-tourism venture on Arnavon Island, which will strengthen sea turtle conservation and create fair and sustainable financial returns for communities that have the most favorable conditions for protecting endangered soecies.",
+          "img":"so.jpg"
+        },
+        "slide_7":{
+          "text":"<h5>Colombia</h5>Through the Bogota Water Fund, both parties will improve water safety for millions of people in Colombia.",
+          "img":"cob.jpg"
+        },
+        "slide_8":{
+          "text":"<h5>Canada</h5>In Canada, Mary Kay and The Nature Conservancy will support current and future community leaders in traditional fields and strengthen the capabilities of Aboriginal managers. This investment will create a healthy future for these communities and protect their land and water resources for future generations.",
+          "img":"ca.jpg"
+        },
+        "slide_9":{
+          "text":"<h5>Europe</h5>In the UK and Germany, as the two countries introduce native European oysters, the partnership will work to protect biodiversity and marine resources. In Spain, the two sides will establish a water resource fund-Spain currently faces some of the most severe challenges in terms of water scarcity and water quality.",
+          "img":"eu.jpg"
+        }
+      }
     }
   },
   "header_links": {
