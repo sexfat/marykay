@@ -65,6 +65,7 @@
 
 <script>
 export default {
+  name: 'EnvironmentalProtection',
   data() {
     return {
       swiperOptions: {
