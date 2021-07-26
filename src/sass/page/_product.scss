@@ -19,6 +19,7 @@
             color: rgb(255, 255, 255);
             font-size: 1.6rem;
             font-weight: 800;
+
             .st {
                 font-size: 2.6rem;
                 line-height: 2.5rem;
@@ -27,6 +28,12 @@
 
             }
 
+        }
+
+        @include m() {
+            .title {
+                display: none;
+            }
         }
 
         img {
