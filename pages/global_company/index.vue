@@ -27,7 +27,7 @@
           <div class="link">
             <img src="~assets/images/link.svg" alt="" />
           </div>
-          <a :href="value.links"></a>
+          <a target="_blank" :href="value.links"></a>
         </div>
       </div>
     </div>
