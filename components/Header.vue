@@ -114,9 +114,9 @@
                 <li>
                   <nuxt-link to="/">{{ $t('header_links.dm.name') }}</nuxt-link>
                 </li>
-                <li>
+                <!-- <li>
                   <a href="" @click="changeLang"> {{ lang }}</a>
-                </li>
+                </li> -->
               </ul>
             </nav>
           </div>
@@ -133,10 +133,10 @@ export default {
     return {
       menu: null,
       drawer: null,
-      switchLang: {
-        zh: '英文',
-        en: 'chinese',
-      },
+      // switchLang: {
+      //   zh: '英文',
+      //   en: 'chinese',
+      // },
       MmenuLightClose: false,
     }
   },
@@ -171,18 +171,18 @@ export default {
       e.preventDefault()
       this.drawer.open()
     },
-    changeLang(e) {
-      e.preventDefault()
-      const Lang = this.$i18n.locale
-      switch (Lang) {
-        case 'en':
-          this.$i18n.setLocale('zh')
-          break
-        case 'zh':
-          this.$i18n.setLocale('en')
-          break
-      }
-    },
+    // changeLang(e) {
+    //   e.preventDefault()
+    //   const Lang = this.$i18n.locale
+    //   switch (Lang) {
+    //     case 'en':
+    //       this.$i18n.setLocale('zh')
+    //       break
+    //     case 'zh':
+    //       this.$i18n.setLocale('en')
+    //       break
+    //   }
+    // },
     resizeChangMenu() {
       if (window.innerWidth >= '996' && this.MmenuLightClose) {
         window.location.reload()

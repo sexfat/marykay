@@ -84,11 +84,6 @@ export default {
     seo: true,
     locales: [
       {
-        code: 'en',
-        iso: 'en-US',
-        name: 'English',
-      },
-      {
         code: 'zh',
         iso: 'zh-TW',
         name: 'Chinese',
@@ -98,8 +93,7 @@ export default {
     vueI18n: {
       fallbackLocale: 'zh',
       messages: {
-        en: require('./locales/en.json'),
-        zh: require('./locales/zh.json'),
+        zh: require('./locales/tw.json'),
       },
     },
   },
