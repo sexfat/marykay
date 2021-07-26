@@ -188,7 +188,7 @@
           "name": "香氛系列",
           "cn": "香氛系列",
           "header_links": "makeup",
-          "header_img": "series.jpg"
+          "header_img": "me.jpg"
         },
         "Nutrition": {
           "name": "食物補充品",
@@ -196,7 +196,7 @@
           "header_links": "Nutrition",
           "header_img": "sa.jpg"
         },
-        "Hydrophilic": {
+        "Water_loving_Zone": {
           "name": "親水專區",
           "cn": "親水專區",
           "header_links": "skincare",
@@ -208,19 +208,19 @@
           "header_links": "skincare",
           "header_img": "cb.jpg"
         },
-        "Oil_Control": {
+        "Oil_controlling_Zone": {
           "name": "控油專區",
           "cn": "控油專區",
           "header_links": "skincare",
           "header_img": "cc.jpg"
         },
-        "Relief": {
+        "Stress_relieving_Zone": {
           "name": "舒壓專區",
           "cn": "舒壓專區",
           "header_links": "skincare",
-          "header_img": "series.jpg"
+          "header_img": "cd.jpg"
         },
-        "Slug": {
+        "Lazy_Girls_Favorite_Zone": {
           "name": "懶人專區",
           "cn": "懶人專區",
           "header_links": "skincare",
@@ -240,9 +240,9 @@
       "follow": "關注我們",
       "contact_us": "與我們聯繫",
       "customer_service_tel": "玫琳凱服務專線",
-      "tel": "(02) 2735-8088",
-      "contact_style": "免付費服務專線",
-      "contact_way": "0800-033690",
+      "tel": "(852)2923-5733",
+      "contact_style": "電子信箱",
+      "contact_way": "<a href='mailto:info.hk@mkcorp.com'>info.hk@mkcorp.com</a>",
       "related_links": {
         "name": "相關連結",
         "links": {
@@ -939,7 +939,7 @@
     "skincare": {
       "name": "護膚專區",
       "series": {
-        "Hydrophilic": {
+        "Water_loving_Zone": {
           "name": "親水專區",
           "products": ["pd13", "pd14", "pd31", "pd33", "pd34", "pd60", "pd101"]
         },
@@ -947,15 +947,15 @@
           "name": "逆齡專區",
           "products": ["pd113", "pd1", "pd9", "pd6", "pd15", "pd108", "pd105"]
         },
-        "Oil_Control": {
+        "Oil_controlling_Zone": {
           "name": "控油專區",
           "products": ["pd38", "pd52", "pd55", "pd59", "pd114"]
         },
-        "Relief": {
+        "Stress_relieving_Zone": {
           "name": "舒壓專區",
           "products": ["pd22", "pd25", "pd34", "pd42", "pd44", "pd50"]
         },
-        "Slug": {
+        "Lazy_Girls_Favorite_Zone": {
           "name": "懶人專區",
           "products": ["pd115", "pd12", "pd13", "pd36", "pd62", "pd110"]
         }

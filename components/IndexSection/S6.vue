@@ -5,36 +5,17 @@
         <b>Follow Us</b>
       </h1>
       <h3>
-        <a href="#">@marykaytaiwan</a>
+        <a target="_blank" href="https://www.instagram.com/marykayhongkong/">@marykaytaiwan</a>
       </h3>
     </div>
     <div class="body margin-top_50">
       <div class="silder_ig swiper-container">
         <Swiper ref="s4Swiper" :options="swiperOptions">
-          <Swiper-slide v-for="item in 8" :key="item">
-            <img src="~assets/images/img_ig-01@1x.jpg" alt="" srcset="" />
+          <Swiper-slide v-for="(item, index) in Object.entries(igData)" :key="item">
+            <a target="_blank" :href="item[1]">
+              <img :src="require(`~/assets/images/ig/${index + 1}.jpeg`)" alt="" srcset=""
+            /></a>
           </Swiper-slide>
-          <!-- <div class="swiper-slide">
-            <img src="~assets/images/img_ig-01@1x.jpg" alt="" srcset="" />
-          </div>
-          <div class="swiper-slide">
-            <img src="~assets/images/img_ig-01@1x.jpg" alt="" srcset="" />
-          </div>
-          <div class="swiper-slide">
-            <img src="~assets/images/img_ig-01@1x.jpg" alt="" srcset="" />
-          </div>
-          <div class="swiper-slide">
-            <img src="~assets/images/img_ig-01@1x.jpg" alt="" srcset="" />
-          </div>
-          <div class="swiper-slide">
-            <img src="~assets/images/img_ig-01@1x.jpg" alt="" srcset="" />
-          </div>
-          <div class="swiper-slide">
-            <img src="~assets/images/img_ig-01@1x.jpg" alt="" srcset="" />
-          </div>
-          <div class="swiper-slide">
-            <img src="~assets/images/img_ig-01@1x.jpg" alt="" srcset="" />
-          </div> -->
         </Swiper>
       </div>
     </div>
@@ -59,6 +40,17 @@ export default {
             spaceBetween: 10,
           },
         },
+      },
+      igData: {
+        link_1: 'https://www.instagram.com/p/CRqrAC9jyt0/',
+        link_2: 'https://www.instagram.com/p/CRoGFLsDwn_/',
+        link_3: 'https://www.instagram.com/p/CRlfU2WDsoM/',
+        link_4: 'https://www.instagram.com/p/CRgWshfDkr9/',
+        link_5: 'https://www.instagram.com/p/CRbQP3gDLrc/',
+        link_6: 'https://www.instagram.com/p/CRTqrHCjcTt/',
+        link_7: 'https://www.instagram.com/p/CROS6W6DuWq/',
+        link_8: 'https://www.instagram.com/p/CRGpWAZjHOf/',
+        link_9: 'https://www.instagram.com/p/CRD-euxDfzc/',
       },
     }
   },

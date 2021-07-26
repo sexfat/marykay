@@ -188,7 +188,7 @@
           "name": "Fragrance",
           "cn": "香氛系列",
           "header_links": "makeup",
-          "header_img": "series.jpg"
+          "header_img": "me.jpg"
         },
         "Nutrition": {
           "name": "Nutrition",
@@ -196,8 +196,8 @@
           "header_links": "Nutrition",
           "header_img": "sa.jpg"
         },
-        "Hydrophilic": {
-          "name": "Hydrophilic",
+        "Water_loving_Zone": {
+          "name": "Water-loving Zone",
           "cn": "親水專區",
           "header_links": "skincare",
           "header_img": "ca.jpg"
@@ -208,20 +208,20 @@
           "header_links": "skincare",
           "header_img": "cb.jpg"
         },
-        "Oil_Control": {
-          "name": "Oil Control",
+        "Oil_controlling_Zone": {
+          "name": "Oil-controlling Zone",
           "cn": "控油專區",
           "header_links": "skincare",
           "header_img": "cc.jpg"
         },
-        "Relief": {
-          "name": "Relief",
+        "Stress_relieving_Zone": {
+          "name": "Stress-relieving Zone",
           "cn": "舒壓專區",
           "header_links": "skincare",
-          "header_img": "series.jpg"
+          "header_img": "cd.jpg"
         },
-        "Slug": {
-          "name": "Slug",
+        "Lazy_Girls_Favorite_Zone": {
+          "name": "Lazy Girls’ Favorite Zone",
           "cn": "懶人專區",
           "header_links": "skincare",
           "header_img": "ce.jpg"
@@ -939,7 +939,7 @@
     "skincare": {
       "name": "Skin Care",
       "series": {
-        "Hydrophilic": {
+        "Water_loving_Zone": {
           "name": "親水專區",
           "products": ["pd13", "pd14", "pd31", "pd33", "pd34", "pd60", "pd101"]
         },
@@ -947,15 +947,15 @@
           "name": "逆齡專區",
           "products": ["pd113", "pd1", "pd9", "pd6", "pd15", "pd108", "pd105"]
         },
-        "Oil_Control": {
+        "Oil_controlling_Zone": {
           "name": "控油專區",
           "products": ["pd38", "pd52", "pd55", "pd59", "pd114"]
         },
-        "Relief": {
+        "Stress_relieving_Zone": {
           "name": "舒壓專區",
           "products": ["pd22", "pd25", "pd34", "pd42", "pd44", "pd50"]
         },
-        "Slug": {
+        "Lazy_Girls_Favorite_Zone": {
           "name": "懶人專區",
           "products": ["pd115", "pd12", "pd13", "pd36", "pd62", "pd110"]
         }
