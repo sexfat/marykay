@@ -11,7 +11,6 @@
     </div>
     <div class="container white">
       <h3 class="h3">{{ $t('pages.global_privacy.page_name') }}</h3>
-
       <div class="privacy_inner">
         <div class="text_inner margin-bottom_50" v-html="$t('pages.global_privacy.text_inner')"></div>
         <div v-for="(value, key) in contentData" :key="key">

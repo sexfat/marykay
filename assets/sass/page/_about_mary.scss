@@ -1,7 +1,8 @@
 .about_marykay {
-@include m() {
+    @include m() {
         overflow-x: hidden;
     }
+
     .breadcrumbs {
         margin-bottom: 20px;
     }
@@ -11,6 +12,7 @@
         width: 100%;
         overflow: hidden;
         position: relative;
+
         @include t() {
             height: auto;
         }
@@ -23,7 +25,8 @@
         img {
             object-fit: cover;
             height: 560px;
-             @include t() {
+
+            @include t() {
                 height: auto;
                 width: 100%;
             }
@@ -33,9 +36,11 @@
     .about_marykay_inner {
         position: relative;
         height: 0;
-         @include m() {
+
+        @include m() {
             padding: 0 15px;
         }
+
         @include t() {
             height: auto;
             margin-bottom: 78px;
@@ -45,6 +50,7 @@
             position: absolute;
             left: 50%;
             top: -460px;
+
             @include t() {
                 position: relative;
                 left: initial;
@@ -71,15 +77,22 @@
             position: relative;
             top: 40%;
             width: 280px;
-            @include t(){
-             top: 0px;
-              width: 200px;
-              margin-bottom: 20px;
+
+            @include t() {
+                top: 0px;
+                width: 200px;
+                margin-bottom: 20px;
             }
         }
+
         h4 {
-         width: 300px;
-         margin: 0 auto 30px;
+        text-align: left;
+            @include m() {
+                width: 300px;
+                margin: 0 auto 30px;
+
+            }
+
         }
     }
 
@@ -117,22 +130,25 @@
             padding: 60px 100px;
             box-shadow: 3px 3px 15px rgb(223, 200, 200);
             text-align: center;
-            @include t(){
-               width: 85%;
-               padding: 60px 15px;
+
+            @include t() {
+                width: 85%;
+                padding: 60px 15px;
             }
 
             .text-body {
                 margin-top: 50px;
                 line-height: 1.8rem;
-                @include t(){
-                  text-align: left;
+
+                @include t() {
+                    text-align: left;
                 }
             }
+
             img {
-              margin-top:20px ;
-               width: 100%;
-               max-width: 307px;
+                margin-top: 20px;
+                width: 100%;
+                max-width: 307px;
             }
 
             // .solgan {
@@ -147,48 +163,58 @@
     }
 
     .bottom_content {
-       max-width: 1380px;
-       margin: 0 auto;
-       margin-top: 80px;
-       text-align: center;
-          @include m() {
+        max-width: 1380px;
+        margin: 0 auto;
+        margin-top: 80px;
+        text-align: center;
+
+        @include m() {
             padding: 0 15px;
         }
+
         .titles {
             width: 60%;
             max-width: 570px;
             margin: 0 auto;
+
             h1 {
-            font-size: 1.1rem;
+                font-size: 1.1rem;
             }
-            @include t(){
-               width: 100%;
-               h1{
-                 line-height: 24px;
-                 font-size: .6rem;
-               }
+
+            @include t() {
+                width: 100%;
+
+                h1 {
+                    line-height: 24px;
+                    font-size: .6rem;
+                }
             }
         }
-        .subtitles  {
-          font-size: initial;
-          margin-top: 40px;
-          line-height: 1.5rem;
+
+        .subtitles {
+            font-size: initial;
+            margin-top: 40px;
+            line-height: 1.5rem;
         }
-        .inner > img {
-           height: 340px;
-           margin-bottom: 30px; 
-           object-fit: cover;
+
+        .inner>img {
+            height: 340px;
+            margin-bottom: 30px;
+            object-fit: cover;
 
         }
-        .inner > .specs {
-          object-fit: cover;
-          height: 340px;
-          object-position:top;
+
+        .inner>.specs {
+            object-fit: cover;
+            height: 340px;
+            object-position: top;
         }
-        .inner > div {
-          padding: 22px;
-          min-height: 150px;
+
+        .inner>div {
+            padding: 22px;
+            min-height: 150px;
         }
+
         // .inner {
         // }
     }

@@ -768,7 +768,26 @@
         }
       }
     },
-    "customer": {},
+    "customer": {
+      "page_name": "Customer Satisfaction Guarantee and Product Replacement Service",
+      "text_inner": "<h5>*The satisfaction guarantee of Mary Kay is as follows:</h5>Mary Kay Inc. acts as an independent beauty consultant of MARY KAY to guarantee the quality of the products sold. If you are dissatisfied with any product of Mary Kay for any reason, you can return the product to the designated qualified independent beauty consultant for replacement, change for free or for full refund at the original price. If she is no longer an active independent beauty consultant, you are required to submit the proof of purchase to the Company. <br><br>Based on the above principle of “Customer Satisfaction Guarantee”, product replacement only applies to products sold to customers within 60 days, and product replacement does not apply to unsold products.",
+      "h5": "* Product Replacement Regulations and Procedures:",
+      "text_small": "* The Customer Satisfaction Guarantee described above and the replaceable products include skin care and makeup only. For other types of products such as beauty equipment or other products, please replace and maintain them (if any) in accordance with the relevant individual guidelines. Besides, beauty equipment can only be replaced in person at the beauty center. The Company reserves the right of final decision and interpretation.",
+      "contents": {
+        "content-1": {
+          "name": "Product replacement only applies to the following:",
+          "text": "1. The product return or replacement can be made to beauty consultant if product defects are found at the time of unpacking the products; or <br>2. The product return or replacement can be made to beauty consultant if allergies or discomforts occur after the use of products;"
+        },
+        "content-2": {
+          "name": "Principle of Product Replacement by Beauty Consultant:",
+          "text": "The products to be replaced must be within 90 days from the date of purchase by the beauty consultant and within 60 days from the date stated on the customer’s purchase receipt; <br>For the unpacked products required to be replaced, the remaining content should not be less than 2/3 of the original content<br>The unit price and number of products replaced must be exactly the same;<br>For makeup products, they must be replaced with the same product of the same color;<br>The validity period of product to be replaced should not be less than half a year;<br>Product already replaced cannot be replaced once again;<br>The replacement only applies to products in Part I;<br>The products which can be replaced does not include: products that have been misused or deliberately damaged or stored improperly, such as by exposure to the sun or freezing;"
+        },
+        "content-3": {
+          "name": "Product Replacement Procedures:",
+          "text": "<h5>1. First of all, the following (A to E) data should be emailed to  info.hk@mkcorp.com to apply for product replacement.</h5>A. Photo of defective product. The photo must clearly display the problem of the product and codes composed of 4 digits and letters at the bottom of the product.<br>B. Relevant receipt<br>C. The Product Return and Replacement Application Form and Customer Questionnaire Survey completed; the form can be downloaded from Commonly Used Forms in Zone “Mary Kay Window”<br>D. If any product item has been refunded or returned and replaced to the customer, a valid purchase receipt indicating the item of replacement and signed by the customer shall be submitted<br>E. If a replacement is required due to the customer’s allergy or discomfort, the proof of the customer’s skin condition should be submitted<br><h5>2. Internal review and approval will be conducted upon the receipt of data by the Company.</h5><h5>3. The Company will inform the beauty consultant whether the product is qualified for replacement via email or on phone call.</h5>• Qualified for replacement: the collecting date of products successfully replaced will be notified. On the date of collection, the beauty consultant must take the data as specified from 1B to 1E and defective product to Jordan Beauty Center.<br>• Disqualified for replacement: the reason of disqualifying or the further data required will be informed<br><h5>4. Guidance on product collection date:</h5>• In case that the review and approval are completed before Wednesday, the product replaced will be collected on or after the next Wednesday<br>• In case that the review and approval are completed after Wednesday, the product replaced will be collected on or after the second Wednesday<br>• The beauty consultant shall collect the product within 1 month after the receipt of the collection notice; if overdue, the replacement application will be canceled"
+        }
+      }
+    },
     "technological_innovation": {
       "title": "Scientific Research Innovation"
     }

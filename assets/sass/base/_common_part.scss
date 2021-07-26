@@ -246,3 +246,21 @@ h3 {
     }
 
 }
+
+.accordion-content {
+  color: rgb(157, 157, 157) !important;
+}
+
+.w996 {
+  width: 100%;
+  max-width: 996px; 
+  margin: 0 auto;
+}
+
+
+p {
+ margin: 15px 0;
+ @include m(){
+   margin: 19px 0;   
+ }
+}
