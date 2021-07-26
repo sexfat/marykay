@@ -102,7 +102,6 @@
 
 <script>
 export default {
-  name: 'S4',
   data() {
     return {
       swiperOptions: {

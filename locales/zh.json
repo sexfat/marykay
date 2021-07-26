@@ -30,6 +30,43 @@
           "h3": "社會公益與慈善",
           "content_footer": "首位Pink Changing Lives Honoree得主 Monique Coleman"
         }
+      },
+      "s5":{
+        "search_more":"探索更多",
+        "learn_more":"了解更多",
+        "text":"止不住的臉紅心跳時刻 肌膚今天開始戀愛 5分鐘放閃 飆速靚亮 肌膚從內而外透出粉紅細緻光澤",
+        "slides":{
+          "slide_1":{
+            "img":"b_01.png",
+            "title":"親水專區",
+            "path":"/products/Water_loving_Zone",
+            "description":"你知道嗎? 保濕要做到補水，保水，鎖水三個步驟才算完整!不管乾肌油肌都需要，最完整的保濕聖品就在親水區，快來幫肌膚補足滿水位吧!"
+          },
+          "slide_2":{
+            "img":"b_02.png",
+            "title":"逆齡專區",
+            "path":"/products/Reverse_Age",
+            "description":"港版缺少該專區內容幫忙補上"
+          },
+          "slide_3":{
+            "img":"b_03.png",
+            "title":"控油專區",
+            "path":"/products/Oil_controlling_Zone",
+            "description":"8分鐘就能讓粉刺痘痘掰掰的面膜，讓底妝光滑舒爽的飾底凝露等各種應付出油煎蛋肌對策通通在這裡!"
+          },
+          "slide_4":{
+            "img":"b_05.png",
+            "title":"紓壓專區",
+            "path":"/products/Stress_relieving_Zone",
+            "description":"療癒的香氛，棉花糖般的舒緩乳霜，每天給自己來一段儀式感的保養小時光，釋放一天的疲憊，讓肌膚彷彿重獲新生吧!"
+          },
+          "slide_5":{
+            "img":"b_06.png",
+            "title":"懶人專區",
+            "path":"/products/Lazy_Girls_Favorite_Zone",
+            "description":"沒時間保養? 只想倒頭就睡? 回家就攤在沙發上?懶人專區的保養品是你最佳小幫手，一步驟達到多種功效，睡覺也能同時保養等各種神奇好物幫助你，誰說偷懶不能也很美!"
+          }
+        }
       }
     },
     "series_page": {
@@ -789,7 +826,15 @@
       }
     },
     "technological_innovation": {
-      "title": "科研創新"
+      "title": "科研創新",
+      "li_1":"超過200項優質產品，包括護膚品、彩妝、身體護理、防曬、香水及營養保健品",
+      "li_2":"超過200位來自各領域科學家的研發團隊",
+      "li_3":"每年耗資數百萬美元研發，擁有1,500＋專利項目",
+      "li_4":"每年超過50萬次試驗確保產品安全性及功效",
+      "li_5":"投資超過一億美元建設占地超過42000平方米的R3全球製造與研發中心，擁有最先進的研發實驗室、尖端的製造技術，還擁有全新的現代化的零污染填埋設施",
+      "tech_1":"美國達拉斯R3實驗室",
+      "tech_2":"超過10次獲得#Beauty 20 award國際美妝大賞，被視為最具創新品牌",
+      "tech_3":"多項產品獲得#Goodhousekeeping 國際美妝雜誌標章認可"
     }
   },
   "header_links": {

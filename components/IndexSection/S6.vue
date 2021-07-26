@@ -11,7 +11,7 @@
     <div class="body margin-top_50">
       <div class="silder_ig swiper-container">
         <Swiper ref="s4Swiper" :options="swiperOptions">
-          <Swiper-slide v-for="(item, index) in Object.entries(igData)" :key="item">
+          <Swiper-slide v-for="(item, index) in Object.entries(igData)" :key="item[0]">
             <a target="_blank" :href="item[1]">
               <img :src="require(`~/assets/images/ig/${index + 1}.jpeg`)" alt="" srcset=""
             /></a>

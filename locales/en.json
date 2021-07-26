@@ -30,6 +30,43 @@
           "h3": "Social Welfare and Charity",
           "content_footer": "First winner of Pink Changing Lives Honoree Monique Coleman Monique Coleman"
         }
+      },
+      "s5":{
+        "search_more":"More",
+        "learn_more":"More",
+        "text":"Moments of uncontrollable love Make your skin lovable today Make yourself radiant and gorgeous in 5 minutes Make your skin rosy, delicate and shiny from within",
+        "slides":{
+          "slide_1":{
+            "img":"b_01.png",
+            "title":"Water-loving Zone",
+            "path":"/products/Water_loving_Zone",
+            "description":"Do you know no matter dry or oily skin, it takes three steps of water replenishment, water retention, and water locking to complete skin moisturizing? The most complete moisturizing products are available at Water-loving Zone. Come and hydrate your skin!"
+          },
+          "slide_2":{
+            "img":"b_02.png",
+            "title":"Reverse_Age",
+            "path":"/products/Reverse_Age",
+            "description":"港版缺少該專區內容幫忙補上英文翻譯"
+          },
+          "slide_3":{
+            "img":"b_03.png",
+            "title":"Oil-controlling Zone",
+            "path":"/products/Oil_controlling_Zone",
+            "description":"It takes you only 8 minutes to say goodbye to acne and pimples by using our masks. Here, you can find primers making your foundation smooth and comfortable as well as all the solutions to oily skin."
+          },
+          "slide_4":{
+            "img":"b_05.png",
+            "title":"Stress-relieving Zone",
+            "path":"/products/Stress_relieving_Zone",
+            "description":"Give yourself several precious hours of skin care each day with our therapeutic fragrance and soothing cream to relieve yourself from tiredness throughout the day and revitalize your skin!"
+          },
+          "slide_5":{
+            "img":"b_06.png",
+            "title":"Lazy Girls’ Favorite Zone",
+            "path":"/products/Lazy_Girls_Favorite_Zone",
+            "description":"Have no time for skin care? Wanna go to bed as soon as you go home? Wanna lie down on the sofa at the time of arriving home? The skincare products available at Lazy Gail’s Favorite Zone will be your best helper. With various amazing nourishment, multiple effects will be achieved just in one step so that your skill will be cared when you are sleeping. Who says it’s impossible for lazy girls to be beautiful?"
+          }
+        }
       }
     },
     "series_page": {
@@ -789,7 +826,15 @@
       }
     },
     "technological_innovation": {
-      "title": "Scientific Research Innovation"
+      "title": "Scientific Research Innovation",
+      "li_1":"More than 200 quality products, including skin care products, cosmetics, body care products, sunscreen products, perfumes and dietary supplements.",
+      "li_2":"The R & D team composed of more than 200 scientists from all walks of life",
+      "li_3":"Annual investment of millions of dollars in R & D. Possession of more than 1,500 patented items .",
+      "li_4":"More than half a million tests a year to ensure product safety and effects.",
+      "li_5":"Investment of more than $100 million in the construction of the R3 Global Manufacturing and R&D Center covering an area of more than 42,000 square meters; possession of the most advanced R & D labs, cutting-edge manufacturing technologies and brand-new modern zero-pollution landfill facilities.",
+      "tech_1":"Richard R. Rogers (R3) Manufacturing",
+      "tech_2":"Has won #Beauty 20 Award, an international beauty award, for more than 10 times and recognized as the most innovative brand",
+      "tech_3":"possession of the most advanced R & D labs, cutting-edge manufacturing technologies and brand-new modern zero-pollution landfill facilities."
     }
   },
   "header_links": {

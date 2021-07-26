@@ -1,3 +1,9 @@
+/*  
+  domain下如果有子資料夾，請在Path裡增加
+  ex: https://host.com/yourPath   Path = '/yourPath/'
+*/
+const Path = ''
+
 export default {
   // Target: https://go.nuxtjs.dev/config-target
   target: 'static',
@@ -66,7 +72,7 @@ export default {
     },
   },
   router: {
-    // base: '/dist/',
+    base: Path,
   },
   server: {
     port: 6601, // default: 3000
