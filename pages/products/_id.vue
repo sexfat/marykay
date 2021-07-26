@@ -19,14 +19,12 @@
           <nuxt-link
             :to="{ name: `products-series-id___${$i18n.locale}`, params: { id: item, series: id } }"
           ></nuxt-link>
-          <img :src="require(`~/assets/images/HK/${products[item].small_images.img_01}`)" alt="" />
+          <img :src="require(`~/assets/images/TW/${products[item].small_images.img_01}`)" alt="" />
           <dl>
             <dd>
               {{ $t(`products.${item}.name`) }}
             </dd>
-            <dt>
-              {{ $t(`products.${item}.price`) }}
-            </dt>
+            <dt>${{ $t(`products.${item}.price`) }}</dt>
           </dl>
         </li>
       </ul>

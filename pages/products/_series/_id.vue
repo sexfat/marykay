@@ -22,7 +22,7 @@
               <li v-for="(item, index) in productData.small_images" :key="index">
                 <img
                   :ref="index"
-                  :src="require(`~/assets/images/HK/${item}`)"
+                  :src="require(`~/assets/images/TW/${item}`)"
                   alt=""
                   srcset=""
                   @click="mainImgChanging(index)"
@@ -38,7 +38,7 @@
             <h2>{{ $t(`${path}.name`) }}</h2>
             <div class="total">
               <span class="weight" v-html="$t(`${path}.capacity`)"></span> /
-              <span class="prices">{{ $t(`${path}.price`) }}</span>
+              <span class="prices">${{ $t(`${path}.price`) }}</span>
             </div>
             <div class="desc" v-html="$t(`${path}.description`)"></div>
             <!-- <div class="btn_buy">如何購買</div> -->
@@ -61,7 +61,7 @@
           <h3>{{ $t('pages.product_page.video') }}</h3>
           <div class="video">
             <video autoplay="autoplay" poster="" preload="auto" loop playsinline muted>
-              <source :src="require(`~/assets/images/video/${productData.video_source}`)" type="video/mp4" />
+              <source :src="require(`~/assets/images/TW_video/${productData.video_source}`)" type="video/mp4" />
             </video>
           </div>
         </section>
