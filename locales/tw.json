@@ -73,156 +73,187 @@
       "series": {
         "Naturally": {
           "name": "澄淨甦活系列",
+          "en": "Naturally",
           "header_links": "product_series",
           "header_img": "pd.jpg"
         },
         "TimeWise3D": {
           "name": "時光3D系列",
+          "en": "TimeWise3D",
           "header_links": "product_series",
           "header_img": "pc.jpg"
         },
         "Botanical_Effects": {
           "name": "植物肌密系列",
+          "en": "Botanical Effects",
           "header_links": "product_series",
           "header_img": "pe.jpg"
         },
         "Energy": {
           "name": "幻時能量系列",
+          "en": "Energy",
           "header_links": "product_series",
           "header_img": "pf.jpg"
         },
         "TimeWise": {
           "name": "時光精靈系列",
+          "en": "TimeWise",
           "header_links": "product_series",
           "header_img": "ph.jpg"
         },
         "LumiVie": {
           "name": "亮采黑能亮系列",
+          "en": "LumiVie",
           "header_links": "product_series",
           "header_img": "pg.jpg"
         },
         "Clear_Proof": {
           "name": "淨顏系列",
+          "en": "Clear Proof",
           "header_links": "product_series",
           "header_img": "pi.jpg"
         },
         "Shea_Butter": {
           "name": "乳木果系列",
+          "en": "Shea Butter",
           "header_links": "product_series",
           "header_img": "pk.jpg"
         },
         "MK_Men": {
           "name": "男士系列",
+          "en": "MK Men",
           "header_links": "product_series",
           "header_img": "pj.jpg"
         },
         "Remover": {
           "name": "卸妝",
+          "en": "Remover",
           "header_links": "product_features",
           "header_img": "fa.jpg"
         },
         "Cleansing": {
           "name": "潔顏",
+          "en": "Cleansing",
           "header_links": "product_features",
           "header_img": "fb.jpg"
         },
         "Lotion": {
           "name": "化妝水",
+          "en": "Lotion",
           "header_links": "product_features",
           "header_img": "fc.jpg"
         },
         "Lotion_Cream": {
           "name": "乳液/乳霜",
+          "en": "Lotion Cream",
           "header_links": "product_features",
           "header_img": "fd.jpg"
         },
         "Mask": {
           "name": "面膜",
+          "en": "Mask",
           "header_links": "product_features",
           "header_img": "fe.jpg"
         },
         "Serum_Oil": {
           "name": "精華液/油",
+          "en": "Serum Oil",
           "header_links": "product_features",
           "header_img": "ff.jpg"
         },
         "Sun_Care": {
           "name": "身體防曬/保養",
+          "en": "Sun Care",
           "header_links": "product_features",
           "header_img": "fg.jpg"
         },
         "Eye_Lips_Care": {
           "name": "眼唇保養",
+          "en": "Eye&Lips Care",
           "header_links": "product_features",
           "header_img": "fh.jpg"
         },
         "Targeted_Solutions": {
           "name": "特殊護理",
+          "en": "Targeted Solutions",
           "header_links": "product_features",
           "header_img": "fi.jpg"
         },
         "Skin_Care_Tools": {
           "name": "美容儀器",
+          "en": "Skin Care Tools",
           "header_links": "product_features",
           "header_img": "fj.jpg"
         },
         "Face": {
           "name": "臉部系列",
+          "en": "Face",
           "header_links": "makeup",
           "header_img": "mb.jpg"
         },
         "Eyes": {
           "name": "眼部系列",
+          "en": "Eyes",
           "header_links": "makeup",
           "header_img": "mc.jpg"
         },
         "Lips": {
           "name": "唇部系列",
+          "en": "Lips",
           "header_links": "makeup",
           "header_img": "ma.jpg"
         },
         "Fragrance": {
           "name": "香氛系列",
+          "en": "Fragrance",
           "header_links": "makeup",
           "header_img": "me.jpg"
         },
         "Tools": {
           "name": "彩妝工具",
+          "en": "Tools",
           "header_links": "makeup",
           "header_img": "md.jpg"
         },
         "Nutrition": {
           "name": "調養品",
+          "en": "Nutrition",
           "header_links": "Nutrition",
           "header_img": "sa.jpg"
         },
         "Water_loving_Zone": {
           "name": "親水專區",
+          "en": "Water-loving Zone",
           "header_links": "skincare",
           "header_img": "ca.jpg"
         },
         "Skin_nourishing_Zone": {
           "name": "養膚專區",
+          "en": "Skin-nourishing Zone",
           "header_links": "skincare",
           "header_img": "cb.jpg"
         },
         "Oil_controlling_Zone": {
           "name": "掃油專區",
+          "en": "Oil-controlling Zone",
           "header_links": "skincare",
           "header_img": "cc.jpg"
         },
         "Stress_relieving_Zone": {
           "name": "舒壓專區",
+          "en": "Stress-relieving Zone",
           "header_links": "skincare",
           "header_img": "cd.jpg"
         },
         "Lazy_Girls_Favorite_Zone": {
           "name": "懶人專區",
+          "en": "Lazy Girls' Favorite Zone",
           "header_links": "skincare",
           "header_img": "ce.jpg"
         },
         "Skin_Test": {
           "name": "肌膚檢測",
+          "en": "Skin Test",
           "header_links": "skincare",
           "header_img": "ce.jpg"
         }
