@@ -37,21 +37,21 @@
 // 英文字體
 @font-face {
   font-family: 'marykay-bold';
-  src: url('../fonts/MaryKaySans-Bold.otf') format('otf');
+  src: url('../fonts/MaryKaySans-Bold.otf') format('opentype');
   font-weight: bold;
   // src: local("Arial"),
 }
 
 @font-face {
   font-family: 'marykay';
-  src: url('../fonts/MaryKaySans-Medium.otf') format('otf');
+  src: url('../fonts/MaryKaySans-Medium.otf') format('opentype');
   font-weight: normal;
   // src: local("Arial"),
 }
 
 @font-face {
   font-family: 'marykay-light';
-  src: url('../fonts/MaryKaySans-Light.otf') format('otf');
+  src: url('../fonts/MaryKaySans-Light.otf') format('opentype');
   font-weight: lighter;
   // src: local("Arial"),
 }
@@ -78,7 +78,7 @@ body {
 }
 
 .h2 {
-  font-family: 'Lato', sans-serif;
+  font-family: 'marykay-bold', sans-serif;
   font-size: 46px;
   font-weight: 900;
   line-height: 2.8rem;
@@ -93,7 +93,7 @@ body {
 }
 
 .h3 {
-  font-family: 'Lato', sans-serif;
+  font-family: 'marykay-bold', sans-serif;
   font-size: 36px !important;
   // font-weight: 900 !important;
   line-height: 2.8rem;
