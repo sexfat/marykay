@@ -39,11 +39,13 @@
 
         @include m() {
             padding: 0 15px;
+            margin-top: -10px;
         }
 
         @include t() {
             height: auto;
-            margin-bottom: 78px;
+            padding-bottom: 108px;
+            background-color: #FFDBEC;
         }
 
         .text_head {
@@ -71,11 +73,9 @@
         padding: 100px 0;
         color: #000;
         text-align: center;
-
-
+        
         img.logo {
             position: relative;
-            top: 40%;
             width: 280px;
 
             @include t() {
@@ -95,6 +95,13 @@
             }
 
         }
+        .pinkbox {
+          position: relative;
+          top: 50%;
+          transform: translateY(-50%);
+
+
+        }
     }
 
     .spec_2 {
@@ -103,6 +110,10 @@
         background-color: #FFDBEC;
         overflow: hidden;
         position: relative;
+         @include m(){
+              height: auto;  
+              overflow: initial;
+            }
 
 
         img {
@@ -115,6 +126,10 @@
             position: absolute;
             max-width: 580px;
             width: 100%;
+             @include m(){
+              position: relative;  
+            }
+           
 
 
 
@@ -138,10 +153,12 @@
     }
 
     .bottom {
-      margin-bottom: 100px;
-      @include m(){
-         padding: 0 15px;
-      }
+        margin-bottom: 100px;
+
+        @include m() {
+            padding: 0 15px;
+        }
+
         .list {
             background-color: #FCA0C9;
             color: #fff;
@@ -164,11 +181,12 @@
             }
 
         }
+
         .flex {
-         @include m(){
-           flex-wrap: wrap;
-         }   
-        } 
+            @include m() {
+                flex-wrap: wrap;
+            }
+        }
     }
 
     .swiper_pink {
@@ -180,6 +198,13 @@
             top: 50%;
             transform: translateY(-50%);
             left: 10%;
+            max-width: 750px;
+
+            @include m() {
+                transform: translate(-50%, -50%);
+                left: 50%;
+                width: 350px;
+            }
 
             h4 {
                 margin-bottom: 30px;
@@ -187,11 +212,29 @@
 
         }
 
-        .swiper-button-next {
-            right: 10px;
+        .swiper-slide {
+            img {
+                height: auto;
+                width: 100%;
+                object-fit: cover;
+            }
+
+            @include m() {
+                img {
+                    height: 700px;
+                    width: 100%;
+                    object-fit: cover;
+
+                }
+            }
         }
+
+        .swiper-button-next {
+            right: 25px;
+        }
+
         .swiper-button-prev {
-           left: 20px;
-         }
+            left: 20px;
+        }
     }
 }
