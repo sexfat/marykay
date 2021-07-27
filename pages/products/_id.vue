@@ -3,8 +3,8 @@
     <!-- 上方banner -->
     <div class="product_banner container-fluid gx-0">
       <img :src="require(`~/assets/images/HK_prodBanner/${bannerImgSrc}`)" alt="" />
-      <h1 class="title container-xxl">
-        <div class="st">{{ $i18n.messages['en'].pages.series_page.series[id].name }}</div>
+      <h1 class="title container-xxl" :class="{ '-black': $i18n.messages['zh'].pages.series_page.series[id].black }">
+        <div class="st">{{ $i18n.messages['en'].pages.series_page.series[id].banner_title }}</div>
         {{ $i18n.messages['zh'].pages.series_page.series[id].name }}
       </h1>
     </div>
@@ -70,3 +70,9 @@ export default {
   },
 }
 </script>
+
+<style lang="scss">
+.-black {
+  color: black !important;
+}
+</style>

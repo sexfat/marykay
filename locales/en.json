@@ -74,192 +74,224 @@
         "Youthfinity": {
           "name": "Youthfinity",
           "cn": "臻時粹顏系列",
+          "banner_title":"YOUTHFINITY",
           "header_links": "product_series",
           "header_img": "pa.jpg"
         },
         "TimeWise_Repair": {
           "name": "TimeWise Repair",
           "cn": "時光精靈Repair系列",
+          "banner_title":"TIMEWISE REPAIR",
           "header_links": "product_series",
           "header_img": "pb.jpg"
         },
         "TimeWise3D": {
-          "name": "TimeWise Moisture Renewing/TimeWise® Age Minimize 3D™",
-          "cn": "時光精靈/ 時光精靈3D系列",
+          "name": "TimeWise",
+          "cn": "TimeWise/TimeWise3D",
+          "banner_title":"TIMEWISE",
           "header_links": "product_series",
           "header_img": "pc.jpg"
         },
         "Naturally": {
           "name": "Naturally",
           "cn": "天然淨活系列",
+          "banner_title":"NATURALLY",
           "header_links": "product_series",
           "header_img": "pd.jpg"
         },
         "Botanical_Effects": {
           "name": "Botanical Effects",
           "cn": "植物肌密系列",
+          "banner_title":"BOTANICAL EFFECTS",
           "header_links": "product_series",
           "header_img": "pe.jpg"
         },
-        "Supplementary": {
-          "name": "Supplementary maintenance",
+        "Skin_Supplements": {
+          "name": "Skin Supplements",
           "cn": "補充性保養系列",
+          "banner_title":"SKIN SUPPLEMENTS",
           "header_links": "product_series",
           "header_img": "pf.jpg"
         },
         "LumiVie": {
-          "name": "LumiVie™",
+          "name": "LumiVie",
           "cn": "亮采系列",
+          "banner_title":"LUMIVIE",
           "header_links": "product_series",
           "header_img": "pg.jpg"
         },
         "Calming_Influence": {
           "name": "Calming Influence",
           "cn": "舒顏系列",
+          "banner_title":"CALMING INFLUENCE",
           "header_links": "product_series",
           "header_img": "ph.jpg"
         },
         "Clear_Proof": {
-          "name": "Clear Proof ® ",
+          "name": "Clear Proof",
           "cn": "淨顏系列",
+          "banner_title":"CLEAR PROOF",
           "header_links": "product_series",
           "header_img": "pi.jpg"
         },
         "MK_Men": {
           "name": "MK Men",
           "cn": "男士系列",
+          "banner_title":"MK MEN",
           "header_links": "product_series",
           "header_img": "pj.jpg"
         },
-        "Body": {
-          "name": "Body",
+        "Body_Care": {
+          "name": "Body Care",
           "cn": "美體系列",
+          "banner_title":"BODY CARE",
           "header_links": "product_series",
           "header_img": "pk.jpg"
         },
-        "Remover": {
-          "name": "Remover",
+        "Makeup_Remover": {
+          "name": "Makeup Remover",
           "cn": "卸妝",
+          "banner_title":"MAKEUP REMOVER",
           "header_links": "product_features",
           "header_img": "fa.jpg"
         },
-        "Cleansing": {
-          "name": "Cleansing",
+        "Cleanser": {
+          "name": "Cleanser",
           "cn": "潔顏",
+          "banner_title":"CLEANSER",
           "header_links": "product_features",
           "header_img": "fb.jpg"
         },
-        "Lotion": {
-          "name": "Lotion",
+        "Toner": {
+          "name": "Toner",
           "cn": "化妝水",
+          "banner_title":"TONERS",
           "header_links": "product_features",
           "header_img": "fc.jpg"
         },
-        "Lotion_Cream": {
-          "name": "Lotion&Cream",
+        "Moisturizer": {
+          "name": "Moisturizer",
           "cn": "乳液/乳霜",
+          "banner_title":"MOISTURIZERS",
           "header_links": "product_features",
           "header_img": "fd.jpg"
         },
         "Mask": {
           "name": "Mask",
           "cn": "面膜",
+          "banner_title":"MASKS",
           "header_links": "product_features",
           "header_img": "fe.jpg"
         },
         "Serum_Oil": {
           "name": "Serum & Oil",
           "cn": "精華液/油",
+          "banner_title":"SERUMS",
           "header_links": "product_features",
           "header_img": "ff.jpg"
         },
-        "Sun_Care": {
-          "name": "Sun Care",
+        "Body_Sun": {
+          "name": "Body & Sun",
           "cn": "身體防曬/保養",
+          "banner_title":"SUN & BODY",
           "header_links": "product_features",
           "header_img": "fg.jpg"
         },
-        "Eye_Lips_Care": {
-          "name": "Eye&Lips Care",
+        "Eye_Care": {
+          "name": "Eye Care",
           "cn": "眼唇保養",
+          "banner_title":"EYE CARE",
           "header_links": "product_features",
           "header_img": "fh.jpg"
         },
         "Targeted_Solutions": {
           "name": "Targeted Solutions",
           "cn": "特殊護理",
+          "banner_title":"TARGETED SOLUTIONS",
           "header_links": "product_features",
           "header_img": "fi.jpg"
         },
         "Skin_Care_Tools": {
           "name": "Skin Care Tools",
           "cn": "美容儀器",
+          "banner_title":"Skin Care Tools",
           "header_links": "product_features",
           "header_img": "fj.jpg"
         },
         "Lips": {
           "name": "Lips",
           "cn": "唇部系列",
+          "banner_title":"LIPS",
           "header_links": "makeup",
           "header_img": "ma.jpg"
         },
         "Face": {
           "name": "Face",
           "cn": "臉部系列",
+          "banner_title":"FACE",
           "header_links": "makeup",
           "header_img": "mb.jpg"
         },
         "Eyes": {
           "name": "Eyes",
           "cn": "眼部系列",
+          "banner_title":"EYES",
           "header_links": "makeup",
           "header_img": "mc.jpg"
         },
         "Tools": {
           "name": "Tools",
           "cn": "彩妝工具",
+          "banner_title":"TOOLS",
           "header_links": "makeup",
           "header_img": "md.jpg"
         },
         "Fragrance": {
           "name": "Fragrance",
           "cn": "香氛系列",
+          "banner_title":"FRAGRANCE",
           "header_links": "makeup",
           "header_img": "me.jpg"
         },
         "Nutrition": {
-          "name": "Nutrition",
+          "name": "Daily Benefits",
           "cn": "食物補充品",
+          "banner_title":"DAILY BENEFITS",
           "header_links": "Nutrition",
           "header_img": "sa.jpg"
         },
         "Water_loving_Zone": {
           "name": "Water-loving Zone",
           "cn": "親水專區",
+          "banner_title":"WATER LOVING ZONE",
           "header_links": "skincare",
           "header_img": "ca.jpg"
         },
-        "Reverse_Age": {
-          "name": "Reverse Age",
+        "Age_fighting_ZONE": {
+          "name": "Age-fighting ZONE",
           "cn": "逆齡專區",
+          "banner_title":"AGE FIGHTING ZON",
           "header_links": "skincare",
           "header_img": "cb.jpg"
         },
         "Oil_controlling_Zone": {
           "name": "Oil-controlling Zone",
           "cn": "控油專區",
+          "banner_title":"OIL CONTROL ZONE",
           "header_links": "skincare",
           "header_img": "cc.jpg"
         },
         "Stress_relieving_Zone": {
           "name": "Stress-relieving Zone",
           "cn": "舒壓專區",
+          "banner_title":"STRESS RELIEVING ZONE",
           "header_links": "skincare",
           "header_img": "cd.jpg"
         },
         "Lazy_Girls_Favorite_Zone": {
           "name": "Lazy Girls’ Favorite Zone",
           "cn": "懶人專區",
+          "banner_title":"LAZY GIRLS’S FAVORITE ZONE",
           "header_links": "skincare",
           "header_img": "ce.jpg"
         }
@@ -912,7 +944,8 @@
       "series": {
         "about_mary": { "name": "Brand Concept" },
         "about_mary_ash": { "name": "About Mary Kay Ash" },
-        "social": { "name": "Social Corporate Responsibility" },
+        "pink_changing_lives": { "name": "Pink Changing Lives" },
+        "pink_doing_green": { "name": "Pink Doing Green" },
         "technological_innovation": { "name": "Scientific Research Innovation" }
       }
     },
@@ -939,7 +972,7 @@
           "name": "植物肌密系列",
           "products": ["pd27", "pd28", "pd29", "pd30"]
         },
-        "Supplementary": {
+        "Skin_Supplements": {
           "name": "補充性保養系列",
           "products": ["pd31", "pd32", "pd33", "pd34", "pd35", "pd36", "pd37", "pd38","pd111"]
         },
@@ -959,7 +992,7 @@
           "name": "男士系列",
           "products": ["pd103", "pd104"]
         },
-        "Body": {
+        "Body_Care": {
           "name": "美體系列",
           "products": ["pd89", "pd90", "pd91", "pd92", "pd93", "pd94", "pd95", "pd96", "pd97", "pd98"]
         }
@@ -968,19 +1001,19 @@
     "product_features": {
       "name": "CONCERN",
       "series": {
-        "Remover": {
+        "Makeup_Remover": {
           "name": "卸妝",
           "products": ["pd35", "pd36"]
         },
-        "Cleansing": {
+        "Cleanser": {
           "name": "潔顏",
           "products": ["pd4", "pd12", "pd23", "pd27", "pd46", "pd51", "pd104"]
         },
-        "Lotion": {
+        "Toner": {
           "name": "化妝水",
           "products": ["pd14", "pd29", "pd49", "pd53"]
         },
-        "Lotion_Cream": {
+        "Moisturizer": {
           "name": "乳液/乳霜",
           "products": ["pd10", "pd11", "pd16", "pd17", "pd22", "pd30", "pd31", "pd32", "pd37", "pd48", "pd56","pd112"]
         },
@@ -992,11 +1025,11 @@
           "name": "精華液/油",
           "products": ["pd1", "pd2", "pd7", "pd8", "pd15", "pd21", "pd25", "pd50", "pd54", "pd55"]
         },
-        "Sun_Care": {
+        "Body_Sun": {
           "name": "身體防曬/保養",
           "products": ["pd99", "pd100", "pd101"]
         },
-        "Eye_Lips_Care": {
+        "Eye_Care": {
           "name": "眼唇保養",
           "products": ["pd3", "pd9", "pd18", "pd33", "pd34", "pd103"]
         },
@@ -1051,7 +1084,7 @@
           "name": "親水專區",
           "products": ["pd13", "pd14", "pd31", "pd33", "pd34", "pd60", "pd101"]
         },
-        "Reverse_Age": {
+        "Age_fighting_ZONE": {
           "name": "逆齡專區",
           "products": ["pd113", "pd1", "pd9", "pd6", "pd15", "pd108", "pd105"]
         },
@@ -1066,6 +1099,10 @@
         "Lazy_Girls_Favorite_Zone": {
           "name": "懶人專區",
           "products": ["pd115", "pd12", "pd13", "pd36", "pd62", "pd110"]
+        },
+        "Skin_Test":{
+          "name": "Skin Test",
+          "products": null
         }
       }
     }

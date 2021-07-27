@@ -101,7 +101,7 @@
           "header_links": "product_series",
           "header_img": "pe.jpg"
         },
-        "Supplementary": {
+        "Skin_Supplements": {
           "name": "補充性保養系列",
           "cn": "補充性保養系列",
           "header_links": "product_series",
@@ -110,6 +110,7 @@
         "LumiVie": {
           "name": "亮采系列",
           "cn": "亮采系列",
+          "black":true,
           "header_links": "product_series",
           "header_img": "pg.jpg"
         },
@@ -131,31 +132,31 @@
           "header_links": "product_series",
           "header_img": "pj.jpg"
         },
-        "Body": {
+        "Body_Care": {
           "name": "美體系列",
           "cn": "美體系列",
           "header_links": "product_series",
           "header_img": "pk.jpg"
         },
-        "Remover": {
+        "Makeup_Remover": {
           "name": "卸妝",
           "cn": "卸妝",
           "header_links": "product_features",
           "header_img": "fa.jpg"
         },
-        "Cleansing": {
+        "Cleanser": {
           "name": "潔顏",
           "cn": "潔顏",
           "header_links": "product_features",
           "header_img": "fb.jpg"
         },
-        "Lotion": {
+        "Toner": {
           "name": "化妝水",
           "cn": "化妝水",
           "header_links": "product_features",
           "header_img": "fc.jpg"
         },
-        "Lotion_Cream": {
+        "Moisturizer": {
           "name": "乳液/乳霜",
           "cn": "乳液/乳霜",
           "header_links": "product_features",
@@ -170,16 +171,17 @@
         "Serum_Oil": {
           "name": "精華液/油",
           "cn": "精華液/油",
+          "black":true,
           "header_links": "product_features",
           "header_img": "ff.jpg"
         },
-        "Sun_Care": {
+        "Body_Sun": {
           "name": "身體防曬/保養",
           "cn": "身體防曬/保養",
           "header_links": "product_features",
           "header_img": "fg.jpg"
         },
-        "Eye_Lips_Care": {
+        "Eye_Care": {
           "name": "眼唇保養",
           "cn": "眼唇保養",
           "header_links": "product_features",
@@ -239,7 +241,7 @@
           "header_links": "skincare",
           "header_img": "ca.jpg"
         },
-        "Reverse_Age": {
+        "Age_fighting_ZONE": {
           "name": "逆齡專區",
           "cn": "逆齡專區",
           "header_links": "skincare",
@@ -912,7 +914,8 @@
       "series": {
         "about_mary": { "name": "關於玫琳凱" },
         "about_mary_ash": { "name": "關於Mary Kay Ash" },
-        "social": { "name": "社會企業責任" },
+        "pink_changing_lives": { "name": "Pink Changing Lives" },
+        "pink_doing_green": { "name": "Pink Doing Green" },
         "technological_innovation": { "name": "科研創新" }
       }
     },
@@ -939,7 +942,7 @@
           "name": "植物肌密系列",
           "products": ["pd27", "pd28", "pd29", "pd30"]
         },
-        "Supplementary": {
+        "Skin_Supplements": {
           "name": "補充性保養系列",
           "products": ["pd31", "pd32", "pd33", "pd34", "pd35", "pd36", "pd37", "pd38","pd111"]
         },
@@ -959,7 +962,7 @@
           "name": "男士系列",
           "products": ["pd103", "pd104"]
         },
-        "Body": {
+        "Body_Care": {
           "name": "美體系列",
           "products": ["pd89", "pd90", "pd91", "pd92", "pd93", "pd94", "pd95", "pd96", "pd97", "pd98"]
         }
@@ -968,19 +971,19 @@
     "product_features": {
       "name": "產品功能",
       "series": {
-        "Remover": {
+        "Makeup_Remover": {
           "name": "卸妝",
           "products": ["pd35", "pd36"]
         },
-        "Cleansing": {
+        "Cleanser": {
           "name": "潔顏",
           "products": ["pd4", "pd12", "pd23", "pd27", "pd46", "pd51", "pd104"]
         },
-        "Lotion": {
+        "Toner": {
           "name": "化妝水",
           "products": ["pd14", "pd29", "pd49", "pd53"]
         },
-        "Lotion_Cream": {
+        "Moisturizer": {
           "name": "乳液/乳霜",
           "products": ["pd10", "pd11", "pd16", "pd17", "pd22", "pd30", "pd31", "pd32", "pd37", "pd48", "pd56","pd112"]
         },
@@ -992,11 +995,11 @@
           "name": "精華液/油",
           "products": ["pd1", "pd2", "pd7", "pd8", "pd15", "pd21", "pd25", "pd50", "pd54", "pd55"]
         },
-        "Sun_Care": {
+        "Body_Sun": {
           "name": "身體防曬/保養",
           "products": ["pd99", "pd100", "pd101"]
         },
-        "Eye_Lips_Care": {
+        "Eye_Care": {
           "name": "眼唇保養",
           "products": ["pd3", "pd9", "pd18", "pd33", "pd34", "pd103"]
         },
@@ -1051,7 +1054,7 @@
           "name": "親水專區",
           "products": ["pd13", "pd14", "pd31", "pd33", "pd34", "pd60", "pd101"]
         },
-        "Reverse_Age": {
+        "Age_fighting_ZONE": {
           "name": "逆齡專區",
           "products": ["pd113", "pd1", "pd9", "pd6", "pd15", "pd108", "pd105"]
         },
@@ -1066,6 +1069,10 @@
         "Lazy_Girls_Favorite_Zone": {
           "name": "懶人專區",
           "products": ["pd115", "pd12", "pd13", "pd36", "pd62", "pd110"]
+        },
+        "Skin_Test":{
+          "name": "肌膚檢測",
+          "products": null
         }
       }
     }
