@@ -1,0 +1,169 @@
+.howtobuy {
+    @include m() {
+        overflow-x: hidden;
+    }
+
+    .breadcrumbs {
+        margin-bottom: 20px;
+    }
+
+    .banner {
+        height: 560px;
+        width: 100%;
+        overflow: hidden;
+        position: relative;
+
+        @include t() {
+            height: auto;
+        }
+
+        @include m() {
+            width: 180%;
+            height: initial;
+        }
+
+        img {
+            object-fit: cover;
+            height: 560px;
+
+            @include t() {
+                height: auto;
+                width: 100%;
+            }
+        }
+    }
+
+    .about_marykay_inner {
+        position: relative;
+        height: 0;
+
+        @include m() {
+            background-color: #FCA0C9;
+            margin-top: -10px;
+        }
+
+        @include m() {
+            padding: 0 15px;
+        }
+
+        @include t() {
+            height: auto;
+            padding-bottom: 78px;
+        }
+
+        .text_head {
+            position: absolute;
+            left: 60%;
+            top: -460px;
+            text-align: center;
+            max-width: 350px;
+            .logo {
+              width: 240px;
+            }
+
+            @include t() {
+                position: relative;
+                left: initial;
+                top: 28px;
+                max-width: initial;
+            }
+
+        }
+
+        .text_body {
+            margin-top: 20px;
+            width: 100%;
+            max-width: 350px;
+            text-align: center;
+        }
+
+    }
+
+    .spec_b {
+        padding: 0px 0 100px;
+
+        // text-align: center;
+        .w {
+            width: 100%;
+            max-width: 300px;
+            margin: 50px auto 100px;
+        }
+
+        ul {
+
+            margin: 0 auto;
+            line-height: 2.5rem;
+            width: 100%;
+            max-width: 960px;
+        }
+    }
+
+    .swiper_story {
+        position: relative;
+
+        .txt {
+            color: #fff;
+            position: absolute;
+            top: 50%;
+            transform: translateY(-50%);
+            left: 10%;
+
+            @include m() {
+                transform: translate(-50%, -50%);
+                left: 50%;
+                width: 350px;
+            }
+
+
+            h4 {
+                margin-bottom: 30px;
+            }
+
+        }
+
+        .swiper-slide {
+            img {
+                height: 920px;
+                width: 100%;
+                object-fit: cover;
+            }
+
+            @include t() {
+                img {
+                    height: 400px;
+                    width: 100%;
+                    object-fit: cover;
+
+                }
+            }
+        }
+
+        .swiper-button-next {
+            right: 50px;
+            @include m(){
+                right: 30px;
+            }
+        }
+
+        .swiper-button-prev {
+            left: 50px;
+             @include m(){
+                left: 30px;
+            }
+        }
+
+    }
+      .h {
+         .m {
+           display: none;
+         }
+         @include m(){
+            .m {
+             display: block;
+            }
+            .d {
+              display: none;
+            }
+         }
+       }
+}
