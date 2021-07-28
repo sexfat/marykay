@@ -6,22 +6,22 @@
           <h4>{{ $t('pages.footer.follow') }}</h4>
           <ul class="social">
             <li>
-              <a target="_blank" href="https://www.instagram.com/marykayhongkong/"
+              <a target="_blank" href="https://instagram.com/marykaytaiwan?utm_medium=copy_link"
                 ><img src="~assets/images/instagram.png" alt="" srcset=""
               /></a>
             </li>
             <li>
-              <a target="_blank" href="https://www.facebook.com/MaryKayHK"
+              <a target="_blank" href="https://www.facebook.com/marykaytwn"
                 ><img src="~assets/images/facebook-circular-logo.png" alt="" srcset=""
               /></a>
             </li>
             <li>
-              <a target="_blank" href="https://www.youtube.com/channel/UCHt3Kaa3n0_KJoZYcb0p9xg"
+              <a target="_blank" href="https://www.youtube.com/c/MarykayTWN"
                 ><img src="~assets/images/youtube.png" alt="" srcset=""
               /></a>
             </li>
             <li>
-              <a target="_blank" href="https://lin.ee/z35H2lP"
+              <a target="_blank" href="https://lin.ee/h0R5o4"
                 ><img src="~assets/images/line_icon.png" alt="" srcset=""
               /></a>
             </li>
@@ -30,6 +30,9 @@
         <div class="col-lg-3 col-md-6">
           <h4>{{ $t('pages.footer.related_links.name') }}</h4>
           <ul>
+            <li>
+              <nuxt-link :to="localePath('/business')">事業機會 </nuxt-link>
+            </li>
             <li>
               <a target="_blank" href="https://reurl.cc/zeoGve">{{ $t('pages.footer.related_links.links.link_1') }}</a>
             </li>

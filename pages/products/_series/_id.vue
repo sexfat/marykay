@@ -41,7 +41,7 @@
               <span class="prices">${{ $t(`${path}.price`) }}</span>
             </div>
             <div class="desc" v-html="$t(`${path}.description`)"></div>
-            <div class="btn_buy">如何購買</div>
+            <div class="btn_buy" @click="howToBuy">如何購買</div>
             <div class="detail">
               <section v-if="productData ? productData.skin_suitable : false">
                 <a href="#content-1" class="accordion-toggle">{{ $t('pages.product_page.skin_suitable') }}</a>
@@ -111,6 +111,9 @@ export default {
   methods: {
     mainImgChanging(index) {
       this.mainImg = this.$refs[index][0].src
+    },
+    howToBuy() {
+      this.$router.push('/howtobuy')
     },
   },
 }

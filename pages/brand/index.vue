@@ -1,0 +1,82 @@
+<template>
+  <div class="brand">
+    <div class="container-xxl">
+      <div class="row">
+        <div class="breadcrumbs margin-top_20">
+          <nuxt-link :to="localePath('/')">{{ $t('pages.product_page.home') }}</nuxt-link> / 品牌理念
+        </div>
+      </div>
+    </div>
+    <div class="banner container-fluid gx-0">
+      <img src="~assets/images/TW_layoutA/img_about-brands_top.jpg" alt="" />
+    </div>
+    <div class="about_marykay_inner container-xxl white">
+      <div class="row">
+        <div class="col-xs-6 col-md-6 text_head">
+          <img style="width: 70px" src="~assets/images/com_colorLine.png" alt="" />
+          <h2 class="h2 font1 margin-top_20">
+            一起美麗 一起快樂 一起分享<br />
+            玫琳凱是妳永遠的美麗好朋友
+          </h2>
+
+          <div class="text_body">
+            你有沒有一個好姐妹是做什麼事都想問問她的意見？！可以一起聊八卦、一起逛街、一起討論最新彩妝、一起喝下午茶自拍？<br />
+            <br />
+            玫琳凱創辦初衷就是要為女性建立夢想的工作環境，因為玫琳凱知道女人就是喜歡揪團找伴，讓工作就像跟一群姐妹喝茶聊天；愛美是女人的天性，因此選擇化妝品作為這份事業的開始，因為只要自己喜歡就會分享；當自己變美了自然就開心，開心就有無窮的動力。
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="spec margin-top_60 margin-bottom_100">
+      <div class="container-xxl">
+        <div class="row">
+          <!-- 換影片 -->
+          <video autoplay="autoplay" poster="" preload="auto" loop playsinline muted>
+            <source src="~assets/images/TW_video/brands.mp4" type="video/mp4" />
+          </video>
+        </div>
+      </div>
+    </div>
+    <div class="row text_center px-2 margin-top_80 white bottom">
+      <h3>
+        玫琳凱獨一無二的文化<br />
+        幸福方程式，創造幸福感的最大值
+      </h3>
+      <div class="margin-top_20 flex">
+        <div class="list">
+          <div>
+            <h3>黃金法則</h3>
+            想要別人怎樣待你<br />你就先怎麼帶別人
+          </div>
+        </div>
+        <div class="list">
+          <div>
+            <h3>樂施精神</h3>
+          </div>
+        </div>
+        <div class="list">
+          <div>
+            <h3>讓每個人感覺重要</h3>
+          </div>
+        </div>
+        <div class="list">
+          <div>
+            <h3>生活優先次序</h3>
+            信仰第一<br />家庭第二<br />事業第三
+          </div>
+        </div>
+      </div>
+      <div class="text_small">
+        56年來經典不敗，我們活出文化的姿態，重新定位自己是每個女人永遠的美麗好朋友，我們秉持玫琳凱女士賭上一切創立公司的初心，公司所做的一切創新、改革
+        、決策，都是為來到這裡的人創造萬應室，幫助你更輕省的達到成功，走向事業高潮，重拾起過有質感的生活。
+      </div>
+    </div>
+  </div>
+</template>
+
+<script>
+export default {
+  name: 'Brand',
+}
+</script>

@@ -1,12 +1,5 @@
 $h_caption : 250px;
 
-.swiper-container {
-    width: 100%;
-    height: calc(100% - #{$h_caption});
-    position: relative;
-    z-index: 100;
-}
-
 .s3 {
     width: 100%;
     height: calc(100vh - #{$h_caption});
@@ -14,6 +7,12 @@ $h_caption : 250px;
     overflow: hidden;
     color: $base_color;
     background-color: rgb(0, 0, 0);
+    .swiper-container {
+    width: 100%;
+    height: calc(100% - #{$h_caption});
+    position: relative;
+    z-index: 100;
+}
 
     @include t() {
         height: 80vh;

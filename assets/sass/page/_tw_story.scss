@@ -129,6 +129,7 @@
           top: 50%;
           transform: translateY(-50%);
           left:10%;
+          width: 450px;
           @include m() {
               transform: translate(-50% , -50%);
               left:50%;
@@ -161,7 +162,24 @@
          right: 20px;
        }
     }
+   
 
+    // 共用粉紅綠色態度css
+
+    .m {
+      display: none;
+    }
+
+
+    @include t(){
+      .m {
+        display: block;
+      }
+      .d {
+        display: none;
+      }
+    
+    }
 
 
 }

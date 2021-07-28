@@ -111,15 +111,16 @@
                       </nuxt-link>
                     </li>
                     <li>
-                      <a href="">
+                      <nuxt-link :to="localePath('/bigeye')">
                         {{ $t('header_links.skincare.series.Skin_Test.name') }}
-                      </a>
+                      </nuxt-link>
                     </li>
                   </ul>
                 </li>
                 <li>
                   <nuxt-link to="/">{{ $t('header_links.dm.name') }}</nuxt-link>
                 </li>
+                <li><nuxt-link :to="localePath('/howtobuy')">如何購物</nuxt-link></li>
                 <!-- <li>
                   <a href="" @click="changeLang"> {{ lang }}</a>
                 </li> -->
