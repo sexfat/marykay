@@ -68,7 +68,7 @@
               您可以點選下方的「尋找美容顧問」按鈕，系統將會為您媒合靠您最近的美容顧問與您聯繫。
             </p>
           </div>
-          <div class="w"><a class="btn" href="http://#" target="_blank" rel="noopener noreferrer">尋找美容顧問</a></div>
+          <div class="w"><a class="btn" href="http://apps.marykayintouch.com.tw/Events/BCLocator/Index.aspx" target="_blank" rel="noopener noreferrer">尋找美容顧問</a></div>
           <div class="col-xs-12 col-md-12">
             <!--  eslint-disable prettier/prettier -->
             <p class="text_left">
