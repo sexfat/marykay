@@ -44,9 +44,9 @@
           },
           "slide_2": {
             "img": "b_02.png",
-            "title": "Reverse_Age",
-            "path": "/products/Reverse_Age",
-            "description": "港版缺少該專區內容幫忙補上英文翻譯"
+            "title": "Age-fighting Zone",
+            "path": "/products/Age_fighting_ZONE",
+            "description": "Nourish your skin from within and without with our natural essence ingredients so that you can have a healthy and young skin in an efficient manner."
           },
           "slide_3": {
             "img": "b_03.png",
@@ -55,16 +55,22 @@
             "description": "It takes you only 8 minutes to say goodbye to acne and pimples by using our masks. Here, you can find primers making your foundation smooth and comfortable as well as all the solutions to oily skin."
           },
           "slide_4": {
-            "img": "b_05.png",
+            "img": "b_04.png",
             "title": "Stress-relieving Zone",
             "path": "/products/Stress_relieving_Zone",
             "description": "Give yourself several precious hours of skin care each day with our therapeutic fragrance and soothing cream to relieve yourself from tiredness throughout the day and revitalize your skin!"
           },
           "slide_5": {
-            "img": "b_06.png",
+            "img": "b_05.png",
             "title": "Lazy Girls’ Favorite Zone",
             "path": "/products/Lazy_Girls_Favorite_Zone",
             "description": "Have no time for skin care? Wanna go to bed as soon as you go home? Wanna lie down on the sofa at the time of arriving home? The skincare products available at Lazy Gail’s Favorite Zone will be your best helper. With various amazing nourishment, multiple effects will be achieved just in one step so that your skill will be cared when you are sleeping. Who says it’s impossible for lazy girls to be beautiful?"
+          },
+          "slide_6": {
+            "img": "b_06.png",
+            "title": "Skin Test",
+            "path": null,
+            "description": "Decode, identify skin conditions, and deeply test your skin with high technologies thoroughly, so that there is no escape for your skin problems and the real needs of your skin will be learned."
           }
         }
       }
@@ -1015,7 +1021,7 @@
         },
         "Moisturizer": {
           "name": "乳液/乳霜",
-          "products": ["pd10", "pd11", "pd16", "pd17", "pd22", "pd30", "pd31", "pd32", "pd37", "pd48", "pd56","pd112"]
+          "products": ["pd10", "pd11", "pd16", "pd17", "pd22", "pd30", "pd31", "pd32", "pd37", "pd48", "pd56","pd112","pd1"]
         },
         "Mask": {
           "name": "面膜",
@@ -1023,7 +1029,7 @@
         },
         "Serum_Oil": {
           "name": "精華液/油",
-          "products": ["pd1", "pd2", "pd7", "pd8", "pd15", "pd21", "pd25", "pd50", "pd54", "pd55"]
+          "products": ["pd2", "pd7", "pd8", "pd15", "pd21", "pd25", "pd50", "pd54", "pd55"]
         },
         "Body_Sun": {
           "name": "身體防曬/保養",
@@ -1138,7 +1144,7 @@
       "capacity": "25ml",
       "skin_suitable": "Suitable for all skin types",
       "function": "Add rare 24K liquid gold peptides to promote collagen production1 and enhance skin firmness.<br><br>The precious ingredients Alpine Rose and Evening Primrose focus on resisting skin aging and anti-oxidanttion1, perfecting and firming the skin.<br><br>Visibly improves fine lines and wrinkles, and helps the skin regains softness and moisture.<br><br>Eau De Lune water moonlight exudes an elegant and quiet floral fragrance, which makes you indulge in the enjoyment of the senses, and also brings you the delicate, supple and beautiful skin.<br><br>Significantly improve skin density, enhance elasticity and toughness.<br><br><br>The ultimate testimony of clinical test results 2:<br><br>• 96% witnessed that the complexion is more radiant and radiant<br>• 92% witnessed that the skin's firmness and elasticity were significantly improved, and the skin texture was improved<br>• 91% witnessed healthier skin<br>• 88% witnessed significant improvement in fine lines and wrinkles<br>• 87% witnessed the skin becoming firmer and younger, glowing with youthful radiance",
-      "principal_components": "<br><br>24K Liquid Gold Polypeptide: Improve the skin's internal structure and strength, promote collagen production1, and enhance skin firmness. It also contains moisturizing ceramides and plant-derived phytosterols, which help enhance the skin's barrier usage and skin care effect3. With continuous use, the skin will be plumped, more elastic and younger.<br><br>Aspen Rose extract: awakens the skin's natural protective barrier, helps protect the skin against various environmental stresses, and solves the problem of skin aging.<br><br>Evening primrose: The essence extracted from evening primrose seeds helps revitalize the self-proliferation of skin matrix protein, intensively repairs the skin, revitalizes the skin's fullness, elasticity and firmness, and tightens the skin.<br><br>Squalane: Replenish the required lipids for the skin and form a breathable protective film on the surface of the skin, which can slow down the evaporation of moisture, play a moisturizing and emollient effect, and keep the skin healthy.<br><br>配方特點：<br>通過亞洲膚質測試，適合亞洲人肌膚<br>適合各種肌膚類型<br>不易堵塞毛孔<br>*女性持續早晚使用產品的獨立消費者研究結果<br>1 關鍵成分的體外測試結果<br>2 結果來自個別的獨立消費者研究，測試中252名亞洲女性使用產品21天，每天2次後給予評價<br>3 關鍵成分的體內測試結果Formula characteristics:<br>Passed Asian skin quality test, suitable for Asian skin<br>Suitable for all skin types types<br>Not easy to clog pores<br>*Independent consumer research results of women who continue to use the product in the morning and evening<br>1 In vitro test results of key ingredients<br>2 The results come from individual independent consumer research. In the test, 252 Asian women used the product for 21 days and evaluated after 2 times a day<br>3 In vivo test results of key ingredients",
+      "principal_components": "24K Liquid Gold Polypeptide: Improve the skin's internal structure and strength, promote collagen production, and enhance skin firmness. It also contains moisturizing ceramides and plant-derived phytosterols, which help enhance the skin's barrier function and skin care effect. With continuous use, the skin will be plumped, more elastic and younger.<br><br>Aspen Rose extract: awakens the skin's natural protective barrier, helps protect the skin against various environmental stresses, and solves the problem of skin aging.<br><br>Evening primrose: The essence extracted from evening primrose seeds helps revitalize the self-proliferation of skin matrix protein, intensively repairs the skin, revitalizes the skin's fullness, elasticity and firmness, and tightens the skin.<br><br>Squalane: Replenish the required lipids for the skin and form a breathable protective film on the surface of the skin, which can slow down the evaporation of moisture, play a moisturizing and emollient effect, and keep the skin healthy.<br><br>Formula characteristics:<br>Passed Asian skin quality test, suitable for Asian skin<br>Not easy to cause acne<br><br>Passed Asian skin quality test, suitable for Asian skin<br>Suitable for all skin types types<br>Not easy to clog pores<br>*Independent consumer research results of women who continue to use the product in the morning and evening<br>1 In vitro test results of key ingredients<br>2 The results come from individual independent consumer research. In the test, 252 Asian women used the product for 21 days and evaluated after 2 times a day<br>3 In vivo test results of key ingredients",
       "usage": "• Use every morning and evening, after cleansing, toning and essence, and before using the cream. The facial essence oil can be used alone, or be mixed with face cream.<br>• Use the following massage techniques to bring endless luxury to your skin:<br><br>Take a few drops of the essential oil and rub it gently on the palm to warm it, gently press it on the skin to help absorption, then push it from the center of the face to the temples, and then from the center of the forehead to the temples.<br>Push the palm of your hand up to the earlobe along the bottom of the neck, and lift the skin of the face and neck from bottom to top.<br>To<br>Finally, gently make a circular motion to the temples and press gently, avoiding the eye area.<br>",
       "price": "HK$1,850",
       "video_source": "pa21.mp4",
@@ -1373,7 +1379,7 @@
       "principal_components": null,
       "usage": null,
       "price": "HK$298",
-      "video_source": "pc.mp4",
+      "video_source": null,
       "normal_image": null,
       "small_images": {
         "img_01": "p/c/pc31.jpg"

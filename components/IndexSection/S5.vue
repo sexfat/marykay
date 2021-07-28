@@ -17,7 +17,11 @@
             <p class="margin-top_30">
               {{ $t('pages.homepage.s5.text') }}
             </p>
-            <a class="btn-outline btn-large margin-top_30" href="#">{{ $t('pages.homepage.more') }}</a>
+            <nuxt-link
+              :to="localePath('/products/Skin_Supplements/pd111')"
+              class="btn-outline btn-large margin-top_30"
+              >{{ $t('pages.homepage.more') }}</nuxt-link
+            >
           </div>
         </div>
         <div class="col-lg-5 col-md-12 nomargin">
@@ -40,17 +44,36 @@
           <div class="silder_2 swiper-container">
             <Swiper :options="swiperOptions">
               <Swiper-slide v-for="(value, item) in sliderData" ref="s5Swiper" :key="item">
-                <img :src="require(`~/assets/images/${value.img}`)" alt="" srcset="" />
-                <div class="spc">
-                  <h4 class="titles">{{ value.title }}</h4>
-                  <div class="desc">
-                    {{ value.description }}
+                <div v-if="value.path">
+                  <img :src="require(`~/assets/images/${value.img}`)" alt="" srcset="" />
+                  <div class="spc">
+                    <h4 class="titles">{{ value.title }}</h4>
+                    <div class="desc">
+                      {{ value.description }}
+                    </div>
+                    <!-- <nuxt-link
+                      :to="localePath(`${value.path}`)"
+                      class="btn-outline btn-large dark marginauto margin-top_30"
+                      >{{ $t('pages.homepage.s5.learn_more') }}</nuxt-link
+                    > -->
+                    <a href="" class="btn-outline btn-large dark marginauto margin-top_30">{{
+                      $t('pages.homepage.s5.learn_more')
+                    }}</a>
                   </div>
-                  <nuxt-link
-                    :to="localePath(`${value.path}`)"
-                    class="btn-outline btn-large dark marginauto margin-top_30"
-                    >{{ $t('pages.homepage.s5.learn_more') }}</nuxt-link
-                  >
+                </div>
+                <div v-else>
+                  <img :src="require(`~/assets/images/${value.img}`)" alt="" srcset="" />
+                  <div class="spc">
+                    <h4 class="titles">{{ value.title }}</h4>
+                    <div class="desc">
+                      {{ value.description }}
+                    </div>
+                    <nuxt-link
+                      :to="localePath(`${value.path}`)"
+                      class="btn-outline btn-large dark marginauto margin-top_30"
+                      >{{ $t('pages.homepage.s5.learn_more') }}</nuxt-link
+                    >
+                  </div>
                 </div>
               </Swiper-slide>
               <div slot="button-prev" class="swiper-button-prev"></div>

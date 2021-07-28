@@ -45,8 +45,8 @@
           "slide_2": {
             "img": "b_02.png",
             "title": "逆齡專區",
-            "path": "/products/Reverse_Age",
-            "description": "港版缺少該專區內容幫忙補上"
+            "path": "/products/Age_fighting_ZONE",
+            "description": "內外兼顧，用天然精華成分，高效養出健康童顏肌"
           },
           "slide_3": {
             "img": "b_03.png",
@@ -55,16 +55,22 @@
             "description": "8分鐘就能讓粉刺痘痘掰掰的面膜，讓底妝光滑舒爽的飾底凝露等各種應付出油煎蛋肌對策通通在這裡!"
           },
           "slide_4": {
-            "img": "b_05.png",
+            "img": "b_04.png",
             "title": "紓壓專區",
             "path": "/products/Stress_relieving_Zone",
             "description": "療癒的香氛，棉花糖般的舒緩乳霜，每天給自己來一段儀式感的保養小時光，釋放一天的疲憊，讓肌膚彷彿重獲新生吧!"
           },
           "slide_5": {
-            "img": "b_06.png",
+            "img": "b_05.png",
             "title": "懶人專區",
             "path": "/products/Lazy_Girls_Favorite_Zone",
             "description": "沒時間保養? 只想倒頭就睡? 回家就攤在沙發上?懶人專區的保養品是你最佳小幫手，一步驟達到多種功效，睡覺也能同時保養等各種神奇好物幫助你，誰說偷懶不能也很美!"
+          },
+          "slide_6": {
+            "img": "b_06.png",
+            "title": "肌膚檢測",
+            "path": null,
+            "description": "高科技全方位解密肌膚，定位膚況，深入檢測，讓妳的肌膚問題無所遁形，了解妳肌膚的真正需求"
           }
         }
       }
@@ -985,7 +991,7 @@
         },
         "Moisturizer": {
           "name": "乳液/乳霜",
-          "products": ["pd10", "pd11", "pd16", "pd17", "pd22", "pd30", "pd31", "pd32", "pd37", "pd48", "pd56","pd112"]
+          "products": ["pd10", "pd11", "pd16", "pd17", "pd22", "pd30", "pd31", "pd32", "pd37", "pd48", "pd56","pd112","pd1"]
         },
         "Mask": {
           "name": "面膜",
@@ -993,7 +999,7 @@
         },
         "Serum_Oil": {
           "name": "精華液/油",
-          "products": ["pd1", "pd2", "pd7", "pd8", "pd15", "pd21", "pd25", "pd50", "pd54", "pd55"]
+          "products": ["pd2", "pd7", "pd8", "pd15", "pd21", "pd25", "pd50", "pd54", "pd55"]
         },
         "Body_Sun": {
           "name": "身體防曬/保養",
