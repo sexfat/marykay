@@ -18,8 +18,11 @@
                   <!-- eslint-disable-next-line vue/no-v-html -->
                   <div class="body margin-top_30" v-html="$t('pages.homepage.s3.body')"></div>
                   <p class="small_title init margin-top_30">{{ $t('pages.homepage.s3.small_title') }}</p>
-                  <a href="#" class="btn-outline btn-large margin-top_2 marginauto_m">
-                    {{ $t('pages.homepage.more') }}</a
+                  <nuxt-link
+                    :to="localePath('/technological_innovation')"
+                    class="btn-outline btn-large margin-top_2 marginauto_m"
+                  >
+                    {{ $t('pages.homepage.more') }}</nuxt-link
                   >
                 </div>
               </div>

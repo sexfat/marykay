@@ -1,0 +1,240 @@
+.pink {
+    @include m() {
+        overflow-x: hidden;
+    }
+
+    .breadcrumbs {
+        margin-bottom: 20px;
+    }
+
+    .banner {
+        height: 560px;
+        width: 100%;
+        overflow: hidden;
+        position: relative;
+
+        @include t() {
+            height: auto;
+        }
+
+        @include m() {
+            width: 180%;
+            height: initial;
+        }
+
+        img {
+            object-fit: cover;
+            height: 560px;
+
+            @include t() {
+                height: auto;
+                width: 100%;
+            }
+        }
+    }
+
+    .about_marykay_inner {
+        position: relative;
+        height: 0;
+
+        @include m() {
+            padding: 0 15px;
+            margin-top: -10px;
+        }
+
+        @include t() {
+            height: auto;
+            padding-bottom: 108px;
+            background-color: #FFDBEC;
+        }
+
+        .text_head {
+            position: absolute;
+            left: 50%;
+            top: -460px;
+
+            @include t() {
+                position: relative;
+                left: initial;
+                top: 28px;
+            }
+
+        }
+
+        .text_body {
+            margin-top: 50px;
+            width: 100%;
+            max-width: 630px;
+        }
+
+    }
+
+    .spec {
+        padding: 100px 0;
+        color: #000;
+        text-align: center;
+        
+        img.logo {
+            position: relative;
+            width: 280px;
+
+            @include t() {
+                top: 0px;
+                width: 200px;
+                margin-bottom: 20px;
+            }
+        }
+
+        h4 {
+            text-align: left;
+
+            @include m() {
+                width: 300px;
+                margin: 0 auto 30px;
+
+            }
+
+        }
+        .pinkbox {
+          position: relative;
+          top: 50%;
+          transform: translateY(-50%);
+
+
+        }
+    }
+
+    .spec_2 {
+        color: #000;
+        height: 420px;
+        background-color: #FFDBEC;
+        overflow: hidden;
+        position: relative;
+         @include m(){
+              height: auto;  
+              overflow: initial;
+            }
+
+
+        img {
+            // width: 100%;
+            object-fit: cover;
+            height: 420px;
+        }
+
+        .spec_inner {
+            position: absolute;
+            max-width: 580px;
+            width: 100%;
+             @include m(){
+              position: relative;  
+            }
+           
+
+
+
+
+            .t1 {
+                @include m() {
+                    margin-top: 50px;
+                }
+            }
+
+            .t2 {
+                margin-top: 60px;
+
+
+            }
+
+            @include m() {
+                padding: 0 40px 60px;
+            }
+        }
+    }
+
+    .bottom {
+        margin-bottom: 100px;
+
+        @include m() {
+            padding: 0 15px;
+        }
+
+        .list {
+            background-color: #FCA0C9;
+            color: #fff;
+            height: 160px;
+            text-align: center;
+            position: relative;
+            width: 100%;
+            max-width: 250px;
+            margin: 10px 7px 0;
+            font-size: 14px;
+
+            @include m() {
+                max-width: initial;
+            }
+
+            div {
+                width: 165px;
+                @include positionauto(50%);
+                z-index: 100;
+            }
+
+        }
+
+        .flex {
+            @include m() {
+                flex-wrap: wrap;
+            }
+        }
+    }
+
+    .swiper_pink {
+        position: relative;
+
+        .txt {
+            color: #fff;
+            position: absolute;
+            top: 50%;
+            transform: translateY(-50%);
+            left: 10%;
+            max-width: 750px;
+
+            @include m() {
+                transform: translate(-50%, -50%);
+                left: 50%;
+                width: 350px;
+            }
+
+            h4 {
+                margin-bottom: 30px;
+            }
+
+        }
+
+        .swiper-slide {
+            img {
+                height: auto;
+                width: 100%;
+                object-fit: cover;
+            }
+
+            @include m() {
+                img {
+                    height: 700px;
+                    width: 100%;
+                    object-fit: cover;
+
+                }
+            }
+        }
+
+        .swiper-button-next {
+            right: 25px;
+        }
+
+        .swiper-button-prev {
+            left: 20px;
+        }
+    }
+}

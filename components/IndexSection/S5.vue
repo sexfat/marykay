@@ -31,7 +31,7 @@
     <div class="container-xxl explore white text_center margin-top_60">
       <div class="row">
         <div class="heading-block text_center">
-          <span class="subtitle p-10">{{ $t('pages.homepage.s5.search_more') }}</span>
+          <!-- <span class="subtitle p-10">{{ $t('pages.homepage.s5.search_more') }}</span> -->
           <h1 class="showcase"><b> Discover</b><i>More</i></h1>
         </div>
       </div>
