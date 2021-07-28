@@ -21,7 +21,7 @@
     <div class="container-fluid gx-0 white margin-bottom_100 h">
       <div class="swiper-container swiper_story">
         <!-- Additional required wrapper -->
-        <div class="swiper-wrapper">
+        <Swiper :options="swiperOptions">
           <!-- Slides -->
           <div class="swiper-slide">
             <img class="m" src="~assets/images/TW_layoutA/img_howtobuy-step1_m.jpg" alt="" />
@@ -47,7 +47,7 @@
           <div class="swiper-slide">
             <img src="~assets/images/TW_layoutA/img_howtobuy-step6.jpg" alt="" />
           </div>
-        </div>
+        </Swiper>
         <!-- If we need navigation buttons -->
         <div class="swiper-button-prev"></div>
         <div class="swiper-button-next"></div>
@@ -94,5 +94,18 @@
 <script>
 export default {
   name: 'Howtobuy',
+    data() {
+    return {
+      swiperOptions: {
+        loop: true,
+        slidesPerView: 1,
+        spaceBetween: 0,
+        navigation: {
+          nextEl: '.swiper-button-next',
+          prevEl: '.swiper-button-prev',
+        },
+      },
+    }
+  },
 }
 </script>
