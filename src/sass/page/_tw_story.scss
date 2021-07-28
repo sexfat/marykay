@@ -161,7 +161,24 @@
          right: 20px;
        }
     }
+   
 
+    // 共用粉紅綠色態度css
+
+    .m {
+      display: none;
+    }
+
+
+    @include t(){
+      .m {
+        display: block;
+      }
+      .d {
+        display: none;
+      }
+    
+    }
 
 
 }

@@ -1,0 +1,295 @@
+.business {
+    @include m() {
+        overflow-x: hidden;
+    }
+
+    .breadcrumbs {
+        margin-bottom: 20px;
+    }
+
+    .banner {
+        height: 560px;
+        width: 100%;
+        overflow: hidden;
+        position: relative;
+
+        @include t() {
+            height: auto;
+        }
+
+        @include m() {
+            width: 180%;
+            height: initial;
+        }
+
+        img {
+            object-fit: cover;
+            height: 560px;
+        }
+
+        .m {
+
+            display: none;
+        }
+
+        @include t() {
+            height: auto;
+            width: 100%;
+        }
+
+        @include m() {
+            .m {
+                display: block;
+                height: auto;
+                width: 100%;
+            }
+
+            .d {
+                display: none;
+            }
+        }
+    }
+
+    .spec {
+        padding: 100px 0 130px;
+        background-color: rgb(0, 0, 0);
+        text-align: center;
+
+        .text_left {
+            max-width: 450px;
+            width: 100%;
+            margin: 0 auto;
+            text-align: center;
+        }
+    }
+
+    .silder_business {
+        position: relative;
+
+
+        .swiper-slide {
+            cursor: pointer;
+            position: relative;
+            display: block;
+            overflow: hidden;
+
+            &::after {
+                content: '';
+                display: block;
+                position: absolute;
+                width: 100%;
+                height: 99%;
+                left: 0;
+                top: 0;
+                background-color: rgba(0, 0, 0, 0.4);
+                z-index: 1;
+            }
+
+            .txt {
+
+                text-align: center;
+                color: rgb(255, 255, 255);
+                position: absolute;
+                top: 50%;
+                transform: translate(-50%, -50%);
+                left: 50%;
+                z-index: 2;
+                width: 320px;
+
+                @include m() {
+                    width: 350px;
+                }
+
+
+                h4 {
+                    margin-bottom: 15px;
+                    font-size: 1.4rem;
+                    font-weight: bold;
+                    transform: translateY(20px);
+                    transition: .3s all ease;
+                }
+
+                p {
+                    opacity: 0;
+                    transition: .3s all ease;
+                }
+
+                &:hover {
+
+                    p {
+                        opacity: 1;
+                    }
+
+                    h4 {
+                        transform: translateY(0px);
+                    }
+
+
+                }
+
+
+            }
+
+            img {
+                width: 100%;
+                object-fit: cover;
+                transition: .3s all cubic-bezier(0.755, 0.05, 0.855, 0.06);
+
+            }
+
+            @include m() {
+                img {
+                    width: 100%;
+                    object-fit: cover;
+
+
+                }
+            }
+
+        }
+    }
+    .top_banner {
+     position: relative;
+    
+     .sd {
+       position: absolute;
+       z-index: 10;
+       top: 30%;
+       max-width: 450px;
+       width: 100%;
+        @include m(){
+        padding: 0 15px;
+        left: 50%;
+        transform: translateX(-50%);
+     }
+     }
+     img {
+       height: 100%;
+       width: 100%;
+       object-fit: cover;
+       @include m(){
+          height: 450px;
+       }
+     }
+      &::after {
+            content: '';
+            background-color: rgba(255, 64, 201, 0.243);
+            display: block;
+            position: absolute;
+            left: 0;
+            top: 0;
+            width: 100%;
+            height: 99%;
+        }
+    }
+    .business-spec {
+       margin: 60px 0 100px;
+    }
+
+    .bottom_banner {
+        position: relative;
+        height: auto;
+         img {
+                object-fit: cover;
+                z-index: 0;
+
+                @include t() {
+                    height: 470px;
+                }
+            }
+
+        @include m() {
+            height: auto;
+        }
+
+        .silder_makemoney {
+            position: absolute;
+            left: 50%;
+            top: 50%;
+            transform: translate(-50%, -50%);
+            .swiper-slide {                
+                cursor: pointer;
+                display: block;
+                height: 470px;
+                border: 1px solid #fff;
+                z-index: 100;
+                left: 0;
+                top: 0;
+                transition: .3s all ease;
+                @include t(){
+                 height: 420px;
+                }
+
+                &:hover {
+                    background-color: rgba(255, 255, 255, 0.571);
+                    border: initial;
+                }
+
+                // &::after {
+                //     content: '';
+                //     display: block;
+                //     position: absolute;
+                //     width: 100%;
+                //     height: 99%;
+                //     left: 0;
+                //     top: 0;
+                //     background-color: rgba(0, 0, 0, 0.4);
+                //     z-index: 1;
+                // }
+
+                .txt {
+
+                    text-align: center;
+                    color: rgb(255, 255, 255);
+                    position: absolute;
+                    top: 50%;
+                    transform: translate(-50%, -50%);
+                    left: 50%;
+                    z-index: 2;
+                    width: 320px;
+
+                    @include m() {
+                        width: 350px;
+                    }
+
+
+                    h4 {
+                        margin-bottom: 15px;
+                        font-size: 1.4rem;
+                        font-weight: bold;
+                        transform: translateY(20px);
+                        transition: .3s all ease;
+                    }
+
+                    p {
+                        opacity: 0;
+                        transition: .3s all ease;
+                    }
+
+                    &:hover {
+
+                        p {
+                            opacity: 1;
+                        }
+
+                        h4 {
+                            transform: translateY(0px);
+                        }
+                    }
+                }
+            }
+        }
+
+        &::after {
+            content: '';
+            background-color: rgba(0, 0, 0, 0.407);
+            display: block;
+            position: absolute;
+            left: 0;
+            top: 0;
+            width: 100%;
+            height: 99%;
+        }
+    }
+
+}
