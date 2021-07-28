@@ -101,6 +101,7 @@
                   <ul>
                     <li v-for="(item, index) in Object.entries(linkData.skincare.series)" :key="index">
                       <nuxt-link
+                        v-if="item[1].products"
                         :to="{
                           name: `products-id___${$i18n.locale}`,
                           params: { id: item[0] },
@@ -108,6 +109,11 @@
                       >
                         {{ $t(`pages.series_page.series.${item[0]}.name`) }}
                       </nuxt-link>
+                    </li>
+                    <li>
+                      <a href="">
+                        {{ $t('header_links.skincare.series.Skin_Test.name') }}
+                      </a>
                     </li>
                   </ul>
                 </li>

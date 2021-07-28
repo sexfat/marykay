@@ -17,7 +17,9 @@
             <p class="margin-top_30">
               {{ $t('pages.homepage.s5.text') }}
             </p>
-            <a class="btn-outline btn-large margin-top_30" href="#">{{ $t('pages.homepage.more') }}</a>
+            <nuxt-link :to="localePath('/products/Mask/pd45')" class="btn-outline btn-large margin-top_30">{{
+              $t('pages.homepage.more')
+            }}</nuxt-link>
           </div>
         </div>
         <div class="col-lg-5 col-md-12 nomargin">
