@@ -264,3 +264,8 @@ p {
    margin: 19px 0;   
  }
 }
+
+.breadcrumbs a:last-child {
+   text-decoration: none;
+   font-weight: 400;
+}
