@@ -15,7 +15,7 @@
             <div class="body" v-html="$t('pages.homepage.s1.body')">
             </div>
             </p>
-            <nuxt-link :to="localePath('/about_mary')" class="btn-outline btn-large marginauto margin-top_50">
+            <nuxt-link :to="localePath('/brand')" class="btn-outline btn-large marginauto margin-top_50">
               {{ $t('pages.homepage.more') }}
             </nuxt-link>
         </div>

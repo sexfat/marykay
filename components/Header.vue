@@ -19,13 +19,34 @@
 
           <div class="header-right">
             <nav id="navigation" ref="navigation" class="mainnav">
-              <ul class="mainmenu">
+              <ul ref="mainmenu" class="mainmenu">
                 <li>
                   <span>{{ $t('header_links.about.name') }}</span>
                   <ul>
                     <li v-for="(item, index) in Object.entries(linkData.about.series)" :key="index">
                       <nuxt-link :to="localePath(`${item[0]}`)">
                         {{ $t(`header_links.about.series.${item[0]}.name`) }}
+                      </nuxt-link>
+                    </li>
+                  </ul>
+                </li>
+                <li>
+                  <span>{{ $t('header_links.skincare.name') }}</span>
+                  <ul>
+                    <li v-for="(item, index) in Object.entries(linkData.skincare.series)" :key="index">
+                      <nuxt-link
+                        v-if="item[1].products"
+                        :to="{
+                          name: `products-id___${$i18n.locale}`,
+                          params: { id: item[0] },
+                        }"
+                      >
+                        {{ $t(`pages.series_page.series.${item[0]}.name`) }}
+                      </nuxt-link>
+                    </li>
+                    <li>
+                      <nuxt-link :to="localePath('/bigeye')">
+                        {{ $t('header_links.skincare.series.Skin_Test.name') }}
                       </nuxt-link>
                     </li>
                   </ul>
@@ -97,28 +118,11 @@
                 </li>
 
                 <li>
-                  <span>{{ $t('header_links.skincare.name') }}</span>
-                  <ul>
-                    <li v-for="(item, index) in Object.entries(linkData.skincare.series)" :key="index">
-                      <nuxt-link
-                        v-if="item[1].products"
-                        :to="{
-                          name: `products-id___${$i18n.locale}`,
-                          params: { id: item[0] },
-                        }"
-                      >
-                        {{ $t(`pages.series_page.series.${item[0]}.name`) }}
-                      </nuxt-link>
-                    </li>
-                    <li>
-                      <nuxt-link :to="localePath('/bigeye')">
-                        {{ $t('header_links.skincare.series.Skin_Test.name') }}
-                      </nuxt-link>
-                    </li>
-                  </ul>
-                </li>
-                <li>
-                  <nuxt-link to="/">{{ $t('header_links.dm.name') }}</nuxt-link>
+                  <a
+                    target="_blank"
+                    href="https://www.marykay.com.tw/eCatalogForCorporateSite?&docid=0b3f1feb-8cfc-4ade-8e13-139ccc5bc4bf&cid=direct&t=eCat_2021Thelook"
+                    >{{ $t('header_links.dm.name') }}</a
+                  >
                 </li>
                 <li><nuxt-link :to="localePath('/howtobuy')">如何購物</nuxt-link></li>
                 <!-- <li>
@@ -153,6 +157,14 @@ export default {
     },
     lang() {
       return this.switchLang[this.$i18n.locale]
+    },
+  },
+  watch: {
+    $route() {
+      if (this.drawer) {
+        this.drawer.close()
+        this.nav.openPanel(this.$refs.mainmenu)
+      }
     },
   },
   mounted() {

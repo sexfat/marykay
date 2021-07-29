@@ -3,7 +3,7 @@
     <div class="container-xxl">
       <div class="row">
         <div class="breadcrumbs margin-top_20">
-          <nuxt-link :to="localePath('/')">{{ $t('pages.product_page.home') }}</nuxt-link> / 大眼睛
+          <nuxt-link :to="localePath('/')">{{ $t('pages.product_page.home') }}</nuxt-link> / 肌膚檢測
         </div>
       </div>
     </div>

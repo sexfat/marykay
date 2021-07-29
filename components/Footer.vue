@@ -34,7 +34,9 @@
               <nuxt-link :to="localePath('/business')">事業機會 </nuxt-link>
             </li>
             <li>
-              <a target="_blank" href="https://reurl.cc/zeoGve">{{ $t('pages.footer.related_links.links.link_1') }}</a>
+              <a target="_blank" href="https://www.marykayintouch.com.tw">{{
+                $t('pages.footer.related_links.links.link_1')
+              }}</a>
             </li>
             <li>
               <nuxt-link :to="localePath('/global_company')"
@@ -42,7 +44,7 @@
               </nuxt-link>
             </li>
             <li>
-              <a target="_blank" href="http://www.hkdsa.org.hk/index.html">{{
+              <a target="_blank" href="https://www.dsa.org.tw/Conduct.php">{{
                 $t('pages.footer.related_links.links.link_3')
               }}</a>
             </li>
