@@ -69,7 +69,7 @@
           "slide_6": {
             "img": "b_06.png",
             "title": "Skin Test",
-            "path": null,
+            "path": "/bigeye",
             "description": "Decode, identify skin conditions, and deeply test your skin with high technologies thoroughly, so that there is no escape for your skin problems and the real needs of your skin will be learned."
           }
         }
@@ -936,6 +936,108 @@
       "h2": "Mary Kay joins hands with UN agencies to launch women's entrepreneurship<br> accelerator program<br>Actively promote global female entrepreneurship",
       "text_body": "<p>Women's Empowerment and Women's Entrepreneurship Leader Mary Kay launched Women's Entrepreneurship Accelerator<br>in collaboration with UN Women. This multi-partner project aims to motivate and educate entrepreneurial <br>women around the world and help them enhance their power.</p><p>This pioneering project is a strategic cooperation project established in consultation with <br>the six major United Nations agencies, including: UN Women (UN Women), United Nations Partnership Office (UNOP), <br>International Labor Organization (ILO), International Trade Center (ITC), <br>United Nations Global Covenant Organization (UNGC) and United Nations Development Program (UNDP).</p>",
       "awward_content": "<p>The accelerator program will provide a digital instruction course, supplemented by ground training and coaching. <br>In addition, it will also serve as an advocacy platform to remove obstacles to women's entrepreneurship, <br>ranging from digital literacy levels to legal reforms, so as to help women fully participate <br>in the economic development of their region and country. The accelerator program will support <br>work that encourages companies and women-owned companies to establish and expand partnerships <br>(including corporate procurement) globally. In the future, the program will be further expanded <br>to include financing opportunities for women who have completed the course.</p><p>Mary Kay Chief Operating Officer Deborah Gibbins said: \"For more than 56 years, Mary Kay has<br>been empowering women through entrepreneurial opportunities and supporting them in their<br>pursuit of economic security and economic independence. Organizations in the public and<br>private sectors must work together to ensure that all entrepreneurial women have the<br>necessary tools. And educational resources make their dream of pursuing economic<br>independence come true, thereby making their families happier and their communities more<br>prosperous.\"</p><p>The Women’s Entrepreneurship Accelerator Program will initially provide support in six languages. <br>As the program expands to 192 countries, other languages ​​will be gradually introduced. <br>The accelerator plan will also set up an advisory committee composed of entrepreneurs, <br>celebrities and advocates to oversee the expansion and promotion of the plan.</p><p>Recently, Mary Kay has taken a series of measures to support women’s empowerment and help women around the world <br>improve their living standards. The Women’s Entrepreneurship Accelerator Program is one of the latest activities. <br>Earlier this year, Mary Kay joined an increasing number of companies and companies and signed the \"Women's Empowerment Principles\" <br>(Women's Empowerment Principles), a project jointly initiated by the United Nations Global Covenant Organization and <br>UN Women to promote corporate gender promotion The business case for equality action. Mary Kay also signed <br>the \"United Nations Global Covenant\", the world's largest corporate sustainability initiative. <br>During the United Nations General Assembly, Mary Kay will sponsor the WE Empower United Nations SDG Challenge, <br>which is the first global </p>"
+    },
+    "pink_doing_green":{
+      "page_name":"Pink Doing Green",
+      "row":{
+        "col-1":{
+          "h3":"WORLDWIDE RECYCLING PROGRAM",
+          "text":"Mary Kay is the first company in the world to develop a recycling program. Mary Kay’s global manufacturing facilities recycle packaging, paper, plastic and other products through a recycling program every day."
+        },
+        "col-2":{
+          "h3":"100% BIO-DEGRADABLE PACKING MATERIALS",
+          "text":"Biodegradable packing materials are materials that can degrade in the nature. The biodegradable packing materials made from renewable corn and potato starch made into packing fillers are used to ship Mary Kay’s product."
+        },
+        "col-3":{
+          "h3":"ZERO LANDFILL SITES",
+          "text":"Mary Kay’s manufacturing facilities in the United States have achieved zero landfill status. A wastewater treatment station capable of treating 150 tons has been established in Asia-Pacific manufacturing facilities. Implement the environmental goals of “waste water discharge” and “zero solid waste landfill”"
+        },
+        "col-4":{
+          "h3":"SUSTAINABLE PRODUCT PACKAGING",
+          "text":"Mary Kay offers innovative and environmentally friendly products and packaging and adopts reusable product designs including the reusable magnet design in Mary Kay’s makeup kit, so that any makeup products can be put inside at random combination to reduce waste arising from change"
+        },
+        "col-5":{
+          "h3":"100% RENEWABLE ENERGY",
+          "text":"The Mary Kay world headquarters and global manufacturing facility are powered by 100 percent renewable energy."
+        },
+        "col-6":{
+          "h3":"1 MILLION TREES PLANTED",
+          "text":"Mary Kay has planted more than 1 million trees around the world in the activities organized by the global branches."
+        }
+      }
+    },
+    "pink_changing_lives":{
+      "page_name":"Pink Changing Lives ",
+      "text_body":"Our Commitment to Women",
+      "spec_1":{
+        "h4":"Untamed Beauty Women Empowered Era of Girl Power!",
+        "text_left":"Go-Give is our core spirit that promotes us to enrich women and their families around the world. Through this consistent philosophy, we take the initiative to respond to local communities in nearly 40 markets throughout the world, bringing change to women all over the world, allowing them and their children to have brand-new beautiful lives."
+      },
+      "spec_2":{
+        "h4":"Global charity projects to give back to society",
+        "ol":"<li>Helping women and children around the world</li><li>Building libraries to help children in need</li><li>Funding the education of girls from underprivileged families</li><li>Providing life-saving medical services</li><li>Supporting anti-trafficking organizations</li><li>Helping disabled children</li><li>Inculcating awareness about breast cancer</li><li>Helping end domestic violence</li>"
+      },
+      "change_content":"Mary Kay Ash is a groundbreaking businesswoman with a great mind.She founded MaryKay with the belief that \" do unto others as you would have them do unto you.\"Through her philosophy, Mary Kay transforms the lives of women and children around the world.",
+      "slides":{
+        "slide_1":{
+          "txt":"<h4>November 19, 2019</h4>MARY KAY advocates for global female empowerment, entrepreneurship and equality at top women’s conferences around the world.Ｗe’re committed to collaborating with world leaders to help women pave a path to independence, financial security and a more equal workplace.",
+          "img":"20191119"
+        },
+        "slide_2":{
+          "txt":"<h4>January 30, 2018 </h4>Georgia Domestic Violence and sexual assault groups urge lawmakers to strengthen family Violence laws and protect victims.",
+          "img":"20180130"
+        },
+        "slide_3":{
+          "txt":"<h4>May 03, 2017</h4>MARY KAY joins the California partnership to end domestic violence in fight for legislative funding. MARY KAY lobbying for good initiative heads to California State Capitol.",
+          "img":"20170503"
+        },
+        "slide_4":{
+          "txt":"<h4>Nov 17, 2016</h4>FIRST-OF-ITS-KIND digital program empowers students to build positive relationships.Mary Kay Inc., loveisrespect and Everfi partnered to launch a Healthy Foundations program.",
+          "img":"20161117"
+        },
+        "slide_5":{
+          "txt":"<h4>Nov 1, 2016</h4>Mary Kay and Alpha Chi Omega hosted a social media photo contest for the fourth straight year to inspire young women to share their commitment to ending dating abuse.",
+          "img":"20161101"
+        },
+        "slide_6":{
+          "txt":"<h4>Oct 5, 2016</h4>The Mary Kay Foundation is awarding $3 million in grants to 150 domestic violence shelters in 49 states, the District of Columbia and Guam.Each shelter will receive a $20,000 unrestricted grant to help combat domestic violence, educate local communities, and provide much-needed shelter and rehabilitation services.",
+          "img":"20161005"
+        },
+        "slide_7":{
+          "txt":"<h4>Oct 5, 2016</h4>The Mary Kay Foundation is awarding $3 million in grants to 150 domestic violence shelters in 49 states, the District of Columbia and Guam.Each shelter will receive a $20,000 unrestricted grant to help combat domestic violence, educate local communities, and provide much-needed shelter and rehabilitation services.",
+          "img":"20160719"
+        },
+        "slide_8":{
+          "txt":"<h4>July 19, 2016</h4>Mary Kay hopes a clean starched blouse or professional skirt can be the first step to a fresh start for Dallas-area domestic violence survivors. Through Suits for Shelters coordinates the collection of women’s professional attire to benefit Dallas area organizations supporting women in need.",
+          "img":"20160719"
+        },
+        "slide_9":{
+          "txt":"<h4>May 4, 2016</h4>Mary Kay Independent Beauty Consultants and domestic violence prevention advocates gathered at the New York State Capitol for the New York State Coalition Against Domestic Violence’s annual Legislative Advocacy Day.",
+          "img":"20160401"
+        },
+        "slide_10":{
+          "txt":"<h4>Mar 2, 2016</h4>Mary Kay Independent Beauty Consultants and domestic violence prevention advocates gathered at the California State Capitol for‘Policy Advocacy Day 2016’sponsored by the California Partnership to End Domestic Violence. The group met with lawmakers to discuss the critical importance of legislation that supports domestic violence survivors and victims.",
+          "img":"20160302"
+        }
+      }
+    },
+    "bigeye":{
+      "page_name":"Big Eye",
+      "h4":"個人專屬肌膚檢測",
+      "row":{
+        "col-1":{
+          "h3":"1.超越時空限制",
+          "txt":"手機自拍即能自我檢測肌膚狀況"
+        },
+        "col-2":{
+          "h3":"2.高科技AI人工智慧",
+          "txt":"400萬張以上照片大數據分析為肌膚解密"
+        },
+        "col-3":{
+          "h3":"3.12大面向完整解析",
+          "txt":"客製化專屬肌膚分析報告 拍張照就可以了解自己的肌膚跟最適合的保養品"
+        }
+      }
     }
   },
   "header_links": {

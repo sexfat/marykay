@@ -19,7 +19,7 @@
 
           <div class="header-right">
             <nav id="navigation" ref="navigation" class="mainnav">
-              <ul class="mainmenu">
+              <ul ref="mainmenu" class="mainmenu">
                 <li>
                   <span>{{ $t('header_links.about.name') }}</span>
                   <ul>
@@ -111,9 +111,9 @@
                       </nuxt-link>
                     </li>
                     <li>
-                      <a href="">
+                      <nuxt-link :to="localePath('/bigeye')">
                         {{ $t('header_links.skincare.series.Skin_Test.name') }}
-                      </a>
+                      </nuxt-link>
                     </li>
                   </ul>
                 </li>
@@ -139,6 +139,7 @@ export default {
     return {
       menu: null,
       drawer: null,
+      nav: null,
       switchLang: {
         zh: '英文',
         en: 'Chinese',
@@ -152,6 +153,14 @@ export default {
     },
     lang() {
       return this.switchLang[this.$i18n.locale]
+    },
+  },
+  watch: {
+    $route() {
+      if (this.drawer) {
+        this.drawer.close()
+        this.nav.openPanel(this.$refs.mainmenu)
+      }
     },
   },
   mounted() {
@@ -168,7 +177,7 @@ export default {
       this.drawer = this.menu.offcanvas({
         position: 'left',
       })
-      this.menu.navigation({
+      this.nav = this.menu.navigation({
         slidingSubmenus: true,
         title: 'Mary Kay',
       })
