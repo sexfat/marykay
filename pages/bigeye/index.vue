@@ -14,8 +14,8 @@
       </video>
     </div>
     <div class="spec">
-      <img class="d" src="~assets/images/HK_layoutA/bigeye_milebg.jpg" alt="" />
-      <img class="m" src="~assets/images/HK_layoutA/bigeye-mile-phone.jpg" alt="" />
+      <img class="d" :src="require(`~/assets/images/HK_layoutA/${bigEyeData.img_d}.jpg`)" alt="" />
+      <img class="m" :src="require(`~/assets/images/HK_layoutA/${bigEyeData.img_m}.jpg`)" alt="" />
     </div>
     <div class="container-xxl white bottom_content">
       <h4 class="w4">{{ $t('pages.bigeye.h4') }}</h4>
@@ -40,6 +40,9 @@ export default {
   computed: {
     rowData() {
       return this.$i18n.messages[this.$i18n.locale].pages.bigeye.row
+    },
+    bigEyeData() {
+      return this.$i18n.messages[this.$i18n.locale].pages.bigeye
     },
   },
 }

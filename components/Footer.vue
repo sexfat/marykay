@@ -20,18 +20,20 @@
                 ><img src="~assets/images/youtube.png" alt="" srcset=""
               /></a>
             </li>
-            <li>
+            <!-- <li>
               <a target="_blank" href="https://lin.ee/z35H2lP"
                 ><img src="~assets/images/line_icon.png" alt="" srcset=""
               /></a>
-            </li>
+            </li> -->
           </ul>
         </div>
         <div class="col-lg-3 col-md-6">
           <h4>{{ $t('pages.footer.related_links.name') }}</h4>
           <ul>
             <li>
-              <a target="_blank" href="https://reurl.cc/zeoGve">{{ $t('pages.footer.related_links.links.link_1') }}</a>
+              <a target="_blank" href="https://www.marykayintouch.com.hk">{{
+                $t('pages.footer.related_links.links.link_1')
+              }}</a>
             </li>
             <li>
               <nuxt-link :to="localePath('/global_company')"

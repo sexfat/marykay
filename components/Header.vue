@@ -31,6 +31,27 @@
                   </ul>
                 </li>
                 <li>
+                  <span>{{ $t('header_links.skincare.name') }}</span>
+                  <ul>
+                    <li v-for="(item, index) in Object.entries(linkData.skincare.series)" :key="index">
+                      <nuxt-link
+                        v-if="item[1].products"
+                        :to="{
+                          name: `products-id___${$i18n.locale}`,
+                          params: { id: item[0] },
+                        }"
+                      >
+                        {{ $t(`pages.series_page.series.${item[0]}.name`) }}
+                      </nuxt-link>
+                    </li>
+                    <li>
+                      <nuxt-link :to="localePath('/bigeye')">
+                        {{ $t('header_links.skincare.series.Skin_Test.name') }}
+                      </nuxt-link>
+                    </li>
+                  </ul>
+                </li>
+                <li>
                   <span>{{ $t('header_links.maintenance.name') }}</span>
                   <ul>
                     <li>
@@ -95,30 +116,11 @@
                     </li>
                   </ul>
                 </li>
-
                 <li>
-                  <span>{{ $t('header_links.skincare.name') }}</span>
-                  <ul>
-                    <li v-for="(item, index) in Object.entries(linkData.skincare.series)" :key="index">
-                      <nuxt-link
-                        v-if="item[1].products"
-                        :to="{
-                          name: `products-id___${$i18n.locale}`,
-                          params: { id: item[0] },
-                        }"
-                      >
-                        {{ $t(`pages.series_page.series.${item[0]}.name`) }}
-                      </nuxt-link>
-                    </li>
-                    <li>
-                      <nuxt-link :to="localePath('/bigeye')">
-                        {{ $t('header_links.skincare.series.Skin_Test.name') }}
-                      </nuxt-link>
-                    </li>
-                  </ul>
-                </li>
-                <li>
-                  <nuxt-link to="/">{{ $t('header_links.dm.name') }}</nuxt-link>
+                  <a
+                    href="https://ecatalog.marykay.com/?docid=a3045dac-0ac6-4adb-9064-20ce763277c6&d=https://www.marykay.com.hk&t=TheLook&cid=eCat_InTouch"
+                    >{{ $t('header_links.dm.name') }}</a
+                  >
                 </li>
                 <li>
                   <a href="" @click="changeLang"> {{ lang }}</a>
