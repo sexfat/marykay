@@ -35,8 +35,8 @@
           <!-- Slides -->
           <div class="swiper-slide">
             <div class="txt">
-              <h4>高品質課程</h4>
-              <p>隨時隨地，隨選隨學，精彩豐富的影音內容和成功企業家案例分享，人人都可以自學創業成功！</p>
+              <h4>全方位免費專業培訓</h4>
+              <p>高品質課程，每秒含金量爆表</p>
             </div>
             <img src="~assets/images/TW_layoutA/img_about_business1.jpg" alt="" />
           </div>
@@ -44,7 +44,7 @@
           <div class="swiper-slide">
             <div class="txt">
               <h4>不限時空 e化學習平台</h4>
-              <p>隨時隨地，隨選隨學，精彩豐富的影音內容和成功企業家案例分享，人人都可以自學創業成功！</p>
+              <p>產品新知、必勝賺錢術、事業經營簡單做，在玫琳凱，通通教給你！</p>
             </div>
             <img src="~assets/images/TW_layoutA/img_about_business2.jpg" alt="" />
           </div>
@@ -89,22 +89,36 @@
           <!-- Slides -->
           <div class="swiper-slide">
             <div class="txt">
-              <h4>高品質課程</h4>
-              <p>隨時隨地，隨選隨學，精彩豐富的影音內容和成功企業家案例分享，人人都可以自學創業成功！</p>
+              <h4>加入成為美容顧問</h4>
+              <p>
+                累計訂單5,000元現賺1,500元<br />
+                累計訂單16,500元現賺6,600元
+              </p>
+              <br />
+              <br />
             </div>
           </div>
           <!-- s -->
           <div class="swiper-slide">
             <div class="txt">
-              <h4>不限時空 e化學習平台</h4>
-              <p>隨時隨地，隨選隨學，精彩豐富的影音內容和成功企業家案例分享，人人都可以自學創業成功！</p>
+              <h4>個人招募</h4>
+              <p>
+                招募3位 酬勞金8％<br />
+                招募6位 酬勞金8或12％<br />
+                招募8位（未來督導）<br />
+                酬勞金8或12％可提出準督導申請
+              </p>
             </div>
           </div>
           <!-- s -->
           <div class="swiper-slide">
             <div class="txt">
               <h4>數位影音學習APP-MK e學院</h4>
-              <p>隨時隨地，隨選隨學，精彩豐富的影音內容和成功企業家案例分享，人人都可以自學創業成功！</p>
+              <p>
+                隨時隨地，隨選隨學，精彩豐富的影音內容和成功企業家案例分享， <br />
+                人人都可以自學創業成功！
+              </p>
+              <br />
             </div>
           </div>
         </Swiper>

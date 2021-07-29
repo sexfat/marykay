@@ -292,10 +292,10 @@
       "shopping_instructions": {
         "name": "購物說明",
         "links": {
-          "customer": "產品滿意保證",
+          "customer_tw": "產品滿意保證",
           "global_privacy": "全球隱私權聲明",
           "privacy": "消費者隱私群方針",
-          "webhk_privacy": "​使用者規範及協議"
+          "webtw_privacy": "​使用者規範及協議"
         }
       }
     },

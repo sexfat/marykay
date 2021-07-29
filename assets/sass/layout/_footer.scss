@@ -1,9 +1,10 @@
 footer {
     padding-top: 50px;
-    min-height: 370px;
+    min-height: 240px;
     padding-bottom: 50px;
     @include m(){
       font-size: 1.3rem;
+       min-height: 320px;
     }
 
     .social {
