@@ -51,6 +51,10 @@
                 <a href="#content-2" class="accordion-toggle">{{ $t('pages.product_page.usage') }}</a>
                 <div id="content-2" class="accordion-content" v-html="$t(`${path}.usage`)"></div>
               </section>
+              <section v-if="productData ? productData.function : false">
+                <a href="#content-3" class="accordion-toggle">{{ $t('pages.product_page.function') }}</a>
+                <div id="content-3" class="accordion-content" v-html="$t(`${path}.function`)"></div>
+              </section>
             </div>
           </div>
         </li>
@@ -64,10 +68,6 @@
               <source :src="require(`~/assets/images/video/${productData.video_source}`)" type="video/mp4" />
             </video>
           </div>
-        </section>
-        <section v-if="productData ? productData.function : false">
-          <h3>{{ $t('pages.product_page.function') }}</h3>
-          <div v-html="$t(`${path}.function`)"></div>
         </section>
         <section v-if="productData ? productData.principal_components : false">
           <h3>{{ $t('pages.product_page.principal_components') }}</h3>
