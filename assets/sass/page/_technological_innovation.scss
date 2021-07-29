@@ -1,7 +1,8 @@
 .tech {
-   @include m() {
+    @include m() {
         overflow-x: hidden;
     }
+
     .breadcrumbs {
         margin-bottom: 20px;
     }
@@ -11,6 +12,7 @@
         width: 100%;
         overflow: hidden;
         position: relative;
+
         @include t() {
             height: auto;
         }
@@ -23,7 +25,8 @@
         img {
             object-fit: cover;
             height: 560px;
-             @include t() {
+
+            @include t() {
                 height: auto;
                 width: 100%;
             }
@@ -33,7 +36,8 @@
     .tech_inner {
         position: relative;
         height: 0;
-          @include t() {
+
+        @include t() {
             height: auto;
         }
 
@@ -41,7 +45,8 @@
             position: absolute;
             left: 50%;
             top: -460px;
-             @include t() {
+
+            @include t() {
                 position: relative;
                 left: initial;
                 top: 28px;
@@ -53,12 +58,13 @@
             margin-top: 50px;
             max-width: 650px;
             width: 100%;
-            @include m(){
+
+            @include m() {
                 width: 100%;
                 max-width: 340px;
                 padding-left: 10px;
                 margin: 50px auto 0;
-                
+
             }
 
             ul li {
@@ -88,10 +94,10 @@
     .tech_content {
         margin: 100px auto 0;
         text-align: center;
-    
+
 
         .best {
-    
+
             margin: 0 auto 60px;
 
 
@@ -99,10 +105,11 @@
                 text-align: left;
                 width: 300px;
                 margin: 0 auto;
-               &.m35 {
-                 margin-top: 37px;
-                 text-align: center;
-               }
+
+                &.m35 {
+                    margin-top: 37px;
+                    text-align: center;
+                }
             }
 
         }
@@ -112,5 +119,22 @@
 #en {
     .tech .tech_inner .text_head {
         top: -500px;
+        @include t(){
+          top: 28px;
+        }
+    }
+
+    .tech .tech_inner .text_body {
+       
+        max-width: 660px;
+        width: 100%;
+        @include t(){
+          width: 90%;
+        }
+       
+        ul li {
+            line-height: 1rem;
+            margin:10px 0;
+        }
     }
 }

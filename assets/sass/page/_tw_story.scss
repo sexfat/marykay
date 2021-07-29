@@ -48,6 +48,8 @@
         @include t() {
             height: auto;
             padding-bottom: 78px;
+            background-color: #000;
+            margin-top: -10px;
         }
 
         .text_head {
