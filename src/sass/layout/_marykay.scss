@@ -3,27 +3,35 @@
 
 
 @font-face {
-  font-family: marykay_serif;
-  src: url('../fonts/MaryKaySerif060-Bold.otf') format('opentype');
-  font-weight: bold;
+    font-family: marykay_serif;
+    src: url('../fonts/MaryKaySerif060-Bold.otf') format('opentype');
+    font-weight: bold;
 }
 
 
 
 
 
-.section.nomargin{
-    margin-top:0px !important ;
+.section.nomargin {
+    margin-top: 0px !important;
+}
+
+//首頁
+.slider h1.showcase {
+    b { font-family: 'marykay-bold', serif;}
+
 }
 
 
-h1.showcase{
-    b{
+
+h1.showcase {
+    b {
         font-family: 'marykay_serif', serif;
         // font-family: 'Playfair Display', serif;
         font-size: 2.3em;
     }
-    i{
+
+    i {
         font-family: 'Italiana', serif;
         font-size: 2.3em;
         margin-left: .5em;
