@@ -5,7 +5,7 @@
         <b>Follow Us</b>
       </h1>
       <h3>
-        <a target="_blank" href="https://www.instagram.com/marykayhongkong/">@marykaytaiwan</a>
+        <a target="_blank" href="https://www.instagram.com/marykayhongkong/">@marykayhongkong</a>
       </h3>
     </div>
     <div class="body margin-top_50">
