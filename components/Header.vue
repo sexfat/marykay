@@ -118,11 +118,9 @@
                 </li>
 
                 <li>
-                  <a
-                    target="_blank"
-                    href="https://www.marykay.com.tw/eCatalogForCorporateSite?&docid=0b3f1feb-8cfc-4ade-8e13-139ccc5bc4bf&cid=direct&t=eCat_2021Thelook"
-                    >{{ $t('header_links.dm.name') }}</a
-                  >
+                  <a target="_blank" href="https://www.marykay.com.tw/eCatalogForCorporateSite">{{
+                    $t('header_links.dm.name')
+                  }}</a>
                 </li>
                 <li><nuxt-link :to="localePath('/howtobuy')">如何購物</nuxt-link></li>
                 <!-- <li>
