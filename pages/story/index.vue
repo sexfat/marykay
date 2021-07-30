@@ -209,7 +209,7 @@
               <h4>NOW</h4>
               玫琳凱．艾施女士最驕傲的遺產就是如今全球有近40個國家傳承賦予女性創業力量的方式，幫助成千上萬的女性自信、美麗
             </div>
-            <img src="~assets/images/TW_layoutA/img_about_story_now.jpg" alt="" />
+            <img class="lastimg" src="~assets/images/TW_layoutA/img_about_story_now.jpg" alt="" />
           </div>
         </Swiper>
         <!-- If we need navigation buttons -->
