@@ -35,16 +35,16 @@
         <li class="col-lg-5 col-md-12">
           <!-- 側邊說明 -->
           <div class="product_desc">
-            <h2>{{ $t(`${path}.name`) }}</h2>
+            <h2 v-html="$t(`${path}.name`)"></h2>
             <div class="total">
               <span class="weight" v-html="$t(`${path}.capacity`)"></span> /
-              <span class="prices">{{ $t(`${path}.price`) }}</span>
+              <span class="prices" v-html="$t(`${path}.price`)"></span>
             </div>
             <div class="desc" v-html="$t(`${path}.description`)"></div>
             <!-- <div class="btn_buy">如何購買</div> -->
             <div class="detail">
               <section v-if="productData ? productData.skin_suitable : false">
-                <a href="#content-1" class="accordion-toggle">{{ suitableTitle }}</a>
+                <a href="#content-1" class="accordion-toggle">{{ $t('pages.product_page.skin_suitable') }}</a>
                 <div id="content-1" class="accordion-content" v-html="$t(`${path}.skin_suitable`)"></div>
               </section>
               <section v-if="productData ? productData.usage : false">
@@ -54,6 +54,14 @@
               <section v-if="productData ? productData.function : false">
                 <a href="#content-3" class="accordion-toggle">{{ $t('pages.product_page.function') }}</a>
                 <div id="content-3" class="accordion-content" v-html="$t(`${path}.function`)"></div>
+              </section>
+              <section v-if="productData ? productData.hint : false">
+                <a href="#content-4" class="accordion-toggle">{{ $t('pages.product_page.hint') }}</a>
+                <div id="content-4" class="accordion-content" v-html="$t(`${path}.hint`)"></div>
+              </section>
+              <section v-if="productData ? productData.features : false">
+                <a href="#content-5" class="accordion-toggle">{{ $t('pages.product_page.features') }}</a>
+                <div id="content-5" class="accordion-content" v-html="$t(`${path}.features`)"></div>
               </section>
             </div>
           </div>

@@ -1,4 +1,5 @@
 <template>
+  <!-- eslint-disable vue/no-v-html -->
   <div class="product">
     <!-- 上方banner -->
     <div class="product_banner container-fluid gx-0">
@@ -25,12 +26,8 @@
           ></nuxt-link>
           <img :src="require(`~/assets/images/HK/${products[item].small_images.img_01}`)" alt="" />
           <dl>
-            <dd>
-              {{ $t(`products.${item}.name`) }}
-            </dd>
-            <dt>
-              {{ $t(`products.${item}.price`) }}
-            </dt>
+            <dd v-html="$t(`products.${item}.name`)"></dd>
+            <dt v-html="$t(`products.${item}.price`)"></dt>
           </dl>
         </li>
       </ul>

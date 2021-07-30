@@ -279,6 +279,8 @@
       "usage": "使用方法",
       "video": "影片",
       "function": "功能",
+      "hint": "成分提示",
+      "features": "配方特點",
       "principal_components": "主要成分"
     },
     "footer": {
