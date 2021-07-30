@@ -2,6 +2,7 @@
   <div id="app" class="wrapper">
     <Header />
     <Nuxt />
+    <ScrollTop />
     <Footer />
   </div>
 </template>
