@@ -16,7 +16,6 @@
               /></nuxt-link>
             </div>
           </div>
-
           <div class="header-right">
             <nav id="navigation" ref="navigation" class="mainnav">
               <ul ref="mainmenu" class="mainmenu">
@@ -141,6 +140,7 @@ export default {
   data() {
     return {
       menu: null,
+      nav: null,
       drawer: null,
       // switchLang: {
       //   zh: '英文',
@@ -179,7 +179,7 @@ export default {
       this.drawer = this.menu.offcanvas({
         position: 'left',
       })
-      this.menu.navigation({
+      this.nav = this.menu.navigation({
         slidingSubmenus: true,
         title: 'Mary Kay',
       })
