@@ -52,7 +52,12 @@
         <!-- Additional required wrapper -->
         <Swiper :options="swiperOptions">
           <!-- Slides -->
-          <Swiper-slide v-for="(value, keys) in slideData" :key="keys" class="swiper-slide">
+          <Swiper-slide
+            v-for="(value, keys) in slideData"
+            :key="keys"
+            class="swiper-slide"
+            :class="{ lastimg: value.lastimg }"
+          >
             <div class="txt" v-html="value.txt"></div>
             <img :src="require(`~/assets/images/TW_layoutA/${value.img}.jpg`)" alt="" />
           </Swiper-slide>
