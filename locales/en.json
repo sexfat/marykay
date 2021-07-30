@@ -337,87 +337,78 @@
       }
     },
     "about_mary_ash": {
-      "Breadcrumb": {
-        "home": "home",
-        "pageName": "/ About Mary Kay Ash"
+      "page_name":"About Mary Kay Ash",
+      "h2":"Founder of Mary Kay, a Pioneer of the Times!",
+      "text_body":" “Sometimes we feel incapable enough and doubt whether we can make our own part to change the world. Trust me! You Can Do It!”",
+      "spec_title":"Mary Kay Ash, an outstanding leader who started her own business more than 50 years ago with US$ 5,000 savings and built a “dream company” subverting the business cultures and working environment dominated by males, thereby creating more opportunities for women in the workplace.",
+      "spec_txt":"<p> Her unswerving belief and golden rules have inspired millions of women. Mary Kay didn’t believe that there is so-called iron lady but “everyone is the dark horse as long as he/she holds on”. By doing so, all your dreams will come true!</p><p>  Mary Kay Ash’s most proudest legacy is that there are nearly 40 countries around the world so far committed to empowering women to create their own businesses, thus helping thousands of women all over the world to sparkle and shine.</p",
+      "row_title":"Mary Kay Origin",
+      "row":{
+        "col-1":"After 25 years of hard work in the direct selling industry, Mary Kay resolutely decided to retire.She wants to build a \"dream company\" and become a force to support women. Provide opportunities for women to have a deeper imagination and hope for themselves and life and increase the index of happiness and positiveness.",
+        "col-2":"In 1963, she founded MARY KAY with a deposit of US$5,000 and recruited 9 beauty consultants to start selling products and promoting business. In the first year of the establishment of Mary Kay, the number of Mary Kay beauty consultants has grown from 9 to 300, with an annual performance of nearly 200,000 US dollars!",
+        "col-3":"By the 1980s, Mary Kay’s part-time beauty consultants had an annual income of about 4,000 US dollars, and the average annual salary of 4,000 business supervisors was 60,000 US dollars. Mary Kay is very proud to say that in her company, women earn 50,000 US dollars a year. The number of people ranks first in the United States!",
+        "col-4":"In 1969, the pink car award program was established and became a trophy symbolizing beauty consultant honor. This is the pink power of Mary Kay, soft but strong. Through color, we can not only beautify our external appearance, but also bring energy, change our lives."
       },
-      "Banner": {
-        "h2": "Founder of Mary Kay, a Pioneer of the Times!",
-        "content": "“Sometimes we feel incapable enough and doubt whether we can make our own part to change the world. Trust me! You Can Do It!” Mary Kay Ash"
-      },
-      "dark": {
-        "h4": "Mary Kay Ash, an outstanding leader who started her own business more than 50 years ago with US$ 5,000 savings and built a “dream company” subverting the business cultures and working environment dominated by males, thereby creating more opportunities for women in the workplace",
-        "content": "Her unswerving belief and golden rules have inspired millions of women. Mary Kay didn’t believe that there is so-called iron lady but “everyone is the dark horse as long as he/she holds on”. By doing so, all your dreams will come true! Mary Kay Ash’s most proudest legacy is that there are nearly 40 countries around the world so far committed to empowering women to create their own businesses, thus helping thousands of women all over the world to sparkle and shine."
-      },
-      "spec": {
-        "t1_h4": "Grow with the People with You",
-        "t1_p": "Mary Kay Ash has been holding that the right values will lead you to success. She is committed to guiding herself by the Golden Rule, ensuring that she leads by example and grows with those she travels with. She often told others, “Never, never compromise on your principles.” Her unswerving belief has inspired millions of women, making her one of the world’s greatest entrepreneurs and leaders.",
-        "t2_h4": "Make Myself Important to Others",
-        "t2_p": "When Mary Kay Ash was a young girl, her mother always told her, “You can do it, Mary Kay!” From the on-stage recognition from to inspiring speeches, Mary Kay Ash shared the same encouragement with millions of women. She imagined that everyone was labeled with “Make Myself Important to Others”. Incorporating this belief into her everyday life and simple actions, Mary Kay Ash connected every woman who gained confidence by her encouragement and grew it into a global business empire."
-      },
-      "content": {
-        "title": "Mary Kay Ash: the Most Inspiring Achievement",
-        "list": {
-          "box1": {
-            "year": "1963:",
-            "story": "on September 13, Ms. Mary Kay Ash started Mary Kay Cosmetics Company with a 46.28-square-meter store in Dallas, US."
-          },
-          "box2": {
-            "year": "1978:",
-            "story": "won THE HORATIO ALGER Award for The Most Accomplished Leader in America"
-          },
-          "box3": {
-            "year": "1984:",
-            "story": "Mary Kay’s first book The Mary Kay Way: Timeless Principles from America’s Greatest Woman Entrepreneur was published and was highly praised by the Wall Street Journal, the nation’s leading business newspaper"
-          },
-          "box4": {
-            "year": "1985:",
-            "story": "Mary Kay Ash was named “One of the 25 Most Influential Women in America” by THE WORLD ALMANAC AND BOOK OF FACTS."
-          },
-          "box5": {
-            "year": "1991:",
-            "story": "Mary Kay set up its first branch in Asia in Taiwan"
-          },
-          "box6": {
-            "year": "1993:",
-            "story": "Mary Kay created the Mary Kay Ash Charitable Foundation committed to helping cancer research organizations and women’ organizations; Mary Kay was named to the Fortune 500 for the first time and, for the second time, to the “The100 Best Companies to Work For in America”."
-          },
-          "box7": {
-            "year": "1995:",
-            "story": "Fortune magazine named Mary Kay the “America’s Most Admired Company”."
-          },
-          "box8": {
-            "year": "1999:",
-            "story": "Recognized as Outstanding Woman of the Century Texas Women’ Chamber of Commerce"
-          },
-          "box9": {
-            "year": "2000:",
-            "story": "Life TV named Mary Kay as the most outstanding woman in business of the 20th century"
-          },
-          "box10": {
-            "year": "2003:",
-            "story": "Rated as The Greatest Women Entrepreneur in American History by the famous Baylor University in the United States"
-          },
-          "box11": {
-            "year": "2004:",
-            "story": "Mary Kay Foundation, founded by Mary Kay, received the Humanitarian Rose Award from Kensington Palace in London"
-          },
-          "box12": {
-            "year": "2011:",
-            "story": "Mary Kay was the only makeup brand to make the top 10, ranking No. 10 in Forbes magazine’s brand loyalty survey for consumers"
-          },
-          "box13": {
-            "year": "2017:",
-            "story": "Listed in the top 100 enterprises by Direct Selling News - the world’s top five direct selling brands"
-          },
-          "box14": {
-            "year": "2019:",
-            "story": "Mary Kay was ranked 42nd in the World’s Best Employers to Work For in the 2019 by Global Workplace 100 Study"
-          },
-          "box15": {
-            "year": null,
-            "story": "Mary Kay cooperated with the United Nations to launch the Women’ Entrepreneurship Accelerator Program to actively promote women’ entrepreneurship around the world"
-          }
+      "slides":{
+        "slide_1":{
+          "txt":"<h4>1963</h4>on September 13, Ms. Mary Kay Ash started Mary Kay Cosmetics Company with a 46.28-square-meter store in Dallas, US.",
+          "img":"img_about_story1963"
+        },
+        "slide_2":{
+          "txt":"<h4>1978</h4> won THE HORATIO ALGER Award for The Most Accomplished Leader in America",
+          "img":"img_about_story1978"
+        },
+        "slide_3":{
+          "txt":"<h4>1984</h4>Mary Kay’s first book The Mary Kay Way: Timeless Principles from America’s Greatest Woman Entrepreneur was published and was highly praised by the Wall Street Journal, the nation’s leading business newspaper",
+          "img":"img_about_story1984"
+        },
+        "slide_4":{
+          "txt":"<h4>1985</h4>Mary Kay Ash was named “One of the 25 Most Influential Women in America” by THE WORLD ALMANAC AND BOOK OF FACTS.",
+          "img":"img_about_story1985"
+        },
+        "slide_5":{
+          "txt":"<h4>1991</h4>Mary Kay set up its first branch in Asia in Taiwan",
+          "img":"img_about_story1991"
+        },
+        "slide_6":{
+          "txt":"<h4>1993</h4>Mary Kay created the Mary Kay Ash Charitable Foundation committed to helping cancer research organizations and women’ organizations; Mary Kay was named to the Fortune 500 for the first time and, for the second time, to the “The100 Best Companies to Work For in America”.",
+          "img":"img_about_story_1993"
+        },
+        "slide_7":{
+          "txt":"<h4>1995</h4>Fortune magazine named Mary Kay the “America’s Most Admired Company”.",
+          "img":"img_about_story1995"
+        },
+        "slide_8":{
+          "txt":"<h4>1999</h4>Recognized as Outstanding Woman of the Century Texas Women’ Chamber of Commerce",
+          "img":"img_about_story_1999"
+        },
+        "slide_9":{
+          "txt":" <h4>2000</h4>Life TV named Mary Kay as the most outstanding woman in business of the 20th century",
+          "img":"img_about_story_2000"
+        },
+        "slide_10":{
+          "txt":"<h4>2003</h4>Rated as The Greatest Women Entrepreneur in American History by the famous Baylor University in the United States",
+          "img":"img_about_story_2003"
+        },
+        "slide_11":{
+          "txt":"<h4>2004</h4>Mary Kay Foundation, founded by Mary Kay, received the Humanitarian Rose Award from Kensington Palace in London",
+          "img":"img_about_story_2004"
+        },
+        "slide_12":{
+          "txt":"<h4>2011</h4>Mary Kay was the only makeup brand to make the top 10, ranking No. 10 in Forbes magazine’s brand loyalty survey for consumers",
+          "img":"img_about_story_2011"
+        },
+        "slide_13":{
+          "txt":"<h4>2017</h4>Listed in the top 100 enterprises by Direct Selling News - the world’s top five direct selling brands",
+          "img":"img_about_story_2017"
+        },
+        "slide_14":{
+          "txt":"<h4>2019</h4>Mary Kay was ranked 42nd in the World’s Best Employers to Work For in the 2019 by Global Workplace 100 Study",
+          "img":"img_about_story_2019"
+        },
+        "slide_15":{
+          "txt":"<h4>NOW</h4>Mary Kay cooperated with the United Nations to launch the Women’ Entrepreneurship Accelerator Program to actively promote women’ entrepreneurship around the world",
+          "img":"img_about_story_now"
         }
       }
     },
