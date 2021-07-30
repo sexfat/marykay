@@ -28,8 +28,14 @@
             height: 560px;
 
             @include t() {
-                height: auto;
+                height: 305px;
                 width: 100%;
+                margin-bottom: 30px;
+            }
+              @include m() {
+                height: 225px;
+                width: 57%;
+                margin-bottom: 30px;
             }
         }
     }
@@ -40,15 +46,20 @@
         max-width: 900px;
         width: 100%;
         padding: 70px 0 100px;
+        @include t(){
+           padding: 70px 20px 100px;  
+        }
 
         .w900 {
             padding-left: 12px;
-            @include t(){
-             width: 80%;
-            margin: 0 auto;
+
+            @include t() {
+                width: 80%;
+                margin: 0 auto;
             }
-            @include m(){
-             padding-left: 26px;
+
+            @include m() {
+                width: 100%;
             }
         }
 
@@ -74,16 +85,21 @@
                 margin-right: 0;
 
             }
-
+             @include t() {
+                &:nth-child(5n) {
+                    margin-right: 15px;
+                }
+             }
             @include m() {
                 &:nth-child(2n) {
                     margin-right: 0;
 
                 }
-                &:nth-child(5n) {
-                margin-right: 15px;
 
-            }
+                &:nth-child(5n) {
+                    margin-right: 15px;
+
+                }
             }
 
             transition: .3s all ease;

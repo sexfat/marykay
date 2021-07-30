@@ -110,18 +110,20 @@
 }
 
 // accondion
-.accordion-toggle {
+ .accordion-toggle {
     display: block;
     text-decoration: none;
     color: #000;
     padding: 10px 0;
     border-bottom: 1px solid lighten($font-color-light, 20);
-    &::after {
+}
+
+.product_item  .accordion-toggle { 
+  &::after {
       position: absolute;
       content: '+';
       right: 15px;
     }
-
 }
 
 .accordion-content {
