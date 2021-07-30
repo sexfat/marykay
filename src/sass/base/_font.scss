@@ -157,15 +157,15 @@ dt {
 
 h2 {
   .text_small {
-     font-size: .92rem;
-     font-family: initial; 
+    font-size: .92rem;
+    font-family: initial;
   }
 }
 
 
 .s_font {
 
-color: #FF395D;
+  color: #FF395D;
 }
 
 
@@ -186,6 +186,15 @@ $weight in $all {
   .w#{$class} {
     font-weight: $weight !important;
   }
+}
+
+
+// 產品內文標題
+
+h6 {
+  font-size: .9rem;
+  font-weight: bold;
+  margin: 9px 0;
 }
 
 // @include m() {
