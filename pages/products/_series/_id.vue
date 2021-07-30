@@ -44,7 +44,7 @@
             <div class="btn_buy" @click="howToBuy">如何購買</div>
             <div class="detail">
               <section v-if="productData ? productData.skin_suitable : false">
-                <a href="#content-1" class="accordion-toggle">{{ $t('pages.product_page.skin_suitable') }}</a>
+                <a href="#content-1" class="accordion-toggle">{{ suitableTitle }}</a>
                 <div id="content-1" class="accordion-content" v-html="$t(`${path}.skin_suitable`)"></div>
               </section>
               <section v-if="productData ? productData.usage : false">
@@ -103,6 +103,22 @@ export default {
     },
     productData() {
       return this.$i18n.messages[this.$i18n.locale].products[this.id]
+    },
+    suitableTitle() {
+      let text = ''
+      if (this.series === 'Nutrition') {
+        switch (this.$i18n.locale) {
+          case 'en':
+            text = 'Applicable'
+            break
+          case 'zh':
+            text = '適用者'
+            break
+        }
+        return text
+      } else {
+        return this.$i18n.messages[this.$i18n.locale].pages.product_page.skin_suitable
+      }
     },
   },
   mounted() {

@@ -90,6 +90,8 @@
               <div class="hoverbox"></div>
             </div>
           </Swiper-slide>
+          <div slot="button-prev" class="swiper-button-prev"></div>
+          <div slot="button-next" class="swiper-button-next"></div>
         </Swiper>
       </div>
     </div>
@@ -124,6 +126,10 @@ export default {
             slidesPerView: 3,
             spaceBetween: 50,
           },
+        },
+        navigation: {
+          nextEl: '.swiper-button-next',
+          prevEl: '.swiper-button-prev',
         },
       },
     }
