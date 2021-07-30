@@ -36,9 +36,10 @@
     .about_marykay_inner {
         position: relative;
         height: 0;
-        @include m(){
-         background-color: rgb(0, 0, 0);
-         margin-top: -10px;
+
+        @include m() {
+            background-color: rgb(0, 0, 0);
+            margin-top: -10px;
         }
 
         @include m() {
@@ -103,6 +104,7 @@
             font-size: .9rem;
             top: 16px;
             line-height: 1.8rem;
+
             &::after {
                 content: '';
                 width: 2px;
@@ -122,34 +124,36 @@
             }
         }
     }
+
     .swiper_story {
         position: relative;
 
-       .txt {
-          color: #fff;
-          position: absolute;
-          text-shadow: 0px 1px 3px #232323;
-          top: 50%;
-          transform: translateY(-50%);
-          left:10%;
-          width: 450px;
-          z-index: 100;
-          @include m() {
-              transform: translate(-50% , -50%);
-              left:50%;
-              width: 350px;
-          }
-          
-          
-          h4 {
-             margin-bottom: 30px;
-          }
-          
-       }
-       
-       .swiper-slide {
-        position: relative;
-           &::after{
+        .txt {
+            color: #fff;
+            position: absolute;
+            text-shadow: 0px 1px 3px #232323;
+            top: 50%;
+            transform: translateY(-50%);
+            left: 10%;
+            width: 450px;
+            z-index: 100;
+
+            @include m() {
+                transform: translate(-50%, -50%);
+                left: 50%;
+                width: 350px;
+            }
+
+
+            h4 {
+                margin-bottom: 30px;
+            }
+
+        }
+
+        .swiper-slide {
+            position: relative;
+            &::after {
                 content: '';
                 background-color: #070707;
                 opacity: 40%;
@@ -160,46 +164,49 @@
                 left: 0;
                 z-index: 1;
                 display: block;
-             }
-       img {
-         height: 900px;
-             width: 100%;
-             object-fit: cover;
-       }
+            }
 
-        @include m(){
-           img {
-             height: 700px;
-             width: 100%;
-             object-fit: cover;
-            &.lastimg {
-               object-position: 70% 10%;
-            } 
+            img {
+                height: 900px;
+                width: 100%;
+                object-fit: cover;
+            }
 
-           }
-        }     
-       }
-       .swiper-button-next {
-         right: 20px;
-       }
+            @include m() {
+                img {
+                    height: 700px;
+                    width: 100%;
+                    object-fit: cover;
+                    &.lastimg {
+                       object-position: 70% 10%;
+                    } 
+
+                }
+            }
+        }
+
+        .swiper-button-next {
+            right: 20px;
+        }
     }
-   
+
 
     // 共用粉紅綠色態度css
 
     .m {
-      display: none;
+        display: none;
     }
 
 
-    @include t(){
-      .m {
-        display: block;
-      }
-      .d {
-        display: none;
-      }
-    
+    @include t() {
+        .m {
+            display: block;
+        }
+
+        .d {
+            display: none;
+        }
+
     }
 
 
