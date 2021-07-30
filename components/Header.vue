@@ -118,6 +118,7 @@
                 </li>
                 <li>
                   <a
+                    target="_blank"
                     href="https://ecatalog.marykay.com/?docid=a3045dac-0ac6-4adb-9064-20ce763277c6&d=https://www.marykay.com.hk&t=TheLook&cid=eCat_InTouch"
                     >{{ $t('header_links.dm.name') }}</a
                   >

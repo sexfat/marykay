@@ -26,11 +26,7 @@ export default {
       })
     },
     scrollTopShow() {
-      this.scrollTop =
-        document.documentElement.scrollTop ||
-        window.pageYOffset ||
-        document.body.scrollTop ||
-        document.querySelector(this.el).scrollTop
+      this.scrollTop = document.documentElement.scrollTop || window.pageYOffset || document.body.scrollTop || 0
       if (this.scrollTop > this.whenToShow) {
         this.isScrollTop = true
       } else {
