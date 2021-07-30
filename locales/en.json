@@ -408,7 +408,8 @@
         },
         "slide_15":{
           "txt":"<h4>NOW</h4>Mary Kay cooperated with the United Nations to launch the Women’ Entrepreneurship Accelerator Program to actively promote women’ entrepreneurship around the world",
-          "img":"img_about_story_now"
+          "img":"img_about_story_now",
+          "lastimg":true
         }
       }
     },
