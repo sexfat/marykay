@@ -45,7 +45,7 @@ export default {
   },
   head() {
     return {
-      title: `Mary Kay | ${this.id}`,
+      title: `玫琳凱香港有限公司- Mary Kay (HK) Co. Ltd | ${this.id}`,
     }
   },
   computed: {

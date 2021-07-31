@@ -102,7 +102,7 @@ export default {
   },
   head() {
     return {
-      title: `Mary Kay | ${this.productData.name}`,
+      title: `玫琳凱香港有限公司- Mary Kay (HK) Co. Ltd | ${this.productData.name}`,
     }
   },
   computed: {
