@@ -16,7 +16,8 @@
       <div class="row">
         <div>
           <h4 class="h4 w4 margin-bottom_30">{{ $t('pages.global_company.global_branches') }}</h4>
-          <span class="s_font">Mary Kay® Global </span> {{ $t('pages.global_company.global_operating_stations') }}<br />
+          <span class="s_font">Mary Kay<sup>®</sup> Global </span>
+          {{ $t('pages.global_company.global_operating_stations') }}<br />
           {{ $t('pages.global_company.description') }}
         </div>
       </div>
