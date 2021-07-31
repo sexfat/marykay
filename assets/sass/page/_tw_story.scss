@@ -83,8 +83,9 @@
         padding: 100px 0;
         background-color: rgb(0, 0, 0);
         text-align: center;
+
         .text_left {
-        text-align: center;
+            text-align: center;
         }
 
 
@@ -181,18 +182,16 @@
                 object-fit: cover;
             }
 
-            @include m() {
-                img {
-                    height: 700px;
-                    width: 100%;
-                    object-fit: cover;
-
-                    &.lastimg {
-                        object-position: 70% 10%;
+            &.lastimg {
+                @include m() {
+                    img {
+                       object-position: 70% 10%;
                     }
-
                 }
             }
+
+
+
         }
 
         .swiper-button-next {
