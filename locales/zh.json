@@ -2871,7 +2871,8 @@
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01": "m/d/md81.jpg"
+        "img_01": "m/d/md81.jpg",
+        "img_02": "m/d/md82.jpg"
       },
       "description_image": "z"
     },
