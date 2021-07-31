@@ -80,224 +80,224 @@
         "Youthfinity": {
           "name": "Youthfinity",
           "cn": "臻時粹顏系列",
-          "banner_title":"YOUTHFINITY",
+          "banner_title": "YOUTHFINITY",
           "header_links": "product_series",
           "header_img": "pa.jpg"
         },
         "TimeWise_Repair": {
           "name": "TimeWise Repair",
           "cn": "時光精靈Repair系列",
-          "banner_title":"TIMEWISE REPAIR",
+          "banner_title": "TIMEWISE REPAIR",
           "header_links": "product_series",
           "header_img": "pb.jpg"
         },
         "TimeWise3D": {
           "name": "TimeWise",
           "cn": "TimeWise/TimeWise3D",
-          "banner_title":"TIMEWISE",
+          "banner_title": "TIMEWISE",
           "header_links": "product_series",
           "header_img": "pc.jpg"
         },
         "Naturally": {
           "name": "Naturally",
           "cn": "天然淨活系列",
-          "banner_title":"NATURALLY",
+          "banner_title": "NATURALLY",
           "header_links": "product_series",
           "header_img": "pd.jpg"
         },
         "Botanical_Effects": {
           "name": "Botanical Effects",
           "cn": "植物肌密系列",
-          "banner_title":"BOTANICAL EFFECTS",
+          "banner_title": "BOTANICAL EFFECTS",
           "header_links": "product_series",
           "header_img": "pe.jpg"
         },
         "Skin_Supplements": {
           "name": "Skin Supplements",
           "cn": "補充性保養系列",
-          "banner_title":"SKIN SUPPLEMENTS",
+          "banner_title": "SKIN SUPPLEMENTS",
           "header_links": "product_series",
           "header_img": "pf.jpg"
         },
         "LumiVie": {
           "name": "LumiVie",
           "cn": "亮采系列",
-          "banner_title":"LUMIVIE",
+          "banner_title": "LUMIVIE",
           "header_links": "product_series",
           "header_img": "pg.jpg"
         },
         "Calming_Influence": {
           "name": "Calming Influence",
           "cn": "舒顏系列",
-          "banner_title":"CALMING INFLUENCE",
+          "banner_title": "CALMING INFLUENCE",
           "header_links": "product_series",
           "header_img": "ph.jpg"
         },
         "Clear_Proof": {
           "name": "Clear Proof",
           "cn": "淨顏系列",
-          "banner_title":"CLEAR PROOF",
+          "banner_title": "CLEAR PROOF",
           "header_links": "product_series",
           "header_img": "pi.jpg"
         },
         "MK_Men": {
           "name": "MK Men",
           "cn": "男士系列",
-          "banner_title":"MK MEN",
+          "banner_title": "MK MEN",
           "header_links": "product_series",
           "header_img": "pj.jpg"
         },
         "Body_Care": {
           "name": "Body Care",
           "cn": "美體系列",
-          "banner_title":"BODY CARE",
+          "banner_title": "BODY CARE",
           "header_links": "product_series",
           "header_img": "pk.jpg"
         },
         "Makeup_Remover": {
           "name": "Makeup Remover",
           "cn": "卸妝",
-          "banner_title":"MAKEUP REMOVER",
+          "banner_title": "MAKEUP REMOVER",
           "header_links": "product_features",
           "header_img": "fa.jpg"
         },
         "Cleanser": {
           "name": "Cleanser",
           "cn": "潔顏",
-          "banner_title":"CLEANSER",
+          "banner_title": "CLEANSER",
           "header_links": "product_features",
           "header_img": "fb.jpg"
         },
         "Toner": {
           "name": "Toner",
           "cn": "化妝水",
-          "banner_title":"TONERS",
+          "banner_title": "TONERS",
           "header_links": "product_features",
           "header_img": "fc.jpg"
         },
         "Moisturizer": {
           "name": "Moisturizer",
           "cn": "乳液/乳霜",
-          "banner_title":"MOISTURIZERS",
+          "banner_title": "MOISTURIZERS",
           "header_links": "product_features",
           "header_img": "fd.jpg"
         },
         "Mask": {
           "name": "Mask",
           "cn": "面膜",
-          "banner_title":"MASKS",
+          "banner_title": "MASKS",
           "header_links": "product_features",
           "header_img": "fe.jpg"
         },
         "Serum_Oil": {
           "name": "Serum & Oil",
           "cn": "精華液/油",
-          "banner_title":"SERUMS",
+          "banner_title": "SERUMS",
           "header_links": "product_features",
           "header_img": "ff.jpg"
         },
         "Body_Sun": {
           "name": "Body & Sun",
           "cn": "身體防曬/保養",
-          "banner_title":"SUN & BODY",
+          "banner_title": "SUN & BODY",
           "header_links": "product_features",
           "header_img": "fg.jpg"
         },
         "Eye_Care": {
           "name": "Eye Care",
           "cn": "眼唇保養",
-          "banner_title":"EYE CARE",
+          "banner_title": "EYE CARE",
           "header_links": "product_features",
           "header_img": "fh.jpg"
         },
         "Targeted_Solutions": {
           "name": "Targeted Solutions",
           "cn": "特殊護理",
-          "banner_title":"TARGETED SOLUTIONS",
+          "banner_title": "TARGETED SOLUTIONS",
           "header_links": "product_features",
           "header_img": "fi.jpg"
         },
         "Skin_Care_Tools": {
           "name": "Skin Care Tools",
           "cn": "美容儀器",
-          "banner_title":"Skin Care Tools",
+          "banner_title": "Skin Care Tools",
           "header_links": "product_features",
           "header_img": "fj.jpg"
         },
         "Lips": {
           "name": "Lips",
           "cn": "唇部系列",
-          "banner_title":"LIPS",
+          "banner_title": "LIPS",
           "header_links": "makeup",
           "header_img": "ma.jpg"
         },
         "Face": {
           "name": "Face",
           "cn": "臉部系列",
-          "banner_title":"FACE",
+          "banner_title": "FACE",
           "header_links": "makeup",
           "header_img": "mb.jpg"
         },
         "Eyes": {
           "name": "Eyes",
           "cn": "眼部系列",
-          "banner_title":"EYES",
+          "banner_title": "EYES",
           "header_links": "makeup",
           "header_img": "mc.jpg"
         },
         "Tools": {
           "name": "Tools",
           "cn": "彩妝工具",
-          "banner_title":"TOOLS",
+          "banner_title": "TOOLS",
           "header_links": "makeup",
           "header_img": "md.jpg"
         },
         "Fragrance": {
           "name": "Fragrance",
           "cn": "香氛系列",
-          "banner_title":"FRAGRANCE",
+          "banner_title": "FRAGRANCE",
           "header_links": "makeup",
           "header_img": "me.jpg"
         },
         "Nutrition": {
           "name": "Daily Benefits",
           "cn": "食物補充品",
-          "banner_title":"DAILY BENEFITS",
+          "banner_title": "DAILY BENEFITS",
           "header_links": "Nutrition",
           "header_img": "sa.jpg"
         },
         "Water_loving_Zone": {
           "name": "Water-loving Zone",
           "cn": "親水專區",
-          "banner_title":"WATER LOVING ZONE",
+          "banner_title": "WATER LOVING ZONE",
           "header_links": "skincare",
           "header_img": "ca.jpg"
         },
         "Age_fighting_ZONE": {
           "name": "Age-fighting Zone",
           "cn": "逆齡專區",
-          "banner_title":"AGE FIGHTING ZONE",
+          "banner_title": "AGE FIGHTING ZONE",
           "header_links": "skincare",
           "header_img": "cb.jpg"
         },
         "Oil_controlling_Zone": {
           "name": "Oil-controlling Zone",
           "cn": "控油專區",
-          "banner_title":"OIL CONTROL ZONE",
+          "banner_title": "OIL CONTROL ZONE",
           "header_links": "skincare",
           "header_img": "cc.jpg"
         },
         "Stress_relieving_Zone": {
           "name": "Stress-relieving Zone",
           "cn": "舒壓專區",
-          "banner_title":"STRESS RELIEVING ZONE",
+          "banner_title": "STRESS RELIEVING ZONE",
           "header_links": "skincare",
           "header_img": "cd.jpg"
         },
         "Lazy_Girls_Favorite_Zone": {
           "name": "Lazy Girls’ Favorite Zone",
           "cn": "懶人專區",
-          "banner_title":"LAZY GIRLS’S FAVORITE ZONE",
+          "banner_title": "LAZY GIRLS’S FAVORITE ZONE",
           "header_links": "skincare",
           "header_img": "ce.jpg"
         }
@@ -337,79 +337,79 @@
       }
     },
     "about_mary_ash": {
-      "page_name":"About Mary Kay Ash",
-      "h2":"Founder of Mary Kay, a Pioneer of the Times!",
-      "text_body":" “Sometimes we feel incapable enough and doubt whether we can make our own part to change the world. Trust me! You Can Do It!”",
-      "spec_title":"Mary Kay Ash, an outstanding leader who started her own business more than 50 years ago with US$ 5,000 savings and built a “dream company” subverting the business cultures and working environment dominated by males, thereby creating more opportunities for women in the workplace.",
-      "spec_txt":"<p> Her unswerving belief and golden rules have inspired millions of women. Mary Kay didn’t believe that there is so-called iron lady but “everyone is the dark horse as long as he/she holds on”. By doing so, all your dreams will come true!</p><p>  Mary Kay Ash’s most proudest legacy is that there are nearly 40 countries around the world so far committed to empowering women to create their own businesses, thus helping thousands of women all over the world to sparkle and shine.</p",
-      "row_title":"Mary Kay Origin",
-      "row":{
-        "col-1":"After 25 years of hard work in the direct selling industry, Mary Kay resolutely decided to retire.She wants to build a \"dream company\" and become a force to support women. Provide opportunities for women to have a deeper imagination and hope for themselves and life and increase the index of happiness and positiveness.",
-        "col-2":"In 1963, she founded MARY KAY with a deposit of US$5,000 and recruited 9 beauty consultants to start selling products and promoting business. In the first year of the establishment of Mary Kay, the number of Mary Kay beauty consultants has grown from 9 to 300, with an annual performance of nearly 200,000 US dollars!",
-        "col-3":"By the 1980s, Mary Kay’s part-time beauty consultants had an annual income of about 4,000 US dollars, and the average annual salary of 4,000 business supervisors was 60,000 US dollars. Mary Kay is very proud to say that in her company, women earn 50,000 US dollars a year. The number of people ranks first in the United States!",
-        "col-4":"In 1969, the pink car award program was established and became a trophy symbolizing beauty consultant honor. This is the pink power of Mary Kay, soft but strong. Through color, we can not only beautify our external appearance, but also bring energy, change our lives."
+      "page_name": "About Mary Kay Ash",
+      "h2": "Founder of Mary Kay, a Pioneer of the Times!",
+      "text_body": " “Sometimes we feel incapable enough and doubt whether we can make our own part to change the world. Trust me! You Can Do It!”",
+      "spec_title": "Mary Kay Ash, an outstanding leader who started her own business more than 50 years ago with US$ 5,000 savings and built a “dream company” subverting the business cultures and working environment dominated by males, thereby creating more opportunities for women in the workplace.",
+      "spec_txt": "<p> Her unswerving belief and golden rules have inspired millions of women. Mary Kay didn’t believe that there is so-called iron lady but “everyone is the dark horse as long as he/she holds on”. By doing so, all your dreams will come true!</p><p>  Mary Kay Ash’s most proudest legacy is that there are nearly 40 countries around the world so far committed to empowering women to create their own businesses, thus helping thousands of women all over the world to sparkle and shine.</p",
+      "row_title": "Mary Kay Origin",
+      "row": {
+        "col-1": "After 25 years of hard work in the direct selling industry, Mary Kay resolutely decided to retire.She wants to build a \"dream company\" and become a force to support women. Provide opportunities for women to have a deeper imagination and hope for themselves and life and increase the index of happiness and positiveness.",
+        "col-2": "In 1963, she founded MARY KAY with a deposit of US$5,000 and recruited 9 beauty consultants to start selling products and promoting business. In the first year of the establishment of Mary Kay, the number of Mary Kay beauty consultants has grown from 9 to 300, with an annual performance of nearly 200,000 US dollars!",
+        "col-3": "By the 1980s, Mary Kay’s part-time beauty consultants had an annual income of about 4,000 US dollars, and the average annual salary of 4,000 business supervisors was 60,000 US dollars. Mary Kay is very proud to say that in her company, women earn 50,000 US dollars a year. The number of people ranks first in the United States!",
+        "col-4": "In 1969, the pink car award program was established and became a trophy symbolizing beauty consultant honor. This is the pink power of Mary Kay, soft but strong. Through color, we can not only beautify our external appearance, but also bring energy, change our lives."
       },
-      "slides":{
-        "slide_1":{
-          "txt":"<h4>1963</h4>on September 13, Ms. Mary Kay Ash started Mary Kay Cosmetics Company with a 46.28-square-meter store in Dallas, US.",
-          "img":"img_about_story1963"
+      "slides": {
+        "slide_1": {
+          "txt": "<h4>1963</h4>on September 13, Ms. Mary Kay Ash started Mary Kay Cosmetics Company with a 46.28-square-meter store in Dallas, US.",
+          "img": "img_about_story1963"
         },
-        "slide_2":{
-          "txt":"<h4>1978</h4> won THE HORATIO ALGER Award for The Most Accomplished Leader in America",
-          "img":"img_about_story1978"
+        "slide_2": {
+          "txt": "<h4>1978</h4> won THE HORATIO ALGER Award for The Most Accomplished Leader in America",
+          "img": "img_about_story1978"
         },
-        "slide_3":{
-          "txt":"<h4>1984</h4>Mary Kay’s first book The Mary Kay Way: Timeless Principles from America’s Greatest Woman Entrepreneur was published and was highly praised by the Wall Street Journal, the nation’s leading business newspaper",
-          "img":"img_about_story1984"
+        "slide_3": {
+          "txt": "<h4>1984</h4>Mary Kay’s first book The Mary Kay Way: Timeless Principles from America’s Greatest Woman Entrepreneur was published and was highly praised by the Wall Street Journal, the nation’s leading business newspaper",
+          "img": "img_about_story1984"
         },
-        "slide_4":{
-          "txt":"<h4>1985</h4>Mary Kay Ash was named “One of the 25 Most Influential Women in America” by THE WORLD ALMANAC AND BOOK OF FACTS.",
-          "img":"img_about_story1985"
+        "slide_4": {
+          "txt": "<h4>1985</h4>Mary Kay Ash was named “One of the 25 Most Influential Women in America” by THE WORLD ALMANAC AND BOOK OF FACTS.",
+          "img": "img_about_story1985"
         },
-        "slide_5":{
-          "txt":"<h4>1991</h4>Mary Kay set up its first branch in Asia in Taiwan",
-          "img":"img_about_story1991"
+        "slide_5": {
+          "txt": "<h4>1991</h4>Mary Kay set up its first branch in Asia in Taiwan",
+          "img": "img_about_story1991"
         },
-        "slide_6":{
-          "txt":"<h4>1993</h4>Mary Kay created the Mary Kay Ash Charitable Foundation committed to helping cancer research organizations and women’ organizations; Mary Kay was named to the Fortune 500 for the first time and, for the second time, to the “The100 Best Companies to Work For in America”.",
-          "img":"img_about_story_1993"
+        "slide_6": {
+          "txt": "<h4>1993</h4>Mary Kay created the Mary Kay Ash Charitable Foundation committed to helping cancer research organizations and women’ organizations; Mary Kay was named to the Fortune 500 for the first time and, for the second time, to the “The100 Best Companies to Work For in America”.",
+          "img": "img_about_story_1993"
         },
-        "slide_7":{
-          "txt":"<h4>1995</h4>Fortune magazine named Mary Kay the “America’s Most Admired Company”.",
-          "img":"img_about_story1995"
+        "slide_7": {
+          "txt": "<h4>1995</h4>Fortune magazine named Mary Kay the “America’s Most Admired Company”.",
+          "img": "img_about_story1995"
         },
-        "slide_8":{
-          "txt":"<h4>1999</h4>Recognized as Outstanding Woman of the Century Texas Women’ Chamber of Commerce",
-          "img":"img_about_story_1999"
+        "slide_8": {
+          "txt": "<h4>1999</h4>Recognized as Outstanding Woman of the Century Texas Women’ Chamber of Commerce",
+          "img": "img_about_story_1999"
         },
-        "slide_9":{
-          "txt":" <h4>2000</h4>Life TV named Mary Kay as the most outstanding woman in business of the 20th century",
-          "img":"img_about_story_2000"
+        "slide_9": {
+          "txt": " <h4>2000</h4>Life TV named Mary Kay as the most outstanding woman in business of the 20th century",
+          "img": "img_about_story_2000"
         },
-        "slide_10":{
-          "txt":"<h4>2003</h4>Rated as The Greatest Women Entrepreneur in American History by the famous Baylor University in the United States",
-          "img":"img_about_story_2003"
+        "slide_10": {
+          "txt": "<h4>2003</h4>Rated as The Greatest Women Entrepreneur in American History by the famous Baylor University in the United States",
+          "img": "img_about_story_2003"
         },
-        "slide_11":{
-          "txt":"<h4>2004</h4>Mary Kay Foundation, founded by Mary Kay, received the Humanitarian Rose Award from Kensington Palace in London",
-          "img":"img_about_story_2004"
+        "slide_11": {
+          "txt": "<h4>2004</h4>Mary Kay Foundation, founded by Mary Kay, received the Humanitarian Rose Award from Kensington Palace in London",
+          "img": "img_about_story_2004"
         },
-        "slide_12":{
-          "txt":"<h4>2011</h4>Mary Kay was the only makeup brand to make the top 10, ranking No. 10 in Forbes magazine’s brand loyalty survey for consumers",
-          "img":"img_about_story_2011"
+        "slide_12": {
+          "txt": "<h4>2011</h4>Mary Kay was the only makeup brand to make the top 10, ranking No. 10 in Forbes magazine’s brand loyalty survey for consumers",
+          "img": "img_about_story_2011"
         },
-        "slide_13":{
-          "txt":"<h4>2017</h4>Listed in the top 100 enterprises by Direct Selling News - the world’s top five direct selling brands",
-          "img":"img_about_story_2017"
+        "slide_13": {
+          "txt": "<h4>2017</h4>Listed in the top 100 enterprises by Direct Selling News - the world’s top five direct selling brands",
+          "img": "img_about_story_2017"
         },
-        "slide_14":{
-          "txt":"<h4>2019</h4>Mary Kay was ranked 42nd in the World’s Best Employers to Work For in the 2019 by Global Workplace 100 Study",
-          "img":"img_about_story_2019"
+        "slide_14": {
+          "txt": "<h4>2019</h4>Mary Kay was ranked 42nd in the World’s Best Employers to Work For in the 2019 by Global Workplace 100 Study",
+          "img": "img_about_story_2019"
         },
-        "slide_15":{
-          "txt":"<h4>NOW</h4>Mary Kay cooperated with the United Nations to launch the Women’ Entrepreneurship Accelerator Program to actively promote women’ entrepreneurship around the world",
-          "img":"img_about_story_now",
-          "lastimg":true
+        "slide_15": {
+          "txt": "<h4>NOW</h4>Mary Kay cooperated with the United Nations to launch the Women’ Entrepreneurship Accelerator Program to actively promote women’ entrepreneurship around the world",
+          "img": "img_about_story_now",
+          "lastimg": true
         }
       }
     },
@@ -929,107 +929,107 @@
       "text_body": "<p>Women's Empowerment and Women's Entrepreneurship Leader Mary Kay launched Women's Entrepreneurship Accelerator<br>in collaboration with UN Women. This multi-partner project aims to motivate and educate entrepreneurial <br>women around the world and help them enhance their power.</p><p>This pioneering project is a strategic cooperation project established in consultation with <br>the six major United Nations agencies, including: UN Women (UN Women), United Nations Partnership Office (UNOP), <br>International Labor Organization (ILO), International Trade Center (ITC), <br>United Nations Global Covenant Organization (UNGC) and United Nations Development Program (UNDP).</p>",
       "awward_content": "<p>The accelerator program will provide a digital instruction course, supplemented by ground training and coaching. <br>In addition, it will also serve as an advocacy platform to remove obstacles to women's entrepreneurship, <br>ranging from digital literacy levels to legal reforms, so as to help women fully participate <br>in the economic development of their region and country. The accelerator program will support <br>work that encourages companies and women-owned companies to establish and expand partnerships <br>(including corporate procurement) globally. In the future, the program will be further expanded <br>to include financing opportunities for women who have completed the course.</p><p>Mary Kay Chief Operating Officer Deborah Gibbins said: \"For more than 56 years, Mary Kay has<br>been empowering women through entrepreneurial opportunities and supporting them in their<br>pursuit of economic security and economic independence. Organizations in the public and<br>private sectors must work together to ensure that all entrepreneurial women have the<br>necessary tools. And educational resources make their dream of pursuing economic<br>independence come true, thereby making their families happier and their communities more<br>prosperous.\"</p><p>The Women’s Entrepreneurship Accelerator Program will initially provide support in six languages. <br>As the program expands to 192 countries, other languages ​​will be gradually introduced. <br>The accelerator plan will also set up an advisory committee composed of entrepreneurs, <br>celebrities and advocates to oversee the expansion and promotion of the plan.</p><p>Recently, Mary Kay has taken a series of measures to support women’s empowerment and help women around the world <br>improve their living standards. The Women’s Entrepreneurship Accelerator Program is one of the latest activities. <br>Earlier this year, Mary Kay joined an increasing number of companies and companies and signed the \"Women's Empowerment Principles\" <br>(Women's Empowerment Principles), a project jointly initiated by the United Nations Global Covenant Organization and <br>UN Women to promote corporate gender promotion The business case for equality action. Mary Kay also signed <br>the \"United Nations Global Covenant\", the world's largest corporate sustainability initiative. <br>During the United Nations General Assembly, Mary Kay will sponsor the WE Empower United Nations SDG Challenge, <br>which is the first global </p>"
     },
-    "pink_doing_green":{
-      "page_name":"Pink Doing Green",
-      "row":{
-        "col-1":{
-          "h3":"WORLDWIDE RECYCLING PROGRAM",
-          "text":"Mary Kay is the first company in the world to develop a recycling program. Mary Kay’s global manufacturing facilities recycle packaging, paper, plastic and other products through a recycling program every day."
+    "pink_doing_green": {
+      "page_name": "Pink Doing Green",
+      "row": {
+        "col-1": {
+          "h3": "WORLDWIDE RECYCLING PROGRAM",
+          "text": "Mary Kay is the first company in the world to develop a recycling program. Mary Kay’s global manufacturing facilities recycle packaging, paper, plastic and other products through a recycling program every day."
         },
-        "col-2":{
-          "h3":"100% BIO-DEGRADABLE PACKING MATERIALS",
-          "text":"Biodegradable packing materials are materials that can degrade in the nature. The biodegradable packing materials made from renewable corn and potato starch made into packing fillers are used to ship Mary Kay’s product."
+        "col-2": {
+          "h3": "100% BIO-DEGRADABLE PACKING MATERIALS",
+          "text": "Biodegradable packing materials are materials that can degrade in the nature. The biodegradable packing materials made from renewable corn and potato starch made into packing fillers are used to ship Mary Kay’s product."
         },
-        "col-3":{
-          "h3":"ZERO LANDFILL SITES",
-          "text":"Mary Kay’s manufacturing facilities in the United States have achieved zero landfill status. A wastewater treatment station capable of treating 150 tons has been established in Asia-Pacific manufacturing facilities. Implement the environmental goals of “waste water discharge” and “zero solid waste landfill”"
+        "col-3": {
+          "h3": "ZERO LANDFILL SITES",
+          "text": "Mary Kay’s manufacturing facilities in the United States have achieved zero landfill status. A wastewater treatment station capable of treating 150 tons has been established in Asia-Pacific manufacturing facilities. Implement the environmental goals of “waste water discharge” and “zero solid waste landfill”"
         },
-        "col-4":{
-          "h3":"SUSTAINABLE PRODUCT PACKAGING",
-          "text":"Mary Kay offers innovative and environmentally friendly products and packaging and adopts reusable product designs including the reusable magnet design in Mary Kay’s makeup kit, so that any makeup products can be put inside at random combination to reduce waste arising from change"
+        "col-4": {
+          "h3": "SUSTAINABLE PRODUCT PACKAGING",
+          "text": "Mary Kay offers innovative and environmentally friendly products and packaging and adopts reusable product designs including the reusable magnet design in Mary Kay’s makeup kit, so that any makeup products can be put inside at random combination to reduce waste arising from change"
         },
-        "col-5":{
-          "h3":"100% RENEWABLE ENERGY",
-          "text":"The Mary Kay world headquarters and global manufacturing facility are powered by 100 percent renewable energy."
+        "col-5": {
+          "h3": "100% RENEWABLE ENERGY",
+          "text": "The Mary Kay world headquarters and global manufacturing facility are powered by 100 percent renewable energy."
         },
-        "col-6":{
-          "h3":"1 MILLION TREES PLANTED",
-          "text":"Mary Kay has planted more than 1 million trees around the world in the activities organized by the global branches."
+        "col-6": {
+          "h3": "1 MILLION TREES PLANTED",
+          "text": "Mary Kay has planted more than 1 million trees around the world in the activities organized by the global branches."
         }
       }
     },
-    "pink_changing_lives":{
-      "page_name":"Pink Changing Lives ",
-      "text_body":"Our Commitment to Women",
-      "spec_1":{
-        "h4":"Untamed Beauty Women Empowered Era of Girl Power!",
-        "text_left":"Go-Give is our core spirit that promotes us to enrich women and their families around the world. Through this consistent philosophy, we take the initiative to respond to local communities in nearly 40 markets throughout the world, bringing change to women all over the world, allowing them and their children to have brand-new beautiful lives."
+    "pink_changing_lives": {
+      "page_name": "Pink Changing Lives ",
+      "text_body": "Our Commitment to Women",
+      "spec_1": {
+        "h4": "Untamed Beauty Women Empowered Era of Girl Power!",
+        "text_left": "Go-Give is our core spirit that promotes us to enrich women and their families around the world. Through this consistent philosophy, we take the initiative to respond to local communities in nearly 40 markets throughout the world, bringing change to women all over the world, allowing them and their children to have brand-new beautiful lives."
       },
-      "spec_2":{
-        "h4":"Global charity projects to give back to society",
-        "ol":"<li>Helping women and children around the world</li><li>Building libraries to help children in need</li><li>Funding the education of girls from underprivileged families</li><li>Providing life-saving medical services</li><li>Supporting anti-trafficking organizations</li><li>Helping disabled children</li><li>Inculcating awareness about breast cancer</li><li>Helping end domestic violence</li>"
+      "spec_2": {
+        "h4": "Global charity projects to give back to society",
+        "ol": "<li>Helping women and children around the world</li><li>Building libraries to help children in need</li><li>Funding the education of girls from underprivileged families</li><li>Providing life-saving medical services</li><li>Supporting anti-trafficking organizations</li><li>Helping disabled children</li><li>Inculcating awareness about breast cancer</li><li>Helping end domestic violence</li>"
       },
-      "change_content":"Mary Kay Ash is a groundbreaking businesswoman with a great mind.She founded MaryKay with the belief that \" do unto others as you would have them do unto you.\"Through her philosophy, Mary Kay transforms the lives of women and children around the world.",
-      "slides":{
-        "slide_1":{
-          "txt":"<h4>November 19, 2019</h4>MARY KAY advocates for global female empowerment, entrepreneurship and equality at top women’s conferences around the world.Ｗe’re committed to collaborating with world leaders to help women pave a path to independence, financial security and a more equal workplace.",
-          "img":"20191119"
+      "change_content": "Mary Kay Ash is a groundbreaking businesswoman with a great mind.She founded MaryKay with the belief that \" do unto others as you would have them do unto you.\"Through her philosophy, Mary Kay transforms the lives of women and children around the world.",
+      "slides": {
+        "slide_1": {
+          "txt": "<h4>November 19, 2019</h4>MARY KAY advocates for global female empowerment, entrepreneurship and equality at top women’s conferences around the world.Ｗe’re committed to collaborating with world leaders to help women pave a path to independence, financial security and a more equal workplace.",
+          "img": "20191119"
         },
-        "slide_2":{
-          "txt":"<h4>January 30, 2018 </h4>Georgia Domestic Violence and sexual assault groups urge lawmakers to strengthen family Violence laws and protect victims.",
-          "img":"20180130"
+        "slide_2": {
+          "txt": "<h4>January 30, 2018 </h4>Georgia Domestic Violence and sexual assault groups urge lawmakers to strengthen family Violence laws and protect victims.",
+          "img": "20180130"
         },
-        "slide_3":{
-          "txt":"<h4>May 03, 2017</h4>MARY KAY joins the California partnership to end domestic violence in fight for legislative funding. MARY KAY lobbying for good initiative heads to California State Capitol.",
-          "img":"20170503"
+        "slide_3": {
+          "txt": "<h4>May 03, 2017</h4>MARY KAY joins the California partnership to end domestic violence in fight for legislative funding. MARY KAY lobbying for good initiative heads to California State Capitol.",
+          "img": "20170503"
         },
-        "slide_4":{
-          "txt":"<h4>Nov 17, 2016</h4>FIRST-OF-ITS-KIND digital program empowers students to build positive relationships.Mary Kay Inc., loveisrespect and Everfi partnered to launch a Healthy Foundations program.",
-          "img":"20161117"
+        "slide_4": {
+          "txt": "<h4>Nov 17, 2016</h4>FIRST-OF-ITS-KIND digital program empowers students to build positive relationships.Mary Kay Inc., loveisrespect and Everfi partnered to launch a Healthy Foundations program.",
+          "img": "20161117"
         },
-        "slide_5":{
-          "txt":"<h4>Nov 1, 2016</h4>Mary Kay and Alpha Chi Omega hosted a social media photo contest for the fourth straight year to inspire young women to share their commitment to ending dating abuse.",
-          "img":"20161101"
+        "slide_5": {
+          "txt": "<h4>Nov 1, 2016</h4>Mary Kay and Alpha Chi Omega hosted a social media photo contest for the fourth straight year to inspire young women to share their commitment to ending dating abuse.",
+          "img": "20161101"
         },
-        "slide_6":{
-          "txt":"<h4>Oct 5, 2016</h4>The Mary Kay Foundation is awarding $3 million in grants to 150 domestic violence shelters in 49 states, the District of Columbia and Guam.Each shelter will receive a $20,000 unrestricted grant to help combat domestic violence, educate local communities, and provide much-needed shelter and rehabilitation services.",
-          "img":"20161005"
+        "slide_6": {
+          "txt": "<h4>Oct 5, 2016</h4>The Mary Kay Foundation is awarding $3 million in grants to 150 domestic violence shelters in 49 states, the District of Columbia and Guam.Each shelter will receive a $20,000 unrestricted grant to help combat domestic violence, educate local communities, and provide much-needed shelter and rehabilitation services.",
+          "img": "20161005"
         },
-        "slide_7":{
-          "txt":"<h4>Oct 5, 2016</h4>The Mary Kay Foundation is awarding $3 million in grants to 150 domestic violence shelters in 49 states, the District of Columbia and Guam.Each shelter will receive a $20,000 unrestricted grant to help combat domestic violence, educate local communities, and provide much-needed shelter and rehabilitation services.",
-          "img":"20160719"
+        "slide_7": {
+          "txt": "<h4>Oct 5, 2016</h4>The Mary Kay Foundation is awarding $3 million in grants to 150 domestic violence shelters in 49 states, the District of Columbia and Guam.Each shelter will receive a $20,000 unrestricted grant to help combat domestic violence, educate local communities, and provide much-needed shelter and rehabilitation services.",
+          "img": "20160719"
         },
-        "slide_8":{
-          "txt":"<h4>July 19, 2016</h4>Mary Kay hopes a clean starched blouse or professional skirt can be the first step to a fresh start for Dallas-area domestic violence survivors. Through Suits for Shelters coordinates the collection of women’s professional attire to benefit Dallas area organizations supporting women in need.",
-          "img":"20160719"
+        "slide_8": {
+          "txt": "<h4>July 19, 2016</h4>Mary Kay hopes a clean starched blouse or professional skirt can be the first step to a fresh start for Dallas-area domestic violence survivors. Through Suits for Shelters coordinates the collection of women’s professional attire to benefit Dallas area organizations supporting women in need.",
+          "img": "20160719"
         },
-        "slide_9":{
-          "txt":"<h4>May 4, 2016</h4>Mary Kay Independent Beauty Consultants and domestic violence prevention advocates gathered at the New York State Capitol for the New York State Coalition Against Domestic Violence’s annual Legislative Advocacy Day.",
-          "img":"20160401"
+        "slide_9": {
+          "txt": "<h4>May 4, 2016</h4>Mary Kay Independent Beauty Consultants and domestic violence prevention advocates gathered at the New York State Capitol for the New York State Coalition Against Domestic Violence’s annual Legislative Advocacy Day.",
+          "img": "20160401"
         },
-        "slide_10":{
-          "txt":"<h4>Mar 2, 2016</h4>Mary Kay Independent Beauty Consultants and domestic violence prevention advocates gathered at the California State Capitol for‘Policy Advocacy Day 2016’sponsored by the California Partnership to End Domestic Violence. The group met with lawmakers to discuss the critical importance of legislation that supports domestic violence survivors and victims.",
-          "img":"20160302"
+        "slide_10": {
+          "txt": "<h4>Mar 2, 2016</h4>Mary Kay Independent Beauty Consultants and domestic violence prevention advocates gathered at the California State Capitol for‘Policy Advocacy Day 2016’sponsored by the California Partnership to End Domestic Violence. The group met with lawmakers to discuss the critical importance of legislation that supports domestic violence survivors and victims.",
+          "img": "20160302"
         }
       }
     },
-    "bigeye":{
-      "page_name":"Skin Test",
-      "h4":"Personalized Skin Analysis",
-      "img_d":"bigeye_milebg_en",
-      "img_m":"bigeye-mile-phone_en",
-      "row":{
-        "col-1":{
-          "h3":"1.Without Boundary",
-          "txt":"Instant skin analysis like never before – just a selfie shoot!"
+    "bigeye": {
+      "page_name": "Skin Test",
+      "h4": "Personalized Skin Analysis",
+      "img_d": "bigeye_milebg_en",
+      "img_m": "bigeye-mile-phone_en",
+      "row": {
+        "col-1": {
+          "h3": "1.Without Boundary",
+          "txt": "Instant skin analysis like never before – just a selfie shoot!"
         },
-        "col-2":{
-          "h3":"2.Powered by AI technology",
-          "txt":"Big data analytics of over 4 Million photos study"
+        "col-2": {
+          "h3": "2.Powered by AI technology",
+          "txt": "Big data analytics of over 4 Million photos study"
         },
-        "col-3":{
-          "h3":"3.12 skin dimensions",
-          "txt":"Personalized skin analysis reports Find your best skincare regimen with just a snap of selfie now!"
+        "col-3": {
+          "h3": "3.12 skin dimensions",
+          "txt": "Personalized skin analysis reports Find your best skincare regimen with just a snap of selfie now!"
         }
       }
     }
@@ -1064,7 +1064,7 @@
         },
         "TimeWise3D": {
           "name": "時光精靈/ 時光精靈3D系列",
-          "products": ["pd12", "pd13", "pd14", "pd15", "pd16", "pd17", "pd18", "pd19", "pd20", "pd21", "pd22","pd112"]
+          "products": ["pd12", "pd13", "pd14", "pd15", "pd16", "pd17", "pd18", "pd19", "pd20", "pd21", "pd22", "pd112"]
         },
         "Naturally": {
           "name": "天然淨活系列",
@@ -1076,7 +1076,7 @@
         },
         "Skin_Supplements": {
           "name": "補充性保養系列",
-          "products": ["pd31", "pd32", "pd33", "pd34", "pd35", "pd36", "pd37", "pd38","pd111"]
+          "products": ["pd31", "pd32", "pd33", "pd34", "pd35", "pd36", "pd37", "pd38", "pd111"]
         },
         "LumiVie": {
           "name": "亮采系列",
@@ -1117,11 +1117,11 @@
         },
         "Moisturizer": {
           "name": "乳液/乳霜",
-          "products": ["pd10", "pd11", "pd16", "pd17", "pd30", "pd31", "pd32", "pd37", "pd48", "pd56","pd112","pd1"]
+          "products": ["pd10", "pd11", "pd16", "pd17", "pd30", "pd31", "pd32", "pd37", "pd48", "pd56", "pd112", "pd1"]
         },
         "Mask": {
           "name": "面膜",
-          "products": ["pd5", "pd6", "pd13", "pd28", "pd47", "pd52","pd111"]
+          "products": ["pd5", "pd6", "pd13", "pd28", "pd47", "pd52", "pd111"]
         },
         "Serum_Oil": {
           "name": "精華液/油",
@@ -1129,11 +1129,11 @@
         },
         "Body_Sun": {
           "name": "身體防曬/保養",
-          "products": ["pd99", "pd100", "pd101", "pd22"]
+          "products": ["pd99", "pd100", "pd101", "pd22", "pd89", "pd90", "pd91", "pd92", "pd93", "pd97", "pd98"]
         },
         "Eye_Care": {
           "name": "眼唇保養",
-          "products": ["pd3", "pd9", "pd18", "pd33", "pd34", "pd103","pd95","pd96"]
+          "products": ["pd3", "pd9", "pd18", "pd33", "pd34", "pd103", "pd95", "pd96"]
         },
         "Targeted_Solutions": {
           "name": "特殊護理",
@@ -1202,7 +1202,7 @@
           "name": "懶人專區",
           "products": ["pd115", "pd12", "pd13", "pd36", "pd62", "pd110"]
         },
-        "Skin_Test":{
+        "Skin_Test": {
           "name": "Skin Test",
           "products": null
         }
