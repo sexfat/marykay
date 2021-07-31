@@ -3,10 +3,10 @@
     <div class="flex-block">
       <div class="heading-block">
         <h3 class="h3">
-          <p>WE WANT TO MAKE</p>
-          <p>THE WORLD A BETTER PLACE</p>
-          <p>And we know the future relies on</p>
-          <p>taking action today</p>
+          WE WANT TO MAKE<br />
+          THE WORLD A BETTER PLACE<br />
+          And we know the future relies on<br />
+          taking action today
         </h3>
       </div>
     </div>
