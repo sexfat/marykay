@@ -146,6 +146,9 @@ export default {
     ul {
       padding-left: 20px;
     }
+    b {
+      font-weight: bold;
+    }
   }
 
   .product_inner .product_desc .detail ul li {
