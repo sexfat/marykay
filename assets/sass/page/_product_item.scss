@@ -83,6 +83,12 @@
                 font-size: .9rem;
                 position: relative;
 
+                .thin {
+                    font-weight: 400;
+                    font-size: 9px;
+                    color: #bfbfbf;
+                }
+
                 a:hover {
                     color: #333;
                 }
@@ -115,6 +121,8 @@
                 max-width: 800px;
                 width: 100%;
             }
+
+
         }
 
     }
