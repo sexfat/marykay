@@ -12,7 +12,7 @@
       <div class="row">
         <div class="col-xs-6 col-md-6 text_head">
           <img class="logo" src="~assets/images/TW_layoutA/img_howtobuy_logo_white.png" alt="" />
-          <h2 class="h2 font1 margin-top_20">幸福事業微笑發光</h2>
+          <h2 class="h2 font1 margin-top_20">玫粉i購物</h2>
 
           <div class="text_body">快速即時的訂購服務、線上限定商品優惠活動</div>
         </div>

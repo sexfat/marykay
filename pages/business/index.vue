@@ -131,7 +131,7 @@
         class="btn_change white btn_border_dark hover"
         href="https://marykaytwn.wixsite.com/happinesslight"
         target="_blank"
-        >了解更多幸福企業 微笑發光內容
+        >了解更多幸福事業 微笑發光內容
       </a>
     </div>
   </div>
