@@ -419,7 +419,7 @@
         },
         "gc8": {
           "location": "薩爾瓦多",
-          "links": "e-mail: masdel@terra.com.gt"
+          "links": "https://marykay.sv/"
         },
         "gc9": {
           "location": "芬蘭",
@@ -515,7 +515,7 @@
         },
         "gc32": {
           "location": "烏克蘭",
-          "links": "https://www.marykay.com.tw/?PageID=11583#u"
+          "links": "www.marykay.ua"
         },
         "gc33": {
           "location": "英國",
@@ -527,7 +527,7 @@
         },
         "gc35": {
           "location": "烏拉圭",
-          "links": "https://www.marykay.com.tw/?PageID=11583#u"
+          "links": "http://www.marykay.com.uy/"
         }
       }
     },
@@ -980,7 +980,7 @@
         },
         "Mask": {
           "name": "面膜",
-          "products": ["pd10", "pd24", "pd28", "pd14", "pd16", "pd45"]
+          "products": ["pd10", "pd24", "pd28", "pd14", "pd16"]
         },
         "Serums": {
           "name": "精華液/油",
@@ -996,7 +996,7 @@
         },
         "Targeted_Solutions": {
           "name": "特殊護理",
-          "products": ["pd29", "pd40", "pd42", "pd15", "pd2"]
+          "products": ["pd29", "pd40", "pd42", "pd15", "pd2" ,"pd45"]
         },
         "Skin_Care_Tools": {
           "name": "美容儀器",
@@ -1794,7 +1794,7 @@
     },
     "pd45": {
       "name": "靚亮面膜",
-      "series": "面膜",
+      "series": "特殊護理",
       "description": "靚亮面膜．5分鐘粉紅「膜」法<br>雞蛋花萃取x新型礦物泥<br>深層清潔．喚醒肌膚活力<br>均勻膚色．散發靚亮光澤<br>享受置身花海般的清甜香氛<br>五分鐘讓你的肌膚由內而外「淨．透．亮」",
       "capacity": "85g",
       "skin_suitable": "全膚質（正在過敏者不建議使用）",
@@ -2577,11 +2577,11 @@
       "name": "膠原蛋白肽",
       "series": "調養品",
       "description": "小分子膠原蛋白肽，內含超過21種型態膠原蛋白胜肽，添加彈性蛋白<br>及刺梨，巴西莓果，紅甜菜根等植物菁萃成分。<br>讓膠原蛋白肽發揮極大作用",
-      "capacity": "(8gx12包/盒)-(8gx30包/盒) / $1000-2150",
+      "capacity": "(8gx12包/盒)-(8gx30包/盒)",
       "skin_suitable": null,
       "usage": "建議空腹，餐前或睡前飲用，讓吸收力達到最佳狀態，建議食用量是一天一包，若要增量食用建議一天最多兩包，可以早晚各一包，讓吸收力及利用率可以達到最佳狀態<br>懷孕或哺乳女行建議諮詢後醫師後在食用",
       "function": "補充膠原蛋白",
-      "price": "1000-2150",
+      "price": "$1000-2150",
       "principal_components": null,
       "video_source": null,
       "small_images": {
