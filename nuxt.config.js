@@ -9,7 +9,7 @@ import productionLanguage from './i18n.config'
     or productionLanguage('zh') 僅中文
 */
 const Path = ''
-const I18nData = productionLanguage('all')
+const I18nData = productionLanguage('zh')
 
 export default {
   // Target: https://go.nuxtjs.dev/config-target
