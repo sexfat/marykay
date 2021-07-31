@@ -8,7 +8,7 @@
           >/
           <nuxt-link :to="localePath(`/products/${series}`)">
             {{ $t(`pages.series_page.series.${series}.name`) }}</nuxt-link
-          >/ <nuxt-link to="">{{ $t(`products.${id}.name`) }}</nuxt-link>
+          >/ <nuxt-link to="" v-html="$t(`products.${id}.name`)"></nuxt-link>
         </div>
         <!-- 左邊欄  -->
         <li class="col-lg-7 col-md-12">
@@ -151,8 +151,13 @@ export default {
   .product_inner .product_desc .detail ul li {
     padding-left: 0px;
   }
-
-  .product_all-desc {
+  .desc {
+    li {
+      list-style: disc;
+    }
+  }
+  .product_all-desc,
+  .desc {
     ul {
       padding-left: 20px;
     }
