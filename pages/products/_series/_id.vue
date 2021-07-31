@@ -8,7 +8,7 @@
           >/
           <nuxt-link :to="localePath(`/products/${series}`)">
             {{ $t(`pages.series_page.series.${series}.name`) }}</nuxt-link
-          >/ <nuxt-link to="">{{ $t(`products.${id}.name`) }}</nuxt-link>
+          >/ <nuxt-link to="" v-html="$t(`products.${id}.name`)"></nuxt-link>
         </div>
         <!-- 左邊欄  -->
         <li class="col-lg-7 col-md-12">
