@@ -144,8 +144,8 @@ export default {
       drawer: null,
       nav: null,
       switchLang: {
-        zh: '英文',
-        en: 'Chinese',
+        zh: 'English version',
+        en: '中文版',
       },
       MmenuLightClose: false,
     }
