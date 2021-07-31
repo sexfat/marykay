@@ -388,7 +388,7 @@
     "global_company": {
       "global_branches": "全球分公司",
       "global_operating_stations": "全球營運據點",
-      "description": "Mary Kay 總公司設於美國德州達拉斯，擁有350萬名獨立美容顧問，遍佈於世界35個國家，讓世界各地的女性們都擁有更多的機會。",
+      "description": "Mary Kay 總公司設於美國德州達拉斯，擁有400萬名獨立美容顧問，遍佈於世界40個國家，讓世界各地的女性們都擁有更多的機會。",
       "branches": {
         "gc1": {
           "location": "阿根廷",
