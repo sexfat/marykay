@@ -116,6 +116,14 @@
           <!-- s -->
           <div class="swiper-slide">
             <div class="txt">
+              <h4>1985年</h4>
+              玫琳凱艾施女士被THE WORLD ALMANAC AND BOOK OF FACTS譽為「美國最具影響力的25名女性之一」
+            </div>
+            <img src="~assets/images/TW_layoutA/img_about_story1985.jpg" alt="" />
+          </div>
+          <!-- s -->
+          <div class="swiper-slide">
+            <div class="txt">
               <h4>1991年</h4>
               玫琳凱在亞洲第一間成立的分公司-台灣
             </div>
@@ -158,7 +166,7 @@
           <div class="swiper-slide">
             <div class="txt">
               <h4>2003年</h4>
-              美國著名私校貝勒大學評為「美國歷史賶最偉大的女性創業家」
+              美國著名私校貝勒大學評為「美國歷史上最偉大的女性創業家」
             </div>
             <img src="~assets/images/TW_layoutA/img_about_story_2003.jpg" alt="" />
           </div>
