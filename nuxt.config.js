@@ -10,12 +10,22 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'Mary Kay',
+    title: '美商玫琳凱台灣分公司MaryKay Taiwan',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: '' },
+      {
+        hid: 'description',
+        name: 'description',
+        content:
+          '玫琳凱是您美麗的好朋友。我們相信，一支口紅的力量也能為世界帶來改變。我們提供優秀的產品和獨一無二的事業機會賦予女性擁有自主事業的權利，並鼓勵女性追求自我價值。MARY KAY 承諾將每一位顧客做為出發點，在產品質量和安全方面從不妥協，擁有超過300位科學家的研發團隊與1,500項產品專利，提供全方位美妝、護膚產品及營養補充品，創造專屬您的個人化完美肌膚體驗。',
+      },
       { name: 'format-detection', content: 'telephone=no' },
+      {
+        name: 'keywords',
+        content:
+          '玫琳凱香港,MaryKayHK,化妝品,護膚, 彩妝,保養,抗老,補水,美白,舒緩,防曬,粉刺,面膜,身體保養,香氛,美體,控油,淨化,懶人保養,SPA,保濕,卸妝,痘痘粉刺調理,控油,身體美白,去角質,黑眼圈,卸妝,膠原蛋白肽,膳食纖維,醫美保養,幫助消化,促進代謝,護理保健,綜合維他命Ｂ,益生菌,骨膠原,補鈣,抗氧化,肌膚檢測,臻時粹顏,時光精靈Repair,時光精靈3D,天然淨活,植物肌密,補充性保養,亮采,舒顏,淨顏,男士,美體',
+      },
     ],
     link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
   },

@@ -102,7 +102,7 @@
               <h4>1978年</h4>
               獲得THE HORATIO ALGER AWARD（白手起家獎）全美國最具成就的領導人大獎
             </div>
-            <img src="~assets/images/TW_layoutA/img_about_story1978.jpg" alt="" />
+            <img class="img78" src="~assets/images/TW_layoutA/img_about_story1978.jpg" alt="" />
           </div>
           <!-- s -->
           <div class="swiper-slide">
