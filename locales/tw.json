@@ -515,7 +515,7 @@
         },
         "gc32": {
           "location": "烏克蘭",
-          "links": "www.marykay.ua"
+          "links": "http://www.marykay.ua"
         },
         "gc33": {
           "location": "英國",
@@ -980,7 +980,7 @@
         },
         "Mask": {
           "name": "面膜",
-          "products": ["pd10", "pd24", "pd28", "pd14", "pd16"]
+          "products": ["pd10", "pd24", "pd28", "pd14", "pd16" , "pd45"]
         },
         "Serums": {
           "name": "精華液/油",
