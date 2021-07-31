@@ -109,7 +109,6 @@
             <div class="txt">
               <h4>1984年</h4>
               玫琳凱第一本書「玫琳凱談人的管理」上市，出版後受到全美最重要的商業報刊「華爾街日報」的大力推崇
-              1985年：玫琳凱艾施女士被THE WORLD ALMANAC AND BOOK OF FACTS譽為「美國最具影響力的25名女性之一」
             </div>
             <img src="~assets/images/TW_layoutA/img_about_story1984.jpg" alt="" />
           </div>
