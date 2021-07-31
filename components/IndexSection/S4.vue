@@ -113,11 +113,11 @@ export default {
   data() {
     return {
       swiperOptions: {
-        loop: true,
         slidesPerView: 3,
         spaceBetween: 50,
         breakpoints: {
           320: {
+            loop: true,
             spaceBetween: 50,
             slidesPerView: 'auto',
             centeredSlides: true,
