@@ -139,3 +139,32 @@ export default {
   },
 }
 </script>
+
+<style lang="scss">
+.product_item {
+  .accordion-content {
+    ul {
+      padding-left: 20px;
+    }
+  }
+
+  .product_inner .product_desc .detail ul li {
+    padding-left: 0px;
+  }
+
+  .product_all-desc {
+    ul {
+      padding-left: 20px;
+    }
+    li {
+      list-style: disc;
+    }
+    b {
+      font-weight: bold;
+    }
+  }
+  .thin {
+    font-weight: 100;
+  }
+}
+</style>
