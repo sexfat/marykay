@@ -151,8 +151,13 @@ export default {
   .product_inner .product_desc .detail ul li {
     padding-left: 0px;
   }
-
-  .product_all-desc {
+  .desc {
+    li {
+      list-style: disc;
+    }
+  }
+  .product_all-desc,
+  .desc {
     ul {
       padding-left: 20px;
     }
