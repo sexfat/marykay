@@ -56,7 +56,7 @@
             v-for="(value, keys) in slideData"
             :key="keys"
             class="swiper-slide"
-            :class="{ lastimg: value.lastimg }"
+            :class="{ lastimg: value.lastimg, img_1978: value.img_1978 }"
           >
             <div class="txt" v-html="value.txt"></div>
             <img :src="require(`~/assets/images/TW_layoutA/${value.img}.jpg`)" alt="" />
