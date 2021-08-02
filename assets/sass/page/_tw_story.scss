@@ -155,8 +155,7 @@
             position: relative;
             &::after {
                 content: '';
-                background-color: #070707;
-                opacity: 50%;
+                background-color: hsla(0, 0%, 3%, 0.606);
                 position: absolute;
                 width: 100%;
                 height: 100%;

@@ -37,37 +37,37 @@
         "text": "止不住的臉紅心跳時刻 肌膚今天開始戀愛 5分鐘放閃 飆速靚亮 肌膚從內而外透出粉紅細緻光澤",
         "slides": {
           "slide_1": {
-            "img": "b_01.png",
+            "img": "b_01.jpg",
             "title": "親水專區",
             "path": "/products/Water_loving_Zone",
             "description": "你知道嗎? 保濕要做到補水，保水，鎖水三個步驟才算完整!不管乾肌油肌都需要，最完整的保濕聖品就在親水區，快來幫肌膚補足滿水位吧!"
           },
           "slide_2": {
-            "img": "b_02.png",
+            "img": "b_02.jpg",
             "title": "養膚專區",
             "path": "/products/Skin_nourishing_Zone",
             "description": "內外兼顧，用天然精華成分，高效養出健康童顏肌"
           },
           "slide_3": {
-            "img": "b_03.png",
+            "img": "b_03.jpg",
             "title": "掃油專區",
             "path": "/products/Oil_controlling_Zone",
             "description": "8分鐘就能讓粉刺痘痘掰掰的面膜，讓底妝光滑舒爽的飾底凝露等各種應付出油煎蛋肌對策通通在這裡!"
           },
           "slide_4": {
-            "img": "b_04.png",
+            "img": "b_04.jpg",
             "title": "紓壓專區",
             "path": "/products/Stress_relieving_Zone",
             "description": "療癒的香氛，棉花糖般的舒緩乳霜，每天給自己來一段儀式感的保養小時光，釋放一天的疲憊，讓肌膚彷彿重獲新生吧!"
           },
           "slide_5": {
-            "img": "b_05.png",
+            "img": "b_05.jpg",
             "title": "懶人專區",
             "path": "/products/Lazy_Girls_Favorite_Zone",
             "description": "沒時間保養? 只想倒頭就睡? 回家就攤在沙發上?懶人專區的保養品是你最佳小幫手，一步驟達到多種功效，睡覺也能同時保養等各種神奇好物幫助你，誰說偷懶不能也很美!"
           },
           "slide_6": {
-            "img": "b_06.png",
+            "img": "b_06.jpg",
             "title": "肌膚檢測",
             "path":"/bigeye",
             "description": "高科技全方位解密肌膚，定位膚況，深入檢測，讓妳的肌膚問題無所遁形，了解妳肌膚的真正需求"
@@ -1083,8 +1083,7 @@
       "small_images": {
         "img_01": "p/a/pa11.jpg",
         "img_02": "p/a/pa12.jpg",
-        "img_03": "p/a/pa13.jpg",
-        "img_04": "p/a/pa14.jpg"
+        "img_03": "p/a/pa13.jpg"
       },
       "description_image": "全能養膚精華油03.jpg<br>澄淨甦活.jpg"
     },
