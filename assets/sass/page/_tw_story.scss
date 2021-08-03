@@ -179,6 +179,11 @@
                 height: 900px;
                 width: 100%;
                 object-fit: cover;
+                @include m(){
+                    height: 670px;
+                    width: 100%;
+                    object-fit: cover;
+            }
             }
 
             &.lastimg {
