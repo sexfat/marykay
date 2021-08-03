@@ -110,7 +110,7 @@
               <h4>1984年</h4>
               玫琳凱第一本書「玫琳凱談人的管理」上市，出版後受到全美最重要的商業報刊「華爾街日報」的大力推崇
             </div>
-            <img src="~assets/images/TW_layoutA/img_about_story1984.jpg" alt="" />
+            <img class="lastimg" src="~assets/images/TW_layoutA/img_about_story1984.jpg" alt="" />
           </div>
           <!-- s -->
           <div class="swiper-slide">
@@ -175,7 +175,7 @@
               <h4>2004年</h4>
               玫琳凱女士所創立的「玫琳凱基金會」獲得倫敦肯辛頓宮所頒發的人道主義玫瑰獎
             </div>
-            <img src="~assets/images/TW_layoutA/img_about_story_2004.jpg" alt="" />
+            <img class="img78" src="~assets/images/TW_layoutA/img_about_story_2004.jpg" alt="" />
           </div>
           <!-- s -->
           <div class="swiper-slide">
