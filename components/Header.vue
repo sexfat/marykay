@@ -117,14 +117,17 @@
                   </ul>
                 </li>
                 <li>
-                  <a
-                    target="_blank"
-                    href="https://ecatalog.marykay.com/?docid=ecee7d87-a611-46db-952d-068a7481392b&d=https://www.marykay.com.hk&t=TheLook&cid=eCat_InTouch"
-                    >{{ $t('header_links.dm.name') }}</a
-                  >
+                  <span>{{ $t('header_links.dm.name') }}</span>
+                  <ul>
+                    <li v-for="(item, index) in Object.entries(linkData.dm.series)" :key="index">
+                      <a :href="item[1].link" target="_blank">
+                        {{ item[1].name }}
+                      </a>
+                    </li>
+                  </ul>
                 </li>
                 <li>
-                  <a href="" @click="changeLang"> {{ lang }}</a>
+                  <a @click="changeLang"> {{ lang }}</a>
                 </li>
               </ul>
             </nav>

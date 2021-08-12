@@ -1039,7 +1039,17 @@
       "name": "Skin Care"
     },
     "dm": {
-      "name": "DM"
+      "name": "DM",
+      "series": {
+        "catalog": {
+          "name": "catalog",
+          "link": "https://www.marykay.com.hk/catalog/MaryKay_thelook.pdf"
+        },
+        "discount": {
+          "name": "discount",
+          "link": "https://www.marykay.com.hk/catalog/SMS_Consumer.jpg"
+        }
+      }
     },
     "about": {
       "name": "About Mary Kay",
