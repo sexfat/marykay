@@ -427,7 +427,7 @@
     "global_company": {
       "global_branches": "全球分公司",
       "global_operating_stations": "全球營運據點",
-      "description": "Mary Kay 總公司設於美國德州達拉斯，擁有400萬名獨立美容顧問，遍佈於世界40個國家，讓世界各地的女性們都擁有更多的機會。",
+      "description": "Mary kay 總公司設於美國德州達拉斯，在全球擁有超過400萬名獨立美容顧問，遍佈於世界近40個國家和地區，讓世界各地的女性們都擁有更多的機會",
       "branches": {
         "gc1": {
           "location": "阿根廷",
@@ -2933,10 +2933,11 @@
       "video_source": "ma.mp4",
       "normal_image": null,
       "small_images": {
-        "img_01": "m/a/ma25.jpg",
-        "img_02": "m/a/ma22.jpg",
-        "img_03": "m/a/ma23.jpg",
-        "img_04": "m/a/ma24.jpg"
+        "img_01": "m/a/ma26.jpg",
+        "img_02": "m/a/ma25.jpg",
+        "img_03": "m/a/ma22.jpg",
+        "img_04": "m/a/ma23.jpg",
+        "img_05": "m/a/ma24.jpg"
       },
       "description_image": "凝亮唇彩01.jpg"
     },
