@@ -94,3 +94,4 @@ package/*
 *.mp4
 *.avi
 img/
+catalog/*
