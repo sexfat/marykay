@@ -1127,7 +1127,7 @@
         },
         "Body_Care": {
           "name": "美體系列",
-          "products": ["pd89", "pd90", "pd91", "pd92", "pd93", "pd94", "pd95", "pd96", "pd97", "pd98"]
+          "products": ["pd89", "pd90", "pd91", "pd92", "pd93", "pd94", "pd95", "pd96", "pd97"]
         }
       }
     },
@@ -1160,7 +1160,7 @@
         },
         "Body_Sun": {
           "name": "身體防曬/保養",
-          "products": ["pd99", "pd100", "pd101", "pd22", "pd89", "pd90", "pd91", "pd92", "pd93", "pd97", "pd98"]
+          "products": ["pd99", "pd100", "pd101", "pd22", "pd89", "pd90", "pd91", "pd92", "pd93", "pd97"]
         },
         "Eye_Care": {
           "name": "眼唇保養",
@@ -1193,7 +1193,7 @@
         },
         "Tools": {
           "name": "彩妝工具",
-          "products": ["pd79", "pd80", "pd81", "pd82", "pd83", "pd84", "pd85", "pd86", "pd87", "pd88"]
+          "products": ["pd80", "pd81", "pd82", "pd83", "pd84", "pd85", "pd86", "pd87", "pd88"]
         },
         "Fragrance": {
           "name": "香氛系列",
