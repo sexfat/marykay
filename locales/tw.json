@@ -69,7 +69,7 @@
           "slide_6": {
             "img": "b_06.jpg",
             "title": "肌膚檢測",
-            "path":"/bigeye",
+            "path": "/bigeye",
             "description": "高科技全方位解密肌膚，定位膚況，深入檢測，讓妳的肌膚問題無所遁形，了解妳肌膚的真正需求"
           }
         }
@@ -387,7 +387,7 @@
     "global_company": {
       "global_branches": "全球分公司",
       "global_operating_stations": "全球營運據點",
-      "description": "玫琳凱總公司設於美國德州達拉斯，在全球擁有超過400萬名獨立美容顧問，遍佈於世界近40個國家，讓世界各地的女性們都擁有更多的機會。",
+      "description": "玫琳凱總公司設於美國德州達拉斯，在全球擁有超過400萬名獨立美容顧問，遍佈於世界近40個國家和地區，讓世界各地的女性們都擁有更多的機會",
       "branches": {
         "gc1": {
           "location": "阿根廷",
@@ -533,7 +533,7 @@
     },
     "global_privacy": {
       "page_name": "全球隱私權聲明",
-      "text_inner": "在玫琳凱，我們瞭解個人隱私的重要性。根據公司最重要的創立原則——黃金法則來保護、收集及使用提供給我們的個人資料是我們最重要的目標。我們只採用您允許的方式來使用和維護資料。因此，我們絕不交易、出售或出租我們持有的個人資料。此全球隱私權聲明對我們如何維持此等信任作了詳細描述。<br><br>我們致力於實現隱私保護的全球化及一致性。我們的隱私保護方針旨在符合每一個業務所在國的法律規定並適用於：<br><br>1. 每一位向我們提供個人資料的人，如獨立美容顧問，消費者，客戶，研究物件，業務夥伴，股東，求職者，員工，退休人員等；<br>2. 我公司的每一個業務所在國，即使當地還未制定相關規定；<br>3. 所有的聯絡方式，諸如網路，直接郵件，電話和手機，以及其他新興的可能會被測試的技術及方法。<br><br>玫琳凱通過全球隱私團隊(Mary Kay Global Privacy Team)來管理個人隱私，該團隊代表所有我們開展業務的地理區域以及涉及收集個人資料的業務流程——例如獨立美容顧問、消費者促銷和員工計畫。玫琳凱旨在促進和利用行業最佳實務以確保個人隱私及資料受到妥善保護。<br><br>我們的隱私方針與以下政策法規相一致：<br>• 透過美國商務部安全港（Safe Harbour）計畫實施的歐盟資料暨隱私保護綱領<br>• 經濟合作暨發展組織所建立的公平資訊原則<br>• 亞太經濟合作會議隱私保護綱領<br>• 相應國家及地區所適用的資料保護法律<br>• 某些國家法律規定在隱私權聲明中指出該國特定要求。請點擊<a target=\"_blank\"href=\"https://www.marykay.com/en-US/Pages/CountrySelector.aspx\">此處</a><br>以閱讀相關國家的隱私權方針。<br><br>我們相信，隱私保護不僅僅是遵照各國關於隱私的立法。還包括對因使用個人資料而觸及其生活的數以百萬計的人做正確的事。我們的隱私權方針遵照國際公認的隱私權原則，或公平的資料使用原則，如由歐盟資料保護綱領及由美國商務部提出的美國-歐盟安全港計畫隱私保護原則。<br>玫琳凱參與並始終遵守安全港（Safe Harbour）隱私保護原則中的通知、選擇、轉送、安全性、資料完整性、訪問和執行原則。如需瞭解更多關於安全港隱私保護計畫，或需查看玫琳凱的證書，請至<a target=\"_blank\" href=\"http://www.export.gov/safeharbor/\">http://www.export.gov/safeharbor/</a>。下述是這些原則的內容以及玫琳凱是如何應用它們的：",
+      "text_inner": "在玫琳凱，我們瞭解個人隱私的重要性。根據公司最重要的創立原則——黃金法則來保護、收集及使用提供給我們的個人資料是我們最重要的目標。我們只採用您允許的方式來使用和維護資料。因此，我們絕不交易、出售或出租我們持有的個人資料。此全球隱私權聲明對我們如何維持此等信任作了詳細描述。<br><br>我們致力於實現隱私保護的全球化及一致性。我們的隱私保護方針旨在符合每一個業務所在國的法律規定並適用於：<br><br>1. 每一位向我們提供個人資料的人，如獨立美容顧問，消費者，客戶，研究對象，業務夥伴，股東，求職者，員工，退休人員等；<br>2. 我公司的每一個業務所在國，即使當地還未制定相關規定；<br>3. 所有的聯絡方式，諸如網路，直接郵件，電話和手機，以及其他新興的可能會被測試的技術及方法。<br><br>玫琳凱通過全球隱私團隊(Mary Kay Global Privacy Team)來管理個人隱私，該團隊代表所有我們開展業務的地理區域以及涉及收集個人資料的業務流程——例如獨立美容顧問、消費者促銷和員工計畫。玫琳凱旨在促進和利用行業最佳實務以確保個人隱私及資料受到妥善保護。<br><br>我們的隱私政策是以國際公認的隱私原則或公平資訊慣例為模式，如歐盟（EU）一般資料保護規範和美國商務部規定的歐盟-美國隱私盾框架所確立的原則（<a target=\"_blank\"href=\"https://www.privacyshield.gov\">https://www.privacyshield.gov</a>）。<p>玫琳凱公司（Mary Kay Inc.）已經認證它遵守歐盟-美國隱私盾框架關於通知、選擇、傳輸、安全、數據完整性、訪問及執行原則。<br>要了解有關隱私盾框架的更多信息，並查看我們的認證頁面，請訪問<a target=\"_blank\"href=\"https://www.privacyshield.gov\">https://www.privacyshield.gov</a></p>每一家玫琳凱公司都有自己的隱私政策，這些政策既符合其經營所在國的具體法律，也符合玫琳凱全球隱私權聲明中規定的原則。<br>點擊<a target=\"_blank\"href=\"https://www.marykay.com/en-US/Pages/CountrySelector.aspx\">此處</a>選擇您所在的國家，並鏈接到您所在國家的隱私政策。<br><br>下述是這些原則的內容以及玫琳凱是如何應用它們的：",
       "contents": {
         "content-1": {
           "name": "為何要收集資料",
@@ -569,7 +569,7 @@
         },
         "content-9": {
           "name": "責任",
-          "text": "玫琳凱期望我們的員工與業務夥伴維護提供個人資料者對我們的信任。我們對員工進行了保護隱私權的培訓，並且在全球範圍內的商務活動中強調隱私權的重要性。個人資料的管理者將通過填寫隱私權保護自我評估來保證這些個人資料被嚴密保護。我們將定期對其遵守情況進行審查。<br><br>玫琳凱隱私權方針和資料保護措施將通過合約擴展適用於我們的供應商及業務夥伴。我們支持行業自律規定作為一項適應性補充措施以應對新的隱私權問題。<br><br>瞭解更多資訊或查閱玫琳凱消費者隱私權方針，請點擊<a href=\"https://www.marykay.com.tw/?PageID=16493\">此處</a>。<br><br>若您是玫琳凱獨立美容顧問，希望獲取更多與您相關的隱私權資訊，請點擊<a target=\"_blank\" href=\"https://www.marykayintouch.com.tw\">此處</a>"
+          "text": "玫琳凱期望我們的員工與業務夥伴維護提供個人資料者對我們的信任。我們對員工進行了保護隱私權的培訓，並且在全球範圍內的商務活動中強調隱私權的重要性。個人資料的管理者將通過填寫隱私權保護自我評估來保證這些個人資料被嚴密保護。我們將定期對其遵守情況進行審查。<br><br>玫琳凱隱私權方針和資料保護措施將通過合約擴展適用於我們的供應商及業務夥伴。我們支持行業自律規定作為一項適應性補充措施以應對新的隱私權問題。<br><br>瞭解更多資訊或查閱玫琳凱消費者隱私權方針，請點擊<a href=\"https://www.marykay.com.tw/privacy\">此處</a>。<br><br>若您是玫琳凱獨立美容顧問，希望獲取更多與您相關的隱私權資訊，請點擊<a target=\"_blank\" href=\"https://www.marykayintouch.com.tw\">此處</a>"
         },
         "content-10": {
           "name": "與我們聯繫",
@@ -577,7 +577,7 @@
         },
         "content-11": {
           "name": "歐盟公民的隱私權申訴",
-          "text": "為遵守安全港原則，玫琳凱承諾將解決關於您隱私權及我們對個人資料收集和使用行為的申訴。就本隱私權方針有疑問或欲申訴的歐盟公民，應先與前述玫琳凱全球隱私團隊聯繫。<br>玫琳凱同時也承諾將安全港原則下未解決的隱私權申訴，轉交至一個獨立爭議解決機制，即由美國商務促進局委員會負責運作的BBB歐盟安全港（BBB EU Safe Harbor）。若您沒有及時收到關於您申訴的確認通知，或您對於玫琳凱解決申訴的方式不滿意，您可以訪問BBB歐盟安全港的網站<a target=\"_blank\" href=\"http://www.bbb.org/us/safe-harbor-complaints\">http://www.bbb.org/us/safe-harbor-complaints</a>，以獲取更多資訊並提出申訴。"
+          "text": "<p>玫琳凱承諾根據歐盟-美國隱私盾框架原則來解決有關居住在歐盟的個人或其個人信息被玫琳凱在歐盟的任何公司處理的個人的隱私收集和個人信息使用的投訴。歐盟公民如對本隱私政策有任何疑問或投訴，應首先聯系您居住國的玫琳凱公司。</p><p>玫琳凱已進一步承諾，將歐盟-美國隱私盾框架下未解決的隱私權投訴轉交至一個獨立的爭端解決機製，即由美國商務促進局委員會負責的BBB歐盟隱私盾保護框架。如果您沒有及時收到您的投訴確認書，或者如果您的投訴沒有得到玫琳凱的滿意處理，請訪問BBB歐盟隱私保護網站<a target=\"_blank\"href=\"http://www.bbb.org/EU-privacy-shield/for-eu-consumers/\">http://www.bbb.org/EU-privacy-shield/for-eu-consumers/</a>，以獲取更多資訊並提出申訴。</p><p><h5 class=\"bold\">全球隱私權聲明變更的通知</h5>玫琳凱將通過在本網站上概述我們的全球隱私權聲明的主要內容變化以公布完整新版本來通知您變更內容，請參見如下：<br><p>最後更新：2018年5月。</p><p>在線隱私權聲始於2014年。</p><p>2006年更新：提供了有關信息安全和在線隱私權的最新信息。</p><p>2012年更新：2012年的更新旨在連接全球所有玫琳凱市場的隱私合規工作，並為消費者、獨立美容顧問、員工和其他可能訪問我們網站的人提供一個他們可以從中獲得有關他們在個人信息方面的權利的及玫琳凱相關政策的信息的統一渠道。這些更新還包括關於遵守玫琳凱開展業務的許多國家的法律變化的更新。</p><p>2016年更新：2016年的更新與歐盟-美國隱私隱私盾框架保護的相關內容。</p><p>2018年更新：根據歐盟一般資料保護規範進行了相關內容的調整。</p>"
         }
       }
     },
@@ -911,11 +911,21 @@
     "about": {
       "name": "關於玫琳凱",
       "series": {
-        "brand": { "name": "品牌理念" },
-        "story": { "name": "創辦人故事" },
-        "pink": { "name": "粉紅公益" },
-        "green": { "name": "粉紅綠色態度" },
-        "technological_innovation": { "name": "科研創新" }
+        "brand": {
+          "name": "品牌理念"
+        },
+        "story": {
+          "name": "創辦人故事"
+        },
+        "pink": {
+          "name": "粉紅公益"
+        },
+        "green": {
+          "name": "粉紅綠色態度"
+        },
+        "technological_innovation": {
+          "name": "科研創新"
+        }
       }
     },
     "product_series": {
@@ -923,39 +933,86 @@
       "series": {
         "Naturally": {
           "name": "澄淨甦活系列",
-          "products": ["pd1", "pd3", "pd2"]
+          "products": [
+            "pd1",
+            "pd3",
+            "pd2"
+          ]
         },
         "TimeWise3D": {
           "name": "時光3D系列",
-          "products": ["pd6", "pd4", "pd5", "pd7"]
+          "products": [
+            "pd6",
+            "pd4",
+            "pd5",
+            "pd7"
+          ]
         },
         "Botanical_Effects": {
           "name": "植物肌密系列",
-          "products": ["pd8", "pd9", "pd10", "pd11"]
+          "products": [
+            "pd8",
+            "pd9",
+            "pd10",
+            "pd11"
+          ]
         },
         "Timewise_Repair": {
           "name": "幻時能量系列",
-          "products": ["pd12", "pd13", "pd14", "pd15", "pd16", "pd17", "pd18"]
+          "products": [
+            "pd12",
+            "pd13",
+            "pd14",
+            "pd15",
+            "pd16",
+            "pd17",
+            "pd18"
+          ]
         },
         "TimeWise": {
           "name": "時光精靈系列",
-          "products": ["pd19", "pd20", "pd21", "pd22", "pd23", "pd24", "pd25"]
+          "products": [
+            "pd19",
+            "pd20",
+            "pd21",
+            "pd22",
+            "pd23",
+            "pd24",
+            "pd25"
+          ]
         },
         "LumiVie": {
           "name": "亮采黑能亮系列",
-          "products": ["pd26", "pd27"]
+          "products": [
+            "pd26",
+            "pd27"
+          ]
         },
         "Clear_Proof": {
           "name": "淨顏系列",
-          "products": ["pd28", "pd29", "pd30", "pd31"]
+          "products": [
+            "pd28",
+            "pd29",
+            "pd30",
+            "pd31"
+          ]
         },
         "Body_Care": {
           "name": "乳木果系列",
-          "products": ["pd34", "pd35", "pd37", "pd32", "pd33", "pd36"]
+          "products": [
+            "pd34",
+            "pd35",
+            "pd37",
+            "pd32",
+            "pd33",
+            "pd36"
+          ]
         },
         "MK_Men": {
           "name": "男士系列",
-          "products": ["pd46"]
+          "products": [
+            "pd46"
+          ]
         }
       }
     },
@@ -964,43 +1021,104 @@
       "series": {
         "Makeup_Remover": {
           "name": "卸妝",
-          "products": ["pd44", "pd39"]
+          "products": [
+            "pd44",
+            "pd39"
+          ]
         },
         "Cleanser": {
           "name": "潔顏",
-          "products": ["pd3", "pd4", "pd8", "pd46"]
+          "products": [
+            "pd3",
+            "pd4",
+            "pd8",
+            "pd46"
+          ]
         },
         "Toners": {
           "name": "化妝水",
-          "products": ["pd9", "pd21"]
+          "products": [
+            "pd9",
+            "pd21"
+          ]
         },
         "Moisturizers": {
           "name": "乳液/乳霜",
-          "products": ["pd6", "pd5", "pd11", "pd41", "pd27", "pd17", "pd18"]
+          "products": [
+            "pd6",
+            "pd5",
+            "pd11",
+            "pd41",
+            "pd27",
+            "pd17",
+            "pd18"
+          ]
         },
         "Mask": {
           "name": "面膜",
-          "products": ["pd10", "pd24", "pd28", "pd14", "pd16" , "pd45"]
+          "products": [
+            "pd10",
+            "pd24",
+            "pd28",
+            "pd14",
+            "pd16",
+            "pd45"
+          ]
         },
         "Serums": {
           "name": "精華液/油",
-          "products": ["pd1", "pd7", "pd12", "pd22", "pd23", "pd26", "pd30"]
+          "products": [
+            "pd1",
+            "pd7",
+            "pd12",
+            "pd22",
+            "pd23",
+            "pd26",
+            "pd30"
+          ]
         },
         "Sun_Body": {
           "name": "身體防曬/保養",
-          "products": ["pd87", "pd85", "pd86", "pd84", "pd34", "pd35", "pd37"]
+          "products": [
+            "pd87",
+            "pd85",
+            "pd86",
+            "pd84",
+            "pd34",
+            "pd35",
+            "pd37"
+          ]
         },
         "Eye_Lips_Care": {
           "name": "眼唇保養",
-          "products": ["pd38", "pd43", "pd25", "pd32", "pd33", "pd13"]
+          "products": [
+            "pd38",
+            "pd43",
+            "pd25",
+            "pd32",
+            "pd33",
+            "pd13"
+          ]
         },
         "Targeted_Solutions": {
           "name": "特殊護理",
-          "products": ["pd29", "pd40", "pd42", "pd15", "pd2" ,"pd45"]
+          "products": [
+            "pd29",
+            "pd40",
+            "pd42",
+            "pd15",
+            "pd2",
+            "pd45"
+          ]
         },
         "Skin_Care_Tools": {
           "name": "美容儀器",
-          "products": ["pd47", "pd48", "pd49", "pd50"]
+          "products": [
+            "pd47",
+            "pd48",
+            "pd49",
+            "pd50"
+          ]
         }
       }
     },
@@ -1009,23 +1127,61 @@
       "series": {
         "Face": {
           "name": "臉部彩妝",
-          "products": ["pd60", "pd58", "pd54", "pd55", "pd57", "pd51", "pd53", "pd56", "pd52", "pd59"]
+          "products": [
+            "pd60",
+            "pd58",
+            "pd54",
+            "pd55",
+            "pd57",
+            "pd51",
+            "pd53",
+            "pd56",
+            "pd52",
+            "pd59"
+          ]
         },
         "Eyes": {
           "name": "眼妝彩妝",
-          "products": ["pd65", "pd71", "pd64", "pd67", "pd68", "pd69", "pd70", "pd66", "pd72"]
+          "products": [
+            "pd65",
+            "pd71",
+            "pd64",
+            "pd67",
+            "pd68",
+            "pd69",
+            "pd70",
+            "pd66",
+            "pd72"
+          ]
         },
         "Lips": {
           "name": "唇彩系列",
-          "products": ["pd61", "pd62", "pd63"]
+          "products": [
+            "pd61",
+            "pd62",
+            "pd63"
+          ]
         },
         "Fragrance": {
           "name": "香水",
-          "products": ["pd83"]
+          "products": [
+            "pd83"
+          ]
         },
         "Tools": {
           "name": "彩妝工具",
-          "products": ["pd82", "pd73", "pd74", "pd75", "pd76", "pd77", "pd78", "pd79", "pd80", "pd81"]
+          "products": [
+            "pd82",
+            "pd73",
+            "pd74",
+            "pd75",
+            "pd76",
+            "pd77",
+            "pd78",
+            "pd79",
+            "pd80",
+            "pd81"
+          ]
         }
       }
     },
@@ -1034,7 +1190,13 @@
       "series": {
         "Nutrition": {
           "name": "調養品",
-          "products": ["pd88", "pd90", "pd91", "pd92", "pd89"]
+          "products": [
+            "pd88",
+            "pd90",
+            "pd91",
+            "pd92",
+            "pd89"
+          ]
         }
       }
     },
@@ -1043,23 +1205,56 @@
       "series": {
         "Water_loving_Zone": {
           "name": "親水專區",
-          "products": ["pd21", "pd40", "pd24", "pd43", "pd51", "pd87", "pd38"]
+          "products": [
+            "pd21",
+            "pd40",
+            "pd24",
+            "pd43",
+            "pd51",
+            "pd87",
+            "pd38"
+          ]
         },
         "Skin_nourishing_Zone": {
           "name": "養膚專區",
-          "products": ["pd93", "pd1", "pd94", "pd23", "pd88", "pd92"]
+          "products": [
+            "pd93",
+            "pd1",
+            "pd94",
+            "pd23",
+            "pd88",
+            "pd92"
+          ]
         },
         "Oil_controlling_Zone": {
           "name": "掃油專區",
-          "products": ["pd28", "pd29", "pd54", "pd42"]
+          "products": [
+            "pd28",
+            "pd29",
+            "pd54",
+            "pd42"
+          ]
         },
         "Stress_relieving_Zone": {
           "name": "舒壓專區",
-          "products": ["pd26", "pd27", "pd43", "pd13", "pd84"]
+          "products": [
+            "pd26",
+            "pd27",
+            "pd43",
+            "pd13",
+            "pd84"
+          ]
         },
         "Lazy_Girls_Favorite_Zone": {
           "name": "懶人專區",
-          "products": ["pd95", "pd4", "pd44", "pd24", "pd53", "pd2"]
+          "products": [
+            "pd95",
+            "pd4",
+            "pd44",
+            "pd24",
+            "pd53",
+            "pd2"
+          ]
         },
         "Skin_Test": {
           "name": "肌膚檢測",
