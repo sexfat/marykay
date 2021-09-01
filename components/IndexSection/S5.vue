@@ -3,7 +3,7 @@
     <div class="banner">
       <div class="titles">
         <h1 class="showcase" data-aos="fade-up" data-aos-duration="800">
-          <b>Mary Kay® Pink Clay Mask</b>
+          <b>TimeWise Repair<sup>®</sup> <br />Volu-Firm<sup>®</sup> Advanced Lifting Serum</b>
         </h1>
       </div>
       <img src="~assets/images/Pink_Clay_Mask.jpg" alt="" srcset="" />
@@ -12,12 +12,12 @@
       <div class="row">
         <div class="col-lg-7 col-md-12 dark flex">
           <div class="body" data-aos="fade-downs" data-aos-duration="1000">
-            <p class="small_title">NEW</p>
-            <h3 class="h4">Mary Kay® Pink Clay Mask</h3>
+            <p class="small_title"><!--NEW--></p>
+            <h3 class="h4">幻時能量 超V肌底精華</h3>
             <p class="margin-top_30">
               {{ $t('pages.homepage.s5.text') }}
             </p>
-            <nuxt-link :to="localePath('/products/Mask/pd45')" class="btn-outline btn-large margin-top_30">{{
+            <nuxt-link :to="localePath('/products/Timewise_Repair/pd12')" class="btn-outline btn-large margin-top_30">{{
               $t('pages.homepage.more')
             }}</nuxt-link>
           </div>

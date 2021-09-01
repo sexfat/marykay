@@ -3,6 +3,12 @@
     color: #000;
     position: relative;
 
+    @include m() {
+        .margin-top_150 {
+            margin-top: 50px;
+        }
+    }
+
     .heading-block {
         position: absolute;
         z-index: 3;
@@ -147,7 +153,7 @@
         display: none;
 
         @include m() {
-         display: block;
+            display: block;
         }
     }
 

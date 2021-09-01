@@ -1,6 +1,7 @@
 .s5 {
     width: 100%;
 
+
     .banner {
         height: 580px;
         overflow: hidden;
@@ -23,9 +24,50 @@
             width: 590px;
             margin: 0 auto;
 
+            sup {
+                position: relative;
+                top: 0;
+                font-size: 3rem;
+
+            }
+
             @include t() {
                 font-size: 14px;
                 width: 240px;
+
+                b {
+                    line-height: 51px;
+                    font-size: 2.3rem;
+                    position: relative;
+                    left: -147px;
+                    width: 400px;
+                    display: block;
+
+                    sup {
+                        font-size: 2rem;
+                    }
+
+                }
+
+
+
+            }
+
+            @include m() {
+                b {
+                    line-height: 27px;
+                    font-size: 1.2rem;
+                    position: relative;
+                    left: -33px;
+                    width: inherit;
+                    display: inherit;
+
+                    sup {
+                        font-size: 1.4rem;
+                    }
+
+                }
+
             }
         }
 
@@ -141,12 +183,12 @@
 }
 
 #en {
-  .s5 {
-  .swiper-container .swiper-wrapper .swiper-slide .spc {
-    top: 80%;
-    left: 50%;
-    height: 300px;
-    width: 80%;
-}
-  }
+    .s5 {
+        .swiper-container .swiper-wrapper .swiper-slide .spc {
+            top: 80%;
+            left: 50%;
+            height: 300px;
+            width: 80%;
+        }
+    }
 }
