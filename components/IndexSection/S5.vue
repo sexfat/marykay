@@ -6,25 +6,28 @@
           <b>TimeWise Repair<sup>®</sup> <br />Volu-Firm<sup>®</sup> Advanced Lifting Serum</b>
         </h1>
       </div>
-      <img src="~assets/images/Pink_Clay_Mask.jpg" alt="" srcset="" />
+      <img src="~assets/images/CS_index.jpg" alt="" srcset="" />
     </div>
     <div class="container-fluid">
       <div class="row">
         <div class="col-lg-7 col-md-12 dark flex">
           <div class="body" data-aos="fade-downs" data-aos-duration="1000">
             <p class="small_title"><!--NEW--></p>
-            <h3 class="h4">幻時能量 超V肌底精華</h3>
+            <h3 class="h4"><b>NEW</b><br />科研Lab系列</h3>
             <p class="margin-top_30">
               {{ $t('pages.homepage.s5.text') }}
             </p>
-            <nuxt-link :to="localePath('/products/Timewise_Repair/pd12')" class="btn-outline btn-large margin-top_30">{{
-              $t('pages.homepage.more')
-            }}</nuxt-link>
+            <a
+              href="https://marykaytwn.wixsite.com/clinicalsolutiontw"
+              target="_blank"
+              class="btn-outline btn-large margin-top_30"
+              >{{ $t('pages.homepage.more') }}</a
+            >
           </div>
         </div>
         <div class="col-lg-5 col-md-12 nomargin">
           <video class="video" poster="" playsinline loop autoplay muted>
-            <source src="~assets/images/video/Pink_Clay_Mask.mp4" type="video/mp4" />
+            <source src="~assets/images/TW_video/pj.mp4" type="video/mp4" />
           </video>
         </div>
       </div>
