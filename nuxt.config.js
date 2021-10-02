@@ -58,19 +58,7 @@ export default {
   ],
 
   // Modules: https://go.nuxtjs.dev/config-modules
-  modules: ['nuxt-i18n', '@nuxtjs/google-gtag'],
-  'google-gtag': {
-    id: 'G-0Z42TRGZ5V', // required
-    config: {
-      // this are the config options for `gtag
-      // check out official docs: https://developers.google.com/analytics/devguides/collection/gtagjs/
-      anonymize_ip: true,
-      send_page_view: false,
-    },
-    debug: true, // enable to track in dev mode
-    disableAutoPageTrack: false,
-  },
-
+  modules: ['nuxt-i18n'],
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {
     transpile: ['gsap'],

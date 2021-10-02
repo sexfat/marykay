@@ -3,7 +3,8 @@
     <div class="banner">
       <div class="titles">
         <h1 class="showcase" data-aos="fade-up" data-aos-duration="800">
-          <b>CLINICAL SOLUTIONS<sup>™</sup> <br />Retinol 0.5 <br />Calm + Restore Facial Mil</b>
+          <b>CLINICAL SOLUTIONS<sup>™</sup> <br />Retinol 0.5 <br />Calm + Restore Facial Milk</b>
+          <br />10/16震撼上市
         </h1>
       </div>
       <img src="~assets/images/CS_index.jpg" alt="" srcset="" />
@@ -12,10 +13,11 @@
       <div class="row">
         <div class="col-lg-7 col-md-12 dark flex">
           <div class="body" data-aos="fade-downs" data-aos-duration="1000">
-            <p class="small_title"><!--NEW--></p>
-            <h3 class="h4"><b>NEW</b><br />科研Lab系列</h3>
+            <p class="small_title">NEW</p>
+            <h3 class="h4">科研Lab系列</h3>
             <p class="margin-top_30">
-              {{ $t('pages.homepage.s5.text') }}
+              <b class="s5underline"> 獨創科技到府醫美 </b
+              >，即刻激活你的新生肌，8週有感，居家醫美新科技，無陣痛期，全方位提升肌膚質感。
             </p>
             <a
               href="https://marykaytwn.wixsite.com/clinicalsolutiontw"

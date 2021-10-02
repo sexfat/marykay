@@ -21,7 +21,7 @@
             position: absolute;
             z-index: 100;
             font-size: 20px;
-            width: 590px;
+            width: 625px;
             margin: 0 auto;
             color:#333;
             left: 10%;
@@ -193,4 +193,9 @@
             width: 80%;
         }
     }
+}
+
+.s5underline {
+  font-weight: bold;
+  text-decoration: underline;
 }
