@@ -2,31 +2,33 @@
   <div id="s5" class="s5">
     <div class="banner">
       <div class="titles">
-        <h1 class="showcase" data-aos="fade-up" data-aos-duration="800">
-          <b>Mary Kay® Pink Clay Mask</b>
+        <h1 class="showcase -white" data-aos="fade-up" data-aos-duration="800">
+          <!--  eslint-disable-next-line vue/no-v-html -->
+          <b v-html="$t('pages.homepage.s5.h1')"></b>
         </h1>
       </div>
-      <img src="~assets/images/Pink_Clay_Mask.jpg" alt="" srcset="" />
+      <img src="~assets/images/CS_index.jpg" alt="" srcset="" />
     </div>
     <div class="container-fluid">
       <div class="row">
         <div class="col-lg-7 col-md-12 dark flex">
           <div class="body" data-aos="fade-downs" data-aos-duration="1000">
-            <p class="small_title">NEW</p>
-            <h3 class="h4">Mary Kay® Pink Clay Mask</h3>
+            <p class="small_title">Dr. Lucy Gildea</p>
+            <h3 class="h4">{{ $t('pages.homepage.s5.h3') }}</h3>
             <p class="margin-top_30">
               {{ $t('pages.homepage.s5.text') }}
             </p>
-            <nuxt-link
-              :to="localePath('/products/Skin_Supplements/pd111')"
+            <a
+              target="_blank"
+              href="https://marykaytwn.wixsite.com/clinicalsolutionhk"
               class="btn-outline btn-large margin-top_30"
-              >{{ $t('pages.homepage.more') }}</nuxt-link
+              >{{ $t('pages.homepage.more') }}</a
             >
           </div>
         </div>
         <div class="col-lg-5 col-md-12 nomargin">
           <video class="video" poster="" playsinline loop autoplay muted>
-            <source src="~assets/images/video/Pink_Clay_Mask.mp4" type="video/mp4" />
+            <source src="~assets/images/video/pl.mp4" type="video/mp4" />
           </video>
         </div>
       </div>
