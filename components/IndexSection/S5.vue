@@ -13,7 +13,7 @@
       <div class="row">
         <div class="col-lg-7 col-md-12 dark flex">
           <div class="body" data-aos="fade-downs" data-aos-duration="1000">
-            <p class="small_title">Dr. Lucy Gildea</p>
+            <p class="small_title">NEW</p>
             <h3 class="h4">{{ $t('pages.homepage.s5.h3') }}</h3>
             <p class="margin-top_30">
               {{ $t('pages.homepage.s5.text') }}
@@ -21,7 +21,7 @@
             <a
               target="_blank"
               href="https://marykaytwn.wixsite.com/clinicalsolutionhk"
-              class="btn-outline btn-large margin-top_30"
+              class="btn-outline btn-large margin-top_30 margin-bottom_20"
               >{{ $t('pages.homepage.more') }}</a
             >
           </div>
