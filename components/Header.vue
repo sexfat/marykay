@@ -117,9 +117,7 @@
                 </li>
 
                 <li>
-                  <a target="_blank" href="https://www.marykay.com.tw/catalog/MKtw_thelook.pdf">{{
-                    $t('header_links.dm.name')
-                  }}</a>
+                  <a target="_blank" href="/catalog/MKtw_thelook.pdf">{{ $t('header_links.dm.name') }}</a>
                 </li>
                 <li><nuxt-link :to="localePath('/howtobuy')">如何購物</nuxt-link></li>
                 <!-- <li>
