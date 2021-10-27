@@ -83,6 +83,14 @@
                 font-size: .9rem;
                 position: relative;
 
+                section {
+                    sup {
+                        position: relative;
+                        top: -3px;
+                        left: -6px;
+                    }
+                }
+
                 .thin {
                     font-weight: 400;
                     font-size: 9px;
