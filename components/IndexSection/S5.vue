@@ -16,8 +16,7 @@
             <p class="small_title">NEW</p>
             <h3 class="h4">科研Lab系列</h3>
             <p class="margin-top_30">
-              <b class="s5underline"> 獨創科技到府醫美 </b
-              >，即刻激活你的新生肌，8週有感，居家醫美新科技，無陣痛期，全方位提升肌膚質感。
+              <b class="s5underline"> 獨創科技醫美級保養</b>，激活肌膚宛若初生。 8週有感，無陣痛期，全方位提升肌膚質感。
             </p>
             <a
               href="https://marykaytwn.wixsite.com/clinicalsolutiontw"
