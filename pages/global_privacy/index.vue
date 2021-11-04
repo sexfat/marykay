@@ -35,3 +35,13 @@ export default {
   },
 }
 </script>
+
+<style>
+.privacy ol {
+  list-style: auto;
+  padding-left: 2rem !important;
+}
+.privacy i {
+  font-style: italic;
+}
+</style>

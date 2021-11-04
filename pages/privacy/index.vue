@@ -34,3 +34,10 @@ export default {
   },
 }
 </script>
+
+<style>
+.privacy ul {
+  list-style: unset;
+  padding-left: 2rem !important;
+}
+</style>
