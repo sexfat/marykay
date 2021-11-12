@@ -77,12 +77,6 @@
     },
     "series_page": {
       "series": {
-        "Clinical_Solutions": {
-          "name": "科研Lab系列",
-          "en": "Clinical Solutions",
-          "header_links": "product_series",
-          "header_img": "pj.jpg"
-        },
         "Naturally": {
           "name": "澄淨甦活系列",
           "en": "NATURALLY",
@@ -925,13 +919,6 @@
     "product_series": {
       "name": "產品系列",
       "series": {
-        "Clinical_Solutions": {
-          "name": "科研Lab系列",
-          "products": [
-            "pd96",
-            "pd97"
-          ]
-        },
         "Naturally": {
           "name": "澄淨甦活系列",
           "products": [
