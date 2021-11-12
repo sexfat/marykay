@@ -1390,7 +1390,9 @@
         "Fragrance": {
           "name": "香氛系列",
           "products": [
-            "pd102"
+            "pd119",
+            "pd120",
+            "pd121"
           ]
         }
       }
@@ -4173,6 +4175,63 @@
         "img_02": "m/c/mc102.jpg",
         "img_03": "m/c/mc103.jpg",
         "img_04": "m/c/mc104.jpg"
+      },
+      "description_image": null
+    },
+    "pd119": {
+      "name": "限量版堅定相信淡香水",
+      "產品英文名稱": null,
+      "series": "香氛系列",
+      "header_links": null,
+      "description": "堅定相信淡香水以柔和清甜的佛手柑，油桃等的果香前調打開，果香甜味帶有溫和的辛辣味，柔和而持久，以喚醒你的想像力和可能性，追逐夢想的初心。<br><br>中調賦予清新細緻的粉紅鈴蘭，散發出乾淨迷人明亮的花香，鼓勵你勇於冒險，堅定相信，為夢想創造無限可能性。<br><br>後調散發持久溫暖的檀香油，夜光琥珀，雪松木質的柑橘花香氣息，持續帶給你無限生活希望，每時每刻發現奇蹟，無所畏懼去追逐夢想，只要堅定相信，不斷創造，便能夢想成真。",
+      "capacity": "60ml",
+      "skin_suitable": null,
+      "usage": null,
+      "function": null,
+      "principal_components": "<b>前調：</b>意大利青檸 (Italian Lemon)，佛手柑 (Bergamot)，油桃 (Nectarine)，蘋果花 (Apple Blossom) <br><br><b>中調：</b>小蒼蘭 (Freesia Alba)，紫羅蘭葉 (Violet Leaf)，粉紅鈴蘭 (Lily of the Valley)<br><br><b>後調：</b>麝香 (Sensual Musk)，夜光琥珀 (Luminous Amber)，雪松 (Cedar)，檀香油 (Santalum Album Oil) ",
+      "price": "HK$598",
+      "video_source": null,
+      "normal_image": null,
+      "small_images": {
+        "img_01": "m/e/me21.jpg"
+      },
+      "description_image": null
+    },
+    "pd120": {
+      "name": "限量版 Illuminea 閃耀香水",
+      "產品英文名稱": null,
+      "series": "香氛系列",
+      "header_links": null,
+      "description": "Illuminea 閃耀香水以激勵人心，令人振奮的辛香前調和清新晨露打開，淡淡幽香啟動你內心一團熾熱的火，你要確信自己有足夠能力影響身邊的每一位。中調賦予鼓舞人心，渾厚香濃的5種花香，給予女性自信、熾熱的力量，帶領你去支持鼓勵他人實現大夢想。後調牽出持久濃郁的木製調，展現你的力量，溫暖，點亮他人道路，讓別人的生命更美好。當你與他人分享光明時，你的影響力真正令人振奮，鼓舞，真真正正在生命中發光發熱。<br><br>瓶子設計高貴優雅，而且具有一定重量，這寓意每一個你都是你本身的傳奇，相信自己有足夠能力和份量影響身邊的每一位，共同創造夢想。",
+      "capacity": "50ml",
+      "skin_suitable": null,
+      "usage": null,
+      "function": null,
+      "principal_components": "<b>前調</b>：柑橘 (Mandarin)、木瓜 (Quince)、粉紅胡椒 (Pink Pepper)、晨露 (Morining Dew) <br><br><b>中調</b>：紅杏 (Red Apricot)、橙花 (Orange Blossom)、緋紅牡丹 (Scarlet Peony)、荷花 (Water Lotus)、金銀花 (Honeysuckle) <br><br><b>後調</b>：佛羅倫斯鳶尾花 (Florentine Iris Absolute)、紫羅蘭葉 (Violet Leave)、羊絨木 (Cashmere Woods)、香草 (Vanilla)、白苔 (White Moss)",
+      "price": "HK$598",
+      "video_source": null,
+      "normal_image": null,
+      "small_images": {
+        "img_01": "m/e/me31.jpg"
+      },
+      "description_image": null
+    },
+    "pd121": {
+      "name": "限量版 Shero 香水",
+      "產品英文名稱": null,
+      "series": "香氛系列",
+      "header_links": null,
+      "description": "這款令人千般矚目、萬般吸引的香水，是否已讓你心動不已、沉醉其中？這一切源於她高貴而稀有的萃取成份，知名調香大師的匠心，以及這款香水賦予的 SHERO 精神。<br><br><ul><li>主色調為通透的粉色、透出粉粉的少女心</li><br><li>桃紅色的圓形瓶蓋，閃耀而奪目</li><br><li>桃紅色的蝴蝶結，又增添了一份嫵媚和優雅</li><br><li>模杖型瓶身，更是彰顯其溫柔堅定的內心和獨立的個性</li></ul>",
+      "capacity": "37ml",
+      "skin_suitable": null,
+      "usage": null,
+      "function": null,
+      "principal_components": "<b>前調</b>：黑加侖 (Blackcurrant)、小蒼蘭 (Freesia Alba)、紫羅蘭 (Violet) <br><br><b>中調</b>：保加利亞玫瑰 (Damask Rose)、小花茉莉  (Jasmine)、白蘭花 (Michelia Alba Flower)<br><br><b>後調</b>：檀香 (Sandalwood)、麝香 (Sensual Musk)、香草 (Vanilla Planifolia)",
+      "price": "HK$398",
+      "video_source": null,
+      "normal_image": null,
+      "small_images": {
+        "img_01": "m/e/me41.jpg"
       },
       "description_image": null
     }
