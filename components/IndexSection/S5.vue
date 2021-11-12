@@ -4,7 +4,6 @@
       <div class="titles">
         <h1 class="showcase" data-aos="fade-up" data-aos-duration="800">
           <b>CLINICAL SOLUTIONS<sup>™</sup> <br />Retinol 0.5 <br />Calm + Restore Facial Milk</b>
-          <br />10/16震撼上市
         </h1>
       </div>
       <img src="~assets/images/CS_index.jpg" alt="" srcset="" />
@@ -15,9 +14,7 @@
           <div class="body" data-aos="fade-downs" data-aos-duration="1000">
             <p class="small_title">NEW</p>
             <h3 class="h4">科研Lab系列</h3>
-            <p class="margin-top_30">
-              <b class="s5underline"> 獨創科技醫美級保養</b>，激活肌膚宛若初生。 8週有感，無陣痛期，全方位提升肌膚質感。
-            </p>
+            <p class="margin-top_30"><b class="s5underline">獨創科技 激活肌膚</b> 全方位提升肌膚質感</p>
             <a
               href="https://marykaytwn.wixsite.com/clinicalsolutiontw"
               target="_blank"
@@ -28,7 +25,7 @@
         </div>
         <div class="col-lg-5 col-md-12 nomargin">
           <video class="video" poster="" playsinline loop autoplay muted>
-            <source src="~assets/images/TW_video/pj.mp4" type="video/mp4" />
+            <source src="~assets/images/TW_video/ClinicalSolutions.mp4" type="video/mp4" />
           </video>
         </div>
       </div>
