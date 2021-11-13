@@ -1039,8 +1039,7 @@
             "pd41",
             "pd27",
             "pd17",
-            "pd18",
-            "pd97"
+            "pd18"
           ]
         },
         "Mask": {
@@ -1063,8 +1062,7 @@
             "pd22",
             "pd23",
             "pd26",
-            "pd30",
-            "pd96"
+            "pd30"
           ]
         },
         "Sun_Body": {
@@ -1213,9 +1211,7 @@
             "pd94",
             "pd23",
             "pd88",
-            "pd92",
-            "pd96",
-            "pd97"
+            "pd92"
           ]
         },
         "Oil_controlling_Zone": {
@@ -2821,46 +2817,6 @@
       "video_source": null,
       "small_images": {
         "img_01": "c/e/ce11.jpg"
-      },
-      "description_image": null
-    },
-    "pd96": {
-      "name": "科研Lab 0.5A醇極效新生精華",
-      "series": "科研Lab系列",
-      "description": "高濃度0.5%純A醇︱深入真皮層，快速有效提升保水度及膠原蛋白<br>植萃協同︱西洋參、高良薑葉、迷迭香等萃取，極效助攻<br>溫和發揮強大效能，緊緻肌膚、抗氧細緻、均勻膚色",
-      "capacity": "29ml",
-      "skin_suitable": "全膚質",
-      "usage": "依據八週使用程序說明，每次使用A醇極效新生精華為全臉一顆綠豆大小，且一定要搭配極效新生修護乳使用。<br>第1-2週：一週使用一次。極效新生精華混合極效新生修護乳使用。<br>第3-4週：一週使用一次。先用極效新生精華後，再用極效新生修護乳。<br>第5-6週：一週使用兩次。先用極效新生精華後，再用極效新生修護乳。<br>第7-8週：一週使用三次。先用極效新生精華後，再用極效新生修護乳。<br>8周後可依據肌膚狀況自行斟酌每週使用次數。",
-      "function": "全面改善各種肌膚問題，撫平紋路、細緻、亮白、緊緻通通做到！",
-      "price": "2500",
-      "principal_components": null,
-      "video_source": "pj.mp4",
-      "small_images": {
-        "img_01": "p/j/pj11.jpg",
-        "img_02": "p/j/pj12.jpg",
-        "img_03": "p/j/pj13.jpg",
-        "img_04": "p/j/pj14.jpg",
-        "img_05": "p/j/pj15.jpg"
-      },
-      "description_image": null
-    },
-    "pd97": {
-      "name": "科研Lab 極效新生修護乳",
-      "series": "科研Lab系列",
-      "description": "四種天然植物油︱提供豐富脂肪酸，滋養保濕<br>甘油 + 角鯊烷︱打造鎖水屏障，長效水潤<br>獨特輕盈質地，立即舒緩鎮定，滋潤修護肌膚",
-      "capacity": "75ml",
-      "skin_suitable": "全膚質",
-      "usage": "1. 依據八週煥膚療程搭配0.5 A醇極效新生精華使用<br>2. 每日早晚當作乳液使用添加在原本的保養步驟",
-      "function": "深度修護舒緩，滋潤肌膚。",
-      "price": "1500",
-      "principal_components": null,
-      "video_source": "pj.mp4",
-      "small_images": {
-        "img_01": "p/j/pj21.jpg",
-        "img_02": "p/j/pj22.jpg",
-        "img_03": "p/j/pj23.jpg",
-        "img_04": "p/j/pj24.jpg",
-        "img_05": "p/j/pj25.jpg"
       },
       "description_image": null
     }
