@@ -115,10 +115,9 @@
                     </li>
                   </ul>
                 </li>
-
-                <li>
+                <!-- <li>
                   <a target="_blank" href="/catalog/MKtw_thelook.pdf">{{ $t('header_links.dm.name') }}</a>
-                </li>
+                </li> -->
                 <li><nuxt-link :to="localePath('/howtobuy')">如何購物</nuxt-link></li>
                 <!-- <li>
                   <a href="" @click="changeLang"> {{ lang }}</a>
