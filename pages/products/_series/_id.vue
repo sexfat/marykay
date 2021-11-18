@@ -40,7 +40,11 @@
               <span class="weight" v-html="$t(`${path}.capacity`)"></span> /
               <span class="prices">${{ $t(`${path}.price`) }}</span>
             </div>
-            <div class="desc" v-html="$t(`${path}.description`)"></div>
+            <div
+              v-if="productData ? productData.description : false"
+              class="desc"
+              v-html="$t(`${path}.description`)"
+            ></div>
             <div class="btn_buy" @click="howToBuy">如何購買</div>
             <div class="detail">
               <section v-if="productData ? productData.skin_suitable : false">

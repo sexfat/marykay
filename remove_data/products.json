@@ -1,41 +1,19 @@
 {
-  "pd96": {
-    "name": "科研Lab 0.5A醇極效新生精華",
-    "series": "科研Lab系列",
-    "description": "高濃度0.5%純A醇︱深入真皮層，快速有效提升保水度及膠原蛋白<br>植萃協同︱西洋參、高良薑葉、迷迭香等萃取，極效助攻<br>溫和發揮強大效能，緊緻肌膚、抗氧細緻、均勻膚色",
-    "capacity": "29ml",
-    "skin_suitable": "全膚質",
-    "usage": "依據八週使用程序說明，每次使用A醇極效新生精華為全臉一顆綠豆大小，且一定要搭配極效新生修護乳使用。<br>第1-2週：一週使用一次。極效新生精華混合極效新生修護乳使用。<br>第3-4週：一週使用一次。先用極效新生精華後，再用極效新生修護乳。<br>第5-6週：一週使用兩次。先用極效新生精華後，再用極效新生修護乳。<br>第7-8週：一週使用三次。先用極效新生精華後，再用極效新生修護乳。<br>8周後可依據肌膚狀況自行斟酌每週使用次數。",
-    "function": "全面改善各種肌膚問題，撫平紋路、細緻、亮白、緊緻通通做到！",
-    "price": "2500",
+  "pd45": {
+    "name": "靚亮面膜",
+    "series": "特殊護理",
+    "description": "靚亮面膜．5分鐘粉紅「膜」法<br>雞蛋花萃取x新型礦物泥<br>深層清潔．喚醒肌膚活力<br>均勻膚色．散發靚亮光澤<br>享受置身花海般的清甜香氛<br>五分鐘讓你的肌膚由內而外「淨．透．亮」",
+    "capacity": "85g",
+    "skin_suitable": "全膚質（正在過敏者不建議使用）",
+    "usage": "洗臉後在臉上均勻塗抹。留在皮膚上10分鐘。<br>用溫水徹底沖洗，然後抹乾。建議每週使用 1 至 2 次。",
+    "function": "•雞蛋花萃取物 （Plumeria Alba Flower Extract）: 明亮細緻肌膚<br>•微量水楊酸<br>•高嶺土: 豐富的礦物質，潔淨毛孔，吸附髒污油脂，同時不會對肌膚造成刺激及過敏，令肌膚保持天然清新光澤。<br>• 散發淡淡清香的露水牡丹和茶花香氣，有助減壓令人放鬆心情。",
+    "price": "800",
     "principal_components": null,
-    "video_source": "pj.mp4",
+    "video_source": null,
     "small_images": {
-      "img_01": "p/j/pj11.jpg",
-      "img_02": "p/j/pj12.jpg",
-      "img_03": "p/j/pj13.jpg",
-      "img_04": "p/j/pj14.jpg",
-      "img_05": "p/j/pj15.jpg"
-    },
-    "description_image": null
-  },
-  "pd97": {
-    "name": "科研Lab 極效新生修護乳",
-    "series": "科研Lab系列",
-    "description": "四種天然植物油︱提供豐富脂肪酸，滋養保濕<br>甘油 + 角鯊烷︱打造鎖水屏障，長效水潤<br>獨特輕盈質地，立即舒緩鎮定，滋潤修護肌膚",
-    "capacity": "75ml",
-    "skin_suitable": "全膚質",
-    "usage": "1. 依據八週煥膚療程搭配0.5 A醇極效新生精華使用<br>2. 每日早晚當作乳液使用添加在原本的保養步驟",
-    "function": "深度修護舒緩，滋潤肌膚。",
-    "price": "1500",
-    "principal_components": null,
-    "video_source": "pj.mp4",
-    "small_images": {
-      "img_01": "p/j/pj21.jpg",
-      "img_02": "p/j/pj22.jpg",
-      "img_03": "p/j/pj23.jpg",
-      "img_04": "p/j/pj24.jpg",
-      "img_05": "p/j/pj25.jpg"
+      "img_01": "f/e/fe61.jpg",
+      "img_02": "f/e/fe62.jpg",
+      "img_03": "f/e/fe63.jpg"
     },
     "description_image": null
   }
