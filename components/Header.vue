@@ -102,6 +102,21 @@
                   </ul>
                 </li>
                 <li>
+                  <span>{{ $t('header_links.Fragrance.name') }}</span>
+                  <ul>
+                    <li v-for="(item, index) in Object.entries(linkData.Fragrance.series)" :key="index">
+                      <nuxt-link
+                        :to="{
+                          name: `products-id___${$i18n.locale}`,
+                          params: { id: item[0] },
+                        }"
+                      >
+                        {{ $t(`pages.series_page.series.${item[0]}.name`) }}
+                      </nuxt-link>
+                    </li>
+                  </ul>
+                </li>
+                <li>
                   <span>{{ $t('header_links.Nutrition.name') }}</span>
                   <ul>
                     <li v-for="(item, index) in Object.entries(linkData.Nutrition.series)" :key="index">

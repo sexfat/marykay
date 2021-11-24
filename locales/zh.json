@@ -215,6 +215,13 @@
           "header_links": "product_features",
           "header_img": "fg.jpg"
         },
+        "Sun": {
+          "name": "防曬系列",
+          "cn": "防曬系列",
+          "banner_title": "SUN",
+          "header_links": "product_series",
+          "header_img": "fg.jpg"
+        },
         "Eye_Care": {
           "name": "眼唇保養",
           "cn": "眼唇保養",
@@ -1196,6 +1203,14 @@
             "pd104"
           ]
         },
+        "Sun": {
+          "name": "防曬系列",
+          "products": [
+            "pd99",
+            "pd100",
+            "pd101"
+          ]
+        },
         "Body_Care": {
           "name": "美體系列",
           "products": [
@@ -1475,6 +1490,19 @@
         "Skin_Test": {
           "name": "肌膚檢測",
           "products": null
+        }
+      }
+    },
+    "Fragrance": {
+      "name": "香氛",
+      "series": {
+        "Fragrance": {
+          "name": "香氛系列",
+          "products": [
+            "pd119",
+            "pd120",
+            "pd121"
+          ]
         }
       }
     }
@@ -2925,9 +2953,7 @@
       "small_images": {
         "img_01": "m/a/ma11.jpg",
         "img_02": "m/a/ma12.jpg",
-        "img_03": "m/a/ma13.jpg",
-        "img_04": "m/a/ma14.jpg",
-        "img_05": "m/a/ma15.jpg"
+        "img_03": "m/a/ma13.jpg"
       },
       "description_image": null
     },
