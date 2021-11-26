@@ -14,7 +14,7 @@
           <div class="body" data-aos="fade-downs" data-aos-duration="1000">
             <p class="small_title">NEW</p>
             <h3 class="h4">科研Lab系列</h3>
-            <p class="margin-top_30"><b class="s5underline">獨創科技 激活肌膚</b> 全方位提升肌膚質感</p>
+            <p class="margin-top_30"><b class="s5underline">領先科技 激活肌膚</b> 全方位提升肌膚質感</p>
             <a
               href="https://marykaytwn.wixsite.com/clinicalsolutiontw"
               target="_blank"
