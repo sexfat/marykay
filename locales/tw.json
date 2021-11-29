@@ -1017,7 +1017,7 @@
       "series": {
         "Face": {
           "name": "臉部彩妝",
-          "products": ["pd60", "pd58", "pd54", "pd55", "pd57", "pd51", "pd53", "pd56", "pd52", "pd59"]
+          "products": ["pd60", "pd58", "pd54", "pd55", "pd57", "pd51", "pd53", "pd56", "pd52", "pd59", "pd98"]
         },
         "Eyes": {
           "name": "眼妝彩妝",
@@ -2664,6 +2664,25 @@
         "img_03": "p/j/pj23.jpg",
         "img_04": "p/j/pj24.jpg",
         "img_05": "p/j/pj25.jpg"
+      },
+      "description_image": null
+    },
+    "pd98": {
+      "name": "柔礦薄紗蜜粉",
+      "series": "臉部彩妝",
+      "description": "一抹柔焦，定格完美底妝！<br>輕盈控油、均勻膚色、持久定妝<br>粉質絲滑細緻，打造自然柔霧妝感<br><br>• 植萃保濕成分，舒適不乾燥，給你絲綢般的柔滑觸感<br>• 特別添加雲母，霧面質感中略帶微光澤，毛孔細紋視覺隱形<br>• 含礦物油、香料、蠟、矽、羥基苯甲酸酯 (Paraben) 等成分",
+      "capacity": "8g",
+      "skin_suitable": "全膚質",
+      "usage": "1.輕搖蜜粉罐（栓緊蓋子），充分搖勻<br>2.打開蓋子後用蜜粉底刷沾取少量蜜粉底<br>3.刷具在蓋子上垂直旋轉，讓粉均勻的分佈在刷子上<br>4.輕輕的敲打刷子，抖掉多餘的粉末<br>5.以臉部中心開始往外輕掃使用即可",
+      "function": "• 控油定妝，創造柔焦效果，妝效持久<br>• 於隔離霜或粉底後使用，完美融入膚色，呈現自然妝感",
+      "price": "750",
+      "principal_components": null,
+      "video_source": "ma.mp4",
+      "small_images": {
+        "img_01": "m/a/ma111.jpg",
+        "img_02": "m/a/ma112.jpg",
+        "img_03": "m/a/ma113.jpg",
+        "img_04": "m/a/ma114.jpg"
       },
       "description_image": null
     }
