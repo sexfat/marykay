@@ -36,6 +36,7 @@
           <!-- 側邊說明 -->
           <div class="product_desc">
             <h2 v-html="$t(`${path}.name`)"></h2>
+            <dd class="ename" v-html="$t(`${path}.ename`)"></dd>
             <div class="total">
               <span class="weight" v-html="$t(`${path}.capacity`)"></span> /
               <span class="prices" v-html="`建議零售價:` + $t(`${path}.price`)"></span>

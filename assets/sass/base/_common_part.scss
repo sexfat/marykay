@@ -280,3 +280,18 @@ span.arrow_down {
 .margin-bottom_20 {
 margin-bottom: 20px;
 }
+
+.ename {
+    font-size: 12px !important;
+    margin-bottom: 15px;
+}
+
+.ename-padding {
+    padding: 0 6rem;
+    @include t() {
+        padding: 0 3rem;
+    }
+    @include m() {
+        padding: 0;
+    }
+}

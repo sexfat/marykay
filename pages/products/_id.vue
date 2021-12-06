@@ -27,6 +27,7 @@
           <img :src="require(`~/assets/images/HK/${products[item].small_images.img_01}`)" alt="" />
           <dl>
             <dd v-html="$t(`products.${item}.name`)"></dd>
+            <dd class="ename ename-padding" v-html="$t(`products.${item}.ename`)"></dd>
             <dt v-html="$t(`products.${item}.price`)"></dt>
           </dl>
         </li>

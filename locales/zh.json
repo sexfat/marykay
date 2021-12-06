@@ -1510,7 +1510,7 @@
   "products": {
     "pd1": {
       "name": "臻時粹顏™精華乳",
-      "產品英文名稱": "Youthfinity<sup>®</sup> The Serum",
+      "ename": "Youthfinity<sup>®</sup> The Serum",
       "series": [
         "ps01",
         "pf06",
@@ -1539,7 +1539,7 @@
     },
     "pd2": {
       "name": "臻時粹顏™精華油",
-      "產品英文名稱": "Youthfinity<sup>®</sup> The Facial Oil",
+      "ename": "Youthfinity<sup>®</sup> The Facial Oil",
       "series": [
         "ps01",
         "pf06"
@@ -1566,7 +1566,7 @@
     },
     "pd3": {
       "name": "臻時粹顏™眼霜",
-      "產品英文名稱": "Youthfinity<sup>®</sup> The Eye Crème",
+      "ename": "Youthfinity<sup>®</sup> The Eye Crème",
       "series": [
         "ps01",
         "pf08"
@@ -1593,7 +1593,7 @@
     },
     "pd4": {
       "name": "時光精靈Repair緊顏潔面乳",
-      "產品英文名稱": "TimeWise Repair<sup>®</sup> Volu-Firm™ Foaming Cleanser",
+      "ename": "TimeWise Repair<sup>®</sup> Volu-Firm™ Foaming Cleanser",
       "series": [
         "ps02",
         "pf02"
@@ -1618,7 +1618,7 @@
     },
     "pd5": {
       "name": "時光精靈Repair亮彩煥膚面膜",
-      "產品英文名稱": "TimeWise Repair Revealing Radiance Facial Peel",
+      "ename": "TimeWise Repair Revealing Radiance Facial Peel",
       "series": [
         "ps02",
         "pf05"
@@ -1643,7 +1643,7 @@
     },
     "pd6": {
       "name": "時光精靈 Repair 緊顏生物纖維面膜",
-      "產品英文名稱": "TimeWise Repair Lifting Bio-Cellulose Mask",
+      "ename": "TimeWise Repair Lifting Bio-Cellulose Mask",
       "series": [
         "ps02",
         "pf05"
@@ -1668,7 +1668,7 @@
     },
     "pd7": {
       "name": "時光精靈Repair緊顏精華露",
-      "產品英文名稱": "TimeWise Repair<sup>®</sup> Volu-Firm™ Advanced Lifting Serum",
+      "ename": "TimeWise Repair<sup>®</sup> Volu-Firm™ Advanced Lifting Serum",
       "series": [
         "ps02",
         "pf06"
@@ -1693,7 +1693,7 @@
     },
     "pd8": {
       "name": "時光精靈Repair緊顏撫紋精華霜",
-      "產品英文名稱": "TimeWise Repair<sup>®</sup> Volu-Fill™ Deep Wrinkle Filler",
+      "ename": "TimeWise Repair<sup>®</sup> Volu-Fill™ Deep Wrinkle Filler",
       "series": [
         "ps02",
         "pf06"
@@ -1718,7 +1718,7 @@
     },
     "pd9": {
       "name": "時光精靈Repair緊顏眼霜",
-      "產品英文名稱": "TimeWise Repair<sup>®</sup> Volu-Firm™ Eye Renewal Cream",
+      "ename": "TimeWise Repair<sup>®</sup> Volu-Firm™ Eye Renewal Cream",
       "series": [
         "ps02",
         "pf08",
@@ -1745,7 +1745,7 @@
     },
     "pd10": {
       "name": "時光精靈Repair緊顏日霜 SPF30",
-      "產品英文名稱": "TimeWise Repair<sup>®</sup> Volu-Firm™ Day Cream With SPF 30",
+      "ename": "TimeWise Repair<sup>®</sup> Volu-Firm™ Day Cream With SPF 30",
       "series": [
         "ps02",
         "pf04"
@@ -1770,7 +1770,7 @@
     },
     "pd11": {
       "name": "時光精靈Repair緊顏晚霜",
-      "產品英文名稱": "TimeWise Repair<sup>®</sup> Volu-Firm™ Night Treatment with Retinol",
+      "ename": "TimeWise Repair<sup>®</sup> Volu-Firm™ Night Treatment with Retinol",
       "series": [
         "ps02",
         "pf04"
@@ -1795,7 +1795,7 @@
     },
     "pd12": {
       "name": "時光精靈3D四效潔面乳/啫喱",
-      "產品英文名稱": "TimeWise<sup>®</sup> Age Minimize 3D™ 4-in-1 Cleanser",
+      "ename": "TimeWise<sup>®</sup> Age Minimize 3D™ 4-in-1 Cleanser",
       "series": [
         "ps03",
         "pf02",
@@ -1822,7 +1822,7 @@
     },
     "pd13": {
       "name": "時光精靈晚間補濕修護面膜",
-      "產品英文名稱": "TimeWise Moisture Renewing Gel Mask",
+      "ename": "TimeWise Moisture Renewing Gel Mask",
       "series": [
         "ps03",
         "pf05",
@@ -1850,7 +1850,7 @@
     },
     "pd14": {
       "name": "時光精靈保濕柔膚水",
-      "產品英文名稱": "TimeWise Moisture Renewing Softener",
+      "ename": "TimeWise Moisture Renewing Softener",
       "series": [
         "ps03",
         "pf03",
@@ -1877,7 +1877,7 @@
     },
     "pd15": {
       "name": "時光精靈維 C+E 精華露",
-      "產品英文名稱": "TimeWise<sup>®</sup> Replenishing Serum C+E™",
+      "ename": "TimeWise<sup>®</sup> Replenishing Serum C+E™",
       "series": [
         "ps03",
         "pf06",
@@ -1904,7 +1904,7 @@
     },
     "pd16": {
       "name": "時光精靈3D日霜",
-      "產品英文名稱": "TimeWise<sup>®</sup> Age Minimize 3D™ Day Cream",
+      "ename": "TimeWise<sup>®</sup> Age Minimize 3D™ Day Cream",
       "series": [
         "ps03",
         "pf04"
@@ -1929,7 +1929,7 @@
     },
     "pd17": {
       "name": "時光精靈3D晚霜",
-      "產品英文名稱": "TimeWise<sup>®</sup> Age Minimize 3D™ Night Cream",
+      "ename": "TimeWise<sup>®</sup> Age Minimize 3D™ Night Cream",
       "series": [
         "ps03",
         "pf04"
@@ -1954,7 +1954,7 @@
     },
     "pd18": {
       "name": "時光精靈3D眼霜",
-      "產品英文名稱": "TimeWise<sup>®</sup> Age Minimize 3D™ Eye Cream",
+      "ename": "TimeWise<sup>®</sup> Age Minimize 3D™ Eye Cream",
       "series": [
         "ps03",
         "pf08"
@@ -1979,7 +1979,7 @@
     },
     "pd19": {
       "name": "時光精靈3D無瑕修顏粉底乳",
-      "產品英文名稱": "TimeWise<sup>®</sup> 3D Foundation",
+      "ename": "TimeWise<sup>®</sup> 3D Foundation",
       "series": "ps03",
       "header_links": "product_series",
       "description": "通過IntelliMatch™技術，完美模擬真實肌膚，設計更精確的色調，完美無縫地配對比以往更多的膚色，給予你猶如天生的無瑕自然妝容。",
@@ -2000,7 +2000,7 @@
     },
     "pd20": {
       "name": "時光精靈微晶煥膚霜",
-      "產品英文名稱": "TimeWise Microdermabrasion Refine",
+      "ename": "TimeWise Microdermabrasion Refine",
       "series": [
         "ps03",
         "pf09"
@@ -2025,7 +2025,7 @@
     },
     "pd21": {
       "name": "時光精靈細緻毛孔精華",
-      "產品英文名稱": "TimeWise Pore Minimizer",
+      "ename": "TimeWise Pore Minimizer",
       "series": [
         "ps03",
         "pf06"
@@ -2050,7 +2050,7 @@
     },
     "pd22": {
       "name": "時光精靈美體緊緻乳液",
-      "產品英文名稱": "TimeWise Body Targeted-Action Toning Lotion",
+      "ename": "TimeWise Body Targeted-Action Toning Lotion",
       "series": [
         "ps03",
         "pf04",
@@ -2077,7 +2077,7 @@
     },
     "pd23": {
       "name": "天然淨活潔面乳",
-      "產品英文名稱": "Naturally<sup>®</sup> Purifying Cleanser",
+      "ename": "Naturally<sup>®</sup> Purifying Cleanser",
       "series": [
         "ps03",
         "pf02"
@@ -2104,7 +2104,7 @@
     },
     "pd24": {
       "name": "天然淨活去角質粉",
-      "產品英文名稱": "Naturally<sup>®</sup> Exfoliating Powder",
+      "ename": "Naturally<sup>®</sup> Exfoliating Powder",
       "series": [
         "ps04",
         "pf09"
@@ -2131,7 +2131,7 @@
     },
     "pd25": {
       "name": "天然淨活多效精華油",
-      "產品英文名稱": "Naturally<sup>®</sup> Nourishing Oil",
+      "ename": "Naturally<sup>®</sup> Nourishing Oil",
       "series": [
         "ps04",
         "pf06",
@@ -2160,7 +2160,7 @@
     },
     "pd26": {
       "name": "天然淨活修護膏",
-      "產品英文名稱": "Naturally<sup>®</sup> Moisturizing Stick",
+      "ename": "Naturally<sup>®</sup> Moisturizing Stick",
       "series": [
         "ps04",
         "pf09"
@@ -2185,7 +2185,7 @@
     },
     "pd27": {
       "name": "植物肌密潔面乳",
-      "產品英文名稱": "Botanical Effects<sup>®</sup> Skin Care Cleanse",
+      "ename": "Botanical Effects<sup>®</sup> Skin Care Cleanse",
       "series": [
         "ps05",
         "pf02"
@@ -2211,7 +2211,7 @@
     },
     "pd28": {
       "name": "植物肌密面膜霜",
-      "產品英文名稱": "Botanical Effects<sup>®</sup> Skin Care Mask",
+      "ename": "Botanical Effects<sup>®</sup> Skin Care Mask",
       "series": [
         "ps05",
         "pf05"
@@ -2237,7 +2237,7 @@
     },
     "pd29": {
       "name": "植物肌密爽膚水",
-      "產品英文名稱": "Botanical Effects<sup>®</sup> Skin Care Freshen",
+      "ename": "Botanical Effects<sup>®</sup> Skin Care Freshen",
       "series": [
         "ps05",
         "pf03"
@@ -2264,7 +2264,7 @@
     },
     "pd30": {
       "name": "植物肌密保濕乳液",
-      "產品英文名稱": "Botanical Effects<sup>®</sup> Skin Care Hydrate 1",
+      "ename": "Botanical Effects<sup>®</sup> Skin Care Hydrate 1",
       "series": [
         "ps05",
         "pf04"
@@ -2290,7 +2290,7 @@
     },
     "pd31": {
       "name": "水妍保濕凝露",
-      "產品英文名稱": "Oil-free Hydrating Gel",
+      "ename": "Oil-free Hydrating Gel",
       "series": [
         "ps06",
         "pf04",
@@ -2319,7 +2319,7 @@
     },
     "pd32": {
       "name": "水妍保濕修護霜",
-      "產品英文名稱": "Intense Moisturizing Cream",
+      "ename": "Intense Moisturizing Cream",
       "series": [
         "ps06",
         "pf04"
@@ -2346,7 +2346,7 @@
     },
     "pd33": {
       "name": "眼膜膠",
-      "產品英文名稱": "Indulge Soothing Eye Gel",
+      "ename": "Indulge Soothing Eye Gel",
       "series": [
         "ps06",
         "pf08",
@@ -2374,7 +2374,7 @@
     },
     "pd34": {
       "name": "水凝膠眼膜",
-      "產品英文名稱": "Hydrogel Eye Patches",
+      "ename": "Hydrogel Eye Patches",
       "series": [
         "ps06",
         "pf08",
@@ -2403,7 +2403,7 @@
     },
     "pd35": {
       "name": "眼部卸妝液",
-      "產品英文名稱": "Oil-free Eye Makeup Remover",
+      "ename": "Oil-free Eye Makeup Remover",
       "series": [
         "ps06",
         "pf01"
@@ -2429,7 +2429,7 @@
     },
     "pd36": {
       "name": "卸妝潔膚水",
-      "產品英文名稱": "Micellar Water",
+      "ename": "Micellar Water",
       "series": [
         "ps06",
         "pf01",
@@ -2458,7 +2458,7 @@
     },
     "pd37": {
       "name": "柔嫩滋養霜",
-      "產品英文名稱": "Extra Emollient Night Cream",
+      "ename": "Extra Emollient Night Cream",
       "series": [
         "ps06",
         "pf04"
@@ -2483,7 +2483,7 @@
     },
     "pd38": {
       "name": "T字控油涼露",
-      "產品英文名稱": "Oil Mattifier",
+      "ename": "Oil Mattifier",
       "series": [
         "ps06",
         "pf09",
@@ -2510,7 +2510,7 @@
     },
     "pd39": {
       "name": "LumiVie™ 亮采潔面乳",
-      "產品英文名稱": "LumiVie™ Foaming Cleanser",
+      "ename": "LumiVie™ Foaming Cleanser",
       "series": "ps07",
       "header_links": "product_series",
       "description": "配方溫和細膩的起泡型潔面乳，能徹底去除面上污垢，改善膚色不匀，讓肌膚潔淨透亮，同時令肌膚倍感柔軟，煥發亮采健康光澤。",
@@ -2529,7 +2529,7 @@
     },
     "pd40": {
       "name": "LumiVie™ 亮采原液精華面膜",
-      "產品英文名稱": "LumiVie™ Black Sheet Mask",
+      "ename": "LumiVie™ Black Sheet Mask",
       "series": "ps07",
       "header_links": "product_series",
       "description": "3D剪裁的高效備長炭纖維面膜精準貼合臉部輪廓，為肌膚注入高濃度活性精華，每塊30g面膜相當於一支LumiVie™亮采密集精華液的煥亮功效。通過對肌膚的密集護理，迅速滲透，喚醒肌膚活力，有效改善膚色不匀和色素沉澱，展現剔透無瑕的完美肌膚。同時密集保濕，使肌膚潤澤透亮，由內而外煥發亮采。",
@@ -2548,7 +2548,7 @@
     },
     "pd41": {
       "name": "LumiVie™ 亮采精華水",
-      "產品英文名稱": "LumiVie™ Essence Water",
+      "ename": "LumiVie™ Essence Water",
       "series": "ps07",
       "header_links": "product_series",
       "description": "含有高精華成分的爽膚水，使肌膚即時顯得剔透亮澤，瞬間感到水凝柔軟，同時，肌膚重拾淨透平衡，為吸收後續護膚養分作好準備，提升亮白效果。",
@@ -2567,7 +2567,7 @@
     },
     "pd42": {
       "name": "LumiVie™ 亮采密集精華液",
-      "產品英文名稱": "LumiVie™ Intensive Serum",
+      "ename": "LumiVie™ Intensive Serum",
       "series": [
         "ps07",
         "sc04"
@@ -2592,7 +2592,7 @@
     },
     "pd43": {
       "name": "LumiVie™ 亮采精華眼霜",
-      "產品英文名稱": "LumiVie™ Eye Treatment",
+      "ename": "LumiVie™ Eye Treatment",
       "series": "ps07",
       "header_links": "product_series",
       "description": "質地水潤輕盈，為眼周肌膚傾注亮采精華，瞬間提亮眼周肌膚，即時倍感滋潤舒適，顯著改善眼周暗沉膚色和減淡黑眼圈，幫助眼周肌膚展現明亮透白光采。",
@@ -2611,7 +2611,7 @@
     },
     "pd44": {
       "name": "LumiVie™ 亮采滋潤乳",
-      "產品英文名稱": "LumiVie™ Moisturizing Lotion",
+      "ename": "LumiVie™ Moisturizing Lotion",
       "series": [
         "ps07",
         "sc04"
@@ -2636,7 +2636,7 @@
     },
     "pd45": {
       "name": "LumiVie™ 亮采滋潤霜",
-      "產品英文名稱": "LumiVie™ Moisturizing Cream",
+      "ename": "LumiVie™ Moisturizing Cream",
       "series": "ps07",
       "header_links": "product_series",
       "description": "質感豐潤柔滑，早晚均可使用，即時為乾燥肌膚注入充沛滋養，並令肌膚持久潤澤飽滿、柔滑透亮",
@@ -2655,7 +2655,7 @@
     },
     "pd46": {
       "name": "舒顏潔面乳",
-      "產品英文名稱": "Calming Influence Facial Cleanser",
+      "ename": "Calming Influence Facial Cleanser",
       "series": [
         "ps08",
         "pf02"
@@ -2680,7 +2680,7 @@
     },
     "pd47": {
       "name": "舒顏面膜",
-      "產品英文名稱": "Calming Influence Mask",
+      "ename": "Calming Influence Mask",
       "series": [
         "ps08",
         "pf05"
@@ -2705,7 +2705,7 @@
     },
     "pd48": {
       "name": "舒顏保濕霜",
-      "產品英文名稱": "Calming Influence Facial Moisturizer",
+      "ename": "Calming Influence Facial Moisturizer",
       "series": [
         "ps08",
         "pf04"
@@ -2730,7 +2730,7 @@
     },
     "pd49": {
       "name": "舒顏柔膚水",
-      "產品英文名稱": "Calming Influence Freshener",
+      "ename": "Calming Influence Freshener",
       "series": [
         "ps08",
         "pf03"
@@ -2755,7 +2755,7 @@
     },
     "pd50": {
       "name": "舒顏精華露",
-      "產品英文名稱": "Calming Influence Serum",
+      "ename": "Calming Influence Serum",
       "series": [
         "ps08",
         "pf06",
@@ -2782,7 +2782,7 @@
     },
     "pd51": {
       "name": "淨顏潔面啫喱",
-      "產品英文名稱": "Clear Proof <sup>®</sup> Clarifying Cleanser for Acne-Prone Skin",
+      "ename": "Clear Proof <sup>®</sup> Clarifying Cleanser for Acne-Prone Skin",
       "series": [
         "ps09",
         "pf02"
@@ -2807,7 +2807,7 @@
     },
     "pd52": {
       "name": "淨顏活性碳面膜",
-      "產品英文名稱": "Clear Proof <sup>®</sup> Deep-Cleansing Charcoal Mask",
+      "ename": "Clear Proof <sup>®</sup> Deep-Cleansing Charcoal Mask",
       "series": [
         "ps09",
         "pf05",
@@ -2834,7 +2834,7 @@
     },
     "pd53": {
       "name": "淨顏調理爽膚水",
-      "產品英文名稱": "Clear Proof <sup>®</sup> Blemish Control Toner",
+      "ename": "Clear Proof <sup>®</sup> Blemish Control Toner",
       "series": [
         "ps09",
         "pf03"
@@ -2859,7 +2859,7 @@
     },
     "pd54": {
       "name": "淨顏清爽毛孔精華露",
-      "產品英文名稱": "Clear Proof <sup>®</sup> Pore-Purifying Serum for Acne-Prone Skin",
+      "ename": "Clear Proof <sup>®</sup> Pore-Purifying Serum for Acne-Prone Skin",
       "series": [
         "ps09",
         "pf06"
@@ -2884,7 +2884,7 @@
     },
     "pd55": {
       "name": "淨顏重點修護精華",
-      "產品英文名稱": "Clear Proof <sup>®</sup> Spot Solution for Acne-Prone Skin",
+      "ename": "Clear Proof <sup>®</sup> Spot Solution for Acne-Prone Skin",
       "series": [
         "ps08",
         "ps09",
@@ -2912,7 +2912,7 @@
     },
     "pd56": {
       "name": "淨顏清爽保濕乳液",
-      "產品英文名稱": "Clear Proof <sup>®</sup> Oil-Free Moisturizer for Acne-Prone Skin",
+      "ename": "Clear Proof <sup>®</sup> Oil-Free Moisturizer for Acne-Prone Skin",
       "series": [
         "ps08",
         "ps09",
@@ -2938,7 +2938,7 @@
     },
     "pd57": {
       "name": "絕色緞光唇膏",
-      "產品英文名稱": "Gel Semi-Shine Lipstick",
+      "ename": "Gel Semi-Shine Lipstick",
       "series": "mu01",
       "header_links": "makeup",
       "description": "延續絕色啫喱唇膏熱，絕色緞光唇膏以同一嶄新啫喱技術，為櫻唇帶來飽和度高及遮蓋力強的絲緞亮澤色彩。持久濃郁的出眾色彩，柔軟舒適的非凡質感，塑造一抹愛上的細膩緞亮唇色。",
@@ -2959,7 +2959,7 @@
     },
     "pd58": {
       "name": "凝亮唇彩",
-      "產品英文名稱": "Unlimited™ Lip Gloss",
+      "ename": "Unlimited™ Lip Gloss",
       "series": "mu01",
       "header_links": "makeup",
       "description": "質地輕盈不黏笠，超柔滑亮澤，配方中的維他命C及E呵護成分能滋潤雙唇，極致保濕。輕輕一抺立即上色，締造瞬間及持久的豐盈凝亮妝感，為雙唇鎖定迷人色彩。",
@@ -2982,7 +2982,7 @@
     },
     "pd59": {
       "name": "妝前修顏底霜SPF15",
-      "產品英文名稱": "Foundation Primer Sunscreen SPF15",
+      "ename": "Foundation Primer Sunscreen SPF15",
       "series": [
         "mu02",
         "sc03"
@@ -3004,7 +3004,7 @@
     },
     "pd60": {
       "name": "光感修顏霜SPF 35/ PA++",
-      "產品英文名稱": "Honey Glow Finisher SPF 35/ PA++",
+      "ename": "Honey Glow Finisher SPF 35/ PA++",
       "series": [
         "mu02",
         "sc01"
@@ -3029,7 +3029,7 @@
     },
     "pd61": {
       "name": "礦研粉底",
-      "產品英文名稱": "Mineral Powder Foundation",
+      "ename": "Mineral Powder Foundation",
       "series": "mu02",
       "header_links": "makeup",
       "description": "富含天然精純礦物成份，融合了粉底的理想遮瑕和碎粉的輕盈舒適。只需輕輕一掃，就可有效遮蓋皺紋、細紋和瑕疵，持久保持清新妝容。無香料清爽配方，溫和不刺激。",
@@ -3050,7 +3050,7 @@
     },
     "pd62": {
       "name": "水嫩亮肌CC 霜 SPF15",
-      "產品英文名稱": "Complexion Corrector Cream Sunscreen SPF 15",
+      "ename": "Complexion Corrector Cream Sunscreen SPF 15",
       "series": [
         "mu02",
         "sc05"
@@ -3076,7 +3076,7 @@
     },
     "pd63": {
       "name": "時光精靈3D無瑕修顏粉底乳",
-      "產品英文名稱": "TimeWise<sup>®</sup> 3D Foundation",
+      "ename": "TimeWise<sup>®</sup> 3D Foundation",
       "series": [
         "mu02",
         "mu02"
@@ -3102,7 +3102,7 @@
     },
     "pd64": {
       "name": "礦研清盈粉餅",
-      "產品英文名稱": "Mineral Sheer Pressed Powder",
+      "ename": "Mineral Sheer Pressed Powder",
       "series": "mu02",
       "header_links": "makeup",
       "description": "<ul><br><li>粉質輕盈透薄，令肌膚如絲絨般柔滑。</li><br><li>於肌膚表面形成吸油保護膜，長達 8 小時控油，杜絕油光，實現持久細緻的亮麗妝容。</li><br><li>天然礦物成份 ，含維他命 E ，有效對抗導致皺紋形成的自由基。</li></ul>",
@@ -3122,7 +3122,7 @@
     },
     "pd65": {
       "name": "完美遮瑕霜",
-      "產品英文名稱": "Perfecting Concealer™",
+      "ename": "Perfecting Concealer™",
       "series": "mu02",
       "header_links": "makeup",
       "description": "打造自然、無瑕底妝的必要步驟。遮蓋面部不同瑕疵，與粉底自然融合，讓肌膚看起自然細緻、膚色均勻，就如經美圖後面上瑕疵通通隱形，更能使五官更加立體。",
@@ -3144,7 +3144,7 @@
     },
     "pd66": {
       "name": "眼底矯色霜",
-      "產品英文名稱": "Undereye Corrector",
+      "ename": "Undereye Corrector",
       "series": "mu02",
       "header_links": "makeup",
       "description": "瞬間中和眼底黑眼圈色素，即時令眼部下方肌膚變得明亮，告別暗沉膚色，頓時令雙眼神采奕奕。",
@@ -3163,7 +3163,7 @@
     },
     "pd67": {
       "name": "感光透亮蜜粉",
-      "產品英文名稱": "Translucent Loose Powder",
+      "ename": "Translucent Loose Powder",
       "series": "mu02",
       "header_links": "makeup",
       "description": "<ul><li>高透明、高感光、不過白。透氣貼服於每一種色調的肌膚；完美定妝，同時使肌膚透亮自然光澤。</li></ul>",
@@ -3182,7 +3182,7 @@
     },
     "pd68": {
       "name": "魅彩輕羽光影",
-      "產品英文名稱": "Chromafusion™ Highlighter",
+      "ename": "Chromafusion™ Highlighter",
       "series": "mu02",
       "header_links": "makeup",
       "description": "專利革新技術Mary Kay Chromafusion™ Matrix Technology，將乳霜般的柔滑貼服觸感和羽毛般的輕盈質地完美結合於修容中，成就前所未有的絕佳顯色度和持久度。超輕盈粉末加上色調和反光顏料的結合，在任何光線下都帶來自然光澤的妝感。",
@@ -3201,7 +3201,7 @@
     },
     "pd69": {
       "name": "魅彩輕羽胭脂",
-      "產品英文名稱": "Chromafusion™ Blush",
+      "ename": "Chromafusion™ Blush",
       "series": "mu02",
       "header_links": "makeup",
       "description": "專利革新技術Mary Kay Chromafusion™ Matrix Technology，將乳霜般的柔滑貼服觸感和羽毛般的輕盈質地完美結合於胭脂中，成就前所未有的絕佳顯色度和持久度。超輕盈粉末加上色調和反光顏料的結合，在任何光線下都帶來自然光澤的妝感。",
@@ -3222,7 +3222,7 @@
     },
     "pd70": {
       "name": "眼部底霜",
-      "產品英文名稱": "Eye Primer",
+      "ename": "Eye Primer",
       "series": "mu03",
       "header_links": "makeup",
       "description": "<ul><li>於眼影前使用，防止眼影出現摺痕及脫色。</li><br><li>防水配方，令眼妝持久艷麗。</li><br><li>含蜂蠟、維他命 E、甘菊及芝麻油，滋潤而不粘膩。</li></ul>",
@@ -3241,7 +3241,7 @@
     },
     "pd71": {
       "name": "魅彩輕羽眼影",
-      "產品英文名稱": "Chromafusion™ Eye Shadow",
+      "ename": "Chromafusion™ Eye Shadow",
       "series": "mu03",
       "header_links": "makeup",
       "description": "專利革新技術 Mary Kay Chromafusion™ Matrix Technology 將乳霜般的柔滑貼服觸感和羽毛般的輕盈質地完美結合於眼影中，成就前所未有的絕佳顯色度及持久度，完美襯托不同造型和膚色。",
@@ -3263,7 +3263,7 @@
     },
     "pd72": {
       "name": "Pink Young 眉筆",
-      "產品英文名稱": "Pink Young Brow Pencil & Brush Duo<br>Pencil & Brush",
+      "ename": "Pink Young Brow Pencil & Brush Duo<br>Pencil & Brush",
       "series": "mu03",
       "header_links": "makeup",
       "description": "<ul><li>橢圓筆芯設計，軟硬度適中</li><br><li>質地細膩，塗抹柔滑</li><br><li>防水持久配方，整天都能保持理想眉形</li><br><li>附專用眉掃修飾眉毛更立體自然</li></ul>",
@@ -3284,7 +3284,7 @@
     },
     "pd73": {
       "name": "持色防水眼線液",
-      "產品英文名稱": "Waterproof Liquid Eyeliner Pen",
+      "ename": "Waterproof Liquid Eyeliner Pen",
       "series": "mu03",
       "header_links": "makeup",
       "description": "<ul><li>筆狀設計，操控輕易、穩定，粗幼眼線都能輕鬆準確勾畫</li><br><li>特效防水配方，有效提升持妝時間，令妝效持久不暈染</li><br><li>顏色濃郁飽和，顯色度高，突顯眼部輪廓</li><br><li>筆頭觸感舒適，軟硬適中，勾畫順暢，輕易描繪俐落眼線 ‧ 速乾配方，不易結塊及脫色</li></ul>",
@@ -3304,7 +3304,7 @@
     },
     "pd74": {
       "name": "柔順銳目眼線液",
-      "產品英文名稱": "Liquid Eyeliner Pen",
+      "ename": "Liquid Eyeliner Pen",
       "series": "mu03",
       "header_links": "makeup",
       "description": "升級版柔順銳目眼線液，顏色飽和度、顯色度和持久度顯著提升，筆頭依舊柔軟順滑，輕鬆打造深邃明眸！",
@@ -3324,7 +3324,7 @@
     },
     "pd75": {
       "name": "美睫滋養精華露",
-      "產品英文名稱": "Lash & Brow Building Serum",
+      "ename": "Lash & Brow Building Serum",
       "series": "mu03",
       "header_links": "makeup",
       "description": "<ul><li>富含氨基酸和肽複合物，提供睫毛所需營養，保護、強韌、滋養並賦予睫毛彈性及柔韌</li><br><li>防止因脆弱而引起的斷裂、稀少、賦予豐盈濃密纖長睫毛</li><br><li>令睫毛增長豐盈，濃密立體且根根分明 獨特細小軟刷，呵護到每根睫毛，亦可使用於眉毛</li></ul>",
@@ -3344,7 +3344,7 @@
     },
     "pd76": {
       "name": "睫毛底膏",
-      "產品英文名稱": "Lash Primer",
+      "ename": "Lash Primer",
       "series": "mu03",
       "header_links": "makeup",
       "description": "<ul><li>保持睫毛順滑健康狀態，令睫毛更感濃密增長，滋潤順滑更易上妝。</li><br><li>尼龍纖維與棉纖維刷毛交織而成的獨特刷毛設計刷， 能有效地將底膏包裹於睫毛，達到根根分明的效果，為睫毛液上妝做好準備。</li><br><li>想要擁有豐盈自然、纖長分明的睫毛，除了睫毛液外，睫毛底妝必不可少。</li></ul>",
@@ -3363,7 +3363,7 @@
     },
     "pd77": {
       "name": "臻愛纖盈特長睫毛液",
-      "產品英文名稱": "Lash Love Lengthening Mascara",
+      "ename": "Lash Love Lengthening Mascara",
       "series": "mu03",
       "header_links": "makeup",
       "description": "<ul><li>嶄新彎曲塑型刷頭，混合長短刷毛，令睫毛液均勻包裹每根睫毛。</li><br><li>質感豐盈，具備鬈翹、纖長、修護多重美睫功效，含維他命 E 衍生物，滋養強韌睫毛。</li></ul>",
@@ -3384,7 +3384,7 @@
     },
     "pd78": {
       "name": "豐盈增長睫毛液",
-      "產品英文名稱": "Lash Intensity™ Mascara",
+      "ename": "Lash Intensity™ Mascara",
       "series": "mu03",
       "header_links": "makeup",
       "description": "<div>極致濃密、瞬間增長、廣角豐盈, 輕易塑造豐密濃長驚艷美睫。</div><ul><li>Mary Kay 首款針對多角度豐盈及增長效果的睫毛液。</li><br><li>為睫毛加添 200% 濃密豐盈感,猶如為每根睫毛增多兩根睫毛粗厚度的豐盈效果,同時增長 84%<sup>*</sup>!。</li><br><li>嶄新、特別的 Double Impact&trade; Brush 雙效廣角刷頭,一刷上便能讓睫毛多方位伸延,同步豐盈及拉長睫毛。</li><br><li>含超濃色彩的礦物粒子包裹每根睫毛,打造不易脫色的極致濃黑妝效。</li><br><li>配方中的維他命原 B5、複合脂肪酸及維他命 E 成分有效保濕 潤滑睫毛,並提供保護、滋養、抗氧化及強健功效。</li></ul><br><div class=\"thin\"><sup>*</sup>根據一項獨立臨床測試中專業測試人員塗上兩層豐盈增長睫毛液 後的使用前後對比評估。</div>",
@@ -3404,7 +3404,7 @@
     },
     "pd79": {
       "name": "美妝葫蘆蛋",
-      "產品英文名稱": "Blending Sponge",
+      "ename": "Blending Sponge",
       "series": "mu04",
       "header_links": "makeup",
       "description": "Mary Kay<sup>®</sup> 美妝葫蘆蛋是新一代的美妝海綿，以獨特 open-cell 物理結構製成，吸水後使用可以減少吸收粉底；而透過快速彈力拍按的方式，可以輕易塑造更透薄貼服的底妝效果。",
@@ -3423,7 +3423,7 @@
     },
     "pd80": {
       "name": "美妝大師化妝掃套裝",
-      "產品英文名稱": "Essential Brush Collection",
+      "ename": "Essential Brush Collection",
       "series": "mu04",
       "header_links": "makeup",
       "description": "<div>套裝包括 5 支優質且具有不同功能的必備化妝掃，收納於時尚輕巧的化妝袋中。化妝掃掃毛觸感柔滑不刺激肌膚，掃頭形狀經過特別設計，有助輕鬆處理全面各式妝容，呈現自然、完美的妝感。</div><ul><li>時尚、專業的掃頭設計讓化妝新手和達人都能更得心應手地打造不同妝容。</li><br><li>掃毛濃密富彈性，抓粉力強，輕易均勻著色。</li><br><li>優質纖維掃毛可配合任何粉狀、霜狀和液體彩妝品使用。</li></ul>",
@@ -3443,7 +3443,7 @@
     },
     "pd81": {
       "name": "橢圓粉底掃",
-      "產品英文名稱": "Blending Brush",
+      "ename": "Blending Brush",
       "series": "mu04",
       "header_links": "makeup",
       "description": "<ul><li>橢圓設計刷頭，密集而短的掃毛由優質超柔軟纖維毛製成。</li><br><li>刷頭設計讓你更容易掌握粉底量，不會剩餘過多粉底於粉底掃上。</li><br><li>獨特的手柄設計助你更靈活控制刷頭，將粉底均勻貼附肌膚，完美推開粉底不留粉痕，輕鬆快速刷出完美底妝。</li><br><li>透過輕輕點壓或以畫圓手法推延粉底，遮瑕效果會更佳，展現無瑕自然妝容。</li><br><li>適合配合粉底乳或粉底霜使用。</li></ul>",
@@ -3462,7 +3462,7 @@
     },
     "pd82": {
       "name": "粉狀粉底掃",
-      "產品英文名稱": "Powder Foundation Brush",
+      "ename": "Powder Foundation Brush",
       "series": "mu04",
       "header_links": "makeup",
       "description": "柔軟而濃密的掃毛，抓粉能力強，讓你更易掌握取粉量，並打造均勻、透薄、自然並具有一定的遮瑕度妝感。 適合配合礦物粉底、粉餅及所有粉狀底妝產品使用。",
@@ -3481,7 +3481,7 @@
     },
     "pd83": {
       "name": "斜角濕粉掃",
-      "產品英文名稱": "Liquid Foundation Brush",
+      "ename": "Liquid Foundation Brush",
       "series": "mu04",
       "header_links": "makeup",
       "description": "斜面設計刷頭，貼合面部輪廓，上妝零死角；豐盈平口的刷毛飽滿富彈力，能將粉底均勻貼附肌膚，幫助粉底完美推開不留粉痕。配合粉底液或粉底霜使用，透過輕輕點壓或者以畫圓或小螺旋狀手法推延粉底，輕易掌握遮瑕度，刷出上質底妝。",
@@ -3500,7 +3500,7 @@
     },
     "pd84": {
       "name": "霜狀彩妝掃",
-      "產品英文名稱": "Cream Color Brush",
+      "ename": "Cream Color Brush",
       "series": "mu04",
       "header_links": "makeup",
       "description": "柔軟有彈性的扁平掃頭，能像指頭般輕柔而均勻地塗抹霜狀或液體狀的遮瑕產品和眼影，完美無粉痕。同時適合用作塗抹唇妝產品。",
@@ -3519,7 +3519,7 @@
     },
     "pd85": {
       "name": "雙頭眉毛 / 眼線掃",
-      "產品英文名稱": "Eyebrow / Eyeliner Brush",
+      "ename": "Eyebrow / Eyeliner Brush",
       "series": "mu04",
       "header_links": "makeup",
       "description": "雙頭設計，一端是斜角掃，輕易勾畫精確細緻的眼線或眉形，並填滿眉毛間的空隙；另一端是螺旋型刷頭，毛量細密且富彈性，有助梳理眉毛，並柔化眉色。",
@@ -3538,7 +3538,7 @@
     },
     "pd86": {
       "name": "完美自選彩妝盒",
-      "產品英文名稱": "Perfect Palette™",
+      "ename": "Perfect Palette™",
       "series": "mu04",
       "header_links": "makeup",
       "description": "<ul><li>外盒玫瑰印花設計，華麗美觀</li><br><li>纖薄巧小，攜帶方便</li><br><li>內含化妝鏡，助你輕鬆塑造完美妝容</li><br><li>磁吸式設計，隨心所欲，自由組合，輕鬆組合專屬「我的」彩妝盒</li></ul>",
@@ -3558,7 +3558,7 @@
     },
     "pd87": {
       "name": "粉撲",
-      "產品英文名稱": "Powder Puff",
+      "ename": "Powder Puff",
       "series": "mu04",
       "header_links": "makeup",
       "description": "粉撲柔軟舒服不刺激肌膚，能把粉餅均勻並緊貼地塗抹在臉上，妝感透薄清爽，呈現自然、完美的妝感。可放於彩妝盒內。",
@@ -3577,7 +3577,7 @@
     },
     "pd88": {
       "name": "胭脂掃",
-      "產品英文名稱": "Palette Cheek Brush",
+      "ename": "Palette Cheek Brush",
       "series": "mu04",
       "header_links": "makeup",
       "description": "掃毛由優質纖維毛製成，完美結合人造纖維毛的結實富彈性和天然動物毛的柔滑，觸感柔軟不刺激肌膚，呈現自然、完美的妝感。可放於彩妝盒內。",
@@ -3596,7 +3596,7 @@
     },
     "pd89": {
       "name": "莎婷乳木果呵護沐浴露",
-      "產品英文名稱": "Satin Body<sup>®</sup> Indulgent Shea Wash",
+      "ename": "Satin Body<sup>®</sup> Indulgent Shea Wash",
       "series": "ps11",
       "header_links": "product_series",
       "description": "質感舒適，泡沫細緻，溫和清潔身體肌膚，讓全身重拾舒適清新、滋潤柔滑，同時散發白茶和柑橘交織而成的怡人香氣。",
@@ -3615,7 +3615,7 @@
     },
     "pd90": {
       "name": "莎婷乳木果煥活磨砂膏",
-      "產品英文名稱": "Satin Body<sup>®</sup> Revitalizing Shea Scrub",
+      "ename": "Satin Body<sup>®</sup> Revitalizing Shea Scrub",
       "series": "ps11",
       "header_links": "product_series",
       "description": "質地幼滑如霜，輕輕去除老舊角質，令肌膚即時柔軟光滑，重拾活力。性質溫和，適合每天使用，使全身每天保持細緻潤滑",
@@ -3634,7 +3634,7 @@
     },
     "pd91": {
       "name": "莎婷乳木果絲滑潤膚乳",
-      "產品英文名稱": "Satin Body<sup>®</sup> Silkening Shea Lotion",
+      "ename": "Satin Body<sup>®</sup> Silkening Shea Lotion",
       "series": "ps11",
       "header_links": "product_series",
       "description": "芳香潤滑，瞬間與肌膚融合，紓緩肌膚乾燥，並形成持久的絲柔觸感，帶來前所未有的水潤呵護。臨床測試證實能持續保濕 24 小時<sup>*</sup>。",
@@ -3653,7 +3653,7 @@
     },
     "pd92": {
       "name": "莎婷乳木果洗手液",
-      "產品英文名稱": "Satin Hands<sup>®</sup> Shea Hand Soap",
+      "ename": "Satin Hands<sup>®</sup> Shea Hand Soap",
       "series": "ps11",
       "header_links": "product_series",
       "description": "無香料配方，將雙手包裹在柔軟舒適的細緻泡沫中，溫和而有效地潔淨雙手，用後不會令雙手感到乾燥，配方含有滋養的乳木果油成分，柔軟和舒緩乾燥肌膚，即時滋潤及保護皮膚屏障，讓手部回復細緻柔滑。",
@@ -3672,7 +3672,7 @@
     },
     "pd93": {
       "name": "莎婷手部護理組合 - 白茶及柑橘香味",
-      "產品英文名稱": "Satin Hands<sup>®</sup> Pampering Set<br>(White Tea & Citrus)",
+      "ename": "Satin Hands<sup>®</sup> Pampering Set<br>(White Tea & Citrus)",
       "series": "ps11",
       "header_links": "product_series",
       "description": "以珍貴、豐潤的乳木果油為手部肌膚帶來加倍的修護！只需三步，瞬間呵護纖纖玉手，結合特別調配的白茶及柑橘香味，讓雙手每天都可以享受　Home Spa 在家水療的愉悅舒緩體驗。",
@@ -3695,7 +3695,7 @@
     },
     "pd94": {
       "name": "莎婷乳木果護手霜 - 白茶及柑橘香味",
-      "產品英文名稱": "Satin Hands<sup>®</sup> Nourishing Shea Cream (White Tea & Citrus)",
+      "ename": "Satin Hands<sup>®</sup> Nourishing Shea Cream (White Tea & Citrus)",
       "series": "ps11",
       "header_links": "product_series",
       "description": "莎婷乳木果護手霜，以珍貴、豐潤的乳木果油為手部肌膚帶來加倍的修護；結合特別調配的白茶及柑橘香味，更讓雙手每天都可以享受　Home Spa 在家水療的愉悅舒緩體驗。",
@@ -3714,7 +3714,7 @@
     },
     "pd95": {
       "name": "莎婷乳木果護唇脂",
-      "產品英文名稱": "Satin Lips<sup>®</sup> Shea Butter Balm",
+      "ename": "Satin Lips<sup>®</sup> Shea Butter Balm",
       "series": "ps11",
       "header_links": "product_series",
       "description": "莎婷唇部護理的第二步。清甜滋潤的護唇膏，輕柔呵護嬌嫩雙唇，讓櫻唇豐潤飽滿。",
@@ -3733,7 +3733,7 @@
     },
     "pd96": {
       "name": "莎婷乳木果去角質唇霜",
-      "產品英文名稱": "Satin Lips<sup>®</sup> Shea Sugar Scrub",
+      "ename": "Satin Lips<sup>®</sup> Shea Sugar Scrub",
       "series": "ps11",
       "header_links": "product_series",
       "description": "莎婷唇部護理的第一步。香甜的唇部磨砂溫和而有效地去除多餘死皮，讓雙唇告別乾裂粗糙，重現新生活力。",
@@ -3752,7 +3752,7 @@
     },
     "pd97": {
       "name": "清涼薄荷足部潤膚露",
-      "產品英文名稱": "Mint Bliss™ Energizing Lotion for Feet & Legs",
+      "ename": "Mint Bliss™ Energizing Lotion for Feet & Legs",
       "series": "ps11",
       "header_links": "product_series",
       "description": "清新涼快的薄荷配方，幫助紓緩足部及腿部疲勞，為雙腳注入舒爽活力，回復步履輕盈。",
@@ -3772,7 +3772,7 @@
     },
     "pd98": {
       "name": "胸部護理霜",
-      "產品英文名稱": "Décolleté & Bust Beautifying Complex",
+      "ename": "Décolleté & Bust Beautifying Complex",
       "series": "ps11",
       "header_links": "product_series",
       "description": "配方富含 Q10、維他命 A、 E 及維他命 C 衍生物等美肌修護成分，滋潤、柔滑胸部、頸部及肩部肌膚，並幫助改善肌膚緊實度和彈性，呵護及美化頸胸三角區。",
@@ -3791,7 +3791,7 @@
     },
     "pd99": {
       "name": "多效防曬隔離乳 SPF 50+/PA+++",
-      "產品英文名稱": "Sheer UV Defense Milk SPF50+/PA+++",
+      "ename": "Sheer UV Defense Milk SPF50+/PA+++",
       "series": "pf07",
       "header_links": "product_features",
       "description": "質地輕盈清爽，順滑易推，迅速吸收，讓肌膚零負擔",
@@ -3811,7 +3811,7 @@
     },
     "pd100": {
       "name": "水感輕透防曬乳 SPF 50+/PA+++",
-      "產品英文名稱": "Invisible UV Defense Lotion SPF50+/PA+++",
+      "ename": "Invisible UV Defense Lotion SPF50+/PA+++",
       "series": "pf07",
       "header_links": "product_features",
       "description": "質地輕盈清爽，順滑易推，迅速吸收，讓肌膚零負擔",
@@ -3832,7 +3832,7 @@
     },
     "pd101": {
       "name": "夏艷曬後修護凝露",
-      "產品英文名稱": "Sun Care After-Sun Replenishing Gel",
+      "ename": "Sun Care After-Sun Replenishing Gel",
       "series": [
         "pf07",
         "sc01"
@@ -3857,7 +3857,7 @@
     },
     "pd102": {
       "name": "勇敢無懼香水",
-      "產品英文名稱": "Live Fearlessly™ Eau de Parfum",
+      "ename": "Live Fearlessly™ Eau de Parfum",
       "series": "mu05",
       "header_links": "makeup",
       "description": "以 Mary Kay 公司創辦人 Mary Kay Ash 女士的勇敢人生故事為靈感而研發及調配的香水，濃郁、獨特的香氣由清新醒神的辛薑、馥郁柔美的玫瑰和溫暖綿長的烘焙零陵香豆香氣交織而成，展露著無可置疑的自信、無懼和勇氣。<br>特別的多面切割瓶身設計象徵著女性的多面性，瓶蓋代表著自信及堅毅，瓶身的淡金色調折射出女性的力量及的信念，以及溫暖的陽光為生命帶來的無限可能。",
@@ -3876,7 +3876,7 @@
     },
     "pd103": {
       "name": "男士眼霜",
-      "產品英文名稱": "Advanced Eye Cream",
+      "ename": "Advanced Eye Cream",
       "series": [
         "ps10",
         "pf08"
@@ -3901,7 +3901,7 @@
     },
     "pd104": {
       "name": "男士潔面啫喱",
-      "產品英文名稱": "Daily Facial Cleanser",
+      "ename": "Daily Facial Cleanser",
       "series": [
         "ps10",
         "pf02"
@@ -3926,7 +3926,7 @@
     },
     "pd105": {
       "name": "怡日健<sup>®</sup>粉妍片",
-      "產品英文名稱": "DailyBenefits<sup>®</sup> Antioxidant",
+      "ename": "DailyBenefits<sup>®</sup> Antioxidant",
       "series": "tn01",
       "header_links": "tonic",
       "description": "粉妍<sup>®</sup>片採用4種抗氧化營養元素，直擊核心抗氧化，對抗氧化為DNA帶來的損傷，讓身體裡的細胞都重獲年輕源動力。從各個方面對人體進行保護，對抗因氧化而造成的損傷和衰老，同時給肌膚帶來各種好處，有助於由內而外打造年輕美。",
@@ -3945,7 +3945,7 @@
     },
     "pd106": {
       "name": "怡日健<sup>®</sup>金骨網",
-      "產品英文名稱": "Daily Benefits<sup>®</sup> Bone Helper",
+      "ename": "Daily Benefits<sup>®</sup> Bone Helper",
       "series": "tn01",
       "header_links": "tonic",
       "description": "金骨網的三大明星成分，水解蛋黃粉、酪蛋白磷酸肽、維他命D3。補充骨膠原，同時促進鈣質吸收，有助骨骼健康。金骨網的熱穩定性高，可加在各類飲料、湯中服用，高溫儲存也不會變質。",
@@ -3964,7 +3964,7 @@
     },
     "pd107": {
       "name": "怡日健<sup>®</sup>益生菌",
-      "產品英文名稱": "Daily Benefits<sup>®</sup> Probiotics",
+      "ename": "Daily Benefits<sup>®</sup> Probiotics",
       "series": "tn01",
       "header_links": "tonic",
       "description": "<ul><li>五種菌株科學配方，全面覆蓋腸道，改善腸道微環境。</li><br><li>每包活菌數高達500億，源源不斷到達腸道，效果更佳。</li><br><li>含有高品質菌株，經過專業科學試驗驗證，並獲專利認證。</li><br><li>來自全球專業益生菌生產商-美國杜邦，安全性得到美國FDA認可，高潔淨度廠房專一生產益生菌，無交叉污染，安全有保障，確保高品質。</li><br><li>先進的「菌種冷凍乾燥」技術，嚴格的水分控制，更大程度保證益生菌活性。</li><br><li>方便食用和保存，可沖飲，好口味，無需冷藏。</li></ul>",
@@ -3984,7 +3984,7 @@
     },
     "pd108": {
       "name": "怡日健<sup>®</sup>膠原蛋白肽",
-      "產品英文名稱": "DailyBenefits<sup>®</sup> Collagen",
+      "ename": "DailyBenefits<sup>®</sup> Collagen",
       "series": "tn01",
       "header_links": "tonic",
       "description": "<div>高含量，精選義大利進口魚膠原蛋白肽，每包含5,000毫克，大約相等於吃 2-3條魚， 零脂肪，讓肌膚潤潤無負擔。</div><ul><li>取自日本的珍貴鰹魚彈性蛋白肽，增加肌膚彈性。每條鰹魚僅能提萃取約 0.1克的彈性蛋白，特別珍稀難得。</li><br><li>搭配天然水果刺梨粉，含豐富維他命Ｃ，抗氧化同時刺激膠原蛋白生成，令肌膚更透亮。</li><br><li>添加來自法國的紅甜菜，含豐富礦物質，提供天然粉紅色素，為你帶來粉嫩好氣息。</li><br><li>分子超小，服用2小時內即可循環入體內被吸收及運用。</li><br><li>品質嚴格監控，產品通過1,000多項檢測。</li></ul>",
@@ -4003,7 +4003,7 @@
     },
     "pd109": {
       "name": "怡日健<sup>®</sup>綜合維他命B",
-      "產品英文名稱": "Daily Benefits<sup>®</sup> Complex B",
+      "ename": "Daily Benefits<sup>®</sup> Complex B",
       "series": null,
       "header_links": null,
       "description": "<ul><li>補充不易被身體儲存的維他命Ｂ，維持精神充沛及促進身體代謝。</li><br><li>含人體所需的8種維他命B，當中的煙醯胺、生物素和葉酸，守護你健康的同時更守護你的美麗。</li><br><li>科學含量，高效補充，滿足日常所需。</li><br><li>採用薄膜包衣技術，避光隔熱防潮，鎖住核心營養。</li><br><li>細小圓片，容易吞服，體內 5 分鐘溶解。</li><br><li>品質嚴格監控，產品通過600多項檢測。</li><br><li>源自百年營養品原料供應商 - DSM (荷蘭皇家帝斯曼)，在符合製藥標準的 Mary Kay 廠房生產，全球多個品質管制體系認證，確保高品質。</li></ul>",
@@ -4023,7 +4023,7 @@
     },
     "pd110": {
       "name": "聲波活膚潔面儀",
-      "產品英文名稱": "Skinvigorate Sonic",
+      "ename": "Skinvigorate Sonic",
       "series": null,
       "header_links": null,
       "description": "60秒微米級潔淨體驗，重現剔透注氧光感肌，以聲波科技，採用如蜜蜂震動授粉時，高振頻而不傷花蕊的輕柔聲波震動，能溫柔振出毛孔深層髒污，而不拉扯柔軟的肌膚，更重要的是能有效清除毛孔內，被世界衛生組織介定為一級致癌物的  PM2.5。 <br>實驗証明，聲波活膚潔面儀潔淨度對比用人手清潔去除污垢、油脂、雜質、化妝品和污染物高達4位。<br><br><div>可更換配件：</div><ul><li>潔面刷頭：2個／HK$160</li><br><li>按摩刷頭：1個／HK$200</li></ul>",
@@ -4044,7 +4044,7 @@
     },
     "pd111": {
       "name": "限量版粉紅深層潔膚泥",
-      "產品英文名稱": "Pink Clay Edition",
+      "ename": "Pink Clay Edition",
       "series": null,
       "header_links": null,
       "description": "深層清潔面膜，質地柔軟，散發清香。能清潔肌膚，潔淨毛孔，去除污垢，同時不會對肌膚造成刺激及過敏。具有抗氧化及肌膚修復的更新功能，有效保護肌膚免受自由基侵害，消除皮膚暗啞和疲態。",
@@ -4063,7 +4063,7 @@
     },
     "pd112": {
       "name": "時光精靈3D日霜 SPF30",
-      "產品英文名稱": "TimeWise<sup>®</sup> Age Minimize 3D™ Day Cream SPF30",
+      "ename": "TimeWise<sup>®</sup> Age Minimize 3D™ Day Cream SPF30",
       "series": null,
       "header_links": null,
       "description": "特有 3D 減齡複合物成分(AGE MINIMIZE 3D® COMPLEX及廣譜防曬 UVA/UVB 保護，由白藜蘆醇微囊、抗衰老胜肽和維他命B3三大成分協力組成，發揮協同效應： DEFENDS 防禦外界環境侵害 l DELAYS 延緩衰老 l DELIVERS 實現年輕緊緻肌膚，為肌膚帶來3D逆轉年輕奇蹟功效。",
@@ -4082,7 +4082,7 @@
     },
     "pd113": {
       "name": "轉肌活膚組合",
-      "產品英文名稱": "Luminous Set",
+      "ename": "Luminous Set",
       "series": null,
       "header_links": null,
       "description": "一步扭轉肌膚命運<br>保濕滋養 Double Up<br>早晚一步肌膚輕補品",
@@ -4101,7 +4101,7 @@
     },
     "pd114": {
       "name": "皇牌面膜組合",
-      "產品英文名稱": "Duo Mask Set",
+      "ename": "Duo Mask Set",
       "series": null,
       "header_links": null,
       "description": "面膜混搭法<br>MultiMasking<br>10分鐘化危「肌」",
@@ -4120,7 +4120,7 @@
     },
     "pd115": {
       "name": "CP值爆明星組合",
-      "產品英文名稱": " CP Value Set",
+      "ename": " CP Value Set",
       "series": null,
       "header_links": null,
       "description": "懶人必備 3分鐘保養完成<br>隨時維持肌膚水嫩無瑕",
@@ -4139,7 +4139,7 @@
     },
     "pd116": {
       "name": "Retinol 0.5 極效新生套裝",
-      "產品英文名稱": "Clinical Solutions™",
+      "ename": "Clinical Solutions™",
       "series": "科研Lab",
       "header_links": null,
       "description": "極效新生套裝包括含有0.5%高濃度視黃醇的精華，能配合精華使用以鎮定及舒緩肌膚的修護乳以及科研 Lab 煥膚時間表。 有助預防並減緩皮膚老化跡象，及逆轉已顯現的衰老跡象。<br><br><b>極效新生精華</b><br><ul><li>含有0.5％濃度、純淨及有效的視黃醇</li><li>能幫助刺激膠原蛋白再生</li><li>刺激表層皮膚細胞更新</li><li>預防並減緩皮膚老化跡象</li><li>含草本成份，能有效補充視黃醇功效</li></ul><br><br><b>極效新生修護乳</b><br><ul><li>富含四種植物油，椰子油、荷荷芭油、紅花油及橄欖油</li><li>能提供豐富脂肪酸，以滋養和深度舒緩肌膚</li><li>含有角鯊烷及甘油，有助防止水分流失，保持肌膚水潤</li><li>配方質地輕盈</li></ul><br>配合由與皮膚科醫生合作設計的漸進式煥膚適應方案，以及極效新生套裝中能鎮定及舒緩皮膚的極效新生修護乳使用，能安全地體驗視黃醇帶來的驚人效果。",
@@ -4163,7 +4163,7 @@
     },
     "pd117": {
       "name": "極效新生修護乳",
-      "產品英文名稱": "Clinical Solutions™ Calm + Restore Facial Milk",
+      "ename": "Clinical Solutions™ Calm + Restore Facial Milk",
       "series": "科研Lab",
       "header_links": null,
       "description": "富含四種植物油，椰子油、荷荷芭油、紅花油及橄欖油<br>能提供豐富脂肪酸，以滋養和深度舒緩肌膚<br>含有角鯊烷及甘油， 有助防止水分流失，保持肌膚水潤<br>配方質地輕盈",
@@ -4184,7 +4184,7 @@
     },
     "pd118": {
       "name": "眼線筆",
-      "產品英文名稱": "Clinical Solutions™ Calm + Restore Facial Milk",
+      "ename": "Clinical Solutions™ Calm + Restore Facial Milk",
       "series": "眼部系列",
       "header_links": null,
       "description": "成就化妝新手及達人的 Must-have Eyeliner!<ul><li>質地柔滑，勾畫流暢</li><li>含有抗氧化、舒緩及修護成分，化妝同時護膚</li><li>含有經特別處理的色素粒子，讓眼線具高顯色度，同時妝效持久，全天不易掉色</li><li>旋轉式筆芯設計，筆蓋頂端內附有眼線刨，隨時將筆芯尖刨至所需的粗幼</li></ul>",
@@ -4206,7 +4206,7 @@
     },
     "pd119": {
       "name": "限量版堅定相信淡香水",
-      "產品英文名稱": null,
+      "ename": "Limited Edition If You Believe™  Eau de Toilette",
       "series": "香氛系列",
       "header_links": null,
       "description": "堅定相信淡香水以柔和清甜的佛手柑，油桃等的果香作為前調，果香甜味帶有溫和的辛辣味，柔和而持久，以喚醒你的想像力和可能性，追逐夢想的初心。<br><br>中調賦予清新細緻的粉紅鈴蘭，散發出乾淨迷人明亮的花香，鼓勵你勇於冒險，堅定相信，為夢想創造無限可能性。<br><br>後調散發持久溫暖的檀香油，夜光琥珀，雪松木質的柑橘花香氣息，持續帶給你無限生活希望，每時每刻發現奇蹟，無所畏懼去追逐夢想，只要堅定相信，不斷創造，便能夢想成真。",
@@ -4225,7 +4225,7 @@
     },
     "pd120": {
       "name": "限量版 Illuminea 閃耀香水",
-      "產品英文名稱": null,
+      "ename": "Mary Kay Illuminea™ Extrait de Parfum",
       "series": "香氛系列",
       "header_links": null,
       "description": "Illuminea 閃耀香水以激勵人心，令人振奮的辛香前調和清新晨露打開，淡淡幽香啟動你內心一團熾熱的火，你要確信自己有足夠能力影響身邊的每一位。中調賦予鼓舞人心，渾厚香濃的5種花香，給予女性自信、熾熱的力量，帶領你去支持鼓勵他人實現大夢想。後調牽出持久濃郁的木製調，展現你的力量，溫暖，點亮他人道路，讓別人的生命更美好。當你與他人分享光明時，你的影響力真正令人振奮，鼓舞，真真正正在生命中發光發熱。<br><br>瓶子設計高貴優雅，而且具有一定重量，這寓意每一個你都是你本身的傳奇，相信自己有足夠能力和份量影響身邊的每一位，共同創造夢想。",
@@ -4244,7 +4244,7 @@
     },
     "pd121": {
       "name": "限量版 Shero 香水",
-      "產品英文名稱": null,
+      "ename": "Limited Edition Je Suis Shero Perfume",
       "series": "香氛系列",
       "header_links": null,
       "description": "這款令人千般矚目、萬般吸引的香水，是否已讓你心動不已、沉醉其中？這一切源於她高貴而稀有的萃取成份，知名調香大師的匠心，以及這款香水賦予的 SHERO 精神。<br><br><ul><li>主色調為通透的粉色、透出粉粉的少女心</li><br><li>桃紅色的圓形瓶蓋，閃耀而奪目</li><br><li>桃紅色的蝴蝶結，又增添了一份嫵媚和優雅</li><br><li>模杖型瓶身，更是彰顯其溫柔堅定的內心和獨立的個性</li></ul>",
