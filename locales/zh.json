@@ -1618,7 +1618,7 @@
     },
     "pd5": {
       "name": "時光精靈Repair亮彩煥膚面膜",
-      "ename": "TimeWise Repair Revealing Radiance Facial Peel",
+      "ename": "TimeWise Repair® Revealing Radiance® Facial Peel",
       "series": [
         "ps02",
         "pf05"
@@ -1643,7 +1643,7 @@
     },
     "pd6": {
       "name": "時光精靈 Repair 緊顏生物纖維面膜",
-      "ename": "TimeWise Repair Lifting Bio-Cellulose Mask",
+      "ename": "TimeWise Repair® Lifting Bio-Cellulose Mask",
       "series": [
         "ps02",
         "pf05"
@@ -1745,7 +1745,7 @@
     },
     "pd10": {
       "name": "時光精靈Repair緊顏日霜 SPF30",
-      "ename": "TimeWise Repair<sup>®</sup> Volu-Firm™ Day Cream With SPF 30",
+      "ename": "TimeWise Repair<sup>®</sup> Volu-Firm™ Day Cream With Sunscreen Broad Spectrum  SPF 30",
       "series": [
         "ps02",
         "pf04"
@@ -1822,7 +1822,7 @@
     },
     "pd13": {
       "name": "時光精靈晚間補濕修護面膜",
-      "ename": "TimeWise Moisture Renewing Gel Mask",
+      "ename": "TimeWise<sup>®</sup> Moisture Renewing Gel Mask",
       "series": [
         "ps03",
         "pf05",
@@ -1850,7 +1850,7 @@
     },
     "pd14": {
       "name": "時光精靈保濕柔膚水",
-      "ename": "TimeWise Moisture Renewing Softener",
+      "ename": "TimeWise<sup>®</sup> Moisture Renewing Softener",
       "series": [
         "ps03",
         "pf03",
@@ -2000,7 +2000,7 @@
     },
     "pd20": {
       "name": "時光精靈微晶煥膚霜",
-      "ename": "TimeWise Microdermabrasion Refine",
+      "ename": "TimeWise<sup>®</sup> Microdermabrasion Refine",
       "series": [
         "ps03",
         "pf09"
@@ -2025,7 +2025,7 @@
     },
     "pd21": {
       "name": "時光精靈細緻毛孔精華",
-      "ename": "TimeWise Pore Minimizer",
+      "ename": "TimeWise<sup>®</sup> Pore Minimizer",
       "series": [
         "ps03",
         "pf06"
@@ -2050,7 +2050,7 @@
     },
     "pd22": {
       "name": "時光精靈美體緊緻乳液",
-      "ename": "TimeWise Body Targeted-Action Toning Lotion",
+      "ename": "TimeWise Body Targeted-Action<sup>®</sup> Toning Lotion",
       "series": [
         "ps03",
         "pf04",
@@ -2185,7 +2185,7 @@
     },
     "pd27": {
       "name": "植物肌密潔面乳",
-      "ename": "Botanical Effects<sup>®</sup> Skin Care Cleanse",
+      "ename": "Botanical Effects<sup>®</sup> Cleanse",
       "series": [
         "ps05",
         "pf02"
@@ -2211,7 +2211,7 @@
     },
     "pd28": {
       "name": "植物肌密面膜霜",
-      "ename": "Botanical Effects<sup>®</sup> Skin Care Mask",
+      "ename": "Botanical Effects<sup>®</sup> Mask",
       "series": [
         "ps05",
         "pf05"
@@ -2237,7 +2237,7 @@
     },
     "pd29": {
       "name": "植物肌密爽膚水",
-      "ename": "Botanical Effects<sup>®</sup> Skin Care Freshen",
+      "ename": "Botanical Effects<sup>®</sup> Freshen",
       "series": [
         "ps05",
         "pf03"
@@ -2264,7 +2264,7 @@
     },
     "pd30": {
       "name": "植物肌密保濕乳液",
-      "ename": "Botanical Effects<sup>®</sup> Skin Care Hydrate 1",
+      "ename": "Botanical Effects<sup>®</sup> Hydrate",
       "series": [
         "ps05",
         "pf04"
@@ -2782,7 +2782,7 @@
     },
     "pd51": {
       "name": "淨顏潔面啫喱",
-      "ename": "Clear Proof <sup>®</sup> Clarifying Cleanser for Acne-Prone Skin",
+      "ename": "Clear Proof<sup>®</sup>Clarifying Cleanser for Acne-Prone Skin",
       "series": [
         "ps09",
         "pf02"
@@ -2807,7 +2807,7 @@
     },
     "pd52": {
       "name": "淨顏活性碳面膜",
-      "ename": "Clear Proof <sup>®</sup> Deep-Cleansing Charcoal Mask",
+      "ename": "Clear Proof<sup>®</sup>Deep-Cleansing Charcoal Mask",
       "series": [
         "ps09",
         "pf05",
@@ -2834,7 +2834,7 @@
     },
     "pd53": {
       "name": "淨顏調理爽膚水",
-      "ename": "Clear Proof <sup>®</sup> Blemish Control Toner",
+      "ename": "Clear Proof<sup>®</sup>Blemish Control Toner",
       "series": [
         "ps09",
         "pf03"
@@ -2859,7 +2859,7 @@
     },
     "pd54": {
       "name": "淨顏清爽毛孔精華露",
-      "ename": "Clear Proof <sup>®</sup> Pore-Purifying Serum for Acne-Prone Skin",
+      "ename": "Clear Proof<sup>®</sup>Pore-Purifying Serum for Acne-Prone Skin",
       "series": [
         "ps09",
         "pf06"
@@ -2884,7 +2884,7 @@
     },
     "pd55": {
       "name": "淨顏重點修護精華",
-      "ename": "Clear Proof <sup>®</sup> Spot Solution for Acne-Prone Skin",
+      "ename": "Clear Proof<sup>®</sup>Spot Solution for Acne-Prone Skin",
       "series": [
         "ps08",
         "ps09",
@@ -2912,7 +2912,7 @@
     },
     "pd56": {
       "name": "淨顏清爽保濕乳液",
-      "ename": "Clear Proof <sup>®</sup> Oil-Free Moisturizer for Acne-Prone Skin",
+      "ename": "Clear Proof<sup>®</sup>Oil-Free Moisturizer for Acne-Prone Skin",
       "series": [
         "ps08",
         "ps09",
@@ -3050,7 +3050,7 @@
     },
     "pd62": {
       "name": "水嫩亮肌CC 霜 SPF15",
-      "ename": "Complexion Corrector Cream Sunscreen SPF 15",
+      "ename": "CC Cream Sunscreen SPF 15",
       "series": [
         "mu02",
         "sc05"
@@ -3102,7 +3102,7 @@
     },
     "pd64": {
       "name": "礦研清盈粉餅",
-      "ename": "Mineral Sheer Pressed Powder",
+      "ename": "Sheer Mineral Pressed Powder",
       "series": "mu02",
       "header_links": "makeup",
       "description": "<ul><br><li>粉質輕盈透薄，令肌膚如絲絨般柔滑。</li><br><li>於肌膚表面形成吸油保護膜，長達 8 小時控油，杜絕油光，實現持久細緻的亮麗妝容。</li><br><li>天然礦物成份 ，含維他命 E ，有效對抗導致皺紋形成的自由基。</li></ul>",
@@ -3122,7 +3122,7 @@
     },
     "pd65": {
       "name": "完美遮瑕霜",
-      "ename": "Perfecting Concealer™",
+      "ename": "Perfecting Concealer",
       "series": "mu02",
       "header_links": "makeup",
       "description": "打造自然、無瑕底妝的必要步驟。遮蓋面部不同瑕疵，與粉底自然融合，讓肌膚看起自然細緻、膚色均勻，就如經美圖後面上瑕疵通通隱形，更能使五官更加立體。",
@@ -3263,7 +3263,7 @@
     },
     "pd72": {
       "name": "Pink Young 眉筆",
-      "ename": "Pink Young Brow Pencil & Brush Duo<br>Pencil & Brush",
+      "ename": "Pink Young Brow Pencil & Brush Duo",
       "series": "mu03",
       "header_links": "makeup",
       "description": "<ul><li>橢圓筆芯設計，軟硬度適中</li><br><li>質地細膩，塗抹柔滑</li><br><li>防水持久配方，整天都能保持理想眉形</li><br><li>附專用眉掃修飾眉毛更立體自然</li></ul>",
@@ -3324,7 +3324,7 @@
     },
     "pd75": {
       "name": "美睫滋養精華露",
-      "ename": "Lash & Brow Building Serum",
+      "ename": "Lash & Brow Building Serum™",
       "series": "mu03",
       "header_links": "makeup",
       "description": "<ul><li>富含氨基酸和肽複合物，提供睫毛所需營養，保護、強韌、滋養並賦予睫毛彈性及柔韌</li><br><li>防止因脆弱而引起的斷裂、稀少、賦予豐盈濃密纖長睫毛</li><br><li>令睫毛增長豐盈，濃密立體且根根分明 獨特細小軟刷，呵護到每根睫毛，亦可使用於眉毛</li></ul>",
@@ -3363,7 +3363,7 @@
     },
     "pd77": {
       "name": "臻愛纖盈特長睫毛液",
-      "ename": "Lash Love Lengthening Mascara",
+      "ename": "Lash Love Lengthening™ Mascara",
       "series": "mu03",
       "header_links": "makeup",
       "description": "<ul><li>嶄新彎曲塑型刷頭，混合長短刷毛，令睫毛液均勻包裹每根睫毛。</li><br><li>質感豐盈，具備鬈翹、纖長、修護多重美睫功效，含維他命 E 衍生物，滋養強韌睫毛。</li></ul>",
@@ -3538,7 +3538,7 @@
     },
     "pd86": {
       "name": "完美自選彩妝盒",
-      "ename": "Perfect Palette™",
+      "ename": "Mary Kay Perfect Palette™",
       "series": "mu04",
       "header_links": "makeup",
       "description": "<ul><li>外盒玫瑰印花設計，華麗美觀</li><br><li>纖薄巧小，攜帶方便</li><br><li>內含化妝鏡，助你輕鬆塑造完美妝容</li><br><li>磁吸式設計，隨心所欲，自由組合，輕鬆組合專屬「我的」彩妝盒</li></ul>",
@@ -3876,7 +3876,7 @@
     },
     "pd103": {
       "name": "男士眼霜",
-      "ename": "Advanced Eye Cream",
+      "ename": "MKMen<sup>®</sup>Advanced Eye Cream",
       "series": [
         "ps10",
         "pf08"
@@ -3901,7 +3901,7 @@
     },
     "pd104": {
       "name": "男士潔面啫喱",
-      "ename": "Daily Facial Cleanser",
+      "ename": "MKMen<sup>®</sup>Daily Facial Wash",
       "series": [
         "ps10",
         "pf02"
@@ -3926,7 +3926,7 @@
     },
     "pd105": {
       "name": "怡日健<sup>®</sup>粉妍片",
-      "ename": "DailyBenefits<sup>®</sup> Antioxidant",
+      "ename": "Daily Benefits<sup>®</sup> Antioxidant",
       "series": "tn01",
       "header_links": "tonic",
       "description": "粉妍<sup>®</sup>片採用4種抗氧化營養元素，直擊核心抗氧化，對抗氧化為DNA帶來的損傷，讓身體裡的細胞都重獲年輕源動力。從各個方面對人體進行保護，對抗因氧化而造成的損傷和衰老，同時給肌膚帶來各種好處，有助於由內而外打造年輕美。",
@@ -3984,7 +3984,7 @@
     },
     "pd108": {
       "name": "怡日健<sup>®</sup>膠原蛋白肽",
-      "ename": "DailyBenefits<sup>®</sup> Collagen",
+      "ename": "Daily Benefits<sup>®</sup> Collagen",
       "series": "tn01",
       "header_links": "tonic",
       "description": "<div>高含量，精選義大利進口魚膠原蛋白肽，每包含5,000毫克，大約相等於吃 2-3條魚， 零脂肪，讓肌膚潤潤無負擔。</div><ul><li>取自日本的珍貴鰹魚彈性蛋白肽，增加肌膚彈性。每條鰹魚僅能提萃取約 0.1克的彈性蛋白，特別珍稀難得。</li><br><li>搭配天然水果刺梨粉，含豐富維他命Ｃ，抗氧化同時刺激膠原蛋白生成，令肌膚更透亮。</li><br><li>添加來自法國的紅甜菜，含豐富礦物質，提供天然粉紅色素，為你帶來粉嫩好氣息。</li><br><li>分子超小，服用2小時內即可循環入體內被吸收及運用。</li><br><li>品質嚴格監控，產品通過1,000多項檢測。</li></ul>",
@@ -4044,7 +4044,7 @@
     },
     "pd111": {
       "name": "限量版粉紅深層潔膚泥",
-      "ename": "Pink Clay Edition",
+      "ename": "Limited Edition Pink Clay Mask",
       "series": null,
       "header_links": null,
       "description": "深層清潔面膜，質地柔軟，散發清香。能清潔肌膚，潔淨毛孔，去除污垢，同時不會對肌膚造成刺激及過敏。具有抗氧化及肌膚修復的更新功能，有效保護肌膚免受自由基侵害，消除皮膚暗啞和疲態。",
@@ -4139,7 +4139,7 @@
     },
     "pd116": {
       "name": "Retinol 0.5 極效新生套裝",
-      "ename": "Clinical Solutions™",
+      "ename": "Clinical Solutions™ Retinol 0.5 Set",
       "series": "科研Lab",
       "header_links": null,
       "description": "極效新生套裝包括含有0.5%高濃度視黃醇的精華，能配合精華使用以鎮定及舒緩肌膚的修護乳以及科研 Lab 煥膚時間表。 有助預防並減緩皮膚老化跡象，及逆轉已顯現的衰老跡象。<br><br><b>極效新生精華</b><br><ul><li>含有0.5％濃度、純淨及有效的視黃醇</li><li>能幫助刺激膠原蛋白再生</li><li>刺激表層皮膚細胞更新</li><li>預防並減緩皮膚老化跡象</li><li>含草本成份，能有效補充視黃醇功效</li></ul><br><br><b>極效新生修護乳</b><br><ul><li>富含四種植物油，椰子油、荷荷芭油、紅花油及橄欖油</li><li>能提供豐富脂肪酸，以滋養和深度舒緩肌膚</li><li>含有角鯊烷及甘油，有助防止水分流失，保持肌膚水潤</li><li>配方質地輕盈</li></ul><br>配合由與皮膚科醫生合作設計的漸進式煥膚適應方案，以及極效新生套裝中能鎮定及舒緩皮膚的極效新生修護乳使用，能安全地體驗視黃醇帶來的驚人效果。",
@@ -4184,7 +4184,7 @@
     },
     "pd118": {
       "name": "眼線筆",
-      "ename": "Clinical Solutions™ Calm + Restore Facial Milk",
+      "ename": "Eyeliner",
       "series": "眼部系列",
       "header_links": null,
       "description": "成就化妝新手及達人的 Must-have Eyeliner!<ul><li>質地柔滑，勾畫流暢</li><li>含有抗氧化、舒緩及修護成分，化妝同時護膚</li><li>含有經特別處理的色素粒子，讓眼線具高顯色度，同時妝效持久，全天不易掉色</li><li>旋轉式筆芯設計，筆蓋頂端內附有眼線刨，隨時將筆芯尖刨至所需的粗幼</li></ul>",
@@ -4225,7 +4225,7 @@
     },
     "pd120": {
       "name": "限量版 Illuminea 閃耀香水",
-      "ename": "Mary Kay Illuminea™ Extrait de Parfum",
+      "ename": "Limited Edition<br>Illuminea™ Extrait de Parfum",
       "series": "香氛系列",
       "header_links": null,
       "description": "Illuminea 閃耀香水以激勵人心，令人振奮的辛香前調和清新晨露打開，淡淡幽香啟動你內心一團熾熱的火，你要確信自己有足夠能力影響身邊的每一位。中調賦予鼓舞人心，渾厚香濃的5種花香，給予女性自信、熾熱的力量，帶領你去支持鼓勵他人實現大夢想。後調牽出持久濃郁的木製調，展現你的力量，溫暖，點亮他人道路，讓別人的生命更美好。當你與他人分享光明時，你的影響力真正令人振奮，鼓舞，真真正正在生命中發光發熱。<br><br>瓶子設計高貴優雅，而且具有一定重量，這寓意每一個你都是你本身的傳奇，相信自己有足夠能力和份量影響身邊的每一位，共同創造夢想。",
