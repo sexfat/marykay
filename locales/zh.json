@@ -275,7 +275,7 @@
           "name": "香氛系列",
           "cn": "香氛系列",
           "banner_title": "FRAGRANCE",
-          "header_links": "makeup",
+          "header_links": "Fragrance",
           "header_img": "me.jpg"
         },
         "Nutrition": {
@@ -1088,142 +1088,55 @@
       "series": {
         "lab": {
           "name": "科研 Lab 系列",
-          "products": [
-            "pd116",
-            "pd117"
-          ]
+          "products": ["pd116", "pd117"]
         },
         "Youthfinity": {
           "name": "臻時粹顏系列",
-          "products": [
-            "pd1",
-            "pd2",
-            "pd3"
-          ]
+          "products": ["pd1", "pd2", "pd3"]
         },
         "TimeWise_Repair": {
           "name": "時光精靈Repair系列",
-          "products": [
-            "pd4",
-            "pd5",
-            "pd6",
-            "pd7",
-            "pd8",
-            "pd9",
-            "pd10",
-            "pd11"
-          ]
+          "products": ["pd4", "pd5", "pd6", "pd7", "pd8", "pd9", "pd10", "pd11"]
         },
         "TimeWise3D": {
           "name": "時光精靈/ 時光精靈3D系列",
-          "products": [
-            "pd12",
-            "pd13",
-            "pd14",
-            "pd15",
-            "pd16",
-            "pd17",
-            "pd18",
-            "pd19",
-            "pd20",
-            "pd21",
-            "pd22",
-            "pd112"
-          ]
+          "products": ["pd12", "pd13", "pd14", "pd15", "pd16", "pd17", "pd18", "pd19", "pd20", "pd21", "pd22", "pd112"]
         },
         "Naturally": {
           "name": "天然淨活系列",
-          "products": [
-            "pd23",
-            "pd24",
-            "pd25",
-            "pd26"
-          ]
+          "products": ["pd23", "pd24", "pd25", "pd26"]
         },
         "Botanical_Effects": {
           "name": "植物肌密系列",
-          "products": [
-            "pd27",
-            "pd28",
-            "pd29",
-            "pd30"
-          ]
+          "products": ["pd27", "pd28", "pd29", "pd30"]
         },
         "Skin_Supplements": {
           "name": "補充性保養系列",
-          "products": [
-            "pd31",
-            "pd32",
-            "pd33",
-            "pd34",
-            "pd35",
-            "pd36",
-            "pd37",
-            "pd38",
-            "pd111"
-          ]
+          "products": ["pd31", "pd32", "pd33", "pd34", "pd35", "pd36", "pd37", "pd38", "pd111"]
         },
         "LumiVie": {
           "name": "亮采系列",
-          "products": [
-            "pd39",
-            "pd40",
-            "pd41",
-            "pd42",
-            "pd43",
-            "pd44",
-            "pd45"
-          ]
+          "products": ["pd39", "pd40", "pd41", "pd42", "pd43", "pd44", "pd45"]
         },
         "Calming_Influence": {
           "name": "舒顏系列",
-          "products": [
-            "pd46",
-            "pd47",
-            "pd48",
-            "pd49",
-            "pd50"
-          ]
+          "products": ["pd46", "pd47", "pd48", "pd49", "pd50"]
         },
         "Clear_Proof": {
           "name": "淨顏系列",
-          "products": [
-            "pd51",
-            "pd52",
-            "pd53",
-            "pd54",
-            "pd55",
-            "pd56"
-          ]
+          "products": ["pd51", "pd52", "pd53", "pd54", "pd55", "pd56"]
         },
         "MK_Men": {
           "name": "男士系列",
-          "products": [
-            "pd103",
-            "pd104"
-          ]
+          "products": ["pd103", "pd104"]
         },
         "Sun": {
           "name": "防曬系列",
-          "products": [
-            "pd99",
-            "pd100",
-            "pd101"
-          ]
+          "products": ["pd99", "pd100", "pd101"]
         },
         "Body_Care": {
           "name": "美體系列",
-          "products": [
-            "pd89",
-            "pd90",
-            "pd91",
-            "pd92",
-            "pd93",
-            "pd94",
-            "pd95",
-            "pd96",
-            "pd97"
-          ]
+          "products": ["pd89", "pd90", "pd91", "pd92", "pd93", "pd94", "pd95", "pd96", "pd97"]
         }
       }
     },
@@ -1232,31 +1145,15 @@
       "series": {
         "Makeup_Remover": {
           "name": "卸妝",
-          "products": [
-            "pd35",
-            "pd36"
-          ]
+          "products": ["pd35", "pd36"]
         },
         "Cleanser": {
           "name": "潔顏",
-          "products": [
-            "pd4",
-            "pd12",
-            "pd23",
-            "pd27",
-            "pd46",
-            "pd51",
-            "pd104"
-          ]
+          "products": ["pd4", "pd12", "pd23", "pd27", "pd46", "pd51", "pd104"]
         },
         "Toner": {
           "name": "化妝水",
-          "products": [
-            "pd14",
-            "pd29",
-            "pd49",
-            "pd53"
-          ]
+          "products": ["pd14", "pd29", "pd49", "pd53"]
         },
         "Moisturizer": {
           "name": "乳液/乳霜",
@@ -1278,73 +1175,27 @@
         },
         "Mask": {
           "name": "面膜",
-          "products": [
-            "pd5",
-            "pd6",
-            "pd13",
-            "pd28",
-            "pd47",
-            "pd52",
-            "pd111"
-          ]
+          "products": ["pd5", "pd6", "pd13", "pd28", "pd47", "pd52", "pd111"]
         },
         "Serum_Oil": {
           "name": "精華液/油",
-          "products": [
-            "pd2",
-            "pd7",
-            "pd8",
-            "pd15",
-            "pd21",
-            "pd25",
-            "pd50",
-            "pd54",
-            "pd55",
-            "pd116"
-          ]
+          "products": ["pd2", "pd7", "pd8", "pd15", "pd21", "pd25", "pd50", "pd54", "pd55", "pd116"]
         },
         "Body_Sun": {
           "name": "身體防曬/保養",
-          "products": [
-            "pd99",
-            "pd100",
-            "pd101",
-            "pd22",
-            "pd89",
-            "pd90",
-            "pd91",
-            "pd92",
-            "pd93",
-            "pd97"
-          ]
+          "products": ["pd99", "pd100", "pd101", "pd22", "pd89", "pd90", "pd91", "pd92", "pd93", "pd97"]
         },
         "Eye_Care": {
           "name": "眼唇保養",
-          "products": [
-            "pd3",
-            "pd9",
-            "pd18",
-            "pd33",
-            "pd34",
-            "pd103",
-            "pd95",
-            "pd96"
-          ]
+          "products": ["pd3", "pd9", "pd18", "pd33", "pd34", "pd103", "pd95", "pd96"]
         },
         "Targeted_Solutions": {
           "name": "特殊護理",
-          "products": [
-            "pd20",
-            "pd24",
-            "pd26",
-            "pd38"
-          ]
+          "products": ["pd20", "pd24", "pd26", "pd38"]
         },
         "Skin_Care_Tools": {
           "name": "美容儀器",
-          "products": [
-            "pd110"
-          ]
+          "products": ["pd110"]
         }
       }
     },
@@ -1353,62 +1204,19 @@
       "series": {
         "Lips": {
           "name": "唇部系列",
-          "products": [
-            "pd57",
-            "pd58"
-          ]
+          "products": ["pd57", "pd58"]
         },
         "Face": {
           "name": "臉部系列",
-          "products": [
-            "pd59",
-            "pd60",
-            "pd62",
-            "pd19",
-            "pd64",
-            "pd65",
-            "pd66",
-            "pd67",
-            "pd68",
-            "pd69"
-          ]
+          "products": ["pd59", "pd60", "pd62", "pd19", "pd64", "pd65", "pd66", "pd67", "pd68", "pd69", "pd122"]
         },
         "Eyes": {
           "name": "眼部系列",
-          "products": [
-            "pd70",
-            "pd71",
-            "pd72",
-            "pd73",
-            "pd74",
-            "pd75",
-            "pd76",
-            "pd77",
-            "pd78",
-            "pd118"
-          ]
+          "products": ["pd70", "pd71", "pd72", "pd73", "pd74", "pd75", "pd76", "pd77", "pd78", "pd118"]
         },
         "Tools": {
           "name": "彩妝工具",
-          "products": [
-            "pd80",
-            "pd81",
-            "pd82",
-            "pd83",
-            "pd84",
-            "pd85",
-            "pd86",
-            "pd87",
-            "pd88"
-          ]
-        },
-        "Fragrance": {
-          "name": "香氛系列",
-          "products": [
-            "pd119",
-            "pd120",
-            "pd121"
-          ]
+          "products": ["pd80", "pd81", "pd82", "pd83", "pd84", "pd85", "pd86"]
         }
       }
     },
@@ -1417,13 +1225,7 @@
       "series": {
         "Nutrition": {
           "name": "食物補充品",
-          "products": [
-            "pd105",
-            "pd106",
-            "pd107",
-            "pd108",
-            "pd109"
-          ]
+          "products": ["pd105", "pd106", "pd107", "pd108", "pd109"]
         }
       }
     },
@@ -1432,60 +1234,23 @@
       "series": {
         "Water_loving_Zone": {
           "name": "親水專區",
-          "products": [
-            "pd13",
-            "pd14",
-            "pd31",
-            "pd33",
-            "pd34",
-            "pd60",
-            "pd101"
-          ]
+          "products": ["pd13", "pd14", "pd31", "pd33", "pd34", "pd60", "pd101"]
         },
         "Age_fighting_ZONE": {
           "name": "逆齡專區",
-          "products": [
-            "pd113",
-            "pd1",
-            "pd9",
-            "pd6",
-            "pd15",
-            "pd108",
-            "pd105",
-            "pd116"
-          ]
+          "products": ["pd113", "pd1", "pd9", "pd6", "pd15", "pd108", "pd105", "pd116"]
         },
         "Oil_controlling_Zone": {
           "name": "控油專區",
-          "products": [
-            "pd38",
-            "pd52",
-            "pd55",
-            "pd59",
-            "pd114"
-          ]
+          "products": ["pd38", "pd52", "pd55", "pd59", "pd114"]
         },
         "Stress_relieving_Zone": {
           "name": "舒壓專區",
-          "products": [
-            "pd22",
-            "pd25",
-            "pd34",
-            "pd42",
-            "pd44",
-            "pd50"
-          ]
+          "products": ["pd22", "pd25", "pd34", "pd42", "pd44", "pd50"]
         },
         "Lazy_Girls_Favorite_Zone": {
           "name": "懶人專區",
-          "products": [
-            "pd115",
-            "pd12",
-            "pd13",
-            "pd36",
-            "pd62",
-            "pd110"
-          ]
+          "products": ["pd115", "pd12", "pd13", "pd36", "pd62", "pd110"]
         },
         "Skin_Test": {
           "name": "肌膚檢測",
@@ -1498,11 +1263,7 @@
       "series": {
         "Fragrance": {
           "name": "香氛系列",
-          "products": [
-            "pd119",
-            "pd120",
-            "pd121"
-          ]
+          "products": ["pd119", "pd120", "pd121"]
         }
       }
     }
@@ -1511,16 +1272,8 @@
     "pd1": {
       "name": "臻時粹顏™精華乳",
       "ename": "Youthfinity<sup>®</sup> The Serum",
-      "series": [
-        "ps01",
-        "pf06",
-        "sc02"
-      ],
-      "header_links": [
-        "product_series",
-        "product_features",
-        "skincare"
-      ],
+      "series": ["ps01", "pf06", "sc02"],
+      "header_links": ["product_series", "product_features", "skincare"],
       "description": "能將活膚再生能量極致昇華的全效精華。塗上瞬間即融入肌膚，傾注臻時粹顏™玫瑰複合物的超凡生命能量，同步抵禦、煥活及延緩衰老。層層煥活，肌膚更顯緊實細緻，膚觸如絲般柔軟嫩滑，享受臻極美麗蛻變。",
       "capacity": "30ml",
       "skin_suitable": "全膚質適用",
@@ -1540,14 +1293,8 @@
     "pd2": {
       "name": "臻時粹顏™精華油",
       "ename": "Youthfinity<sup>®</sup> The Facial Oil",
-      "series": [
-        "ps01",
-        "pf06"
-      ],
-      "header_links": [
-        "product_series",
-        "product_features"
-      ],
+      "series": ["ps01", "pf06"],
+      "header_links": ["product_series", "product_features"],
       "description": "首款面部精華油，特別添加珍稀24K液體黃金多肽，將強大的抗衰老肽注入肌膚，促進膠原蛋白生成，令永恆玫瑰帶來的無盡美麗與24K液體黃金多肽帶來的無盡奢華相互交融。補充源源滋潤，使肌膚更緊緻，顯著改善細紋和皺紋，肌膚由內而外煥發青春光澤，綻放前所未有的至臻光芒。",
       "capacity": "25ml",
       "skin_suitable": "全膚質適用",
@@ -1567,14 +1314,8 @@
     "pd3": {
       "name": "臻時粹顏™眼霜",
       "ename": "Youthfinity<sup>®</sup> The Eye Crème",
-      "series": [
-        "ps01",
-        "pf08"
-      ],
-      "header_links": [
-        "product_series",
-        "product_features"
-      ],
+      "series": ["ps01", "pf08"],
+      "header_links": ["product_series", "product_features"],
       "description": "特別為脆弱眼周肌膚而設計的細膩絲滑質地及無香精配方，有效撫平細紋、緊實提升眼部肌膚。輕盈舒適的配方，瞬間融入眼周肌膚之中，有效減淡歲月痕跡，使眼周肌膚彈潤平滑，高效修復歲月痕跡，雙眸綻放動人神采。",
       "capacity": "15ml",
       "skin_suitable": "全膚質適用",
@@ -1594,14 +1335,8 @@
     "pd4": {
       "name": "時光精靈Repair緊顏潔面乳",
       "ename": "TimeWise Repair<sup>®</sup> Volu-Firm™ Foaming Cleanser",
-      "series": [
-        "ps02",
-        "pf02"
-      ],
-      "header_links": [
-        "product_series",
-        "product_features"
-      ],
+      "series": ["ps02", "pf02"],
+      "header_links": ["product_series", "product_features"],
       "description": "配方溫和細膩，能充分清潔肌膚<br>同時不會帶走天然水分，使肌膚更感柔嫩、水潤保濕<br>蘊含獨特 Volu-Firm™ Complex 的新生力量複合物，有效喚醒肌膚活力，讓肌膚重獲充滿活力的年輕光彩<br>為後續的緊緻護理做好準備",
       "capacity": "127g",
       "skin_suitable": "適合敏感性肌膚<br>經皮膚科醫生測試認可<br>不添加香精香料<br>Oil-free（無油）配方<br>不易引致粉刺",
@@ -1619,14 +1354,8 @@
     "pd5": {
       "name": "時光精靈Repair亮彩煥膚面膜",
       "ename": "TimeWise Repair® Revealing Radiance® Facial Peel",
-      "series": [
-        "ps02",
-        "pf05"
-      ],
-      "header_links": [
-        "product_series",
-        "product_features"
-      ],
+      "series": ["ps02", "pf05"],
+      "header_links": ["product_series", "product_features"],
       "description": "時光精靈 Repair 亮彩煥膚面膜是一個先進、尊貴的家居煥膚產品，能溫和而有效地去除老舊角質，使肌膚感到純淨及得到深層清潔。只需使用一次，肌膚即感煥然一新，透現年輕光澤。同時能提昇肌膚吸收後續護理中的養分。持續使用，膚質顯著改善，皮膚看起來更年輕，更容光煥發。",
       "capacity": "48g",
       "skin_suitable": "通過皮膚科醫生測試<br>通過臨床皮膚敏感測試<br>適合所有膚質<br>不易引致暗瘡粉刺<br>不含油分",
@@ -1644,14 +1373,8 @@
     "pd6": {
       "name": "時光精靈 Repair 緊顏生物纖維面膜",
       "ename": "TimeWise Repair® Lifting Bio-Cellulose Mask",
-      "series": [
-        "ps02",
-        "pf05"
-      ],
-      "header_links": [
-        "product_series",
-        "product_features"
-      ],
+      "series": ["ps02", "pf05"],
+      "header_links": ["product_series", "product_features"],
       "description": "薈萃多種珍貴護膚精華，並以舒適親膚的生物纖維材質承載，完美緊貼輪廓，將豐沛精華源源導入、充盈肌膚，發揮高效抗老修護效能。",
       "capacity": "24g x 4",
       "skin_suitable": "通過亞洲膚質測試<br>適用於所有膚質試",
@@ -1669,14 +1392,8 @@
     "pd7": {
       "name": "時光精靈Repair緊顏精華露",
       "ename": "TimeWise Repair<sup>®</sup> Volu-Firm™ Advanced Lifting Serum",
-      "series": [
-        "ps02",
-        "pf06"
-      ],
-      "header_links": [
-        "product_series",
-        "product_features"
-      ],
+      "series": ["ps02", "pf06"],
+      "header_links": ["product_series", "product_features"],
       "description": "奢華高效的緊顏精華露，蘊含獨特 Volu-Firm™ Complex的新生力量，以及特別添加2種新成分-高良薑葉萃取物及五味子萃取物，有效提升、緊緻面部和頸部肌膚，減緩鬆弛。臨床證實有效提升及緊緻面部輪廓，減少皺紋。持續使用，肌膚重拾彈性，重現充盈飽滿的年輕光采。",
       "capacity": "29ml",
       "skin_suitable": "適合敏感性肌膚<br>經皮膚科醫生測試認可<br>不添加香精香料<br>Oil-free（無油）配方<br>不易引致粉刺<br>適合敏感眼睛及配戴隱形眼鏡人士使用",
@@ -1693,15 +1410,9 @@
     },
     "pd8": {
       "name": "時光精靈Repair緊顏撫紋精華霜",
-      "ename": "TimeWise Repair<sup>®</sup> Volu-Fill™ Deep Wrinkle Filler",
-      "series": [
-        "ps02",
-        "pf06"
-      ],
-      "header_links": [
-        "product_series",
-        "product_features"
-      ],
+      "ename": "TimeWise Repair<sup>®</sup> Volu-Fill™<br>Deep Wrinkle Filler",
+      "series": ["ps02", "pf06"],
+      "header_links": ["product_series", "product_features"],
       "description": "逆齡魔法筆，創新 Volu-Fill™ 緊實充盈科技，結合視黃醇成分，針對面部 6 大皺紋區域，即時充盈細紋，持續撫平皺紋，讓肌膚煥發年輕光彩，實現年輕奇蹟",
       "capacity": "14g",
       "skin_suitable": "適合敏感性肌膚<br>通過皮膚刺激性和敏感測試<br>經皮膚科及眼科醫生測試認可<br>不添加香精香料<br>Oil-free（無油）配方<br>不易引致粉刺<br>適合敏感眼睛及配戴隱形眼鏡人士使用",
@@ -1718,17 +1429,9 @@
     },
     "pd9": {
       "name": "時光精靈Repair緊顏眼霜",
-      "ename": "TimeWise Repair<sup>®</sup> Volu-Firm™ Eye Renewal Cream",
-      "series": [
-        "ps02",
-        "pf08",
-        "sc02"
-      ],
-      "header_links": [
-        "product_series",
-        "product_features",
-        "skincare"
-      ],
+      "ename": "TimeWise Repair<sup>®</sup> Volu-Firm™<br>Eye Renewal Cream",
+      "series": ["ps02", "pf08", "sc02"],
+      "header_links": ["product_series", "product_features", "skincare"],
       "description": "質地柔滑，使養分迅速滲透肌膚，臨床證實有效提升及緊緻眼部肌膚，並有效減少細紋和皺紋。特製的金屬按摩頭能輕柔按摩眼周脆弱肌膚，加速眼周微循環，同時帶來清涼感，緩解疲勞及浮腫，煥發眼部神采",
       "capacity": "14g",
       "skin_suitable": "適合敏感性肌膚<br>經皮膚科及眼科醫生測試認可<br>不添加香精香料<br>不易引致粉刺<br>適合敏感眼睛及配戴隱形眼鏡人士使用",
@@ -1745,15 +1448,9 @@
     },
     "pd10": {
       "name": "時光精靈Repair緊顏日霜 SPF30",
-      "ename": "TimeWise Repair<sup>®</sup> Volu-Firm™ Day Cream With Sunscreen Broad Spectrum  SPF 30",
-      "series": [
-        "ps02",
-        "pf04"
-      ],
-      "header_links": [
-        "product_series",
-        "product_features"
-      ],
+      "ename": "TimeWise Repair<sup>®</sup> Volu-Firm™<br>Day Cream With SPF 30",
+      "series": ["ps02", "pf04"],
+      "header_links": ["product_series", "product_features"],
       "description": "多效滋潤的日霜，能保護肌膚免受日光和紫外線的光致老化損害，蘊含獨特 Volu-Firm™ Complex 的新生力量，能提升面部及頸部的彈性，明顯減緩鬆弛和皺紋，使肌膚重現充盈飽滿的年輕光采，明顯修復歲月衰老跡象",
       "capacity": "48g",
       "skin_suitable": "適合敏感性肌膚<br>經皮膚科醫生測試認可<br>不添加香精香料<br>Oil-free（無油）配方<br>不易引致粉刺",
@@ -1770,15 +1467,9 @@
     },
     "pd11": {
       "name": "時光精靈Repair緊顏晚霜",
-      "ename": "TimeWise Repair<sup>®</sup> Volu-Firm™ Night Treatment with Retinol",
-      "series": [
-        "ps02",
-        "pf04"
-      ],
-      "header_links": [
-        "product_series",
-        "product_features"
-      ],
+      "ename": "TimeWise Repair<sup>®</sup> Volu-Firm™<br>Night Treatment with Retinol",
+      "series": ["ps02", "pf04"],
+      "header_links": ["product_series", "product_features"],
       "description": "奢華高效的滋潤晚霜，凝聚 Retinol 視黃醇及核心成分 Volu-Firm™ Complex 的新生力量，能顯著改善膚質，明顯減緩面部鬆弛和皺紋，提升肌膚緊實度和彈性，使肌膚重獲充滿活力的年輕光彩，明顯修復歲月衰老跡象",
       "capacity": "48g",
       "skin_suitable": "適合敏感性肌膚<br>經皮膚科醫生測試認可<br>不添加香精香料<br>Oil-free（無油）配方<br>不易引致粉刺",
@@ -1795,17 +1486,9 @@
     },
     "pd12": {
       "name": "時光精靈3D四效潔面乳/啫喱",
-      "ename": "TimeWise<sup>®</sup> Age Minimize 3D™ 4-in-1 Cleanser",
-      "series": [
-        "ps03",
-        "pf02",
-        "sc05"
-      ],
-      "header_links": [
-        "product_series",
-        "product_features",
-        "skincare"
-      ],
+      "ename": "TimeWise<sup>®</sup> Age Minimize 3D™<br>4-in-1 Cleanser",
+      "series": ["ps03", "pf02", "sc05"],
+      "header_links": ["product_series", "product_features", "skincare"],
       "description": "特有獨家的 AGE MINIMIZE 3D<sup>®</sup> COMPLEX 3D減齡複合物配方，由白藜蘆醇微囊、維他命B3和抗衰老胜肽三大成分協力組成，發揮協同效應： DEFENDS 防禦外界環境侵害 l DELAYS 延緩衰老 l DELIVERS 實現年輕緊緻肌膚，為肌膚帶來3D逆轉年輕奇蹟功效。",
       "capacity": "127g",
       "skin_suitable": "備有2種膚質配方選擇 - 中性至乾性配方及混合至油性配方",
@@ -1822,18 +1505,9 @@
     },
     "pd13": {
       "name": "時光精靈晚間補濕修護面膜",
-      "ename": "TimeWise<sup>®</sup> Moisture Renewing Gel Mask",
-      "series": [
-        "ps03",
-        "pf05",
-        "sc01",
-        "sc05"
-      ],
-      "header_links": [
-        "product_series",
-        "product_features",
-        "skincare"
-      ],
+      "ename": "TimeWise<sup>®</sup> Moisture<br>Renewing Gel Mask",
+      "series": ["ps03", "pf05", "sc01", "sc05"],
+      "header_links": ["product_series", "product_features", "skincare"],
       "description": "保濕滋潤的睡眠面膜，在睡夢中滋養並修護肌膚。<br><ul><li>啫喱質感，補充肌膚水分，增加彈性，舒緩肌膚壓力並細緻毛孔</li><li>含減緩衰老配方，預防細紋及皺紋的產生。</li></ul>",
       "capacity": "85g",
       "skin_suitable": "經皮膚科專家測試<br>適合敏感肌膚<br>不含油脂及香料<br>不會引起粉刺",
@@ -1850,17 +1524,9 @@
     },
     "pd14": {
       "name": "時光精靈保濕柔膚水",
-      "ename": "TimeWise<sup>®</sup> Moisture Renewing Softener",
-      "series": [
-        "ps03",
-        "pf03",
-        "sc01"
-      ],
-      "header_links": [
-        "product_series",
-        "product_features",
-        "skincare"
-      ],
+      "ename": "TimeWise<sup>®</sup> Moisture<br>Renewing Softener",
+      "series": ["ps03", "pf03", "sc01"],
+      "header_links": ["product_series", "product_features", "skincare"],
       "description": "<ul><li>含補水滋養成份透明質酸鈉，可像海綿一樣留住皮膚水分。同時幫助減少表皮水分流失。</li><li>超強抗氧化物，小扁豆萃取﹑巴西莓萃取及香桃木葉水，有效抵禦外界環境對肌膚的侵害，強化毛孔壁，避免肌膚鬆弛。</li><li>維他命B3減低紫外線對皮膚傷害。</li><li>為肌膚提供二次徹底清潔，提升後續護膚品的吸收。</li></ul>",
       "capacity": "147ml",
       "skin_suitable": "全膚質",
@@ -1877,17 +1543,9 @@
     },
     "pd15": {
       "name": "時光精靈維 C+E 精華露",
-      "ename": "TimeWise<sup>®</sup> Replenishing Serum C+E™",
-      "series": [
-        "ps03",
-        "pf06",
-        "sc02"
-      ],
-      "header_links": [
-        "product_series",
-        "product_features",
-        "skincare"
-      ],
+      "ename": "TimeWise<sup>®</sup> Replenishing<br>Serum C+E™",
+      "series": ["ps03", "pf06", "sc02"],
+      "header_links": ["product_series", "product_features", "skincare"],
       "description": "含有豐富維他命C+E強大抗氧化成分，高效抗氧，強化肌膚抵禦外在環境壓力的能力，保護肌膚免受自由基的傷害，提升肌膚彈性及緊緻度，減淡細紋及皺紋，提亮膚色，促進天然膠原蛋白和彈性蛋白的生成，用後肌膚容光煥發。真空泵咀設計，保持每滴精華新鮮有效，從而增強抗氧化劑的保護作用，幫助預防及延緩肌膚衰老。",
       "capacity": "44ml",
       "skin_suitable": "全膚質",
@@ -1904,15 +1562,9 @@
     },
     "pd16": {
       "name": "時光精靈3D日霜",
-      "ename": "TimeWise<sup>®</sup> Age Minimize 3D™ Day Cream",
-      "series": [
-        "ps03",
-        "pf04"
-      ],
-      "header_links": [
-        "product_series",
-        "product_features"
-      ],
+      "ename": "TimeWise<sup>®</sup> Age Minimize 3D™<br>Day Cream",
+      "series": ["ps03", "pf04"],
+      "header_links": ["product_series", "product_features"],
       "description": "特有獨家的3D減齡複合物配方 (AGE MINIMIZE 3D<sup>®</sup> COMPLEX) ，由白藜蘆醇微囊、抗衰老胜肽和維他命B3三大成分協力組成，發揮協同效應： DEFENDS 防禦外界環境侵害 l DELAYS 延緩衰老 l DELIVERS 實現年輕緊緻肌膚，為肌膚帶來3D逆轉年輕奇蹟功效。",
       "capacity": "48g",
       "usage": "備有2種膚質配方選擇 - 中性至乾性配方及混合至油性配方",
@@ -1929,15 +1581,9 @@
     },
     "pd17": {
       "name": "時光精靈3D晚霜",
-      "ename": "TimeWise<sup>®</sup> Age Minimize 3D™ Night Cream",
-      "series": [
-        "ps03",
-        "pf04"
-      ],
-      "header_links": [
-        "product_series",
-        "product_features"
-      ],
+      "ename": "TimeWise<sup>®</sup> Age Minimize 3D™<br>Night Cream",
+      "series": ["ps03", "pf04"],
+      "header_links": ["product_series", "product_features"],
       "description": "特有獨家的3D減齡複合物配方 (AGE MINIMIZE 3D<sup>®</sup> COMPLEX) ，由白藜蘆醇微囊、抗衰老胜肽和維他命B3三大成分協力組成，發揮協同效應： DEFENDS 防禦外界環境侵害 l DELAYS 延緩衰老 l DELIVERS 實現年輕緊緻肌膚，為肌膚帶來3D逆轉年輕奇蹟功效。",
       "capacity": "48g",
       "skin_suitable": "備有2種膚質配方選擇 - 中性至乾性配方及混合至油性配方",
@@ -1954,15 +1600,9 @@
     },
     "pd18": {
       "name": "時光精靈3D眼霜",
-      "ename": "TimeWise<sup>®</sup> Age Minimize 3D™ Eye Cream",
-      "series": [
-        "ps03",
-        "pf08"
-      ],
-      "header_links": [
-        "product_series",
-        "product_features"
-      ],
+      "ename": "TimeWise<sup>®</sup> Age Minimize 3D™<br>Eye Cream",
+      "series": ["ps03", "pf08"],
+      "header_links": ["product_series", "product_features"],
       "description": "特有獨家的3D減齡複合物配方 (AGE MINIMIZE 3D<sup>®</sup> COMPLEX) ，由白藜蘆醇微囊、抗衰老胜肽和維他命B3三大成分協力組成，發揮協同效應： DEFENDS 防禦外界環境侵害 l DELAYS 延緩衰老 l DELIVERS 實現年輕緊緻肌膚，為肌膚帶來3D逆轉年輕奇蹟功效。",
       "capacity": "14g",
       "skin_suitable": "全膚質",
@@ -2001,14 +1641,8 @@
     "pd20": {
       "name": "時光精靈微晶煥膚霜",
       "ename": "TimeWise<sup>®</sup> Microdermabrasion Refine",
-      "series": [
-        "ps03",
-        "pf09"
-      ],
-      "header_links": [
-        "product_series",
-        "product_features"
-      ],
+      "series": ["ps03", "pf09"],
+      "header_links": ["product_series", "product_features"],
       "description": "含有皮膚科醫生所使用的專業微晶煥膚微粒，幫助去除老化角質，細緻毛孔，呈現肌膚光采。<br>",
       "capacity": "70g",
       "skin_suitable": "經臨床測試不會引起痕癢及敏感<br>不含油脂及香料<br>不會引起粉刺",
@@ -2026,14 +1660,8 @@
     "pd21": {
       "name": "時光精靈細緻毛孔精華",
       "ename": "TimeWise<sup>®</sup> Pore Minimizer",
-      "series": [
-        "ps03",
-        "pf06"
-      ],
-      "header_links": [
-        "product_series",
-        "product_features"
-      ],
+      "series": ["ps03", "pf06"],
+      "header_links": ["product_series", "product_features"],
       "description": "<br>瞬間吸收的清爽滋養精華，顯著細毛孔，減輕肌膚泛紅不適",
       "capacity": "29ml",
       "skin_suitable": "通過皮膚敏感測試<br>適合所有膚質<br>不含油脂及香料<br>不會引起粉刺",
@@ -2051,16 +1679,8 @@
     "pd22": {
       "name": "時光精靈美體緊緻乳液",
       "ename": "TimeWise Body Targeted-Action<sup>®</sup> Toning Lotion",
-      "series": [
-        "ps03",
-        "pf04",
-        "sc04"
-      ],
-      "header_links": [
-        "product_series",
-        "product_features",
-        "skincare"
-      ],
+      "series": ["ps03", "pf04", "sc04"],
+      "header_links": ["product_series", "product_features", "skincare"],
       "description": "含多種有效成份幫助肌膚持久保濕，調理、緊致肌膚，只需簡單一步，就可讓你全身肌膚體現緊實自然的年輕光彩。",
       "capacity": "236ml",
       "skin_suitable": "經臨床測試不會引起痕癢及敏感<br>經皮膚科專家測試<br>不會引起粉刺<br>不含油脂",
@@ -2078,14 +1698,8 @@
     "pd23": {
       "name": "天然淨活潔面乳",
       "ename": "Naturally<sup>®</sup> Purifying Cleanser",
-      "series": [
-        "ps03",
-        "pf02"
-      ],
-      "header_links": [
-        "product_series",
-        "product_features"
-      ],
+      "series": ["ps03", "pf02"],
+      "header_links": ["product_series", "product_features"],
       "description": "99.49%的天然成分<sup>1</sup>。質地柔滑的潔面乳霜，溫和清潔肌膚、去除面上污垢，清潔同時讓肌膚舒適不緊繃。配方特別添加矢車菊花水和甜杏仁油，具有舒緩功效。同時亦具有强效保濕能力的甘油和抗氧化成分維他命 E。皮膚感覺柔滑、水潤，舒適，更顯潔淨、清新。具有淡淡的香草味，天然清新香氣亦能使你平靜放鬆。<br><sup>1</sup>根據第三方標準（COSMOS標準）許可加工的天然來源。天然資源包括水，植物，礦物質，礦物成分和其他農業成分。<br><br>COSMOS天然認證是通過Ecocert Greenlife 的COSMOS標準而獲取認證的。",
       "capacity": "127g",
       "skin_suitable": "適合中性至乾性膚質<br>適合敏感性肌膚",
@@ -2105,14 +1719,8 @@
     "pd24": {
       "name": "天然淨活去角質粉",
       "ename": "Naturally<sup>®</sup> Exfoliating Powder",
-      "series": [
-        "ps04",
-        "pf09"
-      ],
-      "header_links": [
-        "product_series",
-        "product_features"
-      ],
+      "series": ["ps04", "pf09"],
+      "header_links": ["product_series", "product_features"],
       "description": "100％的天然成分<sup>1</sup>。深層清潔毛孔，去除膚色暗沉的死皮細胞。配方加入氫化蓖麻油製成的細蠟粒和檸檬酸，輕柔地去除角質，幫助皮膚細胞更新，享受柔軟光滑的肌膚。有效收細毛孔，賦予肌膚健康光采，為後續肌膚護理做好準備。具有淡淡的香草味，天然清新香氣亦能使你平靜放鬆。<br><sup>1</sup>根據第三方標準（COSMOS標準）許可加工的天然來源。天然資源包括水，植物，礦物質，礦物成分和其他農業成分。<br><br>COSMOS天然認證是通過Ecocert Greenlife 的COSMOS標準而獲取認證的。",
       "capacity": "74g",
       "skin_suitable": "適合中性至乾性膚質<br>適合敏感性肌膚",
@@ -2132,16 +1740,8 @@
     "pd25": {
       "name": "天然淨活多效精華油",
       "ename": "Naturally<sup>®</sup> Nourishing Oil",
-      "series": [
-        "ps04",
-        "pf06",
-        "sc04"
-      ],
-      "header_links": [
-        "product_series",
-        "product_features",
-        "skincare"
-      ],
+      "series": ["ps04", "pf06", "sc04"],
+      "header_links": ["product_series", "product_features", "skincare"],
       "description": "100％的天然成分<sup>1</sup>。感覺輕盈，吸收迅速。含有多種天然油脂加乘作用，混合極度保濕的橄欖果油、甜杏仁油和芝麻油，源自於植物的角鯊烷、維他命E等的天然配方，令皮膚倍感水潤滋潤，給予肌膚活力，散發健康光彩。具有淡淡的香草味，天然清新香氣亦能使你平靜放鬆。<sup>1</sup>根據第三方標準（COSMOS標準）許可加工的天然來源。天然資源包括水，植物，礦物質，礦物成分和其他農業成分。<br><br>COSMOS天然認證是通過Ecocert Greenlife 的COSMOS標準而獲取認證的。",
       "capacity": "29ml",
       "skin_suitable": "適合中性至乾性膚質<br>適合敏感性肌膚",
@@ -2161,14 +1761,8 @@
     "pd26": {
       "name": "天然淨活修護膏",
       "ename": "Naturally<sup>®</sup> Moisturizing Stick",
-      "series": [
-        "ps04",
-        "pf09"
-      ],
-      "header_links": [
-        "product_series",
-        "product_features"
-      ],
+      "series": ["ps04", "pf09"],
+      "header_links": ["product_series", "product_features"],
       "description": "100％的天然成分<sup>1</sup>。多功能修護膏，幫助軟化粗糙的肌膚。 具有針對性的成分可立即緩解乾燥肌膚，使皮膚倍感滋潤，舒緩和柔軟。 扭旋式設計方便使用。<sup>1</sup>根據第三方標準（COSMOS標準）許可加工的天然來源。天然資源包括水，植物，礦物質，礦物成分和其他農業成分。<br><br>COSMOS天然認證是通過Ecocert Greenlife 的COSMOS標準而獲取認證的。",
       "capacity": "10.8g",
       "skin_suitable": "適合中性至乾性膚質<br>適合敏感性肌膚",
@@ -2186,14 +1780,8 @@
     "pd27": {
       "name": "植物肌密潔面乳",
       "ename": "Botanical Effects<sup>®</sup> Cleanse",
-      "series": [
-        "ps05",
-        "pf02"
-      ],
-      "header_links": [
-        "product_series",
-        "product_features"
-      ],
+      "series": ["ps05", "pf02"],
+      "header_links": ["product_series", "product_features"],
       "description": "質地柔滑的潔面乳霜，溫和清潔肌膚、去除彩妝和污垢，不帶走肌膚所需水分及養分，令肌膚感到柔滑、水潤，更顯潔淨、清新。",
       "capacity": "113g",
       "skin_suitable": "不含酒精<br>不含香料<br>不含合成色素<br>1號適合敏感性肌膚、乾性肌膚<br>2號適合敏感性肌膚、中性肌膚<br>不易引致粉刺<br>通過皮膚刺激性和過敏性臨床測試",
@@ -2212,14 +1800,8 @@
     "pd28": {
       "name": "植物肌密面膜霜",
       "ename": "Botanical Effects<sup>®</sup> Mask",
-      "series": [
-        "ps05",
-        "pf05"
-      ],
-      "header_links": [
-        "product_series",
-        "product_features"
-      ],
+      "series": ["ps05", "pf05"],
+      "header_links": ["product_series", "product_features"],
       "description": "乳霜狀的面膜含有聚合物微粒，能溫和去除角質，同時為肌膚注入滋養水分，使肌膚顯得潤澤健康，更感煥然一新。",
       "capacity": "113g",
       "skin_suitable": "不含酒精<br>不含香料<br>不含合成色素<br>1號適合敏感性肌膚、乾性肌膚<br>2號適合敏感性肌膚、中性肌膚<br>不易引致粉刺<br>通過皮膚刺激性和過敏性臨床測試",
@@ -2238,14 +1820,8 @@
     "pd29": {
       "name": "植物肌密爽膚水",
       "ename": "Botanical Effects<sup>®</sup> Freshen",
-      "series": [
-        "ps05",
-        "pf03"
-      ],
-      "header_links": [
-        "product_series",
-        "product_features"
-      ],
+      "series": ["ps05", "pf03"],
+      "header_links": ["product_series", "product_features"],
       "description": "溫和滋潤的爽膚水，能幫助清除殘留污垢，同步幫助肌膚回復水潤平衡，並紓緩肌膚，使肌膚重拾健康光澤，更感柔軟光滑。",
       "capacity": "147ml",
       "skin_suitable": "不含酒精<br>不含香料<br>不含合成色素<br>1號適合敏感性肌膚、乾性肌膚<br>2號適合敏感性肌膚、中性肌膚<br>不易引致粉刺<br>通過皮膚刺激性和過敏性臨床測試",
@@ -2265,14 +1841,8 @@
     "pd30": {
       "name": "植物肌密保濕乳液",
       "ename": "Botanical Effects<sup>®</sup> Hydrate",
-      "series": [
-        "ps05",
-        "pf04"
-      ],
-      "header_links": [
-        "product_series",
-        "product_features"
-      ],
+      "series": ["ps05", "pf04"],
+      "header_links": ["product_series", "product_features"],
       "description": "柔滑滋潤的保濕乳液，為肌膚注滿水分，並讓肌膚達到持久舒適保濕狀態。用後肌膚水潤舒適，更顯飽滿柔滑。",
       "capacity": "88ml",
       "skin_suitable": "不含酒精<br>不含香料<br>不含合成色素<br>1號適合敏感性肌膚、乾性肌膚<br>2號適合敏感性肌膚、中性肌膚<br>不易引致粉刺<br>通過皮膚刺激性和過敏性臨床測試",
@@ -2291,16 +1861,8 @@
     "pd31": {
       "name": "水妍保濕凝露",
       "ename": "Oil-free Hydrating Gel",
-      "series": [
-        "ps06",
-        "pf04",
-        "sc01"
-      ],
-      "header_links": [
-        "product_series",
-        "product_features",
-        "skincare"
-      ],
+      "series": ["ps06", "pf04", "sc01"],
+      "header_links": ["product_series", "product_features", "skincare"],
       "description": "<ul><li>啫喱狀質地，特別適合油性肌膚使用，幫助肌膚迅速達到水份平衡，保持長時間的水柔滋潤。</li></ul>",
       "capacity": "51g",
       "skin_suitable": "經臨床測試不會引起痕癢及敏感<br>適合所有膚質<br>不含油脂及香料<br>防過敏配方<br>不會引起粉刺",
@@ -2320,14 +1882,8 @@
     "pd32": {
       "name": "水妍保濕修護霜",
       "ename": "Intense Moisturizing Cream",
-      "series": [
-        "ps06",
-        "pf04"
-      ],
-      "header_links": [
-        "product_series",
-        "product_features"
-      ],
+      "series": ["ps06", "pf04"],
+      "header_links": ["product_series", "product_features"],
       "description": "乳霜狀質地，適合所有膚質人士使用。幫助肌膚迅速達到水份平衡，保持長時間的水柔滋潤。",
       "capacity": "51g",
       "skin_suitable": "經臨床測試不會引起痕癢及敏感<br>適合所有膚質<br>不含香料<br>防過敏配方<br>不會引起粉刺",
@@ -2347,16 +1903,8 @@
     "pd33": {
       "name": "眼膜膠",
       "ename": "Indulge Soothing Eye Gel",
-      "series": [
-        "ps06",
-        "pf08",
-        "sc01"
-      ],
-      "header_links": [
-        "product_series",
-        "product_features",
-        "skincare"
-      ],
+      "series": ["ps06", "pf08", "sc01"],
+      "header_links": ["product_series", "product_features", "skincare"],
       "description": "<ul><li>提供眼部肌膚快速的保養功效，減輕因睡眠不足產生的浮腫現象。</li><br><li>臨床測試証實，能增加眼部滋潤度達130%。</li><br><li>緊實眼周肌膚，減淡幼紋。</li><br><li>可作眼膜或眼霜使用。</li></ul>",
       "capacity": "11g",
       "skin_suitable": "經皮膚科專家測試<br>適合敏感肌膚<br>不含香料<br>防過敏配方",
@@ -2375,17 +1923,8 @@
     "pd34": {
       "name": "水凝膠眼膜",
       "ename": "Hydrogel Eye Patches",
-      "series": [
-        "ps06",
-        "pf08",
-        "sc01",
-        "sc04"
-      ],
-      "header_links": [
-        "product_series",
-        "product_features",
-        "skincare"
-      ],
+      "series": ["ps06", "pf08", "sc01", "sc04"],
+      "header_links": ["product_series", "product_features", "skincare"],
       "description": "<ul><li>親膚水凝質地精準貼合眼底肌膚，迅速滲透。</li><br><li>貼上後瞬間帶來清新涼快感覺，為疲憊眼周補充神采，即時鎮靜和舒緩眼部肌膚。</li><br><li>富含多種植物萃取成分，為眼睛補充源源水分，滋潤眼部肌膚，臨床證明<sup>**</sup>瞬間提升皮膚保濕度。</li><br><li>幫助改善眼部浮腫和暗啞，呈現活力耀目神彩。</li></ul><br><div class=\"thin\"><sup>**</sup>體外成分測試</div>",
       "capacity": "100g | 30對",
       "skin_suitable": "適合所有膚質類型<br>經皮膚科及眼科醫生測試<br>通過皮膚刺激性和過敏性測試<br>不易引致粉刺<br>適合佩戴隱形眼鏡和敏感眼睛人士使用",
@@ -2404,14 +1943,8 @@
     "pd35": {
       "name": "眼部卸妝液",
       "ename": "Oil-free Eye Makeup Remover",
-      "series": [
-        "ps06",
-        "pf01"
-      ],
-      "header_links": [
-        "product_series",
-        "product_features"
-      ],
+      "series": ["ps06", "pf01"],
+      "header_links": ["product_series", "product_features"],
       "description": "質地溫和，能徹底卸除眼部彩妝，用後肌膚清爽不感油膩。",
       "capacity": "110ml",
       "skin_suitable": "通過皮膚刺激性和過敏性臨床測試<br>適合敏感眼睛及肌膚<br>適合佩戴隱形眼鏡人士使用<br>經眼科專家測試<br>低致敏性<br>不含油分",
@@ -2430,16 +1963,8 @@
     "pd36": {
       "name": "卸妝潔膚水",
       "ename": "Micellar Water",
-      "series": [
-        "ps06",
-        "pf01",
-        "sc05"
-      ],
-      "header_links": [
-        "product_series",
-        "product_features",
-        "skincare"
-      ],
+      "series": ["ps06", "pf01", "sc05"],
+      "header_links": ["product_series", "product_features", "skincare"],
       "description": "<ul><li>擁有Micellar潔膚配方，為雙重清潔肌膚的第一步。</li><br><li>溫和有效清潔面部肌膚，像磁鐵般溶解表面油脂污垢，雜質及彩妝。</li><br><li>一抹卸淨，獨特的免洗配方，用後無須過水。</li><br><li>不易刺激肌膚，肌膚保持水潤，同步潔膚護膚。</li><br><li>早上/戶外/運動後/瞬間換妝/晚上，任何時間均可使用。</li></ul>",
       "capacity": "147ml",
       "skin_suitable": "適合乾性至油性膚質<br>經皮膚科醫生測試<br>通過皮膚刺激性和過敏性臨床測試",
@@ -2459,14 +1984,8 @@
     "pd37": {
       "name": "柔嫩滋養霜",
       "ename": "Extra Emollient Night Cream",
-      "series": [
-        "ps06",
-        "pf04"
-      ],
-      "header_links": [
-        "product_series",
-        "product_features"
-      ],
+      "series": ["ps06", "pf04"],
+      "header_links": ["product_series", "product_features"],
       "description": "<ul><li>特別為乾燥肌膚提供特別保護研發，有效鎖住皮膚水份，增加滋潤度。</li><br><li>能在肌膚表皮面形成特別滋潤的保護膜，消除皮膚乾燥現象。</li><br><li>保持臉部皮膚的天然滋潤，亦適用於手部、肘部和腳部等特別乾燥的部位。</li></ul>",
       "capacity": "60g",
       "skin_suitable": "經臨床測試不會引起痕癢及敏感<br>適合所有膚質<br>防過敏配方<br>不會引起粉刺",
@@ -2484,16 +2003,8 @@
     "pd38": {
       "name": "T字控油涼露",
       "ename": "Oil Mattifier",
-      "series": [
-        "ps06",
-        "pf09",
-        "sc03"
-      ],
-      "header_links": [
-        "product_series",
-        "product_features",
-        "skincare"
-      ],
+      "series": ["ps06", "pf09", "sc03"],
+      "header_links": ["product_series", "product_features", "skincare"],
       "description": "<ul><li>清爽、透氣、不黏膩的親膚性配方，質地剔透細膩，膚感清涼舒爽，提供長達８小時控油效果。</li><br><li>由多種成份組成獨有的「矽質吸油網」，可迅速吸收臉部多餘油脂，亦能阻止出油導致的脫妝情況。</li><br><li>對油脂分泌旺盛的T區、前額及鼻翼等部位，控油效果尤其顯著。</li><br><li>內含多種柔光顆粒可修飾毛孔粗大現象。</li></ul>",
       "capacity": "17ml",
       "skin_suitable": "經臨床測試不會引起痕癢及敏感<br>適合敏感肌膚<br>不含油脂及香料<br>防過敏配方<br>不會引起粉刺",
@@ -2568,14 +2079,8 @@
     "pd42": {
       "name": "LumiVie™ 亮采密集精華液",
       "ename": "LumiVie™ Intensive Serum",
-      "series": [
-        "ps07",
-        "sc04"
-      ],
-      "header_links": [
-        "product_series",
-        "skincare"
-      ],
+      "series": ["ps07", "sc04"],
+      "header_links": ["product_series", "skincare"],
       "description": "質感輕盈、迅速滲透，有效對抗膚色不均和色素沉澱，賦予肌膚無與倫比的動人光澤。蘊含高濃度的活性精華，帶來密集而深層的修護，使肌膚由內而外煥發健康活力，展現勻淨剔透的瀅潤光芒。",
       "capacity": "30ml",
       "skin_suitable": "專為亞洲肌膚研製<br>適合亞洲人肌膚<br>適合所有膚質",
@@ -2612,14 +2117,8 @@
     "pd44": {
       "name": "LumiVie™ 亮采滋潤乳",
       "ename": "LumiVie™ Moisturizing Lotion",
-      "series": [
-        "ps07",
-        "sc04"
-      ],
-      "header_links": [
-        "product_series",
-        "skincare"
-      ],
+      "series": ["ps07", "sc04"],
+      "header_links": ["product_series", "skincare"],
       "description": "質感輕盈、有效保濕而不黏膩，早晚均可使用，給予肌膚輕柔呵護，煥發水凝清新的透亮光采。",
       "capacity": "30ml",
       "skin_suitable": "專為亞洲肌膚研製<br>適合亞洲人肌膚<br>適合所有膚質",
@@ -2656,14 +2155,8 @@
     "pd46": {
       "name": "舒顏潔面乳",
       "ename": "Calming Influence Facial Cleanser",
-      "series": [
-        "ps08",
-        "pf02"
-      ],
-      "header_links": [
-        "product_series",
-        "product_features"
-      ],
+      "series": ["ps08", "pf02"],
+      "header_links": ["product_series", "product_features"],
       "description": "<ul><li>質地溫和清透，潔淨而不刺激皮膚，能迅速水潤柔軟肌膚。</li><br><li>回復肌膚平衡，感覺清新柔潤，令敏感肌膚得到改善。</li></ul>",
       "capacity": "95g",
       "skin_suitable": "敏感性肌膚適用",
@@ -2681,14 +2174,8 @@
     "pd47": {
       "name": "舒顏面膜",
       "ename": "Calming Influence Mask",
-      "series": [
-        "ps08",
-        "pf05"
-      ],
-      "header_links": [
-        "product_series",
-        "product_features"
-      ],
+      "series": ["ps08", "pf05"],
+      "header_links": ["product_series", "product_features"],
       "description": "<ul><li>質地柔滑而不黏膩，能迅速水潤柔軟肌膚。</li><br><li>含豐富水解藻膠萃取，有效重建受損皮脂膜。</li><br><li>持續深層滋潤，防止肌膚表層水份流失。</li></ul>",
       "capacity": "50ml",
       "skin_suitable": "敏感性肌膚適用",
@@ -2706,14 +2193,8 @@
     "pd48": {
       "name": "舒顏保濕霜",
       "ename": "Calming Influence Facial Moisturizer",
-      "series": [
-        "ps08",
-        "pf04"
-      ],
-      "header_links": [
-        "product_series",
-        "product_features"
-      ],
+      "series": ["ps08", "pf04"],
+      "header_links": ["product_series", "product_features"],
       "description": "<ul><li>能幫助保護肌膚免受外界環境侵害，改善泛紅脫皮等問題，滋潤並均衡肌膚，給予肌膚悉心呵護。</li><li>修護皮膚保濕層，回復肌膚鎖水功能，同時滋養肌膚。</li></ul>",
       "capacity": "50g",
       "skin_suitable": "敏感性肌膚適用",
@@ -2731,14 +2212,8 @@
     "pd49": {
       "name": "舒顏柔膚水",
       "ename": "Calming Influence Freshener",
-      "series": [
-        "ps08",
-        "pf03"
-      ],
-      "header_links": [
-        "product_series",
-        "product_features"
-      ],
+      "series": ["ps08", "pf03"],
+      "header_links": ["product_series", "product_features"],
       "description": "<ul><li>質地溫和清透，為肌膚提供二次潔淨，提升後續護膚品的吸收。</li><br><li>回復肌膚平衡，感覺清新柔潤，令敏感缺水肌膚得到改善。</li><br><li>含多種滋潤舒緩成份，加強皮膚抗氧化進程，有效舒緩不適感。</li></ul>",
       "capacity": "100ml",
       "skin_suitable": "敏感性肌膚適用",
@@ -2756,16 +2231,8 @@
     "pd50": {
       "name": "舒顏精華露",
       "ename": "Calming Influence Serum",
-      "series": [
-        "ps08",
-        "pf06",
-        "sc04"
-      ],
-      "header_links": [
-        "product_series",
-        "product_features",
-        "skincare"
-      ],
+      "series": ["ps08", "pf06", "sc04"],
+      "header_links": ["product_series", "product_features", "skincare"],
       "description": "<ul><li>舒緩肌膚敏感狀態。</li><br><li>迅速保濕，令肌膚倍添柔潤。</li><br><li>令肌膚恢復健康和平衡狀態。</li></ul>",
       "capacity": "29g",
       "skin_suitable": "敏感性肌膚適用",
@@ -2782,15 +2249,9 @@
     },
     "pd51": {
       "name": "淨顏潔面啫喱",
-      "ename": "Clear Proof<sup>®</sup>Clarifying Cleanser for Acne-Prone Skin",
-      "series": [
-        "ps09",
-        "pf02"
-      ],
-      "header_links": [
-        "product_series",
-        "product_features"
-      ],
+      "ename": "Clear Proof<sup>®</sup>Clarifying Cleanser<br>for Acne-Prone Skin",
+      "series": ["ps09", "pf02"],
+      "header_links": ["product_series", "product_features"],
       "description": "淨顏護理的重要第一步，清爽的透明啫喱，按摩於濕潤的皮膚上形成輕柔的清潔泡沫，深入毛孔徹底清潔及去油，同時幫助促進表皮更新，預防死皮堆積、堵塞毛孔。",
       "capacity": "127g",
       "skin_suitable": "適合敏感性肌膚<br>不含香料<br>不含油分<br>不易引致暗瘡粉刺",
@@ -2808,16 +2269,8 @@
     "pd52": {
       "name": "淨顏活性碳面膜",
       "ename": "Clear Proof<sup>®</sup>Deep-Cleansing Charcoal Mask",
-      "series": [
-        "ps09",
-        "pf05",
-        "sc03"
-      ],
-      "header_links": [
-        "product_series",
-        "product_features",
-        "skincare"
-      ],
+      "series": ["ps09", "pf05", "sc03"],
+      "header_links": ["product_series", "product_features", "skincare"],
       "description": "具三重效能的深層清潔面膜，如同「淨化磁石」般將毛孔內之污染物、塵埃、油脂、黑頭白頭等通通吸走，深層清潔，徹底排毒，大大提升健康抵禦力，不但杜絕暗瘡，還能幫助不同膚質去除和預防黑頭及白頭粉刺，幫助肌膚回復光潔淨透！",
       "capacity": "114g",
       "skin_suitable": "適合敏感性肌膚<br>適合暗瘡性肌膚<br>通過皮膚刺激性和及過敏性臨床測試<br>不易引致暗瘡粉刺<br>經皮膚科醫生測試認可",
@@ -2835,14 +2288,8 @@
     "pd53": {
       "name": "淨顏調理爽膚水",
       "ename": "Clear Proof<sup>®</sup>Blemish Control Toner",
-      "series": [
-        "ps09",
-        "pf03"
-      ],
-      "header_links": [
-        "product_series",
-        "product_features"
-      ],
+      "series": ["ps09", "pf03"],
+      "header_links": ["product_series", "product_features"],
       "description": "於潔面及面膜後使用可加強淨化皮膚及毛孔，用後皮膚倍感清新潔淨！",
       "capacity": "147g",
       "skin_suitable": "不含香料<br>通過皮膚過敏性臨床測試<br>不易引致暗瘡粉刺",
@@ -2859,15 +2306,9 @@
     },
     "pd54": {
       "name": "淨顏清爽毛孔精華露",
-      "ename": "Clear Proof<sup>®</sup>Pore-Purifying Serum for Acne-Prone Skin",
-      "series": [
-        "ps09",
-        "pf06"
-      ],
-      "header_links": [
-        "product_series",
-        "product_features"
-      ],
+      "ename": "Clear Proof<sup>®</sup>Pore-Purifying Serum<br>for Acne-Prone Skin",
+      "series": ["ps09", "pf06"],
+      "header_links": ["product_series", "product_features"],
       "description": "絲滑的透明啫喱精華，質地清爽無負擔，塗抹方便，有效幫助減褪及預防暗瘡，同時幫助控油，淨化、暢通及收細毛孔",
       "capacity": "50g",
       "skin_suitable": "適合敏感性肌膚<br>不含香料<br>不含油分<br>不易引致暗瘡粉刺",
@@ -2884,18 +2325,9 @@
     },
     "pd55": {
       "name": "淨顏重點修護精華",
-      "ename": "Clear Proof<sup>®</sup>Spot Solution for Acne-Prone Skin",
-      "series": [
-        "ps08",
-        "ps09",
-        "pf06",
-        "sc03"
-      ],
-      "header_links": [
-        "product_series",
-        "product_features",
-        "skincare"
-      ],
+      "ename": "Clear Proof<sup>®</sup>Spot Solution<br>for Acne-Prone Skin",
+      "series": ["ps08", "ps09", "pf06", "sc03"],
+      "header_links": ["product_series", "product_features", "skincare"],
       "description": "清爽精華乳液，針對已形成的暗瘡發揮調理改善作用，並預防暗瘡循環爆發，更能加強暗瘡修復，減少暗瘡疤印。配方不黏不膩、呈淺綠色，幫助修飾暗瘡泛紅。",
       "capacity": "29g",
       "skin_suitable": "適合敏感性肌膚<br>不含香料<br>不含油分<br>不易引致暗瘡粉刺",
@@ -2912,16 +2344,9 @@
     },
     "pd56": {
       "name": "淨顏清爽保濕乳液",
-      "ename": "Clear Proof<sup>®</sup>Oil-Free Moisturizer for Acne-Prone Skin",
-      "series": [
-        "ps08",
-        "ps09",
-        "pf04"
-      ],
-      "header_links": [
-        "product_series",
-        "product_features"
-      ],
+      "ename": "Clear Proof<sup>®</sup>Oil-Free Moisturizer<br>for Acne-Prone Skin",
+      "series": ["ps08", "ps09", "pf04"],
+      "header_links": ["product_series", "product_features"],
       "description": "紓緩保濕，重建健康皮脂膜，用後皮膚重現健康、柔滑",
       "capacity": "88ml",
       "skin_suitable": "適合敏感性肌膚<br>通過皮膚刺激性和過敏性臨床測試<br>不易引致暗瘡粉刺",
@@ -2952,7 +2377,6 @@
       "normal_image": null,
       "small_images": {
         "img_01": "m/a/ma11.jpg",
-        "img_02": "m/a/ma12.jpg",
         "img_03": "m/a/ma13.jpg"
       },
       "description_image": null
@@ -2983,10 +2407,7 @@
     "pd59": {
       "name": "妝前修顏底霜SPF15",
       "ename": "Foundation Primer Sunscreen SPF15",
-      "series": [
-        "mu02",
-        "sc03"
-      ],
+      "series": ["mu02", "sc03"],
       "header_links": "skincare",
       "description": "<ul><li>輕輕一抹，完美隱藏細紋與毛孔，絕對是完美底妝的好工具。</li><br><li>讓後續的粉底更貼服易推。</li></ul>",
       "capacity": "29ml",
@@ -3005,14 +2426,8 @@
     "pd60": {
       "name": "光感修顏霜SPF 35/ PA++",
       "ename": "Honey Glow Finisher SPF 35/ PA++",
-      "series": [
-        "mu02",
-        "sc01"
-      ],
-      "header_links": [
-        "makeup",
-        "skincare"
-      ],
+      "series": ["mu02", "sc01"],
+      "header_links": ["makeup", "skincare"],
       "description": "<ul><li>蘊含多種植物萃取，可於護膚與彩妝之間使用。</li><br><li>質地輕盈清爽，有長效保濕、提亮滋潤、改善細紋的功效。</li><br><li>獨特配方煥發皮膚自然光澤，一抹提亮膚色，瞬間打造光感修顏, 使肌膚如大自然的花蜜般煥發光彩。</li><br><li>為後續妝容提升持妝度，持久綻放透亮光彩，打造自然無暇透亮肌。</li><br><li>SPF 35 配搭 PA++ 的防曬系數，為日常生活築起充足防線，同時不會造成過多負擔。</li></ul>",
       "capacity": "40ml",
       "skin_suitable": "適合敏感肌膚<br>經皮膚科醫生測試<br>通過皮膚刺激性和過敏性測試<br>通過亞洲膚質測試<br>適合所有膚質<br>不含香料<br>不含油分<br>不易引致暗瘡粉刺",
@@ -3051,14 +2466,8 @@
     "pd62": {
       "name": "水嫩亮肌CC 霜 SPF15",
       "ename": "CC Cream Sunscreen SPF 15",
-      "series": [
-        "mu02",
-        "sc05"
-      ],
-      "header_links": [
-        "makeup",
-        "skincare"
-      ],
+      "series": ["mu02", "sc05"],
+      "header_links": ["makeup", "skincare"],
       "description": "<ul><li>含礦物調色粒子幫助修正色斑及黑眼圈等膚色瑕疵、全面調整及改善面部膚色。</li><br><li>能修飾毛孔及細紋，改善膚質，使肌膚看起來細緻、光滑、年輕。</li><br><li>特有水潤因子能使肌膚即時水潤而不油膩，10 小時長效保濕。</li><br><li>水飛薊果萃取物及柳樹皮萃取有效舒緩鎮靜肌膚，減少泛紅現象並對暗瘡性皮膚發揮溫和消炎功效。</li></ul>",
       "capacity": "29ml",
       "skin_suitable": "適合敏感肌膚<br>皮膚科專家測試<br>眼科專家測試<br>不會造成粉刺<br>不含油脂及香料<br>適合配戴隱形眼鏡人士使用",
@@ -3077,14 +2486,8 @@
     "pd63": {
       "name": "時光精靈3D無瑕修顏粉底乳",
       "ename": "TimeWise<sup>®</sup> 3D Foundation",
-      "series": [
-        "mu02",
-        "mu02"
-      ],
-      "header_links": [
-        "makeup",
-        "makeup"
-      ],
+      "series": ["mu02", "mu02"],
+      "header_links": ["makeup", "makeup"],
       "description": "<ul><li>通過IntelliMatch&trade;技術，完美模擬真實肌膚，設計更精確的色調，完美無縫地配對比以往更多的膚色，給予你猶如天生的無瑕自然妝容。</li><br><li>獨家AGE MINIMIZE 3D&reg; COMPLEX配方，精心研創的配方技術蘊含白藜蘆醇微囊、維他命B3和抗衰老胜肽，有效修飾和淡化細紋、皺紋、毛孔及面部瑕疵，同時有助改善暗啞膚色，使肌膚顯得完美無瑕，看起來更健康、緊緻、年輕。</li><br><li>配有防濕和防汗配方，無懼潮濕炎熱天氣，塑造長效持久的無瑕自然美肌，並能持妝一整天。</li><br><li>無香料、無油且不易致暗瘡粉刺，適合所有膚質使用。</li></ul>",
       "capacity": "30ml",
       "skin_suitable": "經皮膚科醫生測試<br>通過皮膚刺激性和過敏性測試<br>不易引致暗瘡粉刺<br>適合敏感性肌膚<br>適用於敏感眼睛和佩戴隱形眼鏡人士<br>不含香料及不含油分",
@@ -3262,7 +2665,7 @@
       "description_image": null
     },
     "pd72": {
-      "name": "Pink Young 眉筆",
+      "name": "Pink Young 細緻眉筆",
       "ename": "Pink Young Brow Pencil & Brush Duo",
       "series": "mu03",
       "header_links": "makeup",
@@ -3556,44 +2959,6 @@
       },
       "description_image": "z"
     },
-    "pd87": {
-      "name": "粉撲",
-      "ename": "Powder Puff",
-      "series": "mu04",
-      "header_links": "makeup",
-      "description": "粉撲柔軟舒服不刺激肌膚，能把粉餅均勻並緊貼地塗抹在臉上，妝感透薄清爽，呈現自然、完美的妝感。可放於彩妝盒內。",
-      "capacity": "1個",
-      "skin_suitable": null,
-      "usage": null,
-      "function": null,
-      "principal_components": null,
-      "price": "HK$25",
-      "video_source": null,
-      "normal_image": null,
-      "small_images": {
-        "img_01": "m/d/md91.jpg"
-      },
-      "description_image": null
-    },
-    "pd88": {
-      "name": "胭脂掃",
-      "ename": "Palette Cheek Brush",
-      "series": "mu04",
-      "header_links": "makeup",
-      "description": "掃毛由優質纖維毛製成，完美結合人造纖維毛的結實富彈性和天然動物毛的柔滑，觸感柔軟不刺激肌膚，呈現自然、完美的妝感。可放於彩妝盒內。",
-      "capacity": "1個",
-      "skin_suitable": null,
-      "usage": null,
-      "function": null,
-      "principal_components": null,
-      "price": "HK$25",
-      "video_source": null,
-      "normal_image": null,
-      "small_images": {
-        "img_01": "m/d/md101.jpg"
-      },
-      "description_image": null
-    },
     "pd89": {
       "name": "莎婷乳木果呵護沐浴露",
       "ename": "Satin Body<sup>®</sup> Indulgent Shea Wash",
@@ -3695,7 +3060,7 @@
     },
     "pd94": {
       "name": "莎婷乳木果護手霜 - 白茶及柑橘香味",
-      "ename": "Satin Hands<sup>®</sup> Nourishing Shea Cream (White Tea & Citrus)",
+      "ename": "Satin Hands<sup>®</sup> Nourishing Shea Cream<br>(White Tea & Citrus)",
       "series": "ps11",
       "header_links": "product_series",
       "description": "莎婷乳木果護手霜，以珍貴、豐潤的乳木果油為手部肌膚帶來加倍的修護；結合特別調配的白茶及柑橘香味，更讓雙手每天都可以享受　Home Spa 在家水療的愉悅舒緩體驗。",
@@ -3752,7 +3117,7 @@
     },
     "pd97": {
       "name": "清涼薄荷足部潤膚露",
-      "ename": "Mint Bliss™ Energizing Lotion for Feet & Legs",
+      "ename": "Mint Bliss™ Energizing Lotion<br>for Feet & Legs",
       "series": "ps11",
       "header_links": "product_series",
       "description": "清新涼快的薄荷配方，幫助紓緩足部及腿部疲勞，為雙腳注入舒爽活力，回復步履輕盈。",
@@ -3833,14 +3198,8 @@
     "pd101": {
       "name": "夏艷曬後修護凝露",
       "ename": "Sun Care After-Sun Replenishing Gel",
-      "series": [
-        "pf07",
-        "sc01"
-      ],
-      "header_links": [
-        "product_features",
-        "skincare"
-      ],
+      "series": ["pf07", "sc01"],
+      "header_links": ["product_features", "skincare"],
       "description": "冰藍色修護啫喱，富含植物萃取，能迅速紓緩補水，並兼具卓越的抗氧化功效。質感清涼，有效安撫、鎮靜曬後受刺激和發紅的肌膚。質地清爽，快速吸收，不感黏膩，適合所有膚質使用。",
       "capacity": "192ml",
       "skin_suitable": "所有膚質適用<br>經皮膚科醫生測試<br>通過皮膚刺激性和過敏性測試<br>適用於面部及身體肌膚",
@@ -3877,14 +3236,8 @@
     "pd103": {
       "name": "男士眼霜",
       "ename": "MKMen<sup>®</sup>Advanced Eye Cream",
-      "series": [
-        "ps10",
-        "pf08"
-      ],
-      "header_links": [
-        "product_series",
-        "product_features"
-      ],
+      "series": ["ps10", "pf08"],
+      "header_links": ["product_series", "product_features"],
       "description": "<ul><li>含抗衰老成份，能明顯減緩眼周細紋和皺紋。</li><br><li>有效保濕並緊緻眼部肌膚，並具有提亮、舒緩和平滑眼周肌膚的功效。</li></ul>",
       "capacity": "18g",
       "skin_suitable": "經眼科專家測試<br>經臨床測試不會引起痕癢及敏感適合<br>適合所有膚質使用<br>不含油脂<br>防過敏配方<br>適合配帶隱形眼鏡人士使用",
@@ -3902,14 +3255,8 @@
     "pd104": {
       "name": "男士潔面啫喱",
       "ename": "MKMen<sup>®</sup>Daily Facial Wash",
-      "series": [
-        "ps10",
-        "pf02"
-      ],
-      "header_links": [
-        "product_series",
-        "product_features"
-      ],
+      "series": ["ps10", "pf02"],
+      "header_links": ["product_series", "product_features"],
       "description": "<ul><li>性質溫和的透明啫喱，能有效清潔皮膚上的油脂污垢，潔淨毛孔。</li><br><li>令皮膚回復清爽舒適，充滿活力。</li><br><li>為後續剃鬚步驟做好充分準備。</li></ul>",
       "capacity": "133ml",
       "skin_suitable": "適合所有膚質及敏感性肌膚<br>不含油分、香料及酒精<br>不易引致粉刺",
@@ -4063,7 +3410,7 @@
     },
     "pd112": {
       "name": "時光精靈3D日霜 SPF30",
-      "ename": "TimeWise<sup>®</sup> Age Minimize 3D™ Day Cream SPF30",
+      "ename": "TimeWise<sup>®</sup> Age Minimize 3D™<br>Day Cream SPF30",
       "series": null,
       "header_links": null,
       "description": "特有 3D 減齡複合物成分(AGE MINIMIZE 3D® COMPLEX及廣譜防曬 UVA/UVB 保護，由白藜蘆醇微囊、抗衰老胜肽和維他命B3三大成分協力組成，發揮協同效應： DEFENDS 防禦外界環境侵害 l DELAYS 延緩衰老 l DELIVERS 實現年輕緊緻肌膚，為肌膚帶來3D逆轉年輕奇蹟功效。",
@@ -4206,7 +3553,7 @@
     },
     "pd119": {
       "name": "限量版堅定相信淡香水",
-      "ename": "Limited Edition If You Believe™  Eau de Toilette",
+      "ename": "Limited Edition<br>If You Believe™  Eau de Toilette",
       "series": "香氛系列",
       "header_links": null,
       "description": "堅定相信淡香水以柔和清甜的佛手柑，油桃等的果香作為前調，果香甜味帶有溫和的辛辣味，柔和而持久，以喚醒你的想像力和可能性，追逐夢想的初心。<br><br>中調賦予清新細緻的粉紅鈴蘭，散發出乾淨迷人明亮的花香，鼓勵你勇於冒險，堅定相信，為夢想創造無限可能性。<br><br>後調散發持久溫暖的檀香油，夜光琥珀，雪松木質的柑橘花香氣息，持續帶給你無限生活希望，每時每刻發現奇蹟，無所畏懼去追逐夢想，只要堅定相信，不斷創造，便能夢想成真。",
@@ -4244,7 +3591,7 @@
     },
     "pd121": {
       "name": "限量版 Shero 香水",
-      "ename": "Limited Edition Je Suis Shero Perfume",
+      "ename": "Limited Edition<br>Je Suis Shero Perfume",
       "series": "香氛系列",
       "header_links": null,
       "description": "這款令人千般矚目、萬般吸引的香水，是否已讓你心動不已、沉醉其中？這一切源於她高貴而稀有的萃取成份，知名調香大師的匠心，以及這款香水賦予的 SHERO 精神。<br><br><ul><li>主色調為通透的粉色、透出粉粉的少女心</li><br><li>桃紅色的圓形瓶蓋，閃耀而奪目</li><br><li>桃紅色的蝴蝶結，又增添了一份嫵媚和優雅</li><br><li>模杖型瓶身，更是彰顯其溫柔堅定的內心和獨立的個性</li></ul>",
@@ -4258,6 +3605,27 @@
       "normal_image": null,
       "small_images": {
         "img_01": "m/e/me41.jpg"
+      },
+      "description_image": null
+    },
+    "pd122": {
+      "name": "柔霧薄紗蜜粉",
+      "ename": "Silky Setting Powder",
+      "series": "臉部系列",
+      "header_links": null,
+      "description": "<ul><li>有效令妝容更持久，抑制油光</li><br><li>修飾瑕疵，遮蓋粗大毛孔及不勻膚色</li><br><li>添加植物性潤膚劑，打造如絲般的柔滑質感，增加舒適度，減少乾燥可單獨使用，亦可配搭不同粉底，打造不同妝效</li><br><li>不含礦物油、香料、蠟、矽、羥基苯甲酸酯 (Paraben) 等成分</li></ul>",
+      "capacity": "8g",
+      "skin_suitable": "經皮膚科醫生測試<br>通過皮膚刺激性和過敏性臨床測試<br>適合敏感肌膚<br>不易引致粉刺",
+      "usage": "先輕輕搖晃瓶子，扭開瓶蓋後以碎粉掃沾取蜜粉，輕輕拍走多餘蜜粉，然後塗抹全面，可於使用粉底及遮瑕膏後才使用，或單獨塗抹這個蜜粉。",
+      "function": "<b>多效蜜粉</b><ul><li>多功能且易於塗抹，可以滿足對持久度高、有色並高效蜜粉的需求。你可以在你已完成的妝容上增加，又或者在乾淨的面上直接使用。反映市面上新一代高效能蜜粉的趨勢，這個創新配方擁有所有定妝蜜粉的好處，不含礦物油、香料、蠟、矽、羥基苯甲酸酯 (Paraben) 等你不想要的成分，而又像絲綢般一樣呵護你的肌膚，打造帶有啞緻妝感的完美無瑕肌膚 </li></ul><br><b>找到你的顏色，定妝，完成</b><ul><li>全新配方含有植物性潤滑膚劑，有效打造如絲般的柔軟質感，增加舒適度，減少乾燥。</li><br><li>無痕修正膚色，以獲得更均勻的膚色，提升底妝效果</li><br><li>通過IntelliMatch™技術，完美模擬真實肌膚，設計更精確的色調，完美無縫地配對比以往更多的膚色，給予你猶如天生的無瑕自然妝容。與TimeWise® 3D 無瑕修顏粉底乳及其他彩妝系列產品完美配搭</li><br><li>營造可以立刻拍照的完美妝感</li></ul>",
+      "principal_components": "<b>雲母 (Mica)</b> ： 能給予彩妝半透明的微微閃亮光澤，柔焦效果反射光線掩飾毛孔及細紋等瑕疵，呈現微霧面妝效及光滑肌膚。<br><br><b>角鯊烷 (Squalane)</b> ： 親膚性高，能夠和皮膚分泌的皮脂高度相融，為肌膚補充需要的脂質，在皮膚表面形成一層透氣的保護膜，發揮保濕、潤膚的效果。能減緩皮膚水分蒸發，維持皮膚彈性飽滿<br><br><b>氧化硼 (Boron Nitride)</b> ： 柔滑肌膚<br><br><b>無香料配方</b> : 質地純淨不刺激皮膚",
+      "price": "HK$190",
+      "video_source": "mb121.mp4",
+      "normal_image": null,
+      "small_images": {
+        "img_01": "m/b/mb121.png",
+        "img_02": "m/b/mb122.png",
+        "img_03": "m/b/mb123.png"
       },
       "description_image": null
     }

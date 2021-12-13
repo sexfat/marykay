@@ -1,0 +1,40 @@
+{
+  "pd87": {
+    "name": "粉撲",
+    "ename": "Powder Puff",
+    "series": "mu04",
+    "header_links": "makeup",
+    "description": "粉撲柔軟舒服不刺激肌膚，能把粉餅均勻並緊貼地塗抹在臉上，妝感透薄清爽，呈現自然、完美的妝感。可放於彩妝盒內。",
+    "capacity": "1個",
+    "skin_suitable": null,
+    "usage": null,
+    "function": null,
+    "principal_components": null,
+    "price": "HK$25",
+    "video_source": null,
+    "normal_image": null,
+    "small_images": {
+      "img_01": "m/d/md91.jpg"
+    },
+    "description_image": null
+  },
+  "pd88": {
+    "name": "胭脂掃",
+    "ename": "Palette Cheek Brush",
+    "series": "mu04",
+    "header_links": "makeup",
+    "description": "掃毛由優質纖維毛製成，完美結合人造纖維毛的結實富彈性和天然動物毛的柔滑，觸感柔軟不刺激肌膚，呈現自然、完美的妝感。可放於彩妝盒內。",
+    "capacity": "1個",
+    "skin_suitable": null,
+    "usage": null,
+    "function": null,
+    "principal_components": null,
+    "price": "HK$25",
+    "video_source": null,
+    "normal_image": null,
+    "small_images": {
+      "img_01": "m/d/md101.jpg"
+    },
+    "description_image": null
+  }
+}
