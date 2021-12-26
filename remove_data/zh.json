@@ -1,4 +1,23 @@
 {
+    "pd84": {
+      "name": "霜狀彩妝掃",
+      "ename": "Cream Color Brush",
+      "series": "mu04",
+      "header_links": "makeup",
+      "description": "柔軟有彈性的扁平掃頭，能像指頭般輕柔而均勻地塗抹霜狀或液體狀的遮瑕產品和眼影，完美無粉痕。同時適合用作塗抹唇妝產品。",
+      "capacity": "1 支",
+      "skin_suitable": null,
+      "usage": null,
+      "function": null,
+      "principal_components": null,
+      "price": "HK$110",
+      "video_source": null,
+      "normal_image": null,
+      "small_images": {
+        "img_01": "m/d/md61.jpg"
+      },
+      "description_image": null
+    },
   "pd87": {
     "name": "粉撲",
     "ename": "Powder Puff",

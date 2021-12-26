@@ -19,7 +19,8 @@
         .thumbnail {
             ul {
                 display: flex;
-
+                width: 70%;
+                flex-wrap: wrap;
                 li {
                     cursor: pointer;
 

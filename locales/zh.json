@@ -1216,7 +1216,7 @@
         },
         "Tools": {
           "name": "彩妝工具",
-          "products": ["pd80", "pd81", "pd82", "pd83", "pd84", "pd85", "pd86"]
+          "products": ["pd80", "pd81", "pd82", "pd83", "pd85", "pd86"]
         }
       }
     },
@@ -2660,7 +2660,11 @@
         "img_01": "m/c/mc21.jpg",
         "img_02": "m/c/mc23.jpg",
         "img_03": "m/c/mc24.jpg",
-        "img_04": "m/c/mc25.jpg"
+        "img_04": "m/c/mc26.jpg",
+        "img_05": "m/c/mc27.jpg",
+        "img_06": "m/c/mc28.jpg",
+        "img_07": "m/c/mc29.jpg"
+
       },
       "description_image": null
     },
@@ -2669,7 +2673,7 @@
       "ename": "Brow Pencil & Brush Duo",
       "series": "mu03",
       "header_links": "makeup",
-      "description": "<ul><li>橢圓筆芯設計，軟硬度適中</li><br><li>質地細膩，塗抹柔滑</li><br><li>附專用眉掃修飾眉毛更立體自然</li></ul>",
+      "description": "<ul><li>橢圓筆芯設計，軟硬度適中</li><br><li>質地細膩，塗抹柔滑</li><br><li>持久不易掉色，整天都能保持理想眉型</li><br><li>附專用眉掃修飾眉毛更立體自然</li></ul>",
       "capacity": "0.2g",
       "skin_suitable": null,
       "usage": null,
@@ -2898,25 +2902,6 @@
       "normal_image": null,
       "small_images": {
         "img_01": "m/d/md51.jpg"
-      },
-      "description_image": null
-    },
-    "pd84": {
-      "name": "霜狀彩妝掃",
-      "ename": "Cream Color Brush",
-      "series": "mu04",
-      "header_links": "makeup",
-      "description": "柔軟有彈性的扁平掃頭，能像指頭般輕柔而均勻地塗抹霜狀或液體狀的遮瑕產品和眼影，完美無粉痕。同時適合用作塗抹唇妝產品。",
-      "capacity": "1 支",
-      "skin_suitable": null,
-      "usage": null,
-      "function": null,
-      "principal_components": null,
-      "price": "HK$110",
-      "video_source": null,
-      "normal_image": null,
-      "small_images": {
-        "img_01": "m/d/md61.jpg"
       },
       "description_image": null
     },
