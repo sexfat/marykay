@@ -2673,7 +2673,7 @@
       "ename": "Brow Pencil & Brush Duo",
       "series": "mu03",
       "header_links": "makeup",
-      "description": "<ul><li>橢圓筆芯設計，軟硬度適中</li><br><li>質地細膩，塗抹柔滑</li><br><li>持久不易掉色，整天都能保持理想眉型</li><br><li>附專用眉掃修飾眉毛更立體自然</li></ul>",
+      "description": "<ul><li>橢圓筆芯設計，軟硬度適中</li><br><li>質地細膩，塗抹柔滑</li><br><li>防水持久配方，整天都能保持理想眉型</li><br><li>附專用眉掃修飾眉毛更立體自然</li></ul>",
       "capacity": "0.2g",
       "skin_suitable": null,
       "usage": null,
@@ -3609,8 +3609,9 @@
       "normal_image": null,
       "small_images": {
         "img_01": "m/b/mb121.png",
-        "img_02": "m/b/mb122.png",
-        "img_03": "m/b/mb123.png"
+        "img_02": "m/b/mb124.jpg",
+        "img_03": "m/b/mb122.png",
+        "img_04": "m/b/mb123.png"
       },
       "description_image": null
     }
