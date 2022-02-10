@@ -1818,14 +1818,14 @@
     "pd47": {
       "name": "玫琳凱 滾輪按摩儀",
       "series": "美容儀器",
-      "description": "比擬真人按摩手技- 揉捏，上推，輕彈，每部位3分鐘，彷彿去做了全身按摩，彈力緊實。",
+      "description": "比擬真人按摩手技- 揉捏，上推，輕彈，幫助肌膚彈力緊實。",
       "capacity": "1入",
       "skin_suitable": null,
       "usage": null,
       "function": "按摩臉部",
       "price": "3980",
       "principal_components": null,
-      "video_source": "fj11.mp4",
+      "video_source": null,
       "small_images": {
         "img_01": "f/j/fj11.jpg"
       },
