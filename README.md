@@ -20,7 +20,7 @@ $ npm run generate
 
 * [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 * [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
-* [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur) vue檔格式解析
+* [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur) vue檔格式解析 
 
 ### 雲端檔案位置
 * [商品分類](https://docs.google.com/spreadsheets/d/1rWjCAO8fDey9V4xt_mycrFjTQ1LMAyc-/edit#gid=231340791)
