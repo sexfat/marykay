@@ -26,6 +26,27 @@
       <div class="row margin-top_50 silder_pink swiper-container">
         <Swiper ref="s4Swiper" :options="swiperOptions">
           <Swiper-slide class="col-lg-4 col-md-6 col-sm-6 col-12">
+            <div class="bg bg4">
+              <div class="inner">
+                <div class="content_heading flex">
+                  <h3>
+                    THE GO-GIVE SPIRIT
+                    <p>玫琳凱樂施精神</p>
+                  </h3>
+                </div>
+                <div class="content_footer">
+                  <p v-html="$t('pages.homepage.s4.slide_4.content_footer')"></p>
+                  <nuxt-link
+                    :to="localePath('/go_give_spirit')"
+                    class="btn-default btn-outline marginauto margin-top_20"
+                    >{{ $t('pages.homepage.more_news') }}</nuxt-link
+                  >
+                </div>
+              </div>
+              <div class="hoverbox"></div>
+            </div>
+          </Swiper-slide>
+          <Swiper-slide class="col-lg-4 col-md-6 col-sm-6 col-12">
             <div class="bg bg1">
               <div class="inner">
                 <div class="content_heading flex">
