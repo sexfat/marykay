@@ -94,6 +94,10 @@
         background-image: url('../images/bg_ind_s8-3.jpg');
         @extend %position;
     }
+    .bg4 {
+        background-image: url('../images/bg_ind_s8-4.jpg');
+        @extend %position;
+    }
     .inner {
         color: #fff;
         text-align: center;
@@ -130,10 +134,10 @@
 
      .swiper-button-next,
     .swiper-button-prev {
-        display: none;
+        // display: none;
 
-        @include m() {
-         display: block;
-        }
+        // @include m() {
+        //  display: block;
+        // }
     }
 }
