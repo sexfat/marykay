@@ -32,7 +32,7 @@
         },
         "slide_4": {
           "h3": "玫琳凱樂施精神",
-          "content_footer": "樂施是一個人生活中最大的幸福，是生活的一部份，生命中最重要的不是你得到什麼，而是你付出了什麼讓你的生命更完整。 "
+          "content_footer": "幫助他人成功同時自己成功，你所付出的，終將加倍回報你的生命中！"
         }
       },
       "s5": {
@@ -931,43 +931,93 @@
       "series": {
         "Clinical_Solutions": {
           "name": "科研Lab系列",
-          "products": ["pd96", "pd97"]
+          "products": [
+            "pd96",
+            "pd97"
+          ]
         },
         "Naturally": {
           "name": "澄淨甦活系列",
-          "products": ["pd1", "pd3", "pd2"]
+          "products": [
+            "pd1",
+            "pd3",
+            "pd2"
+          ]
         },
         "TimeWise3D": {
           "name": "時光3D系列",
-          "products": ["pd6", "pd4", "pd5", "pd7"]
+          "products": [
+            "pd6",
+            "pd4",
+            "pd5",
+            "pd7"
+          ]
         },
         "Botanical_Effects": {
           "name": "植物肌密系列",
-          "products": ["pd8", "pd9", "pd10", "pd11"]
+          "products": [
+            "pd8",
+            "pd9",
+            "pd10",
+            "pd11"
+          ]
         },
         "Timewise_Repair": {
           "name": "幻時能量系列",
-          "products": ["pd12", "pd13", "pd14", "pd15", "pd16", "pd17", "pd18"]
+          "products": [
+            "pd12",
+            "pd13",
+            "pd14",
+            "pd15",
+            "pd16",
+            "pd17",
+            "pd18"
+          ]
         },
         "TimeWise": {
           "name": "時光精靈系列",
-          "products": ["pd19", "pd20", "pd21", "pd22", "pd23", "pd24", "pd25"]
+          "products": [
+            "pd19",
+            "pd20",
+            "pd21",
+            "pd22",
+            "pd23",
+            "pd24",
+            "pd25"
+          ]
         },
         "LumiVie": {
           "name": "亮采黑能亮系列",
-          "products": ["pd26", "pd27"]
+          "products": [
+            "pd26",
+            "pd27"
+          ]
         },
         "Clear_Proof": {
           "name": "淨顏系列",
-          "products": ["pd28", "pd29", "pd30", "pd31"]
+          "products": [
+            "pd28",
+            "pd29",
+            "pd30",
+            "pd31"
+          ]
         },
         "Body_Care": {
           "name": "乳木果系列",
-          "products": ["pd34", "pd35", "pd37", "pd32", "pd33", "pd36"]
+          "products": [
+            "pd34",
+            "pd35",
+            "pd37",
+            "pd32",
+            "pd33",
+            "pd36"
+          ]
         },
         "MK_Men": {
           "name": "男士系列",
-          "products": ["pd46"]
+          "products": [
+            "pd46"
+          ]
         }
       }
     },
@@ -976,43 +1026,104 @@
       "series": {
         "Makeup_Remover": {
           "name": "卸妝",
-          "products": ["pd44", "pd39"]
+          "products": [
+            "pd44",
+            "pd39"
+          ]
         },
         "Cleanser": {
           "name": "潔顏",
-          "products": ["pd3", "pd4", "pd8", "pd46"]
+          "products": [
+            "pd3",
+            "pd4",
+            "pd8",
+            "pd46"
+          ]
         },
         "Toners": {
           "name": "化妝水",
-          "products": ["pd9", "pd21"]
+          "products": [
+            "pd9",
+            "pd21"
+          ]
         },
         "Moisturizers": {
           "name": "乳液/乳霜",
-          "products": ["pd6", "pd5", "pd11", "pd41", "pd27", "pd17", "pd18", "pd97"]
+          "products": [
+            "pd6",
+            "pd5",
+            "pd11",
+            "pd41",
+            "pd27",
+            "pd17",
+            "pd18",
+            "pd97"
+          ]
         },
         "Mask": {
           "name": "面膜",
-          "products": ["pd10", "pd24", "pd28", "pd14", "pd16"]
+          "products": [
+            "pd10",
+            "pd24",
+            "pd28",
+            "pd14",
+            "pd16"
+          ]
         },
         "Serums": {
           "name": "精華液/油",
-          "products": ["pd1", "pd7", "pd12", "pd22", "pd23", "pd26", "pd30", "pd96"]
+          "products": [
+            "pd1",
+            "pd7",
+            "pd12",
+            "pd22",
+            "pd23",
+            "pd26",
+            "pd30",
+            "pd96"
+          ]
         },
         "Sun_Body": {
           "name": "身體防曬/保養",
-          "products": ["pd87", "pd85", "pd86", "pd84", "pd34", "pd35", "pd37"]
+          "products": [
+            "pd87",
+            "pd85",
+            "pd86",
+            "pd84",
+            "pd34",
+            "pd35",
+            "pd37"
+          ]
         },
         "Eye_Lips_Care": {
           "name": "眼唇保養",
-          "products": ["pd38", "pd43", "pd25", "pd32", "pd33", "pd13"]
+          "products": [
+            "pd38",
+            "pd43",
+            "pd25",
+            "pd32",
+            "pd33",
+            "pd13"
+          ]
         },
         "Targeted_Solutions": {
           "name": "特殊護理",
-          "products": ["pd29", "pd40", "pd42", "pd15", "pd2"]
+          "products": [
+            "pd29",
+            "pd40",
+            "pd42",
+            "pd15",
+            "pd2"
+          ]
         },
         "Skin_Care_Tools": {
           "name": "美容儀器",
-          "products": ["pd47", "pd48", "pd49", "pd50"]
+          "products": [
+            "pd47",
+            "pd48",
+            "pd49",
+            "pd50"
+          ]
         }
       }
     },
@@ -1021,23 +1132,62 @@
       "series": {
         "Face": {
           "name": "臉部彩妝",
-          "products": ["pd60", "pd58", "pd54", "pd55", "pd57", "pd51", "pd53", "pd56", "pd52", "pd59", "pd98"]
+          "products": [
+            "pd60",
+            "pd58",
+            "pd54",
+            "pd55",
+            "pd57",
+            "pd51",
+            "pd53",
+            "pd56",
+            "pd52",
+            "pd59",
+            "pd98"
+          ]
         },
         "Eyes": {
           "name": "眼妝彩妝",
-          "products": ["pd65", "pd71", "pd64", "pd67", "pd68", "pd69", "pd70", "pd66", "pd72"]
+          "products": [
+            "pd65",
+            "pd71",
+            "pd64",
+            "pd67",
+            "pd68",
+            "pd69",
+            "pd70",
+            "pd66",
+            "pd72"
+          ]
         },
         "Lips": {
           "name": "唇彩系列",
-          "products": ["pd61", "pd62", "pd63"]
+          "products": [
+            "pd61",
+            "pd62",
+            "pd63"
+          ]
         },
         "Fragrance": {
           "name": "香水",
-          "products": ["pd83"]
+          "products": [
+            "pd83"
+          ]
         },
         "Tools": {
           "name": "彩妝工具",
-          "products": ["pd82", "pd73", "pd74", "pd75", "pd76", "pd77", "pd78", "pd79", "pd80", "pd81"]
+          "products": [
+            "pd82",
+            "pd73",
+            "pd74",
+            "pd75",
+            "pd76",
+            "pd77",
+            "pd78",
+            "pd79",
+            "pd80",
+            "pd81"
+          ]
         }
       }
     },
@@ -1046,7 +1196,13 @@
       "series": {
         "Nutrition": {
           "name": "調養品",
-          "products": ["pd88", "pd90", "pd91", "pd92", "pd89"]
+          "products": [
+            "pd88",
+            "pd90",
+            "pd91",
+            "pd92",
+            "pd89"
+          ]
         }
       }
     },
@@ -1055,23 +1211,57 @@
       "series": {
         "Water_loving_Zone": {
           "name": "親水專區",
-          "products": ["pd21", "pd40", "pd24", "pd43", "pd51", "pd87", "pd38"]
+          "products": [
+            "pd21",
+            "pd40",
+            "pd24",
+            "pd43",
+            "pd51",
+            "pd87",
+            "pd38"
+          ]
         },
         "Skin_nourishing_Zone": {
           "name": "養膚專區",
-          "products": ["pd93", "pd1", "pd94", "pd23", "pd88", "pd96", "pd97"]
+          "products": [
+            "pd93",
+            "pd1",
+            "pd94",
+            "pd23",
+            "pd88",
+            "pd96",
+            "pd97"
+          ]
         },
         "Oil_controlling_Zone": {
           "name": "掃油專區",
-          "products": ["pd28", "pd29", "pd54", "pd42"]
+          "products": [
+            "pd28",
+            "pd29",
+            "pd54",
+            "pd42"
+          ]
         },
         "Stress_relieving_Zone": {
           "name": "舒壓專區",
-          "products": ["pd26", "pd27", "pd43", "pd13", "pd84"]
+          "products": [
+            "pd26",
+            "pd27",
+            "pd43",
+            "pd13",
+            "pd84"
+          ]
         },
         "Lazy_Girls_Favorite_Zone": {
           "name": "懶人專區",
-          "products": ["pd95", "pd4", "pd44", "pd24", "pd53", "pd2"]
+          "products": [
+            "pd95",
+            "pd4",
+            "pd44",
+            "pd24",
+            "pd53",
+            "pd2"
+          ]
         },
         "Skin_Test": {
           "name": "肌膚檢測",

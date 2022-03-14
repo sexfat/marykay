@@ -1,6 +1,32 @@
 .spirit {
+  .banner {
+    text-align: center;
+    background-color: #EAE9E9;
+
+    @include m() {
+      width: 100% !important;
+    }
+
+    img {
+      width: 996px;
+      margin: 0 auto;
+      object-fit: initial;
+    }
+  }
+
   .spirit__space {
+    .s_font {
+      @include m() {
+        font-size: 17px;
+        line-height: 1.7rem;
+        span {
+          font-size: 14px;
+        }
+      }
+    }
+
     padding: 0 2rem;
+
     @include media-breakpoint-up(xxl) {
       padding: 0 0rem;
     }
@@ -8,8 +34,9 @@
 
   .colorLine {
     margin-top: 65px;
+
     @include media-breakpoint-up(xxl) {
-      margin-bottom: 30px;
+      margin-bottom: 15px;
     }
   }
 
@@ -19,20 +46,25 @@
   }
 
   h4 {
-    margin-bottom: 26px;
-    @include media-breakpoint-up(xxl) {
-      margin-bottom: 55px;
-    }
+    margin-bottom: 30px;
+    // @include media-breakpoint-up(xxl) {
+    //   margin-bottom: 55px;
+    // }
   }
 
   .text_body {
-    font-family: 'marykay-bold', sans-serif;
+    // font-family: 'marykay-bold', sans-serif;
     line-height: 2;
     margin-bottom: 90px;
-    font-weight: 700;
+
     @include media-breakpoint-up(xxl) {
       margin-bottom: 130px;
       text-align: center;
+    }
+
+    @include m() {
+      line-height: 2;
+      margin-bottom: 50px;
     }
   }
 
@@ -40,9 +72,11 @@
     margin-bottom: 26px;
     font-size: 26px;
     font-weight: 700;
+
     @include media-breakpoint-up(xxl) {
       margin-bottom: 55px;
     }
+
     span {
       font-size: 18px;
     }
@@ -50,6 +84,7 @@
 
   .miss-give {
     margin-bottom: 48px;
+
     @include media-breakpoint-up(xxl) {
       margin-bottom: 55px;
     }
@@ -58,6 +93,7 @@
   .spirit__slider {
     position: relative;
     margin-bottom: 60px;
+
     @include media-breakpoint-up(xxl) {
       margin-bottom: 160px;
     }
@@ -74,6 +110,7 @@
       left: 1.5%;
       transform: translateY(-50%);
       width: initial;
+
       @include media-breakpoint-up(xl) {
         display: block;
       }
@@ -87,6 +124,7 @@
       right: 1.5%;
       transform: translateY(-50%);
       width: initial;
+
       @include media-breakpoint-up(xl) {
         display: block;
       }
