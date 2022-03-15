@@ -82,7 +82,7 @@ export default {
 
   head() {
     return {
-      title: `玫琳凱香港有限公司- Mary Kay (HK) Co. Ltd | 玫琳凱樂施精神`,
+      title: `美商玫琳凱台灣分公司MaryKay Taiwan | 玫琳凱樂施精神`,
       link: [{ rel: 'preload', href: require(`~/assets/images/spirit/banner.gif`), as: 'image' }],
     }
   },
