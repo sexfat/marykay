@@ -7,7 +7,7 @@
         </div>
       </div>
     </div>
-    <div>
+    <div class="banner container-fluid gx-0">
       <img class="img-fluid" src="~/assets/images/spirit/banner.gif" alt="spirit banner" />
     </div>
     <main class="container-xxl white gx-0">
@@ -23,7 +23,7 @@
       </section>
 
       <section class="pink spirit__space">
-        <div class="text_center s_font">
+        <div class="text_center s_font font1">
           玫琳凱獨特的文化其中有一條就是樂施精神。<br />幫助他人成功同時自己成功，你所付出的，終將加倍回報你的生命中！<br /><span
             >∼玫琳凱・艾施</span
           >
