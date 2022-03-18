@@ -3,6 +3,19 @@
     text-align: center;
     background-color: #EAE9E9;
 
+    .m_device {
+      display: none;
+      @include m(){
+      display: block; 
+      }
+    }
+     .d_device {
+      display: block;
+      @include m(){
+        display: none;
+      }
+    }
+
     @include m() {
       width: 100% !important;
     }
@@ -19,6 +32,7 @@
       @include m() {
         font-size: 17px;
         line-height: 1.7rem;
+
         span {
           font-size: 14px;
         }

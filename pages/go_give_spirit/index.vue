@@ -8,7 +8,8 @@
       </div>
     </div>
     <div class="banner container-fluid gx-0">
-      <img class="img-fluid" src="~/assets/images/spirit/banner.gif" alt="spirit banner" />
+      <img class="img-fluid d_device" src="~/assets/images/spirit/banner.gif" alt="spirit banner" />
+      <img class="img-fluid m_device" src="~/assets/images/spirit/banner_m.gif" alt="spirit banner" />
     </div>
     <main class="container-xxl white gx-0">
       <section class="spirit__space">
