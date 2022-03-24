@@ -1,5 +1,12 @@
 .s5 {
     width: 100%;
+    .s_1 {
+      h3 {
+        span {
+          font-family: marykay_serif, serif;
+        }
+      }
+    }
 
     .banner {
         height: 580px;
@@ -22,7 +29,6 @@
             font-size: 20px;
             width: 730px;
             margin: 0 auto;
-
             @include t() {
                 font-size: 14px;
                 width: 240px;
@@ -36,10 +42,16 @@
                 }
 
             }
+            .subtitles {
+               p {
+                 font-size: 20px;
+               }
+            }
         }
 
 
     }
+
 
     .video {
         height: 100%;
@@ -159,4 +171,3 @@
         }
     }
 }
-

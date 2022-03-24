@@ -1,13 +1,31 @@
 <template>
   <div id="s5" class="s5">
-    <div class="banner">
-      <div class="titles">
-        <h1 class="showcase -white" data-aos="fade-up" data-aos-duration="800">
-          <!--  eslint-disable-next-line vue/no-v-html -->
-          <b v-html="$t('pages.homepage.s5.h1')"></b>
-        </h1>
+    <div class="wrapper_slider">
+      <div class="banner s_1">
+        <div class="titles">
+          <h3 class="h4">
+            <p>
+              MultiVitamin
+              <br /><span>粉美維他命</span>
+            </p>
+          </h3>
+          <h1 class="showcase" data-aos="fade-up" data-aos-duration="800">
+            <!--  eslint-disable-next-line vue/no-v-html -->
+            <b>吃得下的健康彩虹</b>
+          </h1>
+          <a target="_blank" href="#" class="btn-outline btn-large margin-top_30 margin-bottom_20">更多資訊</a>
+        </div>
+        <img src="~assets/images/s5_banner.jpg" alt="" srcset="" />
       </div>
-      <img src="~assets/images/CS_index.jpg" alt="" srcset="" />
+      <div class="banner s_2">
+        <div class="titles">
+          <h1 class="showcase -white" data-aos="fade-up" data-aos-duration="800">
+            <!--  eslint-disable-next-line vue/no-v-html -->
+            <b v-html="$t('pages.homepage.s5.h1')"></b>
+          </h1>
+        </div>
+        <img src="~assets/images/CS_index.jpg" alt="" srcset="" />
+      </div>
     </div>
     <div class="container-fluid">
       <div class="row">
