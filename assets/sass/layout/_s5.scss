@@ -1,7 +1,6 @@
 .s5 {
     width: 100%;
 
-
     .banner {
         height: 580px;
         overflow: hidden;
@@ -23,7 +22,7 @@
             font-size: 20px;
             width: 625px;
             margin: 0 auto;
-            color:#333;
+            color: rgb(255, 255, 255);
             left: 10%;
 
             sup {
@@ -196,6 +195,6 @@
 }
 
 .s5underline {
-  font-weight: bold;
-  text-decoration: underline;
+    font-weight: bold;
+    text-decoration: underline;
 }

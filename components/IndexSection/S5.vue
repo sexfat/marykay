@@ -3,10 +3,10 @@
     <div class="banner">
       <div class="titles">
         <h1 class="showcase" data-aos="fade-up" data-aos-duration="800">
-          <b>CLINICAL SOLUTIONS<sup>™</sup> <br />Retinol 0.5 <br />Calm + Restore Facial Milk</b>
+          <b>小美VS健康 食物VS美麗 <br />吃出VS彩虹食力</b>
         </h1>
       </div>
-      <img src="~assets/images/CS_index.jpg" alt="" srcset="" />
+      <img src="~assets/images/s5_banner.jpg" alt="" srcset="" />
     </div>
     <div class="container-fluid">
       <div class="row">
