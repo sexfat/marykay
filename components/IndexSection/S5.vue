@@ -15,12 +15,9 @@
             <p class="small_title">NEW</p>
             <h3 class="h4">科研Lab系列</h3>
             <p class="margin-top_30"><b class="s5underline">領先科技 激活肌膚</b> 全方位提升肌膚質感</p>
-            <a
-              href="https://marykaytwn.wixsite.com/clinicalsolutiontw"
-              target="_blank"
-              class="btn-outline btn-large margin-top_30"
-              >{{ $t('pages.homepage.more') }}</a
-            >
+            <nuxt-link to="/products/Skin_nourishing_Zone/pd96" class="btn-outline btn-large margin-top_30">{{
+              $t('pages.homepage.more')
+            }}</nuxt-link>
           </div>
         </div>
         <div class="col-lg-5 col-md-12 nomargin">

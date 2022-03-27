@@ -1109,6 +1109,7 @@
         "Targeted_Solutions": {
           "name": "特殊護理",
           "products": [
+            "pd100",
             "pd29",
             "pd40",
             "pd42",
@@ -1197,6 +1198,7 @@
         "Nutrition": {
           "name": "調養品",
           "products": [
+            "pd99",
             "pd88",
             "pd90",
             "pd91",
@@ -2877,6 +2879,41 @@
         "img_02": "m/a/ma112.jpg",
         "img_03": "m/a/ma113.jpg",
         "img_04": "m/a/ma114.jpg"
+      },
+      "description_image": null
+    },
+    "pd99": {
+      "name": "粉美維他命",
+      "series": "",
+      "description": "VS彩虹食力  Vege-Super <br>每日補充，美力維持<br>小小一顆，內含七種彩虹健康食物<br>• 七種精選當令季節、知名產區的彩色蔬果:石榴、葡萄柚、柳橙、橄欖、綠茶、歐洲藍莓、葡萄<br>• 純水萃取整顆蔬果、不輾壓，保留完整營養素，不使用任何人工添加劑<br>• 層層把關吃得安心: 所有原料先經過嚴格審核檢驗才做萃取，萃取後再次檢驗，確保安全純淨方能生產包裝<br>• 高標準生產: 歐洲原料，美國製造，堅持讓你吃到最好",
+      "capacity": "60顆膠囊",
+      "skin_suitable": "18歲以上，愛美族、外食族、運動族群",
+      "usage": "每日兩粒，餐前/餐後隨餐服用。",
+      "function": "維持健康，補充日常所需蔬果營養素<br>養顏美容，青春美麗",
+      "price": "1500",
+      "principal_components": null,
+      "video_source": "sa61.mp4",
+      "small_images": {
+        "img_01": "s/a/sa61.jpg"
+      },
+      "description_image": null
+    },
+    "pd100": {
+      "name": "絕袋佳人亮眼霜",
+      "series": "",
+      "description": "平滑柔焦眼下、光采眼周立現<br>恢復活力電眼",
+      "capacity": "10g",
+      "skin_suitable": "全膚質",
+      "usage": "洗完臉後，擠一粒米大小亮眼霜<br>於眼下輕拍上薄薄的一層，等待2-3分鐘<br>後續接著再繼續使用其他保養彩妝產品<br>絕袋佳人亮眼霜15分鐘後完全生效<br><br>有使用絕袋佳人亮眼霜的區域<br>保養上妝時請輕拍、避免來回塗抹<br>晚上記得針對使用區域進行卸妝",
+      "function": "平滑柔焦眼下、修飾撫平眼周肌膚",
+      "price": "800",
+      "principal_components": null,
+      "video_source": "fi61.mp4",
+      "small_images": {
+        "img_01": "f/i/fi61.jpg",
+        "img_02": "f/i/fi62.jpg",
+        "img_03": "f/i/fi63.jpg",
+        "img_04": "f/i/fi64.jpg"
       },
       "description_image": null
     }
