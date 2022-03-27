@@ -1,7 +1,7 @@
 <template>
   <div id="s5" class="s5">
-    <div class="wrapper_slider">
-      <div class="banner s_1">
+    <Swiper :options="swiperOptions_banner" class="wrapper_slider">
+      <Swiper-slide class="banner s_1">
         <div class="titles">
           <h3 class="h4">
             <p>
@@ -10,23 +10,29 @@
             </p>
           </h3>
           <h1 class="showcase" data-aos="fade-up" data-aos-duration="800">
-            <!--  eslint-disable-next-line vue/no-v-html -->
             <b>吃得下的健康彩虹</b>
           </h1>
-          <a target="_blank" href="#" class="btn-outline btn-large margin-top_30 margin-bottom_20">更多資訊</a>
+          <a
+            target="_blank"
+            href="https://marykayhk.wixsite.com/multivitamin"
+            class="btn-outline btn-large margin-top_30 margin-bottom_20"
+            >更多資訊</a
+          >
         </div>
-        <img src="~assets/images/s5_banner.jpg" alt="" srcset="" />
-      </div>
-      <div class="banner s_2">
+        <img src="~assets/images/s5_banner.jpg" />
+      </Swiper-slide>
+      <Swiper-slide class="banner s_2">
         <div class="titles">
           <h1 class="showcase -white" data-aos="fade-up" data-aos-duration="800">
             <!--  eslint-disable-next-line vue/no-v-html -->
             <b v-html="$t('pages.homepage.s5.h1')"></b>
           </h1>
         </div>
-        <img src="~assets/images/CS_index.jpg" alt="" srcset="" />
-      </div>
-    </div>
+        <img src="~assets/images/CS_index.jpg" />
+      </Swiper-slide>
+      <div slot="button-prev" class="swiper-button-prev"></div>
+      <div slot="button-next" class="swiper-button-next"></div>
+    </Swiper>
     <div class="container-fluid">
       <div class="row">
         <div class="col-lg-7 col-md-12 dark flex">
@@ -63,7 +69,7 @@
         <div class="wrapper_slider">
           <div class="silder_2 swiper-container">
             <Swiper :options="swiperOptions">
-              <Swiper-slide v-for="(value, item) in sliderData" ref="s5Swiper" :key="item">
+              <Swiper-slide v-for="(value, item) in sliderData" :key="item">
                 <img :src="require(`~/assets/images/${value.img}`)" alt="" srcset="" />
                 <div class="spc">
                   <h4 class="titles">{{ value.title }}</h4>
@@ -108,6 +114,17 @@ export default {
         navigation: {
           nextEl: '.swiper-button-next',
           prevEl: '.swiper-button-prev',
+        },
+      },
+      swiperOptions_banner: {
+        loop: true,
+        slidesPerView: 1,
+        autoplay: {
+          delay: 2500,
+        },
+        navigation: {
+          nextEl: '.wrapper_slider .swiper-button-next',
+          prevEl: '.wrapper_slider .swiper-button-prev',
         },
       },
     }

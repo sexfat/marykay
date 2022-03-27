@@ -1108,7 +1108,7 @@
         },
         "Skin_Supplements": {
           "name": "補充性保養系列",
-          "products": ["pd31", "pd32", "pd33", "pd34", "pd35", "pd36", "pd37", "pd38", "pd111"]
+          "products": ["pd31", "pd32", "pd33", "pd34", "pd35", "pd36", "pd124", "pd37", "pd38", "pd111"]
         },
         "LumiVie": {
           "name": "亮采系列",
@@ -1221,7 +1221,7 @@
       "series": {
         "Nutrition": {
           "name": "食物補充品",
-          "products": ["pd105", "pd106", "pd107", "pd108", "pd109"]
+          "products": ["pd123", "pd105", "pd106", "pd107", "pd108", "pd109"]
         }
       }
     },
@@ -2660,7 +2660,6 @@
         "img_05": "m/c/mc27.jpg",
         "img_06": "m/c/mc28.jpg",
         "img_07": "m/c/mc29.jpg"
-
       },
       "description_image": null
     },
@@ -3608,6 +3607,50 @@
         "img_02": "m/b/mb124.jpg",
         "img_03": "m/b/mb122.png",
         "img_04": "m/b/mb123.png"
+      },
+      "description_image": null
+    },
+    "pd123": {
+      "name": "粉美維他命",
+      "ename": " ",
+      "series": "怡日健系列",
+      "header_links": null,
+      "description": "<ul><li>超級蔬果補充劑</li><li>全面營養組合富含 7種Super Food 超級食物的萃取、6種重要礦物質及5種維他命，填補飲食中的空缺，提供身體每日所需關鍵營養素</li><li>歐洲萃取營養，整棵不碾碎萃取，每年指定時間摘取，以獲取最多的營養</li></ul>",
+      "capacity": "60粒",
+      "skin_suitable": "經皮膚科醫生測試<br>通過皮膚刺激性和過敏性臨床測試<br>適合敏感肌膚<br>不易引致粉刺",
+      "usage": "每天服用2粒，建議餐前服用",
+      "function": "\"全面營養組合富含 7種Super Food 超級食物的萃取、6種重要礦物質及5種維他命，填補飲食中的空缺，提供身體每日所需關鍵營養素，以維持身體健康，同時由內而外延緩衰老。<br><br><ul><li>蘊含7大超級食物包括葡萄籽、石榴及綠茶萃取等，有助維持身體健康及年輕肌膚，例如肌肉、骨骼、免疫系統、新陳代謝及減少疲勞等</li><li>材料源自歐洲及中國，於不同季節摘取，並以原棵萃取，確保能夠鎖住營養。同時亦經過多重檢測，於萃取前及後不同的生產程序中反覆檢測，確保達到高品質及無雜質的要求</li><li>超級蔬果補充劑，為你打好健康基礎 \"</li></ul>",
+      "principal_components": "\"七大超級食物精萃，相等於一份蔬果的抗氧化份量<ul><li>山桑子萃取 (Bilberry Extract)</li><li>石榴萃取 (Pomegranate Extract)</li><li>綠茶萃取 (Green Tea Extract)</li><li>橄欖葉萃取 (Green Olive Leaf Extract)</li><li>葡萄籽萃取 (Grape Seed Extract)</li><li>葡萄柚萃取 (Grapefruit Extract)</li><li>柑橘萃取 (Citrus Extract)</li></ul><br><b>五大維他命</b><ul><li>維他命A</li><li>維他命B</li><li>維他命C</li><li>維他命D</li><li>維他命E</li></ul><br><b>六種礦物質</b><ul><li>鎂 (Magnesium)</li><li>銅 (Copper)</li><li>鐵 (Iron)</li><li>鋅 (Zinc)</li><li>鉻 (Chromium)</li><li>硒 (Selenium)\"</li></ul>",
+      "hint": "不含人造色素<br>不含人造香料<br>不含麩質<br>素食者配方",
+      "price": "HK$380",
+      "video_source": "sa6.mp4",
+      "normal_image": null,
+      "small_images": {
+        "img_01": "s/a/sa61.jpg"
+      },
+      "description_image": null
+    },
+    "pd124": {
+      "name": "眼袋隱形霜",
+      "ename": " ",
+      "series": "補充性護膚系列",
+      "header_links": null,
+      "description": "\"創新速效配方，使眼袋像魔術一樣消失。經臨床研究證實<sup>*</sup>，眼袋隱形霜能夠暫時性地減少眼部浮腫，令眼袋顯現度即時減低，告別疲憊無神、恢復活力電眼！<ul><li>獨特創新速效配方，15分鐘立即見效</li><li>從眼部肌膚吸取多餘水分，減輕眼部浮腫現象，令眼袋即時隱形</li><li>平滑柔焦眼下肌膚，以撫平眼部肌膚</li><li>減低細紋及皺紋的顯現度，令雙眼即時回復神采\"</li></ul>",
+      "capacity": "10g",
+      "skin_suitable": "經皮膚科醫生測試<br>經眼科醫生測試<br>通過皮膚刺激性和過敏性臨床測試",
+      "usage": "潔面後，將約米粒大小的乳霜，輕拍薄薄一層於眼下區域，並靜止面部表情約 2-3 分鐘，待乳霜乾掉後再使用後續護膚及化妝程序。避免直接接觸眼睛。用後洗淨雙手。晚上可使用潔面乳或卸妝品徹底卸除。",
+      "function": "<ul><li>獨特創新速效配方，15分鐘立即見效</li><li>吸取眼部肌膚多餘水分，減輕眼部浮腫現象，令眼袋即時隱形</li><li>減低細紋及皺紋的顯現度</li><li>獨立消費者研究證實<sup>*</sup>：</li><li>96%用家表示浮腫立即明顯減少了近27%</li><li>有效減輕眼部浮腫現象及細紋、皺紋的出現能瞬間撫平眼部肌膚</li><li>提供暫時性地眼部色調平衡</li></ul><br><div class=\"thin\"><sup>*</sup>結果基於獨立專家在6小時臨床研究中評估28名小組成員使用後的結果。</div>",
+      "principal_components": "<ul><li><b>凹凸棒石粘土(凹土) (Attapulgite)</b></li><li><b>阿拉伯膠 (Acacia Senegal Gum)</b></li><li><b>黃原膠 (Xanthan gum)</b></li><li><b>丁二醇 (Butylene Glycol)</b></li><li><b>雲母 (Mica)</b></li></ul>",
+      "price": "HK$198",
+      "video_source": "pf10.mp4",
+      "normal_image": null,
+      "small_images": {
+        "img_01": "p/f/pf101.jpg",
+        "img_02": "p/f/pf102.jpg",
+        "img_03": "p/f/pf103.jpg",
+        "img_04": "p/f/pf104.jpg",
+        "img_05": "p/f/pf105.jpg",
+        "img_06": "p/f/pf106.jpg"
       },
       "description_image": null
     }
