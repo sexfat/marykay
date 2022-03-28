@@ -118,9 +118,14 @@ export default {
       },
       swiperOptions_banner: {
         loop: true,
+        speed: 450,
+        effect: 'fade',
+        fadeEffect: {
+          crossFade: true,
+        },
         slidesPerView: 1,
         autoplay: {
-          delay: 2500,
+          delay: 5000,
         },
         navigation: {
           nextEl: '.wrapper_slider .swiper-button-next',
