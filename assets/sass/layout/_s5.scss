@@ -159,6 +159,15 @@
 
 
     }
+    .s5_swiper_wrap {
+        .swiper-button-next{
+            right:25px;
+        }
+    }
+    
+    .swiper-container-fade .swiper-slide:not(.swiper-slide-active) [data-aos].aos-animate{
+        pointer-events: none !important;
+    }
 }
 
 #en {

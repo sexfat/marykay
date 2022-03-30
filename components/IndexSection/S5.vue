@@ -1,53 +1,85 @@
+<!--  eslint-disable vue/no-v-html -->
 <template>
   <div id="s5" class="s5">
-    <Swiper :options="swiperOptions_banner" class="wrapper_slider">
-      <Swiper-slide class="banner s_1">
-        <div class="titles">
-          <h1 class="showcase" data-aos="fade-up" data-aos-duration="800">
-            <b>吃得下的健康彩虹</b>
-          </h1>
+    <Swiper class="s5_swiper_wrap" :options="swiperOptions_banner">
+      <Swiper-slide>
+        <div class="wrapper_slider">
+          <div class="banner s_1">
+            <div class="titles">
+              <h1 class="showcase" data-aos="fade-up" data-aos-duration="800">
+                <b>吃得下的健康彩虹</b>
+              </h1>
+            </div>
+            <img src="~assets/images/s5_banner.jpg" />
+          </div>
         </div>
-        <img src="~assets/images/s5_banner.jpg" />
+        <div class="container-fluid">
+          <div class="row">
+            <div class="col-lg-7 col-md-12 dark flex">
+              <div class="body" data-aos="fade-downs" data-aos-duration="1000">
+                <p class="small_title">NEW</p>
+                <h3 class="h4">
+                  {{ $t('pages.homepage.s5.h3_2') }}<br />
+                  {{ $t('pages.homepage.s5.h31') }}
+                </h3>
+                <p class="margin-top_30">
+                  {{ $t('pages.homepage.s5.text_2') }}
+                </p>
+                <a
+                  target="_blank"
+                  href="https://marykayhk.wixsite.com/multivitamin"
+                  class="btn-outline btn-large margin-top_30 margin-bottom_20"
+                  >{{ $t('pages.homepage.more') }}</a
+                >
+              </div>
+            </div>
+            <div class="col-lg-5 col-md-12 nomargin">
+              <video class="video" poster="" playsinline loop autoplay muted>
+                <source src="~assets/images/video/sa6.mp4" type="video/mp4" />
+              </video>
+            </div>
+          </div>
+        </div>
       </Swiper-slide>
-      <Swiper-slide class="banner s_2">
-        <div class="titles">
-          <h1 class="showcase -white" data-aos="fade-up" data-aos-duration="800">
-            <!--  eslint-disable-next-line vue/no-v-html -->
-            <b v-html="$t('pages.homepage.s5.h1')"></b>
-          </h1>
+      <Swiper-slide>
+        <div class="wrapper_slider">
+          <div class="banner s_2">
+            <div class="titles">
+              <h1 class="showcase -white" data-aos="fade-up" data-aos-duration="800">
+                <b v-html="$t('pages.homepage.s5.h1')"></b>
+              </h1>
+            </div>
+            <img src="~assets/images/CS_index.jpg" />
+          </div>
         </div>
-        <img src="~assets/images/CS_index.jpg" />
+        <div class="container-fluid">
+          <div class="row">
+            <div class="col-lg-7 col-md-12 dark flex">
+              <div class="body" data-aos="fade-downs" data-aos-duration="1000">
+                <p class="small_title">NEW</p>
+                <h3 class="h4">{{ $t('pages.homepage.s5.h3') }}</h3>
+                <p class="margin-top_30">
+                  {{ $t('pages.homepage.s5.text') }}
+                </p>
+                <a
+                  target="_blank"
+                  href="https://marykaytwn.wixsite.com/clinicalsolutionhk"
+                  class="btn-outline btn-large margin-top_30 margin-bottom_20"
+                  >{{ $t('pages.homepage.more') }}</a
+                >
+              </div>
+            </div>
+            <div class="col-lg-5 col-md-12 nomargin">
+              <video class="video" poster="" playsinline loop autoplay muted>
+                <source src="~assets/images/video/pl.mp4" type="video/mp4" />
+              </video>
+            </div>
+          </div>
+        </div>
       </Swiper-slide>
       <div slot="button-prev" class="swiper-button-prev"></div>
       <div slot="button-next" class="swiper-button-next"></div>
     </Swiper>
-    <div class="container-fluid">
-      <div class="row">
-        <div class="col-lg-7 col-md-12 dark flex">
-          <div class="body" data-aos="fade-downs" data-aos-duration="1000">
-            <p class="small_title">NEW</p>
-            <h3 class="h4">
-              {{ $t('pages.homepage.s5.h3') }}<br />
-              {{ $t('pages.homepage.s5.h31') }}
-            </h3>
-            <p class="margin-top_30">
-              {{ $t('pages.homepage.s5.text') }}
-            </p>
-            <a
-              target="_blank"
-              href="https://marykayhk.wixsite.com/multivitamin"
-              class="btn-outline btn-large margin-top_30 margin-bottom_20"
-              >{{ $t('pages.homepage.more') }}</a
-            >
-          </div>
-        </div>
-        <div class="col-lg-5 col-md-12 nomargin">
-          <video class="video" poster="" playsinline loop autoplay muted>
-            <source src="~assets/images/video/pl.mp4" type="video/mp4" />
-          </video>
-        </div>
-      </div>
-    </div>
     <!-- 探索更多 -->
     <div class="container-xxl explore white text_center margin-top_60">
       <div class="row">
@@ -117,10 +149,11 @@ export default {
         slidesPerView: 1,
         autoplay: {
           delay: 5000,
+          disableOnInteraction: true,
         },
         navigation: {
-          nextEl: '.wrapper_slider .swiper-button-next',
-          prevEl: '.wrapper_slider .swiper-button-prev',
+          nextEl: '.s5_swiper_wrap .swiper-button-next',
+          prevEl: '.s5_swiper_wrap .swiper-button-prev',
         },
       },
     }
