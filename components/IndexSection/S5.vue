@@ -3,21 +3,9 @@
     <Swiper :options="swiperOptions_banner" class="wrapper_slider">
       <Swiper-slide class="banner s_1">
         <div class="titles">
-          <h3 class="h4">
-            <p>
-              MultiVitamin
-              <br /><span>粉美維他命</span>
-            </p>
-          </h3>
           <h1 class="showcase" data-aos="fade-up" data-aos-duration="800">
             <b>吃得下的健康彩虹</b>
           </h1>
-          <a
-            target="_blank"
-            href="https://marykayhk.wixsite.com/multivitamin"
-            class="btn-outline btn-large margin-top_30 margin-bottom_20"
-            >更多資訊</a
-          >
         </div>
         <img src="~assets/images/s5_banner.jpg" />
       </Swiper-slide>
@@ -38,13 +26,16 @@
         <div class="col-lg-7 col-md-12 dark flex">
           <div class="body" data-aos="fade-downs" data-aos-duration="1000">
             <p class="small_title">NEW</p>
-            <h3 class="h4">{{ $t('pages.homepage.s5.h3') }}</h3>
+            <h3 class="h4">
+              {{ $t('pages.homepage.s5.h3') }}<br />
+              {{ $t('pages.homepage.s5.h31') }}
+            </h3>
             <p class="margin-top_30">
               {{ $t('pages.homepage.s5.text') }}
             </p>
             <a
               target="_blank"
-              href="https://marykaytwn.wixsite.com/clinicalsolutionhk"
+              href="https://marykayhk.wixsite.com/multivitamin"
               class="btn-outline btn-large margin-top_30 margin-bottom_20"
               >{{ $t('pages.homepage.more') }}</a
             >

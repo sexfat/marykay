@@ -21,6 +21,7 @@
                 display: flex;
                 width: 70%;
                 flex-wrap: wrap;
+
                 li {
                     cursor: pointer;
 
@@ -122,6 +123,16 @@
 
             h3 {
                 margin: 40px 0 10px;
+
+               
+                    a {
+                        color: #333;
+                        font-size: 18px;
+                        &:hover {
+                          color: lighten(#333, 20);
+                        }
+                    }
+
             }
 
             margin: 100px 0;

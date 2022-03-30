@@ -82,6 +82,11 @@
           <h3>{{ $t('pages.product_page.principal_components') }}</h3>
           <div v-html="$t(`${path}.principal_components`)"></div>
         </section>
+        <section v-if="productData ? productData.principal_links : false">
+          <h3>
+            <a class="link" target="_blank" :href="$t(`${path}.principal_links`)">更多資訊</a>
+          </h3>
+        </section>
       </div>
     </div>
   </div>
