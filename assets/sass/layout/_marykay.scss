@@ -18,7 +18,9 @@
 
 //首頁
 .slider h1.showcase {
-    b { font-family: 'marykay-bold', serif;}
+    b {
+        font-family: 'marykay-bold', serif;
+    }
 
 }
 
@@ -36,4 +38,121 @@ h1.showcase {
         font-size: 2.3em;
         margin-left: .5em;
     }
+}
+
+
+// index banner 聲明稿
+
+
+.index_banner {
+    color: #252525;
+    font-size: 19px;
+    height: initial;
+    .spec {
+      margin-top: 50px;
+    }
+     @include m() {
+       font-size: 14px;
+       height: initial;
+     }
+    .swiper-button-next{
+    right: -5px;
+      &:after {
+         color:#b6b6b6
+      } 
+    }
+    .swiper-button-prev {
+    left: -5px;
+       &:after {
+         color:#b6b6b6
+      } 
+    
+    } 
+
+    b {
+        //   color: black;
+        font-weight: bold;
+    }
+
+    .underline {
+        text-decoration: underline;
+        font-weight: bold;
+    }
+    a {
+    font-size: 1.1rem;
+      color: black;
+      &:hover {
+       color: #252525;
+      }
+      @include m() {
+         word-break: break-all;
+         font-size: .8rem;
+      }
+    }
+
+    .announce {
+        max-width: 996px;
+        width: 100%;
+        margin: 5% auto 0;
+
+        // .carousel {
+        // }
+
+        .logo {
+            text-align: center;
+            margin-bottom: 25px;
+            @include m() {
+             margin-bottom: initial;
+             
+            }
+
+            img {
+                max-width: 350px;
+                @include m() {
+                   max-width: 240px;
+                   display: none;
+                }
+                
+                width: 100%;
+            }
+        }
+
+        .inner_content {
+            text-align: center;
+            padding: 28px;
+
+            div {
+                text-align: left;
+
+                h5 {
+                    margin-top: 30px;
+                        @include m() {
+                          margin-top: 12px;
+                          font-size: 14px;
+                        }
+
+                    &:nth-child(1) {
+                        margin-top: initial
+                    }
+                }
+
+                ul {
+                    list-style-type: decimal;
+                    padding-left: 1.5rem;
+
+                    li {
+                        margin: 10px 0;
+                            @include m() {
+                            margin: 0;
+                            }
+                    }
+
+                }
+            }
+
+        }
+
+    }
+
+
 }
