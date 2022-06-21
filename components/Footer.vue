@@ -34,9 +34,20 @@
               <nuxt-link :to="localePath('/business')">事業機會 </nuxt-link>
             </li>
             <li>
-              <a target="_blank" href="https://www.marykayintouch.com.tw">{{
-                $t('pages.footer.related_links.links.link_1')
-              }}</a>
+              <a
+                target="_blank"
+                href="https://mk.marykayintouch.com.tw/s/agreements-welcome?language=zh_TW
+"
+                >{{ $t('pages.footer.related_links.links.link_0') }}</a
+              >
+            </li>
+            <li>
+              <a
+                target="_blank"
+                href="Https://Mk.marykayintouch.com.tw
+  "
+                >{{ $t('pages.footer.related_links.links.link_1') }}</a
+              >
             </li>
             <li>
               <nuxt-link :to="localePath('/global_company')"

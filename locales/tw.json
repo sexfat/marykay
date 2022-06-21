@@ -294,6 +294,7 @@
       "related_links": {
         "name": "相關連結",
         "links": {
+          "link_0": "新美容顧問線上註冊申請",
           "link_1": "美容顧問登入",
           "link_2": "全球分公司",
           "link_3": "​商德約法"
@@ -2037,7 +2038,7 @@
       "function": "清潔/按摩臉部",
       "price": "4200",
       "principal_components": null,
-      "video_source": "fj21.mp4",
+      "video_source": null,
       "small_images": {
         "img_01": "f/j/fj21.jpg"
       },

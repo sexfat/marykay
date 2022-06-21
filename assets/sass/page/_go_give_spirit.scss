@@ -5,13 +5,16 @@
 
     .m_device {
       display: none;
-      @include m(){
-      display: block; 
+
+      @include m() {
+        display: block;
       }
     }
-     .d_device {
+
+    .d_device {
       display: block;
-      @include m(){
+
+      @include m() {
         display: none;
       }
     }
@@ -97,16 +100,25 @@
   }
 
   .miss-give {
-    margin-bottom: 48px;
+    margin-bottom: 90px;
 
-    @include media-breakpoint-up(xxl) {
-      margin-bottom: 55px;
+    @include m() {
+      margin-bottom: 48px;
     }
   }
 
   .spirit__slider {
     position: relative;
     margin-bottom: 60px;
+    text-align: center;
+
+    img {
+      width: 85%;
+
+      @include m() {
+        width: 100%;
+      }
+    }
 
     @include media-breakpoint-up(xxl) {
       margin-bottom: 160px;
