@@ -186,7 +186,7 @@
             <img src="~assets/images/TW_layoutA/img_about_story_2011.jpg" alt="" />
           </div>
 
-          <!-- s -->
+          <!-- ss -->
           <div class="swiper-slide">
             <div class="txt">
               <h4>2017年</h4>
@@ -210,7 +210,7 @@
             </div>
             <img src="~assets/images/TW_layoutA/img_about_story_20191.jpg" alt="" />
           </div>
-          <!-- s -->
+          <!-- ss -->
           <div class="swiper-slide">
             <div class="txt">
               <h4>NOW</h4>

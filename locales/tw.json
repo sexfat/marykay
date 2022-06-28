@@ -934,7 +934,8 @@
           "name": "科研Lab系列",
           "products": [
             "pd96",
-            "pd97"
+            "pd97",
+            "pd101"
           ]
         },
         "Naturally": {
@@ -2915,6 +2916,25 @@
         "img_02": "f/i/fi62.jpg",
         "img_03": "f/i/fi63.jpg",
         "img_04": "f/i/fi64.jpg"
+      },
+      "description_image": null
+    },
+    "pd101": {
+      "name": "科研Lab阿魏酸安瓶精華",
+      "series": "科研Lab",
+      "description": "一滴激發你的肌膚潛力！<br>瞄準特定肌膚困擾，嚴選科學成分、精準高效<br>阿魏酸︱緊實淨白、喚醒肌膚健康光采<br>菸鹼醯胺︱改善膚色不均、細緻毛孔、強化防護力<br>海軍豆萃取︱改善暗沉、恢復肌膚透亮",
+      "capacity": "15ml",
+      "skin_suitable": "全膚質",
+      "usage": "早晚清潔肌膚後，使用於化妝水後、精華液前，取6-8滴於掌心，避開眼周，輕輕塗抹於全臉及頸部肌膚。",
+      "function": "亮白肌膚、改善暗沉及膚色不均。",
+      "price": "1500",
+      "principal_components": null,
+      "video_source": null,
+      "small_images": {
+        "img_01": "p/j/pj32.jpg",
+        "img_02": "p/j/pj31.jpg",
+        "img_03": "p/j/pj33.jpg",
+        "img_04": "p/j/pj34.jpg"
       },
       "description_image": null
     }
