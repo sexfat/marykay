@@ -31,7 +31,23 @@
           <h4>{{ $t('pages.footer.related_links.name') }}</h4>
           <ul>
             <li>
-              <a target="_blank" href="https://www.marykayintouch.com.hk">{{
+              <a
+                target="_blank"
+                href="https://mk.marykayintouch.com.hk/s/agreements-welcome?language=zh_HK
+"
+                >{{ $t('pages.footer.related_links.links.link_0') }}</a
+              >
+            </li>
+            <li>
+              <a
+                target="_blank"
+                href="https://mk.marykayintouch.com.hk/s/agreements-welcome?language=en_HK
+"
+                >{{ $t('pages.footer.related_links.links.link_4') }}</a
+              >
+            </li>
+            <li>
+              <a target="_blank" href="Https://Mk.marykayintouch.com.hk">{{
                 $t('pages.footer.related_links.links.link_1')
               }}</a>
             </li>

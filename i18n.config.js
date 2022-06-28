@@ -17,6 +17,7 @@ export default function (lang) {
           messages: {
             zh: require('./locales/zh.json'),
           },
+          silentTranslationWarn: true
         },
       }
       break

@@ -55,5 +55,72 @@
                 "img_01": "c/e/ce11.jpg"
             },
             "description_image": null
+        },
+        "pd109": {
+            "name": "怡日健<sup>®</sup>綜合維他命B",
+            "ename": "Daily Benefits<sup>®</sup> Complex B",
+            "series": null,
+            "header_links": null,
+            "description": "<ul><li>補充不易被身體儲存的維他命Ｂ，維持精神充沛及促進身體代謝。</li><br><li>含人體所需的8種維他命B，當中的煙醯胺、生物素和葉酸，守護你健康的同時更守護你的美麗。</li><br><li>科學含量，高效補充，滿足日常所需。</li><br><li>採用薄膜包衣技術，避光隔熱防潮，鎖住核心營養。</li><br><li>細小圓片，容易吞服，體內 5 分鐘溶解。</li><br><li>品質嚴格監控，產品通過600多項檢測。</li><br><li>源自百年營養品原料供應商 - DSM (荷蘭皇家帝斯曼)，在符合製藥標準的 Mary Kay 廠房生產，全球多個品質管制體系認證，確保高品質。</li></ul>",
+            "capacity": "90片",
+            "skin_suitable": null,
+            "usage": "每日1次，每次１片，以水吞服。",
+            "function": null,
+            "principal_components": null,
+            "price": "HK$238",
+            "video_source": null,
+            "normal_image": null,
+            "small_images": {
+                "img_01": "s/a/sa51.jpg",
+                "img_02": "s/a/sa52.jpg"
+            },
+            "description_image": null
+        },
+        "pd24": {
+            "name": "天然淨活去角質粉",
+            "ename": "Naturally<sup>®</sup> Exfoliating Powder",
+            "series": [
+                "ps04",
+                "pf09"
+            ],
+            "header_links": [
+                "product_series",
+                "product_features"
+            ],
+            "description": "100％的天然成分<sup>1</sup>。深層清潔毛孔，去除膚色暗沉的死皮細胞。配方加入氫化蓖麻油製成的細蠟粒和檸檬酸，輕柔地去除角質，幫助皮膚細胞更新，享受柔軟光滑的肌膚。有效收細毛孔，賦予肌膚健康光采，為後續肌膚護理做好準備。具有淡淡的香草味，天然清新香氣亦能使你平靜放鬆。<br><sup>1</sup>根據第三方標準（COSMOS標準）許可加工的天然來源。天然資源包括水，植物，礦物質，礦物成分和其他農業成分。<br><br>COSMOS天然認證是通過Ecocert Greenlife 的COSMOS標準而獲取認證的。",
+            "capacity": "74g",
+            "skin_suitable": "適合中性至乾性膚質<br>適合敏感性肌膚",
+            "usage": "打開前先搖勻。避開眼周及避免吸入粉末。取適量產品於掌心中，加進適量清水，用指尖微微將「去角質粉」與清水混合以達到所需的稠度。建議加入2-3滴天然淨活多效精華油，輕輕打圈按摩，再以溫水沖洗或溫濕美容巾擦拭乾淨。",
+            "function": "ECOCERT COSMOS天然標準認證<br>不含防腐劑、塑化劑、化學界面活性劑SLS/SLES、酒精、矽膠、人工香料及色素、礦物油、基因改造成分<br>經皮膚科醫生測試<br>過皮膚刺激性和過敏性臨床測試<br>不易引致粉刺",
+            "principal_components": "<ul><li><b>小蘇打(Baking Soda)</b>：天然傳統去角質的方法，具有深層清潔和舒緩作用。</li><br><li><b>氫化蓖麻油(Hydrogenated Castor Oil)</b>：製成細蠟粒，提供去角質功效，幫助皮膚細胞更新，去除膚色暗沉的死皮細胞。</li><br><li><b>檸檬酸(Citric Acid)</b>：具抗氧化功效，溫和去角質。</li><br><li><b>大米澱粉(Rice Starch)</b>：具有吸收性，，並可補充肌膚所缺失水分，使肌膚光滑細膩充滿彈性。</li></ul>",
+            "price": "HK$348",
+            "video_source": "pd.mp4",
+            "normal_image": null,
+            "small_images": {
+                "img_01": "p/d/pd21.jpg",
+                "img_02": "p/d/pd22.jpg",
+                "img_03": "p/d/pd23.jpg"
+            },
+            "description_image": "天然淨活去角質粉02.jpg<br>天然淨活.jpg<br>"
+        },
+        "pd75": {
+            "name": "美睫滋養精華露",
+            "ename": "Lash & Brow Building Serum™",
+            "series": "mu03",
+            "header_links": "makeup",
+            "description": "<ul><li>富含氨基酸和肽複合物，提供睫毛所需營養，保護、強韌、滋養並賦予睫毛彈性及柔韌</li><br><li>防止因脆弱而引起的斷裂、稀少、賦予豐盈濃密纖長睫毛</li><br><li>令睫毛增長豐盈，濃密立體且根根分明 獨特細小軟刷，呵護到每根睫毛，亦可使用於眉毛</li></ul>",
+            "capacity": "4.5ml",
+            "skin_suitable": "適合敏感肌膚<br>眼科專家測試<br>適合配戴隱形眼鏡人士",
+            "usage": null,
+            "function": null,
+            "principal_components": null,
+            "price": "HK$250",
+            "video_source": null,
+            "normal_image": null,
+            "small_images": {
+                "img_01": "m/c/mc61.jpg",
+                "img_02": "m/c/mc62.jpg"
+            },
+            "description_image": null
         }
     }

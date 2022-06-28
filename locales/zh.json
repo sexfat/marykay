@@ -29,6 +29,10 @@
         "slide_3": {
           "h3": "社會公益與慈善",
           "content_footer": "首位Pink Changing Lives Honoree得主 Monique Coleman"
+        },
+        "slide_4": {
+          "h3": "玫琳凱樂施精神",
+          "content_footer": "樂施是一個人生活中最大的幸福，是生活的一部份，生命中最重要的不是你得到什麼，而是你付出了什麼讓你的生命更完整。 "
         }
       },
       "s5": {
@@ -345,6 +349,8 @@
       "related_links": {
         "name": "相關連結",
         "links": {
+          "link_0": "新美容顧問網上註冊加入",
+          "link_4": "Online Agreement",
           "link_1": "美容顧問登入",
           "link_2": "全球分公司",
           "link_3": "​香港直銷協會"
@@ -1089,7 +1095,9 @@
           "name": "科研 Lab 系列",
           "products": [
             "pd116",
-            "pd117"
+            "pd117",
+            "pd125"
+            
           ]
         },
         "Youthfinity": {
@@ -1134,7 +1142,6 @@
           "name": "天然淨活系列",
           "products": [
             "pd23",
-            "pd24",
             "pd25",
             "pd26"
           ]
@@ -1300,7 +1307,8 @@
             "pd50",
             "pd54",
             "pd55",
-            "pd116"
+            "pd116",
+            "pd125"
           ]
         },
         "Body_Sun": {
@@ -1335,7 +1343,6 @@
           "name": "特殊護理",
           "products": [
             "pd20",
-            "pd24",
             "pd26",
             "pd38",
             "pd124"
@@ -1355,6 +1362,7 @@
         "Lips": {
           "name": "唇部系列",
           "products": [
+            "pd126",
             "pd57",
             "pd58"
           ]
@@ -1383,7 +1391,6 @@
             "pd72",
             "pd73",
             "pd74",
-            "pd75",
             "pd76",
             "pd77",
             "pd78",
@@ -1413,8 +1420,7 @@
             "pd105",
             "pd106",
             "pd107",
-            "pd108",
-            "pd109"
+            "pd108"
           ]
         }
       }
@@ -1489,6 +1495,7 @@
           "name": "香氛系列",
           "products": [
             "pd119",
+            "pd127",
             "pd120",
             "pd121"
           ]
@@ -2090,33 +2097,6 @@
         "img_03": "p/d/pd13.jpg"
       },
       "description_image": null
-    },
-    "pd24": {
-      "name": "天然淨活去角質粉",
-      "ename": "Naturally<sup>®</sup> Exfoliating Powder",
-      "series": [
-        "ps04",
-        "pf09"
-      ],
-      "header_links": [
-        "product_series",
-        "product_features"
-      ],
-      "description": "100％的天然成分<sup>1</sup>。深層清潔毛孔，去除膚色暗沉的死皮細胞。配方加入氫化蓖麻油製成的細蠟粒和檸檬酸，輕柔地去除角質，幫助皮膚細胞更新，享受柔軟光滑的肌膚。有效收細毛孔，賦予肌膚健康光采，為後續肌膚護理做好準備。具有淡淡的香草味，天然清新香氣亦能使你平靜放鬆。<br><sup>1</sup>根據第三方標準（COSMOS標準）許可加工的天然來源。天然資源包括水，植物，礦物質，礦物成分和其他農業成分。<br><br>COSMOS天然認證是通過Ecocert Greenlife 的COSMOS標準而獲取認證的。",
-      "capacity": "74g",
-      "skin_suitable": "適合中性至乾性膚質<br>適合敏感性肌膚",
-      "usage": "打開前先搖勻。避開眼周及避免吸入粉末。取適量產品於掌心中，加進適量清水，用指尖微微將「去角質粉」與清水混合以達到所需的稠度。建議加入2-3滴天然淨活多效精華油，輕輕打圈按摩，再以溫水沖洗或溫濕美容巾擦拭乾淨。",
-      "function": "ECOCERT COSMOS天然標準認證<br>不含防腐劑、塑化劑、化學界面活性劑SLS/SLES、酒精、矽膠、人工香料及色素、礦物油、基因改造成分<br>經皮膚科醫生測試<br>過皮膚刺激性和過敏性臨床測試<br>不易引致粉刺",
-      "principal_components": "<ul><li><b>小蘇打(Baking Soda)</b>：天然傳統去角質的方法，具有深層清潔和舒緩作用。</li><br><li><b>氫化蓖麻油(Hydrogenated Castor Oil)</b>：製成細蠟粒，提供去角質功效，幫助皮膚細胞更新，去除膚色暗沉的死皮細胞。</li><br><li><b>檸檬酸(Citric Acid)</b>：具抗氧化功效，溫和去角質。</li><br><li><b>大米澱粉(Rice Starch)</b>：具有吸收性，，並可補充肌膚所缺失水分，使肌膚光滑細膩充滿彈性。</li></ul>",
-      "price": "HK$348",
-      "video_source": "pd.mp4",
-      "normal_image": null,
-      "small_images": {
-        "img_01": "p/d/pd21.jpg",
-        "img_02": "p/d/pd22.jpg",
-        "img_03": "p/d/pd23.jpg"
-      },
-      "description_image": "天然淨活去角質粉02.jpg<br>天然淨活.jpg<br>"
     },
     "pd25": {
       "name": "天然淨活多效精華油",
@@ -2756,7 +2736,7 @@
         "skincare"
       ],
       "description": "<ul><li>舒緩肌膚敏感狀態。</li><br><li>迅速保濕，令肌膚倍添柔潤。</li><br><li>令肌膚恢復健康和平衡狀態。</li></ul>",
-      "capacity": "29g",
+      "capacity": "29ml",
       "skin_suitable": "敏感性肌膚適用",
       "usage": null,
       "function": null,
@@ -3313,26 +3293,6 @@
       },
       "description_image": null
     },
-    "pd75": {
-      "name": "美睫滋養精華露",
-      "ename": "Lash & Brow Building Serum™",
-      "series": "mu03",
-      "header_links": "makeup",
-      "description": "<ul><li>富含氨基酸和肽複合物，提供睫毛所需營養，保護、強韌、滋養並賦予睫毛彈性及柔韌</li><br><li>防止因脆弱而引起的斷裂、稀少、賦予豐盈濃密纖長睫毛</li><br><li>令睫毛增長豐盈，濃密立體且根根分明 獨特細小軟刷，呵護到每根睫毛，亦可使用於眉毛</li></ul>",
-      "capacity": "4.5ml",
-      "skin_suitable": "適合敏感肌膚<br>眼科專家測試<br>適合配戴隱形眼鏡人士",
-      "usage": null,
-      "function": null,
-      "principal_components": null,
-      "price": "HK$250",
-      "video_source": null,
-      "normal_image": null,
-      "small_images": {
-        "img_01": "m/c/mc61.jpg",
-        "img_02": "m/c/mc62.jpg"
-      },
-      "description_image": null
-    },
     "pd76": {
       "name": "睫毛底膏",
       "ename": "Lash Primer",
@@ -3509,8 +3469,8 @@
       "description_image": null
     },
     "pd86": {
-      "name": "完美自選彩妝盒",
-      "ename": "Mary Kay Perfect Palette™",
+      "name": "限量版完美自選彩妝盒",
+      "ename": "Limited Edition Mary Kay Perfect Palette™",
       "series": "mu04",
       "header_links": "makeup",
       "description": "<ul><li>外盒玫瑰印花設計，華麗美觀</li><br><li>纖薄巧小，攜帶方便</li><br><li>內含化妝鏡，助你輕鬆塑造完美妝容</li><br><li>磁吸式設計，隨心所欲，自由組合，輕鬆組合專屬「我的」彩妝盒</li></ul>",
@@ -3519,7 +3479,7 @@
       "usage": null,
       "function": "<div>組合範例</div><ul><li>魅彩輕羽眼影 3 款 + 魅彩輕羽胭脂 / 修容 / 光影 2 款 + 胭脂掃 1 個</li><br><li>魅彩輕羽胭脂 / 修容 / 光影 3 款 + 胭脂掃 1 個</li></ul>",
       "principal_components": null,
-      "price": "HK$150",
+      "price": "HK$75",
       "video_source": null,
       "normal_image": null,
       "small_images": {
@@ -3935,26 +3895,6 @@
       },
       "description_image": null
     },
-    "pd109": {
-      "name": "怡日健<sup>®</sup>綜合維他命B",
-      "ename": "Daily Benefits<sup>®</sup> Complex B",
-      "series": null,
-      "header_links": null,
-      "description": "<ul><li>補充不易被身體儲存的維他命Ｂ，維持精神充沛及促進身體代謝。</li><br><li>含人體所需的8種維他命B，當中的煙醯胺、生物素和葉酸，守護你健康的同時更守護你的美麗。</li><br><li>科學含量，高效補充，滿足日常所需。</li><br><li>採用薄膜包衣技術，避光隔熱防潮，鎖住核心營養。</li><br><li>細小圓片，容易吞服，體內 5 分鐘溶解。</li><br><li>品質嚴格監控，產品通過600多項檢測。</li><br><li>源自百年營養品原料供應商 - DSM (荷蘭皇家帝斯曼)，在符合製藥標準的 Mary Kay 廠房生產，全球多個品質管制體系認證，確保高品質。</li></ul>",
-      "capacity": "90片",
-      "skin_suitable": null,
-      "usage": "每日1次，每次１片，以水吞服。",
-      "function": null,
-      "principal_components": null,
-      "price": "HK$238",
-      "video_source": null,
-      "normal_image": null,
-      "small_images": {
-        "img_01": "s/a/sa51.jpg",
-        "img_02": "s/a/sa52.jpg"
-      },
-      "description_image": null
-    },
     "pd110": {
       "name": "聲波活膚潔面儀",
       "ename": "Skinvigorate Sonic",
@@ -3967,7 +3907,7 @@
       "function": "<div>運用聲波微震原理，讓潔膚品與皮膚上的污垢充分結合，溫柔振出毛孔深層髒污，不拉扯肌膚天然構造，從而達到高效無刺激的清潔和按摩效果。</div><ul><li>60秒聲波潔淨：比人手清潔高4倍潔淨效能</li><br><li>20000根柔軟刷毛：適合所有膚質人士適用</li><br><li>每秒200+聲波震動</li><br><li>IPX7國際防水標準</li><br><li>3段速度選擇</li><br><li>1分鐘自動關閉功能</li></ul>",
       "principal_components": null,
       "price": "HK$780",
-      "video_source": "fj11.mp4",
+      "video_source": null,
       "normal_image": null,
       "small_images": {
         "img_01": "f/j/fj11.jpg",
@@ -4169,8 +4109,8 @@
       "capacity": "60粒",
       "usage": "每天服用2粒，建議餐前服用",
       "function": "全面營養組合富含 7種Super Food 超級食物的萃取、6種重要礦物質及5種維他命，填補飲食中的空缺，提供身體每日所需關鍵營養素，以維持身體健康，同時由內而外延緩衰老。<br><br><ul><li>蘊含7大超級食物包括葡萄籽、石榴及綠茶萃取等，有助維持身體健康及年輕肌膚，例如肌肉、骨骼、免疫系統、新陳代謝及減少疲勞等</li><li>選材講究，於不同季節摘取，並以原棵萃取，確保能夠鎖住營養。同時亦經過多重檢測，於萃取前及後不同的生產程序中反覆檢測，確保達到高品質及無雜質的要求</li><li>超級蔬果補充劑，為你打好健康基礎</li></ul>",
-      "principal_components":"七大超級食物精萃，相等於一份蔬果的抗氧化份量<ul><li>山桑子萃取 (Bilberry Extract)</li><li>石榴萃取 (Pomegranate Extract)</li><li>綠茶萃取 (Green Tea Extract)</li><li>橄欖葉萃取 (Green Olive Leaf Extract)</li><li>葡萄籽萃取 (Grape Seed Extract)</li><li>葡萄柚萃取 (Grapefruit Extract)</li><li>柑橘萃取 (Citrus Extract)</li></ul><br><b>五大維他命</b><ul><li>維他命A</li><li>維他命B</li><li>維他命C</li><li>維他命D</li><li>維他命E</li></ul><br><b>六種礦物質</b><ul><li>鎂 (Magnesium)</li><li>銅 (Copper)</li><li>鐵 (Iron)</li><li>鋅 (Zinc)</li><li>鉻 (Chromium)</li><li>硒 (Selenium)</li></ul>",
-      "principal_links" :"https://marykayhk.wixsite.com/multivitamin" ,
+      "principal_components": "七大超級食物精萃，相等於一份蔬果的抗氧化份量<ul><li>山桑子萃取 (Bilberry Extract)</li><li>石榴萃取 (Pomegranate Extract)</li><li>綠茶萃取 (Green Tea Extract)</li><li>橄欖葉萃取 (Green Olive Leaf Extract)</li><li>葡萄籽萃取 (Grape Seed Extract)</li><li>葡萄柚萃取 (Grapefruit Extract)</li><li>柑橘萃取 (Citrus Extract)</li></ul><br><b>五大維他命</b><ul><li>維他命A</li><li>維他命B</li><li>維他命C</li><li>維他命D</li><li>維他命E</li></ul><br><b>六種礦物質</b><ul><li>鎂 (Magnesium)</li><li>銅 (Copper)</li><li>鐵 (Iron)</li><li>鋅 (Zinc)</li><li>鉻 (Chromium)</li><li>硒 (Selenium)</li></ul>",
+      "principal_links": "https://marykayhk.wixsite.com/multivitamin",
       "hint": "不含人造色素<br>不含人造香料<br>不含麩質<br>素食者配方",
       "price": "HK$380",
       "video_source": "sa6.mp4",
@@ -4201,6 +4141,72 @@
         "img_03": "p/f/pf105.jpg",
         "img_04": "p/f/pf104.jpg",
         "img_05": "p/f/pf103.jpg"
+      },
+      "description_image": null
+    },
+    "pd125": {
+      "name": "阿魏酸淡斑安瓶精華",
+      "ename": "Clinical Solutions™ Ferulic + Niacinamide Brightener",
+      "series": "科研Lab系列",
+      "header_links": null,
+      "description": "<ul><li>蘊含科學驗證的醫美級亮肌成分</li><li>阿魏酸､ 菸鹼醯胺 (維他命B3) 及海軍豆萃取協力改善膚色不均</li><li>成分經科學證實能有效均勻膚色</li><li>關鍵成分體外測試証實，黑色素生成數量減少達62%</li><li>水漾質感，快速吸收不感黏膩</li></ul>",
+      "capacity": "15ml",
+      "skin_suitable": "經皮膚科醫生測試<br>通過皮膚刺激性和過敏性臨床測試<br>不易引致暗瘡粉刺",
+      "usage": "潔面後，取6-8滴於掌心，然後均勻塗抹於面部和頸部，避開眼周。後續配合Mary Kay精華及保濕霜使用，效果更佳。一日兩次，可於早晚護膚程序中使用。 ",
+      "function": "<ul><li>含科學驗證的醫美級亮肌成分，經證實能有效均勻膚色</li><li>阿魏酸､ 菸鹼醯胺 (維他命B3) 及海軍豆萃取協力改善膚色不均及色斑問題</li><li>三重醫美級亮肌成分，通過多種途徑抑制黑色素生成，改善膚色不均並提升皮膚亮度</li><li>關鍵成分體外測試証實，黑色素生成數量減少達62%</li><li>產品配方、成分和臨床測試均經過專業的美國皮膚科協會認證</li><li>水漾質感，快速吸收不感黏膩</li></ul>",
+      "principal_components": "<ul><li>阿魏酸 (Ferulic Acid)：防止引致皮膚色素不勻的自由基形成，同時有助皮膚抗氧並提亮膚色</li><li>菸鹼醯胺 (Niacinamide) ：又稱為維他命B3，具強效抗氧功能，保護皮膚屏障，顯著減少皮膚色素沉著､膚色不均並提亮膚色</li><li>海軍豆萃取 (Navy Bean Extract) ： Mary Kay 的專利成分技術，經科研証實，海軍豆萃取可顯著改善皮膚亮度，減少色斑並改善膚色不均情況</li></ul>",
+      "price": "HK$398",
+      "video_source": null,
+      "normal_image": null,
+      "small_images": {
+        "img_01": "p/l/pl31.jpg",
+        "img_02": "p/l/pl32.jpg",
+        "img_03": "p/l/pl33.jpg",
+        "img_04": "p/l/pl34.jpg"
+      },
+      "description_image": null
+    },
+    "pd126": {
+      "name": "晶潤唇膏",
+      "ename": "Supreme Hydrating Lipstick",
+      "series": "唇部系列",
+      "header_links": null,
+      "description": "<ul><li>色彩飽和如唇膏、質地奶油如唇蜜</li><li>配方中的葵花籽油、巴西棕櫚蠟及維他命E呵護成分能滋潤雙唇，即時保濕</li><li>輕輕一抹立即上色，即可展現柔滑水潤、色彩飽和顯色度高的晶潤色澤</li><li>使用過的女性表示<sup>*</sup>:<ul><li>她們非常喜歡它，以至於成為她們日常必備的唇膏</li><li>使用後嘴唇感到輕盈、柔滑及奢華</li><li>它是一支真正的唇膏</li><li>它使嘴唇看起來很漂亮</li></ul></li><br><br><sup>*</sup>根據一項獨立消費者研究，小組成員使用晶潤唇膏後給予評價，結果是基於其中150 名小組成員的同意。",
+      "capacity": "3.2g",
+      "features": "經皮膚科醫生測試<br>通過皮膚刺激性和過敏性臨床測試",
+      "usage": null,
+      "function": "晶潤唇膏質地如唇蜜般奶油水潤，超柔滑亮澤。配方中的葵花籽油、巴西棕櫚蠟及維他命E呵護成分能滋潤雙唇，即時極致保濕。輕輕一抹立即上色，即可展現柔滑水潤、色彩飽和顯色度高的晶潤色澤。<ul><li>配有6個色調，與不同唇色完美融合，配合任何膚色都奪目耀眼，讓雙唇呈現豐盈凝亮妝感。</li><li>配方含有葵花籽油 (Sunflower Oil)、巴西棕櫚蠟 (Carnauba Wax)及維他命E 的呵護成分，能滋潤雙唇，即時極致保濕。</li><li>輕輕一抹立即上色，即可展現柔滑水潤、色彩飽和顯色度高的晶潤色澤</li><li>具有淡淡的雲呢拿香味，清新香氣使你使用時份外舒適放鬆</li></ul>",
+      "principal_components": null,
+      "price": "HK$218",
+      "video_source": "ma3.mp4",
+      "normal_image": null,
+      "small_images": {
+        "img_01": "m/a/ma31.jpg",
+        "img_02": "m/a/ma32.jpg",
+        "img_03": "m/a/ma33.jpg",
+        "img_04": "m/a/ma34.jpg",
+        "img_05": "m/a/ma35.jpg",
+        "img_06": "m/a/ma36.jpg",
+        "img_07": "m/a/ma37.jpg"
+      },
+      "description_image": null
+    },
+    "pd127": {
+      "name": "限量版無懼的愛香水",
+      "ename": "Limited Edition Love Fearlessly Eau De Parfum",
+      "series": "香氛系列",
+      "header_links": null,
+      "description": "限量版無懼的愛香水以激勵人心，充滿活力的辛辣、柑橘前調打開，激起你内心一團熾熱的火。中調賦予鼓舞人心的花香，鼓勵你無所畏懼地全力去愛。<br>後調以精緻的廣藿香，檀香木及麝香展現你的力量、自信和真誠，勇敢地擁抱所愛。愛在當下，就為愛勇敢一次！",
+      "capacity": "50ml",
+      "skin_suitable": null,
+      "function": null,
+      "principal_components": "前調：粉紅胡椒、小荳蔻、柑橘<br>中調： 茉莉花、粉紅牡丹花、梅花<br>後調：印度尼西亞廣藿香、澳洲檀香木、麝香",
+      "price": "HK$598",
+      "video_source": null,
+      "normal_image": null,
+      "small_images": {
+        "img_01": "m/e/me512.jpg",
+        "img_02": "m/e/me52.jpg"
       },
       "description_image": null
     }

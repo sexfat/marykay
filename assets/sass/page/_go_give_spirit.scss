@@ -1,0 +1,162 @@
+.spirit {
+  .banner {
+    text-align: center;
+    background-color: #EAE9E9;
+
+    .m_device {
+      display: none;
+
+      @include m() {
+        display: block;
+      }
+    }
+
+    .d_device {
+      display: block;
+
+      @include m() {
+        display: none;
+      }
+    }
+
+    @include m() {
+      width: 100% !important;
+    }
+
+    img {
+      width: 996px;
+      margin: 0 auto;
+      object-fit: initial;
+    }
+  }
+
+  .spirit__space {
+    .s_font {
+      @include m() {
+        font-size: 17px;
+        line-height: 1.7rem;
+
+        span {
+          font-size: 14px;
+        }
+      }
+    }
+
+    padding: 0 2rem;
+
+    @include media-breakpoint-up(xxl) {
+      padding: 0 0rem;
+    }
+  }
+
+  .colorLine {
+    margin-top: 65px;
+
+    @include media-breakpoint-up(xxl) {
+      margin-bottom: 15px;
+    }
+  }
+
+  h5 {
+    font-weight: bold;
+    font-size: 18px;
+  }
+
+  h4 {
+    margin-bottom: 30px;
+    // @include media-breakpoint-up(xxl) {
+    //   margin-bottom: 55px;
+    // }
+  }
+
+  .text_body {
+    // font-family: 'marykay-bold', sans-serif;
+    line-height: 2;
+    margin-bottom: 90px;
+
+    @include media-breakpoint-up(xxl) {
+      margin-bottom: 130px;
+      text-align: center;
+    }
+
+    @include m() {
+      line-height: 2;
+      margin-bottom: 50px;
+    }
+  }
+
+  .pink {
+    margin-bottom: 26px;
+    font-size: 26px;
+    font-weight: 700;
+
+    @include media-breakpoint-up(xxl) {
+      margin-bottom: 55px;
+    }
+
+    span {
+      font-size: 18px;
+    }
+  }
+
+  .miss-give {
+    margin-bottom: 90px;
+
+    @include m() {
+      margin-bottom: 48px;
+    }
+  }
+
+  .spirit__slider {
+    position: relative;
+    margin-bottom: 60px;
+    text-align: center;
+
+    img {
+      width: 85%;
+
+      @include m() {
+        width: 100%;
+      }
+    }
+
+
+
+
+    @include media-breakpoint-up(xxl) {
+      margin-bottom: 160px;
+    }
+  }
+
+  .arrow {
+    position: relative;
+
+    &.arrow-left {
+      display: none;
+      position: absolute;
+      z-index: 1;
+      top: 50%;
+      left: 1.5%;
+      transform: translateY(-50%);
+      width: initial;
+
+      @include media-breakpoint-up(xl) {
+        display: block;
+      }
+    }
+
+    &.arrow-right {
+      display: none;
+      position: absolute;
+      z-index: 1;
+      top: 50%;
+      right: 1.5%;
+      transform: translateY(-50%);
+      width: initial;
+
+      @include media-breakpoint-up(xl) {
+        display: block;
+      }
+    }
+  }
+}
