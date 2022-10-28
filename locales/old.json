@@ -1,0 +1,71 @@
+{
+  "pd71": {
+    "name": "極黑流線眼線液筆",
+    "series": "眼部彩妝",
+    "description": "細緻滑順，漆黑持久，手殘人也能畫出完美眼線。",
+    "capacity": "1.5g",
+    "skin_suitable": null,
+    "usage": "沿著睫毛根部描繪眼部輪廓，並於眼尾向上延伸，細緻描繪眼線",
+    "function": "美化、修飾眼型",
+    "price": "550",
+    "principal_components": null,
+    "video_source": "mb21.mp4",
+    "small_images": {
+      "img_01": "m/b/mb21.jpg",
+      "img_02": "m/b/mb22.jpg",
+      "img_03": "m/b/mb23.jpg"
+    },
+    "description_image": "極黑流線眼線液筆02.png"
+  },
+  "pd67": {
+    "name": "綻爆胺基酸睫毛膏",
+    "series": "眼部彩妝",
+    "description": "纖長+濃密<br>胺基酸精華: 睫毛保濕。維他命B5：保護滋養，讓睫毛又黑又有彈性，充滿光澤。 維他命E：抗老化保護睫毛，強韌健康，不易斷裂",
+    "capacity": "9g",
+    "skin_suitable": null,
+    "usage": "1. 短毛端(濃密刷頭)：刷在睫毛 根部，讓睫毛濃密。 <br>2. 長毛端（纖長刷頭）：Z字型 往上刷拉出纖維達到纖長效果 。",
+    "function": "雙效刷頭＋胺基酸<br>濃密＋纖長",
+    "price": "880",
+    "principal_components": null,
+    "video_source": null,
+    "small_images": {
+      "img_01": "m/b/mb41.jpg",
+      "img_02": "m/b/mb42.jpg"
+    },
+    "description_image": null
+  },
+  "pd69": {
+    "name": "玫琳凱全效睫毛膏",
+    "series": "眼部彩妝",
+    "description": "特效配方，提供睫毛驚艷的濃密，創造驚人豐盈捲翹的效果。",
+    "capacity": "8g",
+    "skin_suitable": null,
+    "usage": "1. 以旋轉的方式將刷頭滑進瓶內，然後再慢慢地將刷子轉抽出來。 <br>2. 獨家特殊刷頭技術，創造出極滑 順質地不易糾結不用任何技巧，就能輕易沾附在睫毛上。 <br>3. 特別加強睫毛拉長尾端，就能擁 有如同洋娃娃般的睫毛效果。 <br>4. 若想再加強效果可以等睫毛膏乾後再上一層。",
+    "function": "˙ 輕易梳整睫毛，展現睫毛根根 分明且濃密效果。 <br>˙ 高度的附著力，超輕巧質地， 睫毛捲翹一整天也不塌陷。 <br>˙ 使睫毛由根部捲翹、根根分明 且濃密，使眼妝層次分明、眼 神深邃。",
+    "price": "720",
+    "principal_components": null,
+    "video_source": null,
+    "small_images": {
+      "img_01": "m/b/mb61.jpg"
+    },
+    "description_image": null
+  },
+  "pd62": {
+    "name": "氣墊霧光唇膏",
+    "series": "唇部彩妝",
+    "description": "讓唇部ㄉㄨㄞ ㄉㄨㄞ 的氣墊科技<br>前所未有的舒適感，顛覆你對霧面唇的想像",
+    "capacity": "3.6g",
+    "skin_suitable": null,
+    "usage": "好人緣微笑唇畫法TIP: Step1 愛心唇峰 : 在唇峰處畫一個愛心 ，讓唇珠豐盈欲滴， 做出翹翹的甜美唇峰 Step2找到微笑光圈 : 在嘴角上下往上描繪 做出微笑線，讓嘴角 看起來自然上揚",
+    "function": "空氣球氣墊粒子: 在唇表面形成綿密彈力網，包覆唇肌，保持唇部柔軟彈性，長效真實色彩，持久顯色，葵花子油+荷荷芭油，深度長效保濕滋潤",
+    "price": "580",
+    "principal_components": null,
+    "video_source": null,
+    "small_images": {
+      "img_01": "m/c/mc21.jpg",
+      "img_02": "m/c/mc22.jpg",
+      "img_03": "m/c/mc23.jpg"
+    },
+    "description_image": null
+  }
+}
