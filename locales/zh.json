@@ -36,13 +36,14 @@
         }
       },
       "s5": {
-        "h1": "醫美護膚 極效修護<br>瞬間激活新生肌膚",
-        "h3": "Clinical Solutions 科研 Lab 系列",
+        "h1": "安瓶搭配更高效<br>告別乾敏暗沉肌",
+        "h3": "Mary Kay",
+        "h3_1": "科研 Lab 系列",
         "h3_2": "Multivitamin",
         "h31": "粉美維他命",
         "search_more": "探索更多",
         "learn_more": "了解更多",
-        "text": "Mary Kay 首個醫美級護膚系列，0.5% 高濃度純視黃醇，能夠有效預防和逆轉明顯衰老跡象，8星期體驗驚人效果，明顯改善皺紋､緊緻度及均勻膚色。",
+        "text": "醫美級別的配方及成分，為你現有的護膚程序提供更具針對性的皮膚問題解決方案！",
         "text_2": "怡日健® 粉美維他命提供全面營養組合，富含七種 Super Food 超級食物的萃取、六種重要礦物質及五種維他命，為健康打好鞏固基礎，守護你的健康及美麗。",
         "slides": {
           "slide_1": {
@@ -1096,8 +1097,8 @@
           "products": [
             "pd116",
             "pd117",
-            "pd125"
-            
+            "pd125",
+            "pd128"
           ]
         },
         "Youthfinity": {
@@ -1308,7 +1309,8 @@
             "pd54",
             "pd55",
             "pd116",
-            "pd125"
+            "pd125",
+            "pd128"
           ]
         },
         "Body_Sun": {
@@ -1389,12 +1391,13 @@
             "pd70",
             "pd71",
             "pd72",
+            "pd118",
             "pd73",
-            "pd74",
-            "pd76",
+            "pd129",
             "pd77",
             "pd78",
-            "pd118"
+            "pd76"
+            
           ]
         },
         "Tools": {
@@ -1437,7 +1440,8 @@
             "pd33",
             "pd34",
             "pd60",
-            "pd101"
+            "pd101",
+            "pd128"
           ]
         },
         "Age_fighting_ZONE": {
@@ -1496,8 +1500,7 @@
           "products": [
             "pd119",
             "pd127",
-            "pd120",
-            "pd121"
+            "pd120"
           ]
         }
       }
@@ -3273,26 +3276,6 @@
       },
       "description_image": null
     },
-    "pd74": {
-      "name": "柔順銳目眼線液",
-      "ename": "Liquid Eyeliner Pen",
-      "series": "mu03",
-      "header_links": "makeup",
-      "description": "升級版柔順銳目眼線液，顏色飽和度、顯色度和持久度顯著提升，筆頭依舊柔軟順滑，輕鬆打造深邃明眸！",
-      "capacity": "1.5g",
-      "skin_suitable": null,
-      "使用方法": null,
-      "function": "<p>筆狀設計，操控輕易、穩定，粗幼眼線都能輕鬆準確勾畫</p><ul><li>顏色濃郁飽和，顯色度高，突顯眼部輪廓，強化眼神</li><br><li>筆頭觸感舒適，勾畫順暢，不會拉扯眼部皮膚</li><br><li>速乾配方，不易結塊及脫色</li></ul>",
-      "principal_components": null,
-      "price": "HK$195",
-      "video_source": null,
-      "normal_image": null,
-      "small_images": {
-        "img_01": "m/c/mc51.jpg",
-        "img_02": "m/c/mc52.jpg"
-      },
-      "description_image": null
-    },
     "pd76": {
       "name": "睫毛底膏",
       "ename": "Lash Primer",
@@ -4059,25 +4042,6 @@
       },
       "description_image": null
     },
-    "pd121": {
-      "name": "限量版 Shero 香水",
-      "ename": "Limited Edition<br>Je Suis Shero Perfume",
-      "series": "香氛系列",
-      "header_links": null,
-      "description": "這款令人千般矚目、萬般吸引的香水，是否已讓你心動不已、沉醉其中？這一切源於她高貴而稀有的萃取成份，知名調香大師的匠心，以及這款香水賦予的 SHERO 精神。<br><br><ul><li>主色調為通透的粉色、透出粉粉的少女心</li><br><li>桃紅色的圓形瓶蓋，閃耀而奪目</li><br><li>桃紅色的蝴蝶結，又增添了一份嫵媚和優雅</li><br><li>模杖型瓶身，更是彰顯其溫柔堅定的內心和獨立的個性</li></ul>",
-      "capacity": "37ml",
-      "skin_suitable": null,
-      "usage": null,
-      "function": null,
-      "principal_components": "<b>前調</b>：黑加侖 (Blackcurrant)、小蒼蘭 (Freesia Alba)、紫羅蘭 (Violet) <br><br><b>中調</b>：保加利亞玫瑰 (Damask Rose)、小花茉莉  (Jasmine)、白蘭花 (Michelia Alba Flower)<br><br><b>後調</b>：檀香 (Sandalwood)、麝香 (Sensual Musk)、香草 (Vanilla Planifolia)",
-      "price": "HK$398",
-      "video_source": null,
-      "normal_image": null,
-      "small_images": {
-        "img_01": "m/e/me41.jpg"
-      },
-      "description_image": null
-    },
     "pd122": {
       "name": "柔霧薄紗蜜粉",
       "ename": "Silky Setting Powder",
@@ -4207,6 +4171,48 @@
       "small_images": {
         "img_01": "m/e/me512.jpg",
         "img_02": "m/e/me52.jpg"
+      },
+      "description_image": null
+    },
+    "pd128": {
+      "name": "透明質酸補濕安瓶精華",
+      "ename": "Clinical Solutions™ HA + Ceramide Hydrator",
+      "series": "科研Lab系列",
+      "header_links": null,
+      "description": "<ul><li>蘊含科學驗證的醫美級補濕成分，有效滋養肌膚</li><li>一次補充三種關鍵的保濕因子，透明質酸､神經醯胺及草本精華 - 馬鞭草萃取物</li><li>兩種不同分子量的透明質酸，雙重防護</li><li>使用後皮膚水分平均增加達54%</li><li>高效補濕同時維持皮膚屏障健康</li><li>產品配方、成分和臨床測試均經過專業的美國皮膚科協會認證</li><li>水漾質感，快速吸收不感黏膩</li>",
+      "capacity": "15ml",
+      "skin_suitable": "經皮膚科醫生測試通過皮膚刺激性和過敏性臨床測試不易引致暗瘡粉刺",
+      "usage": "潔面後，取6-8滴於掌心，然後均勻塗抹於面部和頸部。後續配合Mary Kay精華及保濕霜使用，效果更佳。一日兩次，可於早晚護膚程序中使用。",
+      "function": "肌膚缺乏水分，細紋和皺紋會變得更加明顯。 透明質酸補濕安瓶精華富含三種醫學級補濕成分，有助維持皮膚的鎖水屏障健康。",
+      "principal_components": "<ul><li>透明質酸 (Hyaluronic Acid) – 0.25%：透過兩種不同分子量的透明質酸，雙重防護抗皮膚乾燥<ul><li>低分子透明質酸，能滲透角質層，進入皮膚底層達到修補細胞的作用，直接提供關鍵水分並幫助從內部豐滿皮膚</li><li>高分子透明質酸，可增加皮膚表面水分並形成保護膜，有助從外保護皮膚</li></ul></li><li>神經醯胺 (Ceramide) – 0.01%：有助於改善皮膚水分並幫助修復皮膚屏障</li><li>馬鞭草萃取物 (Verbena Officinalis Extract) – 1.5%：支持皮膚自然生成 NMF。 NMF 成分從大氣中吸收水分並與自身的水分結合，以幫助維持皮膚角質層的水分</li>",
+      "price": "HK$398",
+      "video_source": "pj.mp4",
+      "normal_image": null,
+      "small_images": {
+        "img_01": "p/l/pl40.jpg",
+        "img_02": "p/l/pl41.jpg",
+        "img_03": "p/l/pl42.jpg"
+      },
+      "description_image": null
+    },
+    "pd129": {
+      "name": "臻愛翹長睫毛液",
+      "ename": "Lash Love Fanorama Mascara",
+      "series": "眼部系列",
+      "header_links": null,
+      "description": "<ul><li>創新三重刷頭設計，塑造羽扇般的翹長魅睫</li><li>能均勻塗抹及梳理每根睫毛，保持捲曲不下垂，塑造羽扇般的翹長魅睫。</li></ul>",
+      "capacity": "8g",
+      "features": "經皮膚科醫生測試經眼科醫生測試適合敏感肌膚人宜士使用適合配戴隱形眼鏡人士使用",
+      "skin_suitable": null,
+      "function": null,
+      "principal_components": null,
+      "price": "HK$228",
+      "video_source": null,
+      "normal_image": null,
+      "small_images": {
+        "img_01": "m/c/mc110.jpg",
+        "img_02": "m/c/mc111.jpg",
+        "img_03": "m/c/mc112.jpg"
       },
       "description_image": null
     }

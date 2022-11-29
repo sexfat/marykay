@@ -57,21 +57,20 @@
             <div class="col-lg-7 col-md-12 dark flex">
               <div class="body" data-aos="fade-downs" data-aos-duration="1000">
                 <p class="small_title">NEW</p>
-                <h3 class="h4">{{ $t('pages.homepage.s5.h3') }}</h3>
+                <h3 class="h4">
+                {{ $t('pages.homepage.s5.h3') }}<br>
+                {{ $t('pages.homepage.s5.h3_1') }}
+                </h3>
                 <p class="margin-top_30">
                   {{ $t('pages.homepage.s5.text') }}
                 </p>
-                <a
-                  target="_blank"
-                  href="https://marykaytwn.wixsite.com/clinicalsolutionhk"
-                  class="btn-outline btn-large margin-top_30 margin-bottom_20"
-                  >{{ $t('pages.homepage.more') }}</a
-                >
+                 <nuxt-link
+                    :to="localePath('/products/lab')" class="btn-outline btn-large margin-top_30 margin-bottom_20">{{ $t('pages.homepage.more') }}</nuxt-link>
               </div>
             </div>
             <div class="col-lg-5 col-md-12 nomargin">
               <video class="video" poster="" playsinline loop autoplay muted>
-                <source src="~assets/images/video/pl.mp4" type="video/mp4" />
+                <source src="~assets/images/video/pj.mp4" type="video/mp4" />
               </video>
             </div>
           </div>

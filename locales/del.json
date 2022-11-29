@@ -122,5 +122,44 @@
                 "img_02": "m/c/mc62.jpg"
             },
             "description_image": null
+        },
+        "pd121": {
+            "name": "限量版 Shero 香水",
+            "ename": "Limited Edition<br>Je Suis Shero Perfume",
+            "series": "香氛系列",
+            "header_links": null,
+            "description": "這款令人千般矚目、萬般吸引的香水，是否已讓你心動不已、沉醉其中？這一切源於她高貴而稀有的萃取成份，知名調香大師的匠心，以及這款香水賦予的 SHERO 精神。<br><br><ul><li>主色調為通透的粉色、透出粉粉的少女心</li><br><li>桃紅色的圓形瓶蓋，閃耀而奪目</li><br><li>桃紅色的蝴蝶結，又增添了一份嫵媚和優雅</li><br><li>模杖型瓶身，更是彰顯其溫柔堅定的內心和獨立的個性</li></ul>",
+            "capacity": "37ml",
+            "skin_suitable": null,
+            "usage": null,
+            "function": null,
+            "principal_components": "<b>前調</b>：黑加侖 (Blackcurrant)、小蒼蘭 (Freesia Alba)、紫羅蘭 (Violet) <br><br><b>中調</b>：保加利亞玫瑰 (Damask Rose)、小花茉莉  (Jasmine)、白蘭花 (Michelia Alba Flower)<br><br><b>後調</b>：檀香 (Sandalwood)、麝香 (Sensual Musk)、香草 (Vanilla Planifolia)",
+            "price": "HK$398",
+            "video_source": null,
+            "normal_image": null,
+            "small_images": {
+                "img_01": "m/e/me41.jpg"
+            },
+            "description_image": null
+        },
+        "pd74": {
+            "name": "柔順銳目眼線液",
+            "ename": "Liquid Eyeliner Pen",
+            "series": "mu03",
+            "header_links": "makeup",
+            "description": "升級版柔順銳目眼線液，顏色飽和度、顯色度和持久度顯著提升，筆頭依舊柔軟順滑，輕鬆打造深邃明眸！",
+            "capacity": "1.5g",
+            "skin_suitable": null,
+            "使用方法": null,
+            "function": "<p>筆狀設計，操控輕易、穩定，粗幼眼線都能輕鬆準確勾畫</p><ul><li>顏色濃郁飽和，顯色度高，突顯眼部輪廓，強化眼神</li><br><li>筆頭觸感舒適，勾畫順暢，不會拉扯眼部皮膚</li><br><li>速乾配方，不易結塊及脫色</li></ul>",
+            "principal_components": null,
+            "price": "HK$195",
+            "video_source": null,
+            "normal_image": null,
+            "small_images": {
+                "img_01": "m/c/mc51.jpg",
+                "img_02": "m/c/mc52.jpg"
+            },
+            "description_image": null
         }
     }
