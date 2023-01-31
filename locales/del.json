@@ -161,5 +161,88 @@
                 "img_02": "m/c/mc52.jpg"
             },
             "description_image": null
-        }
+        },
+        "pd103": {
+            "name": "男士眼霜",
+            "ename": "MKMen<sup>®</sup>Advanced Eye Cream",
+            "series": [
+                "ps10",
+                "pf08"
+            ],
+            "header_links": [
+                "product_series",
+                "product_features"
+            ],
+            "description": "<ul><li>含抗衰老成份，能明顯減緩眼周細紋和皺紋。</li><br><li>有效保濕並緊緻眼部肌膚，並具有提亮、舒緩和平滑眼周肌膚的功效。</li></ul>",
+            "capacity": "18g",
+            "skin_suitable": "經眼科專家測試<br>經臨床測試不會引起痕癢及敏感適合<br>適合所有膚質使用<br>不含油脂<br>防過敏配方<br>適合配帶隱形眼鏡人士使用",
+            "usage": "以無名指沾取適量眼霜，輕輕拍打在眼周，即可滋養眼周肌膚",
+            "function": null,
+            "principal_components": null,
+            "price": "HK$358",
+            "video_source": null,
+            "normal_image": null,
+            "small_images": {
+                "img_01": "p/j/pj11.jpg"
+            },
+            "description_image": null
+        },
+        "pd120": {
+            "name": "限量版 Illuminea 閃耀香水",
+            "ename": "Limited Edition<br>Illuminea™ Extrait de Parfum",
+            "series": "香氛系列",
+            "header_links": null,
+            "description": "Illuminea 閃耀香水以激勵人心，令人振奮的辛香前調和清新晨露打開，淡淡幽香啟動你內心一團熾熱的火，你要確信自己有足夠能力影響身邊的每一位。中調賦予鼓舞人心，渾厚香濃的5種花香，給予女性自信、熾熱的力量，帶領你去支持鼓勵他人實現大夢想。後調牽出持久濃郁的木製調，展現你的力量，溫暖，點亮他人道路，讓別人的生命更美好。當你與他人分享光明時，你的影響力真正令人振奮，鼓舞，真真正正在生命中發光發熱。<br><br>瓶子設計高貴優雅，而且具有一定重量，這寓意每一個你都是你本身的傳奇，相信自己有足夠能力和份量影響身邊的每一位，共同創造夢想。",
+            "capacity": "50ml",
+            "skin_suitable": null,
+            "usage": null,
+            "function": null,
+            "principal_components": "<b>前調</b>：柑橘 (Mandarin)、木瓜 (Quince)、粉紅胡椒 (Pink Pepper)、晨露 (Morining Dew) <br><br><b>中調</b>：紅杏 (Red Apricot)、橙花 (Orange Blossom)、緋紅牡丹 (Scarlet Peony)、荷花 (Water Lotus)、金銀花 (Honeysuckle) <br><br><b>後調</b>：佛羅倫斯鳶尾花 (Florentine Iris Absolute)、紫羅蘭葉 (Violet Leave)、羊絨木 (Cashmere Woods)、香草 (Vanilla)、白苔 (White Moss)",
+            "price": "HK$598",
+            "video_source": null,
+            "normal_image": null,
+            "small_images": {
+                "img_01": "m/e/me31.jpg"
+            },
+            "description_image": null
+        },
+        "pd78": {
+            "name": "豐盈增長睫毛液",
+            "ename": "Lash Intensity™ Mascara",
+            "series": "mu03",
+            "header_links": "makeup",
+            "description": "<div>極致濃密、瞬間增長、廣角豐盈, 輕易塑造豐密濃長驚艷美睫。</div><ul><li>Mary Kay 首款針對多角度豐盈及增長效果的睫毛液。</li><br><li>為睫毛加添 200% 濃密豐盈感,猶如為每根睫毛增多兩根睫毛粗厚度的豐盈效果,同時增長 84%<sup>*</sup>!。</li><br><li>嶄新、特別的 Double Impact&trade; Brush 雙效廣角刷頭,一刷上便能讓睫毛多方位伸延,同步豐盈及拉長睫毛。</li><br><li>含超濃色彩的礦物粒子包裹每根睫毛,打造不易脫色的極致濃黑妝效。</li><br><li>配方中的維他命原 B5、複合脂肪酸及維他命 E 成分有效保濕 潤滑睫毛,並提供保護、滋養、抗氧化及強健功效。</li></ul><br><div class=\"thin\"><sup>*</sup>根據一項獨立臨床測試中專業測試人員塗上兩層豐盈增長睫毛液 後的使用前後對比評估。</div>",
+            "capacity": "9g",
+            "skin_suitable": "適合敏感肌膚<br>不含香料<br>經眼部測試<br>適合配戴隱形眼鏡人士使用",
+            "usage": null,
+            "function": null,
+            "principal_components": null,
+            "price": "HK$258",
+            "video_source": "mc91.mp4",
+            "normal_image": null,
+            "small_images": {
+                "img_01": "m/c/mc91.jpg",
+                "img_02": "m/c/mc92.jpg"
+            },
+            "description_image": null
+        },
+            "pd111": {
+      "name": "限量版粉紅深層潔膚泥",
+      "ename": "Limited Edition Pink Clay Mask",
+      "series": null,
+      "header_links": null,
+      "description": "深層清潔面膜，質地柔軟，散發清香。能清潔肌膚，潔淨毛孔，去除污垢，同時不會對肌膚造成刺激及過敏。具有抗氧化及肌膚修復的更新功能，有效保護肌膚免受自由基侵害，消除皮膚暗啞和疲態。",
+      "capacity": "85g",
+      "skin_suitable": "適合乾性至油性肌膚",
+      "principal_components": null,
+      "function": "<ul><li>白雞蛋花萃取物（Plumeria Alba Flower Extract）具有抗氧化功效，有效保護肌膚免受自由基的侵害。</li><br><li>富含豐富的礦物質，有效清潔肌膚，潔淨毛孔，去除污垢，同時不會對肌膚造成刺激及過敏，令肌膚保持天然清新光澤。</li><br><li>散發淡淡清香的露水牡丹和茶花香氣，有助減壓令人放鬆心情。</li></ul>",
+      "usage": "洗臉後在臉上均勻塗抹。留在皮膚上5-10分鐘。用溫水徹底沖洗，然後抹乾。建議每週使用 1 至 2 次。",
+      "price": "HK$168",
+      "video_source": null,
+      "normal_image": null,
+      "small_images": {
+        "img_01": "p/f/pf91.jpg"
+      },
+      "description_image": null
+    }
     }

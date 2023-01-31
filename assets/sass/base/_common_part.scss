@@ -295,3 +295,11 @@ margin-bottom: 20px;
         padding: 0;
     }
 }
+
+// 樂施小姐  只有一個時刪掉箭頭
+ 
+.spirit {
+ .arrow.arrow-left , .arrow.arrow-right {
+   display: none !important;
+ }
+}
