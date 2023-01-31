@@ -26,6 +26,10 @@
               /></a>
             </li>
           </ul>
+          <ul class="gray30">
+            <li>營業人：美商玫琳凱股份有限公司台灣分公司</li>
+            <li>統一編號： 23988529</li>
+          </ul>
         </div>
         <div class="col-lg-3 col-md-6">
           <h4>{{ $t('pages.footer.related_links.name') }}</h4>
