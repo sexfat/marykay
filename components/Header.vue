@@ -119,6 +119,29 @@
                   <a target="_blank" href="/catalog/MKtw_thelook.pdf">{{ $t('header_links.dm.name') }}</a>
                 </li>
                 <li><nuxt-link :to="localePath('/howtobuy')">如何購物</nuxt-link></li>
+                <li>
+                  <span>更多資訊</span>
+                  <ul>
+                    <li><a target="_blank" href="https://www.104.com.tw/company/b0q5ffs">公司職缺</a></li>
+                    <li>
+                      <a target="_blank" href="https://www.businesswire.com/news/home/20220728005239/zh-HK">媒體報導</a>
+                    </li>
+                    <li>
+                      <a
+                        target="_blank"
+                        href="https://mk.marykayintouch.com.tw/s/login/?language=zh_TW&ec=302&startURL=%2Fs%2F"
+                        >美容顧問專區</a
+                      >
+                    </li>
+                    <li>
+                      <a
+                        target="_blank"
+                        href="https://marykaytw.pixnet.net/blog/post/76766488-%E7%8E%AB%E7%90%B3%E5%87%B1-marykay"
+                        >部落格</a
+                      >
+                    </li>
+                  </ul>
+                </li>
                 <!-- <li>
                   <a href="" @click="changeLang"> {{ lang }}</a>
                 </li> -->

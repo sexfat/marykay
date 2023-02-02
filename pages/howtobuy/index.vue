@@ -12,48 +12,47 @@
       <div class="row">
         <div class="col-xs-6 col-md-6 text_head">
           <img class="logo" src="~assets/images/TW_layoutA/img_howtobuy_logo_white.png" alt="" />
-          <h2 class="h2 font1 margin-top_20">玫粉i購物</h2>
+          <h2 class="h2 font1 margin-top_20">玫粉商城</h2>
 
           <div class="text_body">快速即時的訂購服務、線上限定商品優惠活動</div>
         </div>
       </div>
     </div>
-    <div class="container-fluid gx-0 white margin-bottom_100 h">
+    <!-- <div class="container-fluid gx-0 white margin-bottom_100 h">
       <div class="swiper-container swiper_story">
-        <!-- Additional required wrapper -->
+     
         <Swiper :options="swiperOptions">
-          <!-- Slides -->
+     
           <div class="swiper-slide">
             <img class="m" src="~assets/images/TW_layoutA/img_howtobuy-step1_m.jpg" alt="" />
             <img class="d" src="~assets/images/TW_layoutA/img_howtobuy-step1.jpg" alt="" />
           </div>
-          <!-- s -->
+
           <div class="swiper-slide">
             <img src="~assets/images/TW_layoutA/img_howtobuy-step2.jpg" alt="" />
           </div>
-          <!-- s -->
+      
           <div class="swiper-slide">
             <img src="~assets/images/TW_layoutA/img_howtobuy-step3.jpg" alt="" />
           </div>
-          <!-- s -->
+    
           <div class="swiper-slide">
             <img src="~assets/images/TW_layoutA/img_howtobuy-step4.jpg" alt="" />
           </div>
-          <!-- s -->
+   
           <div class="swiper-slide">
             <img src="~assets/images/TW_layoutA/img_howtobuy-step5.jpg" alt="" />
           </div>
-          <!-- s -->
+   
           <div class="swiper-slide">
             <img src="~assets/images/TW_layoutA/img_howtobuy-step6.jpg" alt="" />
           </div>
         </Swiper>
-        <!-- If we need navigation buttons -->
         <div class="swiper-button-prev"></div>
         <div class="swiper-button-next"></div>
       </div>
-    </div>
-    <div class="spec_b white">
+    </div> -->
+    <div class="spec_b white margin-top_70">
       <div class="container-xxl">
         <div class="row">
           <h4 class="margin-bottom_20 text_center">如何取得玫粉i購物註冊連結呢？</h4>
