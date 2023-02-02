@@ -936,7 +936,8 @@
             "pd96",
             "pd97",
             "pd101",
-            "pd104"
+            "pd104",
+            "pd107"
           ]
         },
         "Naturally": {
@@ -1001,8 +1002,8 @@
           "products": [
             "pd28",
             "pd29",
-            "pd30",
-            "pd31"
+            "pd31",
+            "pd106"
           ]
         },
         "Body_Care": {
@@ -1040,7 +1041,8 @@
             "pd3",
             "pd4",
             "pd8",
-            "pd46"
+            "pd46",
+            "pd106"
           ]
         },
         "Toners": {
@@ -1082,10 +1084,10 @@
             "pd22",
             "pd23",
             "pd26",
-            "pd30",
             "pd96",
             "pd101",
-            "pd104"
+            "pd104",
+            "pd107"
           ]
         },
         "Sun_Body": {
@@ -1231,14 +1233,13 @@
         "Skin_nourishing_Zone": {
           "name": "養膚專區",
           "products": [
-            "pd93",
             "pd1",
-            "pd94",
             "pd23",
             "pd88",
             "pd96",
             "pd97",
-            "pd101"
+            "pd101",
+            "pd107"
           ]
         },
         "Oil_controlling_Zone": {
@@ -1263,7 +1264,6 @@
         "Lazy_Girls_Favorite_Zone": {
           "name": "懶人專區",
           "products": [
-            "pd95",
             "pd4",
             "pd44",
             "pd24",
@@ -1277,8 +1277,8 @@
         }
       }
     },
-    "moreInfo":{
-    "name": "調養品"
+    "moreInfo": {
+      "name": "調養品"
     }
   },
   "products": {
@@ -1754,22 +1754,6 @@
       "video_source": null,
       "small_images": {
         "img_01": "p/g/pg21.jpg"
-      },
-      "description_image": null
-    },
-    "pd30": {
-      "name": "淨顏精華露",
-      "series": "淨顏系列",
-      "description": "肌膚上火狂出油，內更乾！<br>微酸去油淨白精華、維持肌膚油水平衡。<br>• 柳樹萃取- 水楊酸：溫和的水楊酸以及不飽和脂肪酸能幫助肌膚去角質，通暢毛孔。<br>• 海石楠 - 熊果素A：淨白調理、修護肌膚。<br>衛部粧輸字號第024482號",
-      "capacity": "50g",
-      "skin_suitable": "油性肌",
-      "usage": "取適量塗抹於全臉肌膚。<br><h6>全套使用步驟：</h6>時光3D四效潔面乳(清爽型) / 植物肌密3號潔顏乳→淨顏活性碳面膜→淨顏爽膚水→淨顏精華露→ 淨顏無油乳液 ( 淨顏集中修護凝露請依膚質狀況使用）",
-      "function": "預防面皰，維持肌膚油水平衡",
-      "price": "980",
-      "principal_components": null,
-      "video_source": null,
-      "small_images": {
-        "img_01": "p/g/pg31.jpg"
       },
       "description_image": null
     },
@@ -2716,54 +2700,6 @@
       },
       "description_image": null
     },
-    "pd93": {
-      "name": "好命精華組",
-      "series": "保養美學",
-      "description": "剛剛好的肌膚輕補品，佐入天然好油<br>早晚一帖，翻轉肌膚命運，再造新轉肌<br>肌膚需要補充水份，不只是水，是『水精華』<br>肌膚的水交給【肌晶露】 萃取高濃縮花果精萃<br>加上高保濕玻尿酸鈉及甘醇配方 給肌膚直達肌底的水份<br>補充肌膚底氣，為肌膚穩固打底<br>現在開始，擁有不變的健康肌膚",
-      "capacity": "全能養膚精華油 29ml<br>肌晶露 147ml",
-      "skin_suitable": "全膚質",
-      "usage": "取適量肌晶露於手掌心，添加1-2滴澄淨甦活 全能養膚精華油，再升級『精華中的精華』！<br>從此改寫乾燥無光、泛紅脫皮、紋路粗糙肌膚命運。",
-      "function": "滋潤，修護，保濕",
-      "price": "1980",
-      "principal_components": null,
-      "video_source": null,
-      "small_images": {
-        "img_01": "c/b/cb11.jpg"
-      },
-      "description_image": null
-    },
-    "pd94": {
-      "name": "王牌面膜組",
-      "series": "保養美學",
-      "description": "一夜美敷，晨醒晶透！<br>肌晶晚安面膜<br>保濕鎖水，為肌膚注入活力<br>從肌膚底層散發出自然光采<br>T字大掃除「肌」器，毛孔一掃淨亮！<br>淨顏活性碳面膜<br>活性碳面膜深層吸附毛孔油脂、髒污、殘妝、零污點！",
-      "capacity": "活性碳面膜 114g<br>肌晶晚安面膜 85g",
-      "skin_suitable": "全膚質",
-      "usage": "均勻的塗抹活性碳面膜於清潔後的皮膚，面膜會由膠狀質地逐漸變乾以吸附皮膚髒汙，停留10-20分鐘，以溫水徹底沖洗乾淨、擦乾臉後，敷上肌晶晚安面膜一層，鎖住所有養分睡覺！",
-      "function": "抗老化、減少細紋、皺紋、肌膚淨化透亮",
-      "price": "1500",
-      "principal_components": null,
-      "video_source": null,
-      "small_images": {
-        "img_01": "c/b/cb31.jpg"
-      },
-      "description_image": null
-    },
-    "pd95": {
-      "name": "明星必BUY組",
-      "series": "保養美學",
-      "description": "可以很懶也很美! 你一定要嘗試的懶美人保養聖品<br>四效潔面乳，一瓶搞定卸妝，洗臉，去角質，化妝品，基礎保養洗完臉已經完成。<br>神奇修護噴霧，滿滿植化素精華，一噴明亮，秒補水，隨身攜帶超方便，妝前妝後都可以使用。",
-      "capacity": "四效潔面乳 127g<br>神奇修護噴霧 147ml",
-      "skin_suitable": "全膚質",
-      "usage": "取適量四效潔面乳加少許水分由下往上以輕輕畫圓方式推開後用清水洗淨後噴上神奇修護噴霧，秒補水，隨時維持肌膚水嫩無瑕",
-      "function": "清潔，修護，保濕",
-      "price": "1500",
-      "principal_components": null,
-      "video_source": null,
-      "small_images": {
-        "img_01": "c/e/ce11.jpg"
-      },
-      "description_image": null
-    },
     "pd96": {
       "name": "科研Lab 0.5A醇極效新生精華",
       "series": "科研Lab系列",
@@ -2914,7 +2850,7 @@
       "series": "科研Lab系列",
       "description": "運用肌膚本身就有的絕佳保濕成分--玻尿酸和神經醯胺，留住年輕肌膚的飽滿水分！剛剛好的濃度和比例，做到精準高保濕。玻尿酸 X 神經醯胺 X 馬鞭草 滿水位美肌達成",
       "capacity": "15ml",
-      "skin_suitable":"全膚質",
+      "skin_suitable": "全膚質",
       "usage": "早晚清潔肌膚後，使用於化妝水後、精華液前，取6-8滴於掌心，避開眼周，輕輕塗抹於全臉及頸部肌膚。",
       "function": "保濕、補水",
       "price": "1500",
@@ -2947,7 +2883,40 @@
         "img_07": "m/c/mc46.jpg"
       },
       "description_image": "玻尿酸安瓶精華"
+    },
+    "pd106": {
+      "name": "淨顏無油乳液",
+      "series": "淨顏系列",
+      "description": "赤靈芝萃取、肌膚恢復健康，完整鎖住水分，呈現舒適的清爽肌表面。",
+      "capacity": "88ml",
+      "skin_suitable": "全膚質",
+      "usage": null,
+      "function": null,
+      "price": "980",
+      "principal_components": null,
+      "video_source": null,
+      "small_images": {
+        "img_01": "p/g/pg51.jpg"
+      },
+      "description_image": null
+    },
+    "pd107": {
+      "name": "六胜肽安瓶精華",
+      "series": "科研Lab",
+      "description": "乙醯基六胜肽│撫平肌膚紋路，淡化皺紋，<br>10%高濃度維生素Ｃ│亮白緊實，回復肌膚彈性，提升肌膚防護力，白藜蘆醇│增強肌膚抵抗力，延緩肌膚老化",
+      "capacity": "15ml",
+      "skin_suitable": "全膚質",
+      "usage": "早晚清潔肌膚後，使用於化妝水後、精華液前，取6-8滴於掌心，避開眼周，輕輕塗抹於全臉及頸部肌膚。",
+      "function": "六胜肽安瓶精華以醫美界淡皺新星 - 乙醯基六胜肽，配合高濃度維生素Ｃ及白藜蘆醇混合而成，協力撫平細紋及皺紋。",
+      "price": "1500",
+      "principal_components": null,
+      "video_source": null,
+      "small_images": {
+        "img_01": "p/j/pj51.jpg",
+        "img_02": "p/j/pj52.jpg",
+        "img_03": "p/j/pj53.jpg"
+      },
+      "description_image": null
     }
   }
 }
-

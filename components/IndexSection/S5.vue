@@ -13,16 +13,16 @@
         <div class="col-lg-7 col-md-12 dark flex">
           <div class="body" data-aos="fade-downs" data-aos-duration="1000">
             <p class="small_title">NEW</p>
-            <h3 class="h4">科研Lab 玻尿酸安瓶精華</h3>
-            <p class="margin-top_30"><b class="s5underline">超能活膚，水科技</b></p>
-            <nuxt-link to="/products/Clinical_Solutions/pd104" class="btn-outline btn-large margin-top_30">{{
+            <h3 class="h4">科研Lab 六胜肽安瓶精華</h3>
+            <p class="margin-top_30"><b class="s5underline">有「胜」之年，擁有「肽」平盛事</b></p>
+            <nuxt-link to="/products/Clinical_Solutions/pd107" class="btn-outline btn-large margin-top_30">{{
               $t('pages.homepage.more')
             }}</nuxt-link>
           </div>
         </div>
         <div class="col-lg-5 col-md-12 nomargin">
           <video class="video" poster="" playsinline loop autoplay muted>
-            <source src="~assets/images/TW_video/pj1.mp4" type="video/mp4" />
+            <source src="~assets/images/TW_video/pj5.mp4" type="video/mp4" />
           </video>
         </div>
       </div>
