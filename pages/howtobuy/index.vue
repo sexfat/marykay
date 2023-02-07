@@ -55,7 +55,7 @@
     <div class="spec_b white margin-top_70">
       <div class="container-xxl">
         <div class="row">
-          <h4 class="margin-bottom_20 text_center">如何取得玫粉i購物註冊連結呢？</h4>
+          <h4 class="margin-bottom_20 text_center">如何取得玫粉商城購物註冊連結呢？</h4>
           <div class="col-xs-12 col-md-6">
             <h4>1.已有玫琳凱美容顧問為我服務</h4>
             <p class="text_left">請向自己專屬的美容顧問索取她個人的玫粉i購物連結後，即可開始你的購物樂趣。</p>
