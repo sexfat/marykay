@@ -37,7 +37,7 @@
 
       <section class="spirit__slider">
         <Swiper ref="swiper" :options="swiperOptions">
-          <Swiper-slide v-for="item in 1" :key="item">
+          <Swiper-slide v-for="item in 2" :key="item">
             <img :src="require(`~/assets/images/spirit/slide_${item}.jpg`)" :alt="`spirit slide_${item}`" />
           </Swiper-slide>
         </Swiper>
@@ -67,7 +67,7 @@ export default {
   data() {
     return {
       swiperOptions: {
-        loop: false, // only 1 slide
+        loop: true, // only 1 slide
         slidesPerView: 1,
         pauseOnMouseEnter: true,
         autoplay: {
