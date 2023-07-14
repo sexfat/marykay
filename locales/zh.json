@@ -1098,9 +1098,11 @@
             "pd116",
             "pd130",
             "pd117",
+            "pd133",
             "pd125",
             "pd128",
             "pd131"
+            
           ]
         },
         "Youthfinity": {
@@ -1310,7 +1312,8 @@
             "pd116",
             "pd125",
             "pd128",
-            "pd131"
+            "pd131",
+            "pd133"
           ]
         },
         "Body_Sun": {
@@ -4185,6 +4188,28 @@
       "normal_image": null,
       "small_images": {
         "img_01": "m/e/me60.jpg"
+      },
+      "description_image": null
+    },
+    "pd133": {
+      "name": "PHA＋AHA果酸煥膚安瓶精華",
+      "ename": "Clinical Solutions PHA + AHA Resurfacer",
+      "series": "科研Lab系列",
+      "header_links": null,
+      "description": "<ul><li>結合PHA＋AHA果酸優點，以完美比例調配，使效果相輔相成</li><li>滲透力強，快速調理深層角質</li><li>加強保濕及肌膚防護，具補濕､強化肌膚屏障作用，抗氧化</li><li>有效改善肌膚光澤及皮膚紋理，柔嫩肌膚觸感，緊緻毛孔</li><li>改善皮膚粗燥觸感，使皮膚光滑細緻同時能平衡油脂，促進肌膚煥亮</li><li>實驗證實結果: 在使用後立即使皮膚表面的外觀平均平滑 23%</li></ul>",
+      "capacity": "15ml",
+      "usage": "化妝水後、精華液前。<br>使用滴管取6-8滴於掌心．均勻塗抹在臉部、頸<br>部。避開眼周區域，用後或會有輕微的感覺。<br>每星期2-3次，早晚皆可使用。",
+      "skin_suitable": "經皮膚科醫生測試<br>通過皮膚刺激性和過敏性臨床測試<br>不易引致暗瘡粉刺",
+      "function":"結合PHA＋AHA果酸優點，以完美比例調配，使效果相輔相成。有效改善肌膚光澤及皮膚紋理，柔嫩肌膚觸感，緊緻毛孔。改善皮膚粗燥觸感，使皮膚光滑細緻同時能平衡油脂，促進肌膚煥亮。加速肌膚更新，細膩煥新，增加皮膚透亮感。",
+      "principal_components": "<b>果酸PHA (Gluconolactone) – 5%</b><ul><li>具補濕､強化肌膚屏障作用，抗氧化</li><li>性質溫和，分子結構比AHA大，能在表皮層起作用，有效打破死皮之間的聯繫，加速表層角質脫落</li><li>有效改善肌膚光澤及皮膚紋理，柔嫩肌膚觸感，緊緻毛孔</li><li>去除角質同時滋潤肌膚，適合敏感肌使用</li></ul><br><b>果酸AHA (Glycolic Acid) – 3.9%</b><ul><li>有名的去角質成分，有效增強皮膚自身的更新，幫助去除堵塞毛孔的死皮細胞，防止毛孔阻塞</li><li>改善皮膚粗燥觸感，使皮膚光滑細緻同時能平衡油脂，促進肌膚煥亮</li><li>分子較細，穿透性高，於不同層面有效打破死皮之間的聯繫，加速角質脫落</li></ul><br><b>甘油 (Glycerin)</b><ul><li>著名的補濕成分，於表層形成保護膜，可吸收空氣當中的水分，替皮膚持續保濕，具舒緩作用</li></ul>",
+      "price": "HK$398",
+      "video_source": null,
+      "normal_image": null,
+      "small_images": {
+        "img_01": "p/l/pl60.jpg",
+        "img_02": "p/l/pl61.jpg",
+        "img_03": "p/l/pl62.jpg"
+
       },
       "description_image": null
     }

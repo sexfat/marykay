@@ -51,11 +51,11 @@
                 $t('pages.footer.related_links.links.link_1')
               }}</a>
             </li>
-            <li>
+            <!-- <li>
               <nuxt-link :to="localePath('/global_company')"
                 >{{ $t('pages.footer.related_links.links.link_2') }}
               </nuxt-link>
-            </li>
+            </li> -->
             <li>
               <a target="_blank" href="http://www.hkdsa.org.hk/index.html">{{
                 $t('pages.footer.related_links.links.link_3')
