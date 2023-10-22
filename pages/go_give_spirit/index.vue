@@ -37,7 +37,7 @@
 
       <section class="spirit__slider">
         <Swiper ref="swiper" :options="swiperOptions">
-          <Swiper-slide v-for="item in 2" :key="item">
+          <Swiper-slide v-for="item in 3" :key="item">
             <img :src="require(`~/assets/images/spirit/slide_${item}.jpg`)" :alt="`spirit slide_${item}`" />
           </Swiper-slide>
         </Swiper>

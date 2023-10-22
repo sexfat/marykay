@@ -244,5 +244,303 @@
         "img_01": "p/f/pf91.jpg"
       },
       "description_image": null
+    },
+        "pd57": {
+      "name": "絕色緞光唇膏",
+      "ename": "Gel Semi-Shine Lipstick",
+      "series": "mu01",
+      "header_links": "makeup",
+      "description": "延續絕色啫喱唇膏熱，絕色緞光唇膏以同一嶄新啫喱技術，為櫻唇帶來飽和度高及遮蓋力強的絲緞亮澤色彩。持久濃郁的出眾色彩，柔軟舒適的非凡質感，塑造一抹愛上的細膩緞亮唇色。",
+      "capacity": "3.6g",
+      "features": "經皮膚科醫生測試認可<br>通過皮膚刺激性和過敏性臨床測試",
+      "usage": null,
+      "function": "<ul><li>嶄新啫喱技術透現出濃郁飽和的色彩，像真度高</li><br><li>觸感絲滑、塗抹順滑，讓雙唇柔軟舒適</li><br><li>妝效持久、色彩貼服</li><br><li>葵花籽油及荷荷芭脂等呵護成分，滋潤雙唇，使雙唇不顯亦不感乾燥</li><br><li>含有光學粒子散射光線，呈現柔焦般的自然潤澤妝感</li></ul>",
+      "principal_components": null,
+      "price": "HK$238",
+      "video_source": null,
+      "normal_image": null,
+      "small_images": {
+        "img_01": "m/a/ma11.jpg",
+        "img_03": "m/a/ma13.jpg"
+      },
+      "description_image": null
+    },
+        "pd58": {
+      "name": "凝亮唇彩",
+      "ename": "Unlimited™ Lip Gloss",
+      "series": "mu01",
+      "header_links": "makeup",
+      "description": "質地輕盈不黏笠，超柔滑亮澤，配方中的維他命C及E呵護成分能滋潤雙唇，極致保濕。輕輕一抺立即上色，締造瞬間及持久的豐盈凝亮妝感，為雙唇鎖定迷人色彩。",
+      "capacity": "3.9ml",
+      "skin_suitable": null,
+      "usage": null,
+      "features": "<ul><li>配方含有蓖麻籽油等維他命C及E的呵護成分瞬間滋潤雙唇，極致保濕，令雙唇感受無比舒適潤澤。</li><br><li>嶄新高光澤感和高保濕度技術，專為調理雙唇而設計的成分，立即滋潤並保持嘴唇健康。</li><br><li>配有三種珍珠微閃、閃爍晶瑩、豐盈亮澤妝效，非常百搭，不同場合也能塑造千變萬化的閃亮妝效。</li><br><li>質地輕盈不黏笠，色彩濃郁飽和，零阻力滑動，塗抹順滑亮澤。</li><br><li>獨特的刷頭設計輕輕一抺立即上色，締造瞬間完美唇妝。</li><br><li>具有淡淡的雲呢拿香味，清新香氣使你使用時份外舒適放鬆。</li></ul><br>獨立消費者研究證實<sup>*</sup>：<br>98% 用家表示塗抹順滑。<br>96% 用家表示嘴唇立即感到滋潤。<br>91% 用家表示它使嘴唇看起來很健康。<br>90% 家表示使用後嘴唇感到柔滑。<br><br><div class=\"thin\"><sup>*</sup>根據一項為期一周的獨立消費者研究，100位女性每天使用凝亮唇彩後給予評價，結果是基於大多數小組成員的同意。</div>",
+      "principal_components": null,
+      "price": "HK$168",
+      "video_source": "ma.mp4",
+      "normal_image": null,
+      "small_images": {
+        "img_01": "m/a/ma26.jpg",
+        "img_02": "m/a/ma25.jpg",
+        "img_03": "m/a/ma22.jpg",
+        "img_04": "m/a/ma23.jpg",
+        "img_05": "m/a/ma24.jpg"
+      },
+      "description_image": "凝亮唇彩01.jpg"
+    },
+        "pd69": {
+      "name": "魅彩輕羽胭脂",
+      "ename": "Chromafusion™ Blush",
+      "series": "mu02",
+      "header_links": "makeup",
+      "description": "專利革新技術Mary Kay Chromafusion™ Matrix Technology，將乳霜般的柔滑貼服觸感和羽毛般的輕盈質地完美結合於胭脂中，成就前所未有的絕佳顯色度和持久度。超輕盈粉末加上色調和反光顏料的結合，在任何光線下都帶來自然光澤的妝感。",
+      "capacity": "4.8g",
+      "skin_suitable": "經皮膚科醫生測試<br>通過皮膚刺激性和過敏性臨床測試<br>Oil-Free (無油)配方<br>不易引致粉刺<br>適合敏感性肌膚",
+      "usage": null,
+      "function": "<ul><li>含有礦物成分，既可使妝效持久亮麗光澤，同時亦不會損害肌膚。</li><br><li>有啞光和閃爍色調，為你提供最適合你的色調，打造自然光感好氣色的最佳「妝」備。</li><br><li>色彩飽和，上色度高，質感透薄，妝感柔滑細緻。</li><br><li>色澤持久，不易脫落暈染，胭脂在經歷上班、運動、進出冷氣地方等日程後仍然整天保持亮麗光澤。</li><br><li>輕輕一掃即現淡透自然效果，展現真實，自然的最佳亮麗效果。</li></ul>",
+      "principal_components": null,
+      "price": "HK$150",
+      "video_source": null,
+      "normal_image": null,
+      "small_images": {
+        "img_01": "m/b/mb111.jpg",
+        "img_02": "m/b/mb112.jpg",
+        "img_03": "m/b/mb113.jpg"
+      },
+      "description_image": null
+    },
+        "pd71": {
+      "name": "魅彩輕羽眼影",
+      "ename": "Chromafusion™ Eye Shadow",
+      "series": "mu03",
+      "header_links": "makeup",
+      "description": "專利革新技術 Mary Kay Chromafusion™ Matrix Technology 將乳霜般的柔滑貼服觸感和羽毛般的輕盈質地完美結合於眼影中，成就前所未有的絕佳顯色度及持久度，完美襯托不同造型和膚色。",
+      "capacity": "1.4g",
+      "skin_suitable": null,
+      "usage": null,
+      "function": "<ul><li>多款適合亞洲人的色調，啞光和閃爍 2 款絕美質感，打造無限魅力色彩組合</li><br><li>含有礦物成分，親膚、控油，同時賦予肌膚亮麗光澤</li><br><li>色彩濃郁鮮明，質感柔滑，易於均勻塗抹及上色</li><br><li>色澤持久，不易脫落，能有效持妝 12 小時<sup>*</sup></li></ul>",
+      "principal_components": null,
+      "price": "HK$98",
+      "video_source": null,
+      "normal_image": null,
+      "small_images": {
+        "img_01": "m/c/mc21.jpg",
+        "img_02": "m/c/mc24.jpg",
+        "img_03": "m/c/mc26.jpg",
+        "img_04": "m/c/mc27.jpg",
+        "img_05": "m/c/mc28.jpg",
+        "img_06": "m/c/mc29.jpg"
+      },
+      "description_image": null
+    },
+    "pd76": {
+      "name": "睫毛底膏",
+      "ename": "Lash Primer",
+      "series": "mu03",
+      "header_links": "makeup",
+      "description": "<ul><li>保持睫毛順滑健康狀態，令睫毛更感濃密增長，滋潤順滑更易上妝。</li><br><li>尼龍纖維與棉纖維刷毛交織而成的獨特刷毛設計刷， 能有效地將底膏包裹於睫毛，達到根根分明的效果，為睫毛液上妝做好準備。</li><br><li>想要擁有豐盈自然、纖長分明的睫毛，除了睫毛液外，睫毛底妝必不可少。</li></ul>",
+      "capacity": "8g",
+      "skin_suitable": "適合敏感肌膚<br>眼科專家測試<br>適合配戴隱形眼鏡人士",
+      "usage": null,
+      "function": null,
+      "principal_components": null,
+      "price": "HK$210",
+      "video_source": null,
+      "normal_image": null,
+      "small_images": {
+        "img_01": "m/c/mc71.jpg"
+      },
+      "description_image": null
+    }, 
+        "pd26": {
+      "name": "天然淨活修護膏",
+      "ename": "Naturally<sup>®</sup> Moisturizing Stick",
+      "series": [
+        "ps04",
+        "pf09"
+      ],
+      "header_links": [
+        "product_series",
+        "product_features"
+      ],
+      "description": "100％的天然成分<sup>1</sup>。多功能修護膏，幫助軟化粗糙的肌膚。 具有針對性的成分可立即緩解乾燥肌膚，使皮膚倍感滋潤，舒緩和柔軟。 扭旋式設計方便使用。<sup>1</sup>根據第三方標準（COSMOS標準）許可加工的天然來源。天然資源包括水，植物，礦物質，礦物成分和其他農業成分。<br><br>COSMOS天然認證是通過Ecocert Greenlife 的COSMOS標準而獲取認證的。",
+      "capacity": "10.8g",
+      "skin_suitable": "適合中性至乾性膚質<br>適合敏感性肌膚",
+      "usage": "在任何乾燥的身體肌膚使用，例如面部，嘴唇，手肘/腳肘，膝蓋，或腳跟。取適量產品輕柔按摩於面部和",
+      "function": "ECOCERT COSMOS天然標準認證<br>不含防腐劑、塑化劑、化學界面活性劑SLS/SLES、酒精、矽膠、人工香料及色素、礦物油、基因改造成分<br>經皮膚科醫生測試<br>過皮膚刺激性和過敏性臨床測試<br>不易引致粉刺",
+      "principal_components": "<ul><li><b>角鯊烷 (Squalane)</b> ：親膚性高，發揮保濕、潤膚的效果。能減緩皮膚水分蒸發，維持皮膚彈性飽滿。</li><br><li><b>小燭樹蠟 (Candelilla Wax) 及蜂蠟 (Beeswax)</b> : 具有清爽、修復和軟化皮膚功效，能在肌膚形成天然保護層，阻隔有害物質接觸肌膚，同時防止肌膚水分流失，使皮膚倍感滋潤，舒緩和柔軟。</li><br><li><b>巴西棕櫚蠟 (Carnauba Wax)</b> : 具有潤膚功效，可立即緩解乾燥肌膚，使皮膚倍感柔軟、滋潤。</li></ul>",
+      "price": "HK$318",
+      "video_source": "pd.mp4",
+      "normal_image": null,
+      "small_images": {
+        "img_01": "p/d/pd41.jpg"
+      },
+      "description_image": null
+    },
+        "pd92": {
+      "name": "莎婷乳木果洗手液",
+      "ename": "Satin Hands<sup>®</sup> Shea Hand Soap",
+      "series": "ps11",
+      "header_links": "product_series",
+      "description": "無香料配方，將雙手包裹在柔軟舒適的細緻泡沫中，溫和而有效地潔淨雙手，用後不會令雙手感到乾燥，配方含有滋養的乳木果油成分，柔軟和舒緩乾燥肌膚，即時滋潤及保護皮膚屏障，讓手部回復細緻柔滑。",
+      "capacity": "185g",
+      "skin_suitable": "全膚質",
+      "usage": "取適量洗手液於雙手及手指部位，輕柔地揉搓雙手最少20秒，然後以清水洗淨。",
+      "function": null,
+      "principal_components": "乳木果油分子細小，清爽不油膩，不容易被水洗掉或被肥皂溶解，容易滲透角質並在皮膚上停留更長時間，不感黏膩、不泛油光。同時富含 Omega-3，幫助維持及完整肌膚表面的天然鎖水保護膜，防止水分流失，長效保濕，調整水油平衡。",
+      "price": "HK$108",
+      "video_source": null,
+      "normal_image": null,
+      "small_images": {
+        "img_01": "p/k/pk41.jpg"
+      },
+      "description_image": null
+    },
+        "pd12": {
+      "name": "時光精靈3D四效潔面乳/啫喱",
+      "ename": "TimeWise<sup>®</sup> Age Minimize 3D™<br>4-in-1 Cleanser",
+      "series": [
+        "ps03",
+        "pf02",
+        "sc05"
+      ],
+      "header_links": [
+        "product_series",
+        "product_features",
+        "skincare"
+      ],
+      "description": "特有獨家的 AGE MINIMIZE 3D<sup>®</sup> COMPLEX 3D減齡複合物配方，由白藜蘆醇微囊、維他命B3和抗衰老胜肽三大成分協力組成，發揮協同效應： DEFENDS 防禦外界環境侵害 l DELAYS 延緩衰老 l DELIVERS 實現年輕緊緻肌膚，為肌膚帶來3D逆轉年輕奇蹟功效。",
+      "capacity": "127g",
+      "skin_suitable": "備有2種膚質配方選擇 - 中性至乾性配方及混合至油性配方",
+      "usage": "每天早晚，取適量產品均勻按摩於濕潤的面部和頸部，如有需要可加水揉搓以增加泡沫，然後以清水沖洗乾淨",
+      "function": "<ul><li>一瓶四效，清潔肌膚，同時不會帶走天然水分。</li><li>微泡性配方，與水揉搓起泡後能有效去除肌膚不潔物、多餘油脂、輕薄彩妝和老廢角質，用後肌膚舒適不感繃緊。</li><li>肌膚更感柔嫩、清新、舒爽，更顯光潔亮白。</li><li>肌膚顯得更年輕和健康。</li><li>為吸收後續 TimeWise Miracle Set 3D™ 配方養分做好準備。</li><li>配方溫和，適合每天早晚使用。</li></ul>",
+      "principal_components": "白藜蘆醇微囊 - 提供三重抗氧化功效，有助促進膚色均匀及保護皮膚的天然膠原蛋白。<br><ul><li>維他命B3 - 具有美白提亮功效，同屬抗氧化劑。</li><li>抗衰老胜肽 - 刺激膠原蛋白和彈力蛋白生成，讓肌膚更年輕，更富彈性。</li></ul>",
+      "price": "HK$308",
+      "video_source": "pc.mp4",
+      "normal_image": null,
+      "small_images": {
+        "img_01": "p/c/pc11.jpg"
+      },
+      "description_image": null
+    },
+        "pd16": {
+      "name": "時光精靈3D日霜",
+      "ename": "TimeWise<sup>®</sup> Age Minimize 3D™<br>Day Cream",
+      "series": [
+        "ps03",
+        "pf04"
+      ],
+      "header_links": [
+        "product_series",
+        "product_features"
+      ],
+      "description": "特有獨家的3D減齡複合物配方 (AGE MINIMIZE 3D<sup>®</sup> COMPLEX) ，由白藜蘆醇微囊、抗衰老胜肽和維他命B3三大成分協力組成，發揮協同效應： DEFENDS 防禦外界環境侵害 l DELAYS 延緩衰老 l DELIVERS 實現年輕緊緻肌膚，為肌膚帶來3D逆轉年輕奇蹟功效。",
+      "capacity": "48g",
+      "usage": "備有2種膚質配方選擇 - 中性至乾性配方及混合至油性配方",
+      "使用方法": "每天早上，取適量產品均勻塗抹於面部和頸部。",
+      "function": "<ul><li>為肌膚擔當抗氧化劑角色，幫助抵禦環境壓力侵害。</li><br><li>特別添加仙人掌萃取增強肌膚天然保濕屏障<sup>*</sup>。</li><br><li>能顯著改善細紋及皺紋，提升肌膚彈性。</li><br><li>膚色更均勻明亮，肌膚重拾活力。</li><br><li>與時光精靈3D晚霜配搭使用，雙效加乘，肌膚顯得更年輕，柔滑，煥發青春光彩。</li></ul>",
+      "principal_components": "<ul><li><b>白藜蘆醇微囊</b> - 提供三重抗氧化功效，有助促進膚色均勻及保護皮膚的天然膠原蛋白。</li><br><li><b>抗衰老胜肽</b> - 刺激膠原蛋白和彈力蛋白生成，讓肌膚更年輕，更富彈性。</li><br><li><b>維他命B3</b> - 具有美白提亮功效，同屬抗氧化劑。</li></ul>",
+      "price": "HK$458",
+      "video_source": "pc.mp4",
+      "normal_image": null,
+      "small_images": {
+        "img_01": "p/c/pc51.jpg"
+      },
+      "description_image": null
+    },
+        "pd112": {
+      "name": "時光精靈3D日霜 SPF30",
+      "ename": "TimeWise<sup>®</sup> Age Minimize 3D™<br>Day Cream SPF30",
+      "series": null,
+      "header_links": null,
+      "description": "特有 3D 減齡複合物成分(AGE MINIMIZE 3D® COMPLEX及廣譜防曬 UVA/UVB 保護，由白藜蘆醇微囊、抗衰老胜肽和維他命B3三大成分協力組成，發揮協同效應： DEFENDS 防禦外界環境侵害 l DELAYS 延緩衰老 l DELIVERS 實現年輕緊緻肌膚，為肌膚帶來3D逆轉年輕奇蹟功效。",
+      "capacity": "48g",
+      "skin_suitable": "備有2種膚質配方選擇 - 中性至乾性配方及混合至油性配方",
+      "usage": "每天早上，取適量產品均勻塗抹於面部和頸部。",
+      "function": "<ul><li>為肌膚提供廣譜防曬保護擔，幫助抵禦UVA 及UVA對肌膚的傷害。</li><br><li>為肌膚擔當抗氧化劑角色，幫助抵禦環境壓力侵害。</li><br><li>特別添加<b>仙人掌</b>萃取增強肌膚天然保濕屏障。</li><br><li>能顯著改善細紋及皺紋，提升肌膚彈性。</li><br><li>膚色更均勻明亮，肌膚重拾活力。</li><br><li>與時光精靈3D晚霜配搭使用，雙效加乘，肌膚顯得更年輕，柔滑，煥發青春光彩。</li></ul>",
+      "principal_components": "<ul><li><b>白藜蘆醇微囊</b> - 提供三重抗氧化功效，有助促進膚色均勻及保護皮膚的天然膠原蛋白。</li><br><li><b>抗衰老胜肽</b> - 刺激膠原蛋白和彈力蛋白生成，讓肌膚更年輕，更富彈性。</li><br><li><b>維他命B3</b> - 具有美白提亮功效，同屬抗氧化劑。</li></ul>",
+      "price": "HK$458",
+      "video_source": "pc.mp4",
+      "normal_image": null,
+      "small_images": {
+        "img_01": "p/c/pc51.jpg"
+      },
+      "description_image": null
+    },
+        "pd17": {
+      "name": "時光精靈3D晚霜",
+      "ename": "TimeWise<sup>®</sup> Age Minimize 3D™<br>Night Cream",
+      "series": [
+        "ps03",
+        "pf04"
+      ],
+      "header_links": [
+        "product_series",
+        "product_features"
+      ],
+      "description": "特有獨家的3D減齡複合物配方 (AGE MINIMIZE 3D<sup>®</sup> COMPLEX) ，由白藜蘆醇微囊、抗衰老胜肽和維他命B3三大成分協力組成，發揮協同效應： DEFENDS 防禦外界環境侵害 l DELAYS 延緩衰老 l DELIVERS 實現年輕緊緻肌膚，為肌膚帶來3D逆轉年輕奇蹟功效。",
+      "capacity": "48g",
+      "skin_suitable": "備有2種膚質配方選擇 - 中性至乾性配方及混合至油性配方",
+      "usage": "每天晚上，取適量產品均勻塗抹於面部和頸部。",
+      "function": "<ul><li>高效修復面霜，結合日本杏萃取，有效促進膠原生成*，幫助減淡細紋和皺紋。</li><br><li>同時幫助肌膚對抗自由基傷害，長效保濕12小時，並增強肌膚自然修復周期。</li><br><li>配合時光精靈3D日霜使用，能顯著改善細紋及皺紋，提升肌膚緊實彈性。</li><br><li>一覺醒來，肌膚重拾活力，膚質更顯健康柔滑，展現彈潤光澤。</li></ul>",
+      "principal_components": "<ul><li><b>白藜蘆醇微囊</b> - 提供三重抗氧化功效，有助促進膚色均勻及保護皮膚的天然膠原蛋白。</li><br><li><b>抗衰老胜肽</b> - 刺激膠原蛋白和彈力蛋白生成，讓肌膚更年輕，更富彈性。</li><br><li><b>維他命B3</b> - 具有美白提亮功效，同屬抗氧化劑。</li></ul>",
+      "price": "HK$458",
+      "video_source": "pc.mp4",
+      "normal_image": null,
+      "small_images": {
+        "img_01": "p/c/pc61.jpg"
+      },
+      "description_image": null
+    },
+        "pd18": {
+      "name": "時光精靈3D眼霜",
+      "ename": "TimeWise<sup>®</sup> Age Minimize 3D™<br>Eye Cream",
+      "series": [
+        "ps03",
+        "pf08"
+      ],
+      "header_links": [
+        "product_series",
+        "product_features"
+      ],
+      "description": "特有獨家的3D減齡複合物配方 (AGE MINIMIZE 3D<sup>®</sup> COMPLEX) ，由白藜蘆醇微囊、抗衰老胜肽和維他命B3三大成分協力組成，發揮協同效應： DEFENDS 防禦外界環境侵害 l DELAYS 延緩衰老 l DELIVERS 實現年輕緊緻肌膚，為肌膚帶來3D逆轉年輕奇蹟功效。",
+      "capacity": "14g",
+      "skin_suitable": "全膚質",
+      "usage": "每天早晚，潔面爽膚後，以無名指沾取適量均勻塗抹於眼周，輕按至完全吸收。",
+      "function": "<ul><li>保養嬌嫩的眼部肌膚是保持年輕外觀的第一道防線。</li><br><li>特別加入海藻萃取，能迅速滋潤保濕眼周肌膚12小時。</li><br><li>蘊含獨家特有3D減齡複合物成分，幫助肌膚對抗自由基傷害，預防肌膚衰老現象。</li><br><li>有效改善黑眼圈、眼部浮腫，減少幼紋及皺紋，提亮眼周肌膚。</li><br><li>全方位呵護眼周肌膚，令眼部肌膚重獲彈性，更顯緊緻柔嫩光滑。</li></ul>",
+      "principal_components": "<ul><li><b>白藜蘆醇微囊</b> - 提供三重抗氧化功效，有助促進膚色均勻及保護皮膚的天然膠原蛋白。</li><br><li><b>抗衰老胜肽</b> - 刺激膠原蛋白和彈力蛋白生成，讓肌膚更年輕，更富彈性。</li><br><li><b>維他命B3</b> - 具有美白提亮功效，同屬抗氧化劑。</li></ul>",
+      "price": "HK$418",
+      "video_source": "pc.mp4",
+      "normal_image": null,
+      "small_images": {
+        "img_01": "p/c/pc71.jpg"
+      },
+      "description_image": null
+    },
+        "pd35": {
+      "name": "眼部卸妝液",
+      "ename": "Oil-free Eye Makeup Remover",
+      "series": [
+        "ps06",
+        "pf01"
+      ],
+      "header_links": [
+        "product_series",
+        "product_features"
+      ],
+      "description": "質地溫和，能徹底卸除眼部彩妝，用後肌膚清爽不感油膩。",
+      "capacity": "110ml",
+      "skin_suitable": "通過皮膚刺激性和過敏性臨床測試<br>適合敏感眼睛及肌膚<br>適合佩戴隱形眼鏡人士使用<br>經眼科專家測試<br>低致敏性<br>不含油分",
+      "usage": null,
+      "function": "<ul><li>獨特雙層配方：上層卸除防水性彩妝，下層卸除一般性彩妝。</li><br><li>清爽不油，能徹底卸除眼部彩妝和空氣中的髒污物。</li><br><li>用後肌膚保持柔軟、光滑。</li></ul>",
+      "principal_components": null,
+      "price": "HK$168",
+      "video_source": null,
+      "normal_image": null,
+      "small_images": {
+        "img_01": "p/f/pf51.jpg",
+        "img_02": "p/f/pf52.jpg"
+      },
+      "description_image": null
     }
     }

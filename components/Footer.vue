@@ -56,11 +56,11 @@
                 >{{ $t('pages.footer.related_links.links.link_2') }}
               </nuxt-link>
             </li> -->
-            <li>
+            <!-- <li>
               <a target="_blank" href="http://www.hkdsa.org.hk/index.html">{{
                 $t('pages.footer.related_links.links.link_3')
               }}</a>
-            </li>
+            </li> -->
           </ul>
         </div>
         <div class="col-lg-3 col-md-6">
