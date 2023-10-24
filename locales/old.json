@@ -131,5 +131,92 @@
       "img_01": "c/b/cb31.jpg"
     },
     "description_image": null
-  }
+  },
+      "pd2": {
+      "name": "澄淨甦活 全能精華棒",
+      "series": "澄淨甦活系列",
+      "description": "歐盟ECO認證 100%純天然植萃，柔滑細緻。<br>蜂蠟 +小燭樹蠟+向日葵花籽蠟+巴西棕梠樹蠟+植萃角鯊烷。<br>溫暖潤澤、四重全護鎖水、補水、撫平紋路。",
+      "capacity": "10.8g",
+      "skin_suitable": "全膚質",
+      "usage": "塗抹在任何乾燥部位，例如:鼻翼，臉頰，指緣，足根，手部等",
+      "function": "修護，保濕",
+      "price": "1200",
+      "principal_components": null,
+      "video_source": "pa31.mp4",
+      "small_images": {
+        "img_01": "p/a/pa31.jpg",
+        "img_02": "p/a/pa32.jpg",
+        "img_03": "p/a/pa33.jpg"
+      },
+      "description_image": "澄淨甦活.jpg"
+    },
+        "pd60": {
+      "name": "天使光立體修容餅",
+      "series": "臉部彩妝",
+      "description": "輕刷在鼻樑，眼周等想要明亮立體處",
+      "capacity": "4.8g",
+      "skin_suitable": "全膚質",
+      "usage": "以手指或刷具沾取適量，輕輕刷拭想要打亮加強的任何臉部或身體部位。",
+      "function": "美化、修飾容貌",
+      "price": "500",
+      "principal_components": null,
+      "video_source": null,
+      "small_images": {
+        "img_01": "m/a/ma11.jpg"
+      },
+      "description_image": null
+    },
+        "pd63": {
+      "name": "寶石蜜唇彩",
+      "series": "唇部彩妝",
+      "description": "不黏膩水潤光澤，絲緞般柔滑<br>寶石般細緻閃爍光彩 X 玻璃晶透光感<br>高保濕專利配方，持久潤澤<br>專為唇部設計完美貼合刷頭，一刷鮮明上色",
+      "capacity": "3.9ml",
+      "skin_suitable": "全膚質",
+      "usage": "直接塗抹於唇部",
+      "function": "美化唇部",
+      "price": "800",
+      "principal_components": null,
+      "video_source": "mc31.mp4",
+      "small_images": {
+        "img_01": "m/c/mc31.jpg",
+        "img_02": "m/c/mc32.jpg",
+        "img_03": "m/c/mc33.jpg",
+        "img_04": "m/c/mc34.jpg",
+        "img_05": "m/c/mc35.jpg",
+        "img_06": "m/c/mc36.jpg"
+      },
+      "description_image": null
+    },
+        "pd103": {
+      "name": "鑽之真愛香水",
+      "series": "香水",
+      "description": "我想要創造一款可以代表慶祝女人生命中所有重要時刻的香味。Forever Diamonds™ 剛開始的時候是一種喜悅，高雅的清香，它核心的味道是好像一束美麗的捧花。使用這款香水的女人絕對是光芒四射，非常迷人，是眾人的焦點。<br><p class='small_font'> – Rodrigo Flores-Roux, Forever Diamonds™香水創造人。</p><br><br>前味: 黃金蜜桃, 茉莉花, 鑽石蘭花<br>中味: 晚香玉, 雞血石, 杏<br>後味: 香草, 白琥珀",
+      "capacity": "60ml",
+      "skin_suitable": null,
+      "usage": null,
+      "function": null,
+      "price": "2200",
+      "principal_components": null,
+      "video_source": null,
+      "small_images": {
+        "img_01": "m/d/md31.jpg"
+      },
+      "description_image": "鑽之真愛香水"
+    },
+        "pd77": {
+      "name": "腮紅刷",
+      "series": "彩妝工具",
+      "description": "山羊毛材質；使雙頰可表現自然服貼的色彩質感。",
+      "capacity": "1入",
+      "skin_suitable": null,
+      "usage": "沾取適量腮紅，於兩頰笑肌部位上平行往後刷即可。",
+      "function": null,
+      "price": "70",
+      "principal_components": null,
+      "video_source": null,
+      "small_images": {
+        "img_01": "m/e/me61.jpg"
+      },
+      "description_image": null
+    }
 }
