@@ -218,5 +218,22 @@
         "img_01": "m/e/me61.jpg"
       },
       "description_image": null
+    },
+
+        "pd7": {
+      "name": "時光3D眼部精華乳",
+      "series": "時光3D系列",
+      "description": "滑手機除了補眼也要顧眼周<br>• 海藻多醣精華：保濕。<br>• 寡胜肽：肌膚彈力飽滿。<br>• 維他命B3：眼神亮起來。",
+      "capacity": "14g",
+      "skin_suitable": "全膚質",
+      "usage": "取適量均勻塗抹於眼周",
+      "function": "淡化皺紋",
+      "price": "1280",
+      "principal_components": null,
+      "video_source": null,
+      "small_images": {
+        "img_01": "p/b/pb41.jpg"
+      },
+      "description_image": null
     }
 }

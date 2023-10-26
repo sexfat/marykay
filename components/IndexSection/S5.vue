@@ -4,18 +4,25 @@
       <div class="titles">
         <h1 class="showcase" data-aos="fade-up" data-aos-duration="800">
           <b>小美VS健康 食物VS美麗 <br />吃出VS彩虹食力</b>
+          <br />
+          <a
+            class="btn_change white btn_border_dark hover"
+            href="https://marykaytwn.wixsite.com/timewisemiracleset"
+            target="_blank"
+            >神奇3D啟動肌膚ABC方程式</a
+          >
         </h1>
       </div>
-      <img src="~assets/images/s5_banner.jpg" alt="" srcset="" />
+      <img src="~assets/images/s5_banner_new.jpg" alt="" srcset="" />
     </div>
     <div class="container-fluid">
       <div class="row">
         <div class="col-lg-7 col-md-12 dark flex">
           <div class="body" data-aos="fade-downs" data-aos-duration="1000">
-            <p class="small_title">NEW</p>
-            <h3 class="h4">科研Lab 雙果酸安瓶精華</h3>
-            <p class="margin-top_30"><b class="s5underline">溫柔有感一鍵美顏，速速煥然一新！</b></p>
-            <nuxt-link to="/products/Clinical_Solutions/pd108" class="btn-outline btn-large margin-top_30">{{
+            <!-- <p class="small_title">NEW</p> -->
+            <h3 class="h4">科研Lab</h3>
+            <p class="margin-top_30"><b class="s5underline">嚴選成分 一滴激發你的肌膚潛力</b></p>
+            <nuxt-link to="/products/Clinical_Solutions" class="btn-outline btn-large margin-top_30">{{
               $t('pages.homepage.more')
             }}</nuxt-link>
           </div>

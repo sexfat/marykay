@@ -25,7 +25,7 @@
     <div class="spec">
       <div class="container-xxl">
         <div class="row">
-          <img src="~assets/images/awards/un.jpg" alt="" />
+          <img src="~assets/images/awards/Claims-Hero1.jpg" alt="" />
         </div>
       </div>
     </div>

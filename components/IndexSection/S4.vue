@@ -73,7 +73,6 @@
                 <div class="content_heading flex">
                   <h3>
                     PINK ACHIEVEMENT
-
                     <p>{{ $t('pages.homepage.s4.slide_2.h3') }}</p>
                   </h3>
                 </div>
