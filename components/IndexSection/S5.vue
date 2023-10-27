@@ -1,17 +1,10 @@
 <template>
   <div id="s5" class="s5">
     <div class="banner">
-      <div class="titles">
-        <h1 class="showcase" data-aos="fade-up" data-aos-duration="800">
-          <b>小美VS健康 食物VS美麗 <br />吃出VS彩虹食力</b>
-          <br />
-          <a
-            class="btn_change white btn_border_dark hover"
-            href="https://marykaytwn.wixsite.com/timewisemiracleset"
-            target="_blank"
-            >神奇3D啟動肌膚ABC方程式</a
-          >
-        </h1>
+      <div class="titles" data-aos="fade-downs" data-aos-duration="1000">
+        <a class="newtime" href="https://marykaytwn.wixsite.com/timewisemiracleset" target="_blank"
+          ><img src="~assets/images/newtime.webp" alt="時光神奇組合" srcset=""
+        /></a>
       </div>
       <img src="~assets/images/s5_banner_new.jpg" alt="" srcset="" />
     </div>
@@ -29,7 +22,7 @@
         </div>
         <div class="col-lg-5 col-md-12 nomargin">
           <video class="video" poster="" playsinline loop autoplay muted>
-            <source src="~assets/images/TW_video/pj6.mp4" type="video/mp4" />
+            <source src="~assets/images/TW_video/pj7.mp4" type="video/mp4" />
           </video>
         </div>
       </div>

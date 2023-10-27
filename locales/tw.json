@@ -2182,8 +2182,7 @@
       "principal_components": null,
       "video_source": null,
       "small_images": {
-        "img_01": "m/a/ma101.jpg",
-        "img_02": "m/a/ma102.jpg"
+        "img_01": "m/a/ma101.jpg"
       },
       "description_image": null
     },

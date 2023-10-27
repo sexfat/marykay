@@ -7,6 +7,7 @@
         display: flex;
         justify-content: center;
         align-items: center;
+        position: relative;
 
         @include t() {
             height: auto;
@@ -19,11 +20,9 @@
         .titles {
             position: absolute;
             z-index: 100;
-            font-size: 20px;
-            width: 625px;
-            margin: 0 auto;
-            color: rgb(255, 255, 255);
-            left: 10%;
+            width: 525px;
+            right: 10%;
+            top: 20%;
 
             sup {
                 position: relative;
@@ -33,42 +32,11 @@
             }
 
             @include t() {
-                font-size: 14px;
-                width: 240px;
-
-                b {
-                    line-height: 51px;
-                    font-size: 2.3rem;
-                    position: relative;
-                    left: -147px;
-                    width: 400px;
-                    display: block;
-
-                    sup {
-                        font-size: 2rem;
-                    }
-
-                }
-
-
-
+                width: 40%;
             }
 
             @include m() {
-                b {
-                    line-height: 27px;
-                    font-size: 1.2rem;
-                    position: relative;
-                    left: -33px;
-                    width: inherit;
-                    display: inherit;
-
-                    sup {
-                        font-size: 1.4rem;
-                    }
-
-                }
-
+                 width: 180px;
             }
         }
 
