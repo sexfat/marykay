@@ -145,13 +145,6 @@
           "header_links": "product_series",
           "header_img": "pg.jpg"
         },
-        "Calming_Influence": {
-          "name": "舒顏系列",
-          "cn": "舒顏系列",
-          "banner_title": "CALMING INFLUENCE",
-          "header_links": "product_series",
-          "header_img": "ph.jpg"
-        },
         "Clear_Proof": {
           "name": "淨顏系列",
           "cn": "淨顏系列",
@@ -1163,7 +1156,8 @@
             "pd36",
             "pd124",
             "pd37",
-            "pd38"
+            "pd38",
+            "pd50"
           ]
         },
         "LumiVie": {
@@ -1175,16 +1169,6 @@
             "pd42",
             "pd44",
             "pd45"
-          ]
-        },
-        "Calming_Influence": {
-          "name": "舒顏系列",
-          "products": [
-            "pd46",
-            "pd47",
-            "pd48",
-            "pd49",
-            "pd50"
           ]
         },
         "Clear_Proof": {
@@ -1475,7 +1459,9 @@
           "name": "香氛系列",
           "products": [
             "pd132",
-            "pd140"
+            "pd140",
+            "pd141",
+            "pd142"
           ]
         }
       }
@@ -3844,7 +3830,7 @@
       "description": "高效修復面霜，蘊含獨家特有3D減齡複合物成分結合洋甘菊萃取，幫助肌膚對抗自由基傷害，同時帶來舒緩鎮靜。獨特NutriBeads<sup>®</sup> Duo 懸浮珠將白藜蘆醇和維他命混合物新鮮釋放到肌膚上。",
       "capacity": "28g",
       "skin_suitable": "全膚質",
-      "usage": "每天早上，取適量產品均勻塗抹於面部和頸部。",
+      "usage": "每天晚上，取適量產品均勻塗抹於面部和頸部。",
       "function": "<ul><li>於肌膚修復黃金時間發揮作用，令肌膚得到充分休息，有助撫平表情紋、減少皺紋，重拾活力，煥然一新</li><li>添加洋甘菊萃取，為肌膚提供額外抗氧化力。於睡眠時為肌膚帶來舒緩鎮靜</li><li>獨特NutriBeads<sup>®</sup> Duo 懸浮珠，將新鮮營養釋放到肌膚上</li></ul>",
       "principal_components": "3D減齡複合物配方 (TimeWise 3D<sup>®</sup> Complex) 由三大核心成分協力組成：<p><ul><li>白藜蘆醇微囊。</li><li>抗衰老胜肽。</li><li>維他命B3。</li></ul></p><br><br>提供支持肌膚年輕的三個關鍵維度，展現強大ABC減齡效能：<br><p><ul><li>Antioxidant抗氧化：為肌膚提供保護，對抗陽光和污染形成的自由基傷害，包括由藍光引起的自由基</li><li>Brightening提亮膚色：展現更明亮均勻的膚色</li><li>Collagen緊緻膠原：支持肌膚的天然膠原蛋白及彈性蛋白</li></ul></p>",
       "price": "HK$498",
@@ -3908,6 +3894,44 @@
         "img_01": "m/e/me61.jpg"
       },
       "description_image": null
-    }
+    },
+      "pd141": {
+        "name": "秘密花園香水-檀香玫瑰",
+        "ename": "Blush Scent Eau de Parfum",
+        "series": "香氛系列",
+        "header_links": null,
+        "description": "以經典不朽的Orpur<sup>®</sup>保加利亞玫瑰精油為中調，輔以誘人和活潑的莓果味和醇厚、乾淨的檀香氣味，賦予香氣縈繞的體驗。",
+        "capacity": "50ml",
+        "skin_suitable": null,
+        "usage": null,
+        "function": null,
+        "principal_components": "ORPUR<sup>®</sup>保加利亞玫瑰精油、莓果、檀香",
+        "price": "HK$238",
+        "video_source": null,
+        "normal_image": null,
+        "small_images": {
+          "img_01": "m/e/me62.jpg"
+        },
+        "description_image": null
+      },
+      "pd142": {
+        "name": "秘密花園香水-茉莉香草",
+        "ename": "Velvet Scent Eau de Parfum",
+        "series": "香氛系列",
+        "header_links": null,
+        "description": "以誘人溫暖的Orpur®馬達加斯加香草，配以層層浮香於香草氣味的梨和茉莉香調，賦予引人入勝的香氣體驗。",
+        "capacity": "50ml",
+        "skin_suitable": null,
+        "usage": null,
+        "function": null,
+        "principal_components": "ORPUR<sup>®</sup>馬達加斯加香草、梨、茉莉",
+        "price": "HK$238",
+        "video_source": null,
+        "normal_image": null,
+        "small_images": {
+          "img_01": "m/e/me63.jpg"
+        },
+        "description_image": null
+      }
   }
 }

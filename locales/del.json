@@ -632,5 +632,14 @@
         "img_01": "p/i/pi41.jpg"
       },
       "description_image": null
-    }
+    },
+     "Calming_Influence": {
+          "name": "舒顏系列",
+          "products": [
+            "pd46",
+            "pd47",
+            "pd48",
+            "pd49"
+          ]
+        }
     }
