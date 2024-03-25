@@ -7,10 +7,10 @@
           <div class="banner s_1">
             <div class="titles">
               <h1 class="showcase" data-aos="fade-up" data-aos-duration="800">
-                <b>吃得下的健康彩虹</b>
+                <b>重塑肌膚年輕軌跡</b>
               </h1>
             </div>
-            <img src="~assets/images/s5_banner.jpg" />
+            <img src="~assets/images/s5_banner_new.jpg" />
           </div>
         </div>
         <div class="container-fluid">
@@ -18,24 +18,18 @@
             <div class="col-lg-7 col-md-12 dark flex">
               <div class="body" data-aos="fade-downs" data-aos-duration="1000">
                 <p class="small_title">NEW</p>
-                <h3 class="h4">
-                  {{ $t('pages.homepage.s5.h3_2') }}<br />
-                  {{ $t('pages.homepage.s5.h31') }}
-                </h3>
-                <p class="margin-top_30">
-                  {{ $t('pages.homepage.s5.text_2') }}
-                </p>
-                <a
-                  target="_blank"
-                  href="https://marykayhk.wixsite.com/multivitamin"
+                <h3 class="h4">{{ $t('pages.homepage.s5.h3_2') }}<br />{{ $t('pages.homepage.s5.h31') }}</h3>
+                <p class="margin-top_30">{{ $t('pages.homepage.s5.text_2') }}</p>
+                <nuxt-link
+                  :to="localePath('/products/TimeWise3D')"
                   class="btn-outline btn-large margin-top_30 margin-bottom_20"
-                  >{{ $t('pages.homepage.more') }}</a
+                  >{{ $t('pages.homepage.more') }}</nuxt-link
                 >
               </div>
             </div>
             <div class="col-lg-5 col-md-12 nomargin">
               <video class="video" poster="" playsinline loop autoplay muted>
-                <source src="~assets/images/video/sa6.mp4" type="video/mp4" />
+                <source src="~assets/images/video/pc138.mp4" type="video/mp4" />
               </video>
             </div>
           </div>
@@ -57,15 +51,13 @@
             <div class="col-lg-7 col-md-12 dark flex">
               <div class="body" data-aos="fade-downs" data-aos-duration="1000">
                 <p class="small_title">NEW</p>
-                <h3 class="h4">
-                {{ $t('pages.homepage.s5.h3') }}<br>
-                {{ $t('pages.homepage.s5.h3_1') }}
-                </h3>
-                <p class="margin-top_30">
-                  {{ $t('pages.homepage.s5.text') }}
-                </p>
-                 <nuxt-link
-                    :to="localePath('/products/lab')" class="btn-outline btn-large margin-top_30 margin-bottom_20">{{ $t('pages.homepage.more') }}</nuxt-link>
+                <h3 class="h4">{{ $t('pages.homepage.s5.h3') }}<br />{{ $t('pages.homepage.s5.h3_1') }}</h3>
+                <p class="margin-top_30">{{ $t('pages.homepage.s5.text') }}</p>
+                <nuxt-link
+                  :to="localePath('/products/lab')"
+                  class="btn-outline btn-large margin-top_30 margin-bottom_20"
+                  >{{ $t('pages.homepage.more') }}</nuxt-link
+                >
               </div>
             </div>
             <div class="col-lg-5 col-md-12 nomargin">

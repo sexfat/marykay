@@ -31,11 +31,11 @@
         </div>
       </section>
 
-      <section class="miss-give">
+      <!-- <section class="miss-give">
         <img class="img-fluid" src="~/assets/images/spirit/miss_go_give.jpg" alt="miss_go_give" />
-      </section>
+      </section> -->
 
-      <section class="spirit__slider">
+      <!-- <section class="spirit__slider">
         <Swiper ref="swiper" :options="swiperOptions">
           <Swiper-slide v-for="item in 3" :key="item">
             <img :src="require(`~/assets/images/spirit/slide_${item}.jpg`)" :alt="`spirit slide_${item}`" />
@@ -55,7 +55,7 @@
           alt="arrow_right"
           @click="next"
         />
-      </section>
+      </section> -->
     </main>
   </div>
 </template>

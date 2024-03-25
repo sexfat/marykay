@@ -1,6 +1,9 @@
 .s5 {
     width: 100%;
     .s_1 {
+      .titles {
+          right: -147px;
+      }
       h3 {
         span {
           font-family: marykay_serif, serif;
@@ -29,6 +32,7 @@
             font-size: 20px;
             width: 730px;
             margin: 0 auto;
+         
             @include t() {
                 font-size: 14px;
                 width: 240px;

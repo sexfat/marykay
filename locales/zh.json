@@ -39,12 +39,12 @@
         "h1": "醫美護膚<br>釋放肌膚潛能",
         "h3": "Mary Kay",
         "h3_1": "科研 Lab 系列",
-        "h3_2": "Multivitamin",
-        "h31": "粉美維他命",
+        "h3_2": "TimeWise Miracle Set",
+        "h31": "時光精靈神奇組合",
         "search_more": "探索更多",
         "learn_more": "了解更多",
         "text": "醫美級別的配方及成分，為你現有的護膚程序提供更具針對性的皮膚問題解決方案！",
-        "text_2": "怡日健® 粉美維他命提供全面營養組合，富含七種 Super Food 超級食物的萃取、六種重要礦物質及五種維他命，為健康打好鞏固基礎，守護你的健康及美麗。",
+        "text_2": "蘊含3D減齡複合物配方 (TimeWise 3D® Complex) ，提供支持肌膚年輕的三個關鍵維度，展現強大ABC減齡效能。",
         "slides": {
           "slide_1": {
             "img": "b_01.jpg",
@@ -244,13 +244,6 @@
           "header_links": "product_features",
           "header_img": "fi.jpg"
         },
-        "Skin_Care_Tools": {
-          "name": "美容儀器",
-          "cn": "美容儀器",
-          "banner_title": "Skin Care Tools",
-          "header_links": "product_features",
-          "header_img": "fj.jpg"
-        },
         "Lips": {
           "name": "唇部系列",
           "cn": "唇部系列",
@@ -270,7 +263,7 @@
           "cn": "眼部系列",
           "banner_title": "EYES",
           "header_links": "makeup",
-          "header_img": "mc.jpg"
+          "header_img": "mc_new.jpg"
         },
         "Tools": {
           "name": "彩妝工具",
@@ -284,7 +277,8 @@
           "cn": "香氛系列",
           "banner_title": "FRAGRANCE",
           "header_links": "Fragrance",
-          "header_img": "me.jpg"
+          "black": true,
+          "header_img": "me_new.jpg"
         },
         "Nutrition": {
           "name": "食物補充品",
@@ -1140,7 +1134,6 @@
             "pd136",
             "pd137",
             "pd138"
-
           ]
         },
         "Naturally": {
@@ -1166,6 +1159,7 @@
             "pd32",
             "pd33",
             "pd34",
+            "pd35",
             "pd36",
             "pd124",
             "pd37",
@@ -1179,7 +1173,6 @@
             "pd40",
             "pd41",
             "pd42",
-            "pd43",
             "pd44",
             "pd45"
           ]
@@ -1200,7 +1193,6 @@
             "pd51",
             "pd52",
             "pd53",
-            "pd54",
             "pd55",
             "pd56"
           ]
@@ -1240,6 +1232,7 @@
         "Makeup_Remover": {
           "name": "卸妝",
           "products": [
+            "pd35",
             "pd36"
           ]
         },
@@ -1302,7 +1295,6 @@
             "pd21",
             "pd25",
             "pd50",
-            "pd54",
             "pd55",
             "pd116",
             "pd125",
@@ -1344,12 +1336,6 @@
             "pd38",
             "pd124"
           ]
-        },
-        "Skin_Care_Tools": {
-          "name": "美容儀器",
-          "products": [
-            "pd110"
-          ]
         }
       }
     },
@@ -1373,7 +1359,6 @@
             "pd65",
             "pd66",
             "pd67",
-            "pd68",
             "pd122"
           ]
         },
@@ -1408,7 +1393,6 @@
         "Nutrition": {
           "name": "食物補充品",
           "products": [
-            "pd123",
             "pd105",
             "pd106",
             "pd107",
@@ -1490,9 +1474,8 @@
         "Fragrance": {
           "name": "香氛系列",
           "products": [
-            "pd119",
-            "pd127",
-            "pd132"
+            "pd132",
+            "pd140"
           ]
         }
       }
@@ -1803,7 +1786,7 @@
       "skin_suitable": "經皮膚科專家測試<br>適合敏感肌膚<br>不含油脂及香料<br>不會引起粉刺",
       "usage": null,
       "function": null,
-      "principal_components": null,
+      "principal_components": "<ul><li>透明質酸鈉：幫助皮膚吸收和保持水份</li><li>甘油：幫助皮膚維持滋潤度，柔軟皮膚</li><li>巴西莓精華萃取：超級強大的抗氧化劑，其中和游離基的功效比綠茶高80倍</li><li>七葉樹籽萃取物：幫助緊實及舒緩肌膚和強化肌膚屏障</li><li>維他命E衍生物：抗氧化成份，抵禦自由基</li><li>維他命B3：幫助強化肌膚保護功能</li></ul>",
       "price": "HK$380",
       "video_source": null,
       "normal_image": null,
@@ -1939,7 +1922,7 @@
     },
     "pd22": {
       "name": "時光精靈美體緊緻乳液",
-      "ename": "TimeWise Body Targeted-Action<sup>®</sup> Toning Lotion",
+      "ename": "TimeWise Body Targeted-Action<sup>®</sup> Toning Lotion (with 3D Complex)",
       "series": [
         "ps03",
         "pf04",
@@ -1952,11 +1935,11 @@
       ],
       "description": "含多種有效成份幫助肌膚持久保濕，調理、緊致肌膚，只需簡單一步，就可讓你全身肌膚體現緊實自然的年輕光彩。",
       "capacity": "236ml",
-      "skin_suitable": "經臨床測試不會引起痕癢及敏感<br>經皮膚科專家測試<br>不會引起粉刺<br>不含油脂",
+      "skin_suitable": "經臨床測試不會引起痕癢及敏感<br>經皮膚科專家測試",
       "price": "HK$368",
       "usage": null,
       "function": null,
-      "principal_components": "<ul><li>含3種抗氧化成份，抵抗日光為肌膚帶來的傷害。長效保濕達24小時。</li><br><li>含咖啡因成份 (Caffeine) 加速排出多餘體液，令身體線條更緊實。</li></ul>",
+      "principal_components": "<ul><li>含3D減齡複合物配方 (TimeWise 3D® Complex)和3種抗氧化成份，抵抗日光為肌膚帶來的傷害。長效保濕達24小時。</li><br><li>含咖啡因成份 (Caffeine) 加速排出多餘體液，令身體線條更緊實。</li></ul>",
       "video_source": null,
       "normal_image": null,
       "small_images": {
@@ -2238,6 +2221,31 @@
       },
       "description_image": "水凝膠眼膜02.jpg"
     },
+    "pd35": {
+      "name": "眼部卸妝液",
+      "ename": "Oil-free Eye Makeup Remover",
+      "series": [
+        "ps06",
+        "pf01"
+      ],
+      "header_links": [
+        "product_series",
+        "product_features"
+      ],
+      "description": "質地溫和，能徹底卸除眼部彩妝，用後肌膚清爽不感油膩。",
+      "capacity": "110ml",
+      "skin_suitable": "通過皮膚刺激性和過敏性臨床測試<br>適合敏感眼睛及肌膚<br>適合佩戴隱形眼鏡人士使用<br>經眼科專家測試<br>低致敏性<br>不含油分",
+      "usage": null,
+      "function": "<ul><li>獨特雙層配方：上層卸除防水性彩妝，下層卸除一般性彩妝。</li><br><li>清爽不油，能徹底卸除眼部彩妝和空氣中的髒污物。</li><br><li>用後肌膚保持柔軟、光滑。</li></ul>",
+      "principal_components": null,
+      "price": "HK$168",
+      "video_source": null,
+      "normal_image": null,
+      "small_images": {
+        "img_01": "p/f/pf51.jpg"
+      },
+      "description_image": null
+    },
     "pd36": {
       "name": "卸妝潔膚水",
       "ename": "Micellar Water",
@@ -2398,25 +2406,6 @@
       "normal_image": null,
       "small_images": {
         "img_01": "p/g/pg41.jpg"
-      },
-      "description_image": null
-    },
-    "pd43": {
-      "name": "LumiVie™ 亮采精華眼霜",
-      "ename": "LumiVie™ Eye Treatment",
-      "series": "ps07",
-      "header_links": "product_series",
-      "description": "質地水潤輕盈，為眼周肌膚傾注亮采精華，瞬間提亮眼周肌膚，即時倍感滋潤舒適，顯著改善眼周暗沉膚色和減淡黑眼圈，幫助眼周肌膚展現明亮透白光采。",
-      "capacity": "15g",
-      "skin_suitable": "專為亞洲肌膚研製<br>適合亞洲人肌膚<br>適合所有膚質",
-      "usage": "每天早晚，以指尖取適量均勻塗抹於眼周，輕按至完全吸收。",
-      "function": null,
-      "principal_components": "<ul><li><b>大溪地黑珍珠臻萃 (Tahitian Black Pearl)</b>：保護肌膚、提亮膚色，還能賦予肌膚能量、喚醒肌膚活力和增強保水及抵抗能力。</li><br><li><b>Opti-Bright™ 複合物 (Opti-Bright™ Complex)</b>：獨家研發的複合物將東當歸根提取物、植物性胺基酸和菸鹼醯胺結合並產生協同作用，針對造成膚色不均的多種因素，抑制黑色素及色斑形成，對抗黯沉膚色，並幫助改善現有色斑，讓肌膚剔透亮白、勻淨無瑕。</li><br><li><b>海蓬子萃取 (Samphire)</b>：生長在高鹽分海岸線的神奇植物，具有特殊的儲存和調節水分能力，能提升肌膚水分傳輸通道，讓肌膚長時間保持水潤晶瑩。</li></ul>",
-      "price": "HK$480",
-      "video_source": "pg.mp4",
-      "normal_image": null,
-      "small_images": {
-        "img_01": "p/g/pg51.jpg"
       },
       "description_image": null
     },
@@ -2665,31 +2654,6 @@
       "normal_image": null,
       "small_images": {
         "img_01": "p/i/pi31.jpg"
-      },
-      "description_image": null
-    },
-    "pd54": {
-      "name": "淨顏清爽毛孔精華露",
-      "ename": "Clear Proof<sup>®</sup>Pore-Purifying Serum<br>for Acne-Prone Skin",
-      "series": [
-        "ps09",
-        "pf06"
-      ],
-      "header_links": [
-        "product_series",
-        "product_features"
-      ],
-      "description": "絲滑的透明啫喱精華，質地清爽無負擔，塗抹方便，有效幫助減褪及預防暗瘡，同時幫助控油，淨化、暢通及收細毛孔",
-      "capacity": "50g",
-      "skin_suitable": "適合敏感性肌膚<br>不含香料<br>不含油分<br>不易引致暗瘡粉刺",
-      "usage": "潔面、爽膚後，取適量產品輕輕塗於面部及頸部，避開眼周。<br><br>使用要點<br><ul><li>使用本產品期間，皮膚可能會感到乾燥或輕微刺激，此乃正常反應，代表成分正在發揮功效，一般使用兩星期後皮膚會漸漸適應。建議可從一天使用一次開始，視乎狀況或需要再慢慢調整為一天使用兩次。</li><br><li>若皮膚出現過度乾燥或脫皮現象，則改為一天或隔天使用一次。</li><br><li>首三天可先局部使用於一至兩個細小暗瘡粉刺部位，如沒有乾燥或不適才按照上述建議方法使用。</li><br><li>水楊酸會促進角質代謝，因此使用水楊酸產品期間，應避免使用其它去角質及煥膚產品，以免角質被過度去除而引起刺激不適，並應每天做好防曬護理保護皮膚。</li></ul>",
-      "function": "<ul><li>溫和去除皮膚表面角質。</li><br><li>深入毛孔去除堆積的油脂及死皮細胞，改善毛孔閉塞。</li><br><li>幫助去除皮膚老舊角質細胞，打開閉塞的毛孔，保持毛孔清潔暢通。</li><br><li>幫助收細毛孔，同時減少油光。</li><br><li>紓緩抗菌，預防暗瘡產生。</li></ul>",
-      "principal_components": "<ul><li><b>水楊酸 (Salicylic Acid)</b> - 具脂溶性，不單能去除皮膚表面老廢角質，還能深入毛孔進行清潔，溶解及去除毛孔內堆積的油脂、污垢及死皮細胞，疏通毛孔，並能令油脂變乾及抑菌消炎，因此能截斷暗瘡形成的因素，從根本改善及預防暗瘡。其去角質功效更能促進表皮細胞更新代謝，使皮膚更柔滑。</li><br><li><b>加拿大柳葉蘭萃取(Canadian Willowherb)、牛蒡根萃取(Burdock Root) 及海石楠(Sea Heather)</b>－多種精選天然植物精華幫助紓緩鎮靜肌膚，減少紅腫發炎及刺激不適，並能清除自由基侵害，保護皮膚。</li><br><li><b>酪梨萃取 (Avocado Pears Extract)</b> - 控制油脂分泌，緩減油光現象。</li><br><li><b>波多耳樹萃取 (Boldo Plant Extract)</b> -  紓緩皮膚，提升皮膚防禦力，從而達到抗菌功效，減少及預防暗瘡出現。</li></ul>",
-      "price": "HK$248",
-      "video_source": null,
-      "normal_image": null,
-      "small_images": {
-        "img_01": "p/i/pi41.jpg"
       },
       "description_image": null
     },
@@ -2947,25 +2911,7 @@
       },
       "description_image": null
     },
-    "pd68": {
-      "name": "魅彩輕羽光影",
-      "ename": "Chromafusion™ Highlighter",
-      "series": "mu02",
-      "header_links": "makeup",
-      "description": "專利革新技術Mary Kay Chromafusion™ Matrix Technology，將乳霜般的柔滑貼服觸感和羽毛般的輕盈質地完美結合於修容中，成就前所未有的絕佳顯色度和持久度。超輕盈粉末加上色調和反光顏料的結合，在任何光線下都帶來自然光澤的妝感。",
-      "capacity": "4.8g",
-      "skin_suitable": "經皮膚科醫生測試<br>通過皮膚刺激性和過敏性臨床測試<br>Oil-Free (無油)配方<br>不易引致粉刺<br>適合敏感性肌膚<br>",
-      "usage": null,
-      "function": "<ul><li>在面部自然反射光線的部位，如前額、鼻樑、顴骨上方等，輕輕掃上光粉，會帶來提亮效果。</li><br><li>含有礦物成分，既可使妝效持久亮麗光澤，同時亦不會損害肌膚。</li><br><li>色彩飽和，上色度高，質感透薄，妝感柔滑細緻。</li><br><li>色澤持久，不易脫落暈染。</li></ul>",
-      "principal_components": null,
-      "price": "HK$150",
-      "video_source": null,
-      "normal_image": null,
-      "small_images": {
-        "img_01": "m/b/mb101.jpg"
-      },
-      "description_image": null
-    },
+
     "pd70": {
       "name": "眼部底霜",
       "ename": "Eye Primer",
@@ -3633,25 +3579,6 @@
       },
       "description_image": null
     },
-    "pd119": {
-      "name": "限量版堅定相信淡香水",
-      "ename": "Limited Edition<br>If You Believe™  Eau de Toilette",
-      "series": "香氛系列",
-      "header_links": null,
-      "description": "堅定相信淡香水以柔和清甜的佛手柑，油桃等的果香作為前調，果香甜味帶有溫和的辛辣味，柔和而持久，以喚醒你的想像力和可能性，追逐夢想的初心。<br><br>中調賦予清新細緻的粉紅鈴蘭，散發出乾淨迷人明亮的花香，鼓勵你勇於冒險，堅定相信，為夢想創造無限可能性。<br><br>後調散發持久溫暖的檀香油，夜光琥珀，雪松木質的柑橘花香氣息，持續帶給你無限生活希望，每時每刻發現奇蹟，無所畏懼去追逐夢想，只要堅定相信，不斷創造，便能夢想成真。",
-      "capacity": "60ml",
-      "skin_suitable": null,
-      "usage": null,
-      "function": null,
-      "principal_components": "<b>前調：</b>意大利青檸 (Italian Lemon)，佛手柑 (Bergamot)，油桃 (Nectarine)，蘋果花 (Apple Blossom) <br><br><b>中調：</b>小蒼蘭 (Freesia Alba)，紫羅蘭葉 (Violet Leaf)，粉紅鈴蘭 (Lily of the Valley)<br><br><b>後調：</b>麝香 (Sensual Musk)，夜光琥珀 (Luminous Amber)，雪松 (Cedar)，檀香油 (Santalum Album Oil) ",
-      "price": "HK$428",
-      "video_source": null,
-      "normal_image": null,
-      "small_images": {
-        "img_01": "m/e/me21.jpg"
-      },
-      "description_image": null
-    },
     "pd122": {
       "name": "柔霧薄紗蜜粉",
       "ename": "Silky Setting Powder",
@@ -3670,27 +3597,6 @@
         "img_01": "m/b/mb121.png",
         "img_02": "m/b/mb124.jpg",
         "img_03": "m/b/mb122.png"
-      },
-      "description_image": null
-    },
-    "pd123": {
-      "name": "怡日健<sup>®</sup>粉美維他命",
-      "ename": "Daily Benefits<sup>®</sup>Multivitamin",
-      "series": "怡日健系列",
-      "header_links": null,
-      "description": "<ul><li>超級蔬果補充劑</li><li>全面營養組合富含 7種Super Food 超級食物的萃取、6種重要礦物質及5種維他命，填補飲食中的空缺，提供身體每日所需關鍵營養素</li><li>選材講究，整棵不碾碎萃取，每年指定時間摘取，以獲取最多的營養</li></ul>",
-      "capacity": "60粒",
-      "usage": "每天服用2粒，建議餐前服用",
-      "function": "全面營養組合富含 7種Super Food 超級食物的萃取、6種重要礦物質及5種維他命，填補飲食中的空缺，提供身體每日所需關鍵營養素，以維持身體健康，同時由內而外延緩衰老。<br><br><ul><li>蘊含7大超級食物包括葡萄籽、石榴及綠茶萃取等，有助維持身體健康及年輕肌膚，例如肌肉、骨骼、免疫系統、新陳代謝及減少疲勞等</li><li>選材講究，於不同季節摘取，並以原棵萃取，確保能夠鎖住營養。同時亦經過多重檢測，於萃取前及後不同的生產程序中反覆檢測，確保達到高品質及無雜質的要求</li><li>超級蔬果補充劑，為你打好健康基礎</li></ul>",
-      "principal_components": "七大超級食物精萃，相等於一份蔬果的抗氧化份量<ul><li>山桑子萃取 (Bilberry Extract)</li><li>石榴萃取 (Pomegranate Extract)</li><li>綠茶萃取 (Green Tea Extract)</li><li>橄欖葉萃取 (Green Olive Leaf Extract)</li><li>葡萄籽萃取 (Grape Seed Extract)</li><li>葡萄柚萃取 (Grapefruit Extract)</li><li>柑橘萃取 (Citrus Extract)</li></ul><br><b>五大維他命</b><ul><li>維他命A</li><li>維他命B</li><li>維他命C</li><li>維他命D</li><li>維他命E</li></ul><br><b>六種礦物質</b><ul><li>鎂 (Magnesium)</li><li>銅 (Copper)</li><li>鐵 (Iron)</li><li>鋅 (Zinc)</li><li>鉻 (Chromium)</li><li>硒 (Selenium)</li></ul>",
-      "principal_links": "https://marykayhk.wixsite.com/multivitamin",
-      "hint": "不含人造色素<br>不含人造香料<br>不含麩質<br>素食者配方",
-      "price": "HK$398",
-      "video_source": "sa6.mp4",
-      "normal_image": null,
-      "small_images": {
-        "img_01": "s/a/sa61.jpg",
-        "img_02": "s/a/sa62.jpg"
       },
       "description_image": null
     },
@@ -3754,35 +3660,11 @@
       "video_source": "ma3.mp4",
       "normal_image": null,
       "small_images": {
-        "img_01": "m/a/ma31.jpg",
-        "img_02": "m/a/ma32.jpg",
-        "img_03": "m/a/ma33.jpg",
-        "img_04": "m/a/ma34.jpg",
-        "img_05": "m/a/ma35.jpg",
-        "img_06": "m/a/ma36.jpg",
-        "img_07": "m/a/ma37.jpg"
+        "img_01": "m/a/ma31.jpg"
       },
       "description_image": null
     },
-    "pd127": {
-      "name": "限量版無懼的愛香水",
-      "ename": "Limited Edition Love Fearlessly Eau De Parfum",
-      "series": "香氛系列",
-      "header_links": null,
-      "description": "限量版無懼的愛香水以激勵人心，充滿活力的辛辣、柑橘前調打開，激起你内心一團熾熱的火。中調賦予鼓舞人心的花香，鼓勵你無所畏懼地全力去愛。<br>後調以精緻的廣藿香，檀香木及麝香展現你的力量、自信和真誠，勇敢地擁抱所愛。愛在當下，就為愛勇敢一次！",
-      "capacity": "50ml",
-      "skin_suitable": null,
-      "function": null,
-      "principal_components": "前調：粉紅胡椒、小荳蔻、柑橘<br>中調： 茉莉花、粉紅牡丹花、梅花<br>後調：印度尼西亞廣藿香、澳洲檀香木、麝香",
-      "price": "HK$598",
-      "video_source": null,
-      "normal_image": null,
-      "small_images": {
-        "img_01": "m/e/me512.jpg",
-        "img_02": "m/e/me52.jpg"
-      },
-      "description_image": null
-    },
+
     "pd128": {
       "name": "透明質酸補濕安瓶精華",
       "ename": "Clinical Solutions™ HA + Ceramide Hydrator",
@@ -3879,7 +3761,8 @@
       "video_source": null,
       "normal_image": null,
       "small_images": {
-        "img_01": "m/e/me60.jpg"
+        "img_01": "m/e/me60.jpg",
+        "img_02": "m/e/me61.jpg"
       },
       "description_image": null
     },
@@ -4005,6 +3888,24 @@
         "img_01": "m/c/mc120.jpg",
         "img_02": "m/c/mc121.jpg",
         "img_03": "m/c/mc122.jpg"
+      },
+      "description_image": null
+    },
+    "pd140": {
+      "name": "限量版城市之影香水",
+      "ename": "Limited Edition CITYSCAPE™ for Women",
+      "series": "香氛系列",
+      "header_links": null,
+      "description": "以Phantomia蘭花的獨特美作為靈感...... 因為它只會在晚間的特定時候綻放，所以象徵著極致的高雅、美麗。",
+      "capacity": "50ml",
+      "skin_suitable": null,
+      "function": null,
+      "principal_components": "前調：佛手柑、粉紅胡椒、紅加侖子、杏桃、紫羅蘭葉<br>中調：Phantomia 蘭花ScentTREK™、橙花精油、牡丹、佛羅倫斯鳶尾草 <br>後調：檀香、西洋李子、馬達加斯加 ORPUR®̊ 香草豆、天使草、琥珀 ",
+      "price": "HK$498",
+      "video_source": null,
+      "normal_image": null,
+      "small_images": {
+        "img_01": "m/e/me61.jpg"
       },
       "description_image": null
     }

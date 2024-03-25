@@ -28,7 +28,7 @@
       <div class="container-xxl">
         <div class="row">
           <div class="col-xs-12 col-md-4">
-            <img class="logo" src="~assets/images/logo_marykay-white.svg" alt="logo" />
+            <img class="logo" src="~assets/images/logo_marykay-white_new.svg" alt="logo" />
           </div>
           <div class="col-xs-12 col-md-8">
             <h4 class="margin-bottom_30">{{ $t(`pages.about_mary.spec.h4`) }}</h4>

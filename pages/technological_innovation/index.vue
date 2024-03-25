@@ -9,7 +9,7 @@
       </div>
     </div>
     <div class="banner container-fluid gx-0">
-      <img src="~assets/images/HK_layoutA/tech_innov-top.jpg" alt="科研創新" />
+      <img src="~assets/images/HK_layoutA/s5_banner_new.jpg" alt="科研創新" />
     </div>
     <div class="tech_inner container-xxl white">
       <div class="row">
