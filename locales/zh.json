@@ -1343,7 +1343,9 @@
             "pd65",
             "pd66",
             "pd67",
-            "pd122"
+            "pd122",
+            "pd143",
+            "pd144"
           ]
         },
         "Eyes": {
@@ -3443,7 +3445,7 @@
       "ename": "Daily Benefits<sup>®</sup> Probiotics",
       "series": "tn01",
       "header_links": "tonic",
-      "description": "<ul><li>五種菌株科學配方，全面覆蓋腸道，改善腸道微環境。</li><br><li>每包活菌數高達500億，源源不斷到達腸道，效果更佳。</li><br><li>含有高品質菌株，經過專業科學試驗驗證，並獲專利認證。</li><br><li>來自全球專業益生菌生產商-美國杜邦，安全性得到美國FDA認可，高潔淨度廠房專一生產益生菌，無交叉污染，安全有保障，確保高品質。</li><br><li>先進的「菌種冷凍乾燥」技術，嚴格的水分控制，更大程度保證益生菌活性。</li><br><li>方便食用和保存，可沖飲，好口味，無需冷藏。</li></ul>",
+      "description": "<ul><li>五種菌株科學配方，全面覆蓋腸道，改善腸道微環境。</li><br><li>每包活菌數高達500億，源源不斷到達腸道，效果更佳。</li><br><li>含有高品質菌株，經過專業科學試驗驗證，並獲專利認證。</li><br><li>來自全球專業益生菌生產商-美國丹尼斯克，安全性得到美國FDA認可，高潔淨度廠房專一生產益生菌，無交叉污染，安全有保障，確保高品質。</li><br><li>先進的「菌種冷凍乾燥」技術，嚴格的水分控制，更大程度保證益生菌活性。</li><br><li>方便食用和保存，可沖飲，好口味，無需冷藏。</li></ul>",
       "capacity": "30包 x 2克",
       "hint": "本品含有牛奶成分",
       "usage": "將1包粉末混合37℃以下約50毫升水或牛奶等流質食品調勻飲用",
@@ -3932,6 +3934,44 @@
           "img_01": "m/e/me63.jpg"
         },
         "description_image": null
-      }
+      },
+      "pd143": {
+      "name": "水感無瑕氣墊粉底",
+      "ename": "Luminous Cushion Foundation",
+      "series": "臉部系列",
+      "header_links": null,
+      "description": "<ul><li>自然遮瑕 均勻膚色</li><li>柔滑質地，輕薄貼服易延展</li><li>打造水光妝感</li></ul>",
+      "capacity": "12g",
+      "skin_suitable": null,
+      "usage": null,
+      "function":null ,
+      "principal_components": null,
+      "price": "HK$338",
+      "video_source": null,
+      "normal_image": null,
+      "small_images": {
+        "img_01": "m/b/mb125.jpg"
+      },
+      "description_image": null
+    },
+      "pd144": {
+      "name": "超完美定妝噴霧",
+      "ename": "Makeup Finishing Spray",
+      "series": "臉部系列",
+      "header_links": null,
+      "description": "瞬間均勻覆蓋底妝及彩妝表面，為你提供透氣舒適的持妝效果，同時更可以減少化妝後的氧化，令肌膚更顯平滑細緻。",
+      "capacity": "59g",
+      "skin_suitable": null,
+      "usage": null,
+      "function":null ,
+      "principal_components": null,
+      "price": "HK$298",
+      "video_source": null,
+      "normal_image": null,
+      "small_images": {
+        "img_01": "m/b/mb126.jpg"
+      },
+      "description_image": null
+    }
   }
 }
