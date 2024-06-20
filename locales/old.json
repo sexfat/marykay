@@ -219,20 +219,20 @@
       },
       "description_image": null
     },
-
-        "pd7": {
-      "name": "時光3D眼部精華乳",
-      "series": "時光3D系列",
-      "description": "滑手機除了補眼也要顧眼周<br>• 海藻多醣精華：保濕。<br>• 寡胜肽：肌膚彈力飽滿。<br>• 維他命B3：眼神亮起來。",
-      "capacity": "14g",
-      "skin_suitable": "全膚質",
-      "usage": "取適量均勻塗抹於眼周",
-      "function": "淡化皺紋",
-      "price": "1280",
+        "pd61": {
+      "name": "氣墊緞光蜜唇膏",
+      "series": "唇部彩妝",
+      "description": "氣墊科技再升級“雙層”空氣球氣墊粒子<br>唇蜜般流動閃耀質地，唇膏的長效穩定顯色，絲緞動人光澤舒適擁抱你的雙唇，用光澤雕塑唇部微笑曲線，讓你擁有隨時隨地看起來都像在笑的好人緣微笑唇 ",
+      "capacity": "3.6g",
+      "skin_suitable": null,
+      "usage": "好人緣微笑唇畫法TIP: Step1 愛心唇峰 : 在唇峰處畫一個愛心 ，讓唇珠豐盈欲滴， 做出翹翹的甜美唇峰 Step2找到微笑光圈 : 在嘴角上下往上描繪 做出微笑線，讓嘴角 看起來自然上揚",
+      "function": "•外層緞光色彩精華多焦點立體光科技，瑕疵紋路視覺隱形，讓唇絲緞般水潤透亮 •內層保濕精華，葵花籽油 + 荷荷芭油持久長效潤澤",
+      "price": "880",
       "principal_components": null,
       "video_source": null,
       "small_images": {
-        "img_01": "p/b/pb41.jpg"
+        "img_01": "m/c/mc11.jpg",
+        "img_02": "m/c/mc12.jpg"
       },
       "description_image": null
     }

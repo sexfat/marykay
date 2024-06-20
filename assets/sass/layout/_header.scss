@@ -57,10 +57,12 @@ $m-header_h: 52px;
         .header-left {
             padding-top: 15px;
             .logo {
-                @include rect(234px, 50px);
+                @include rect(190px, null);
+                margin-top: 4px;
                 //background-color: #e3e3e3;
                 @include m() {
                     @include rect(160px, null);
+                     margin-top: initial;
                 }
             }
         }

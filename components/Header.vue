@@ -12,7 +12,7 @@
           <div class="header-left">
             <div class="logo">
               <nuxt-link :to="localePath('/')"
-                ><img src="~assets/images/logo_marykay-white.svg" alt="" srcset=""
+                ><img src="~assets/images/logo_marykay-white_new.svg" alt="" srcset=""
               /></nuxt-link>
             </div>
           </div>

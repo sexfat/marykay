@@ -2,8 +2,8 @@
   <div id="s5" class="s5">
     <div class="banner">
       <div class="titles" data-aos="fade-downs" data-aos-duration="1000">
-        <a class="newtime" href="https://marykaytwn.wixsite.com/timewisemiracleset" target="_blank"
-          ><img src="~assets/images/newtime.webp" alt="時光神奇組合" srcset=""
+        <a class="newtime" href="https://marykaytw.wixsite.com/timewisemiracleset" target="_blank"
+          ><img src="~assets/images/newtime.png" alt="時光神奇組合" srcset=""
         /></a>
       </div>
       <img src="~assets/images/s5_banner_new.jpg" alt="" srcset="" />

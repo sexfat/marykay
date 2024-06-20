@@ -10,7 +10,7 @@
       </div>
     </div>
     <div class="banner container-fluid gx-0">
-      <img src="~assets/images/awards/PINK_ACHIEVEMENT.jpg" alt="" />
+      <img src="~assets/images/awards/Claims-Hero1.jpg" alt="" />
     </div>
     <div class="awards_inner container-xxl white">
       <div class="row">
@@ -25,13 +25,15 @@
     <div class="spec">
       <div class="container-xxl">
         <div class="row">
-          <img src="~assets/images/awards/Claims-Hero1.jpg" alt="" />
+          <img src="~assets/images/awards/pink_archmenet.jpg" alt="" />
         </div>
       </div>
     </div>
     <div class="awward_content container-xxl white">
       <div class="row">
         <div class="w996" v-html="$t('pages.brand_awards.awward_content')"></div>
+        <div class='un'><img src='~assets/images/awards/un.jpg'/></div>
+        <div class="w996" v-html="$t('pages.brand_awards.awward_content_part2')"></div>
       </div>
     </div>
   </div>

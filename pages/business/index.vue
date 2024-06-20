@@ -127,12 +127,12 @@
       <img src="~assets/images/TW_layoutA/img_about_businessbn3.jpg" alt="" srcset="" />
     </div>
     <div class="wb">
-      <a
+      <!-- <a
         class="btn_change white btn_border_dark hover"
         href="https://marykaytwn.wixsite.com/happinesslight"
         target="_blank"
         >了解更多幸福事業 微笑發光內容
-      </a>
+      </a> -->
     </div>
   </div>
 </template>
